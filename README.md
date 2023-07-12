@@ -9,5 +9,3 @@ licenses as Free Cultural Works.
 Each item on OPenn is accompanied by a TEI xml file with descriptive and structural metadata. This repository gathers all of the TEI files from OPenn in one place, so that the information contained within them can be 
 easily accessed, downloaded, and used.
 
-A repository of all the TEI xml files available on https://openn.library.upenn.edu/
-
