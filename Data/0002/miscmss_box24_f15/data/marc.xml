@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<marc:records xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:record>
+    <marc:leader>01540ntm a2200301 u 4500</marc:leader>
+    <marc:controlfield tag="001">9977358959003681</marc:controlfield>
+    <marc:controlfield tag="005">20200413114525.0</marc:controlfield>
+    <marc:controlfield tag="008">200128s1767    enk           000 0 eng d</marc:controlfield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(OCoLC)on1138738744</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(OCoLC)1138738744</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="040">
+  <marc:subfield code="b">eng</marc:subfield>
+  <marc:subfield code="c">PAU</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2=" " tag="041">
+  <marc:subfield code="a">eng</marc:subfield>
+  <marc:subfield code="a">fre</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="9" tag="099">
+  <marc:subfield code="a">Misc Mss Box 24 Folder 15</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="100">
+  <marc:subfield code="a">Sterne, Laurence,</marc:subfield>
+  <marc:subfield code="d">1713-1768.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2="0" tag="245">
+  <marc:subfield code="a">Laurence Sterne countersignature on letter fragment,</marc:subfield>
+  <marc:subfield code="f">1767.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="300">
+  <marc:subfield code="a">1</marc:subfield>
+  <marc:subfield code="f">item (1 leaf) :</marc:subfield>
+  <marc:subfield code="b">paper ;</marc:subfield>
+  <marc:subfield code="c">240 x 52 mm.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="520">
+  <marc:subfield code="a">Slip cut from a letter addressed To the Reverend Dr. Sterne at Mr. Becket's Bookseller in the Strand, from an unknown correspondent, countersigned by Sterne on April 4th, 1767.  The fragment on the verso seems to be part of a list of expenses in various hands in both English and French.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="561">
+  <marc:subfield code="a">Formerly owned by Geoffrey Day.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="561">
+  <marc:subfield code="a">Acquired from Geoffrey Day, 2018.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2="0" tag="600">
+  <marc:subfield code="a">Sterne, Laurence,</marc:subfield>
+  <marc:subfield code="d">1713-1768</marc:subfield>
+  <marc:subfield code="v">Correspondence.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="650">
+  <marc:subfield code="a">Novelists, English</marc:subfield>
+  <marc:subfield code="y">18th century</marc:subfield>
+  <marc:subfield code="v">Correspondence.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="655">
+  <marc:subfield code="a">Personal correspondence.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="7" tag="655">
+  <marc:subfield code="a">Manuscripts, English</marc:subfield>
+  <marc:subfield code="y">18th century.</marc:subfield>
+  <marc:subfield code="2">local</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="655">
+  <marc:subfield code="a">Manuscripts, European.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="700">
+  <marc:subfield code="a">Day, Geoffrey,</marc:subfield>
+  <marc:subfield code="e">former owner.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="2" ind2=" " tag="710">
+  <marc:subfield code="a">Geoffrey Day Collection of Laurence Sterne (University of Pennsylvania)</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2=" " tag="773">
+  <marc:subfield code="t">Miscellaneous Manuscripts.</marc:subfield>
+  <marc:subfield code="g">Box 24 Folder 15</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="852">
+  <marc:subfield code="b">Kislak Center for Special Collections, Rare Books and Manuscripts</marc:subfield>
+  <marc:subfield code="a">University of Pennsylvania</marc:subfield>
+  <marc:subfield code="e">3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</marc:subfield>
+  <marc:subfield code="j">Misc Mss Box 24 Folder 15</marc:subfield>
+</marc:datafield>
+    <marc:holdings>
+      <marc:holding>
+        <marc:holding_id>22552880140003681</marc:holding_id>
+        <marc:call_number>Misc Mss Box 24 Folder 15</marc:call_number>
+        <marc:library>KislakCntr</marc:library>
+        <marc:location>scmss</marc:location>
+      </marc:holding>
+    </marc:holdings>
+  </marc:record>
+</marc:records>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss Box 24 Folder 18 Box 24 Folder 18: Augustine excerpts on Genesis</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Misc Mss Box 24 Folder 18 Box 24 Folder 18: Augustine excerpts on Genesis are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2021 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Misc Mss Box 24 Folder 18 Box 24 Folder 18</idno>
+            <altIdentifier type="bibid">
+              <idno>9977162693003681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1159205599</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Brief excerpts from Augustine's De Genesi contra Manichaeos and De civitate Dei, commenting on verses in Genesis, copied probably in France in the late 17th or early 18th century. The excerpts are written in very small italic script at the upper edge on both sides of an otherwise blank folio leaf ruled in faint red ink for two columns. Watermark of a variation on J. Viger's watermark of the arms of Henry IV, King of France and Navarre (also seen in Briquet Armoiries 1854 and 1855, late 16th-century watermarks of Guillaume Journee), but surmounted by a five-petaled flower rather than four-petaled, with the arms reversed (Navarre on the left, France on the right) and with the initials AN before VIGER in the first cartouche below and then a second cartouche below with three letters (AD?).</summary>
+            <textLang mainLang="lat">In Latin</textLang>
+            <msItem>
+              <title>Augustine excerpts on Genesis</title>
+              <author>
+                <persName type="authority">Augustine, of Hippo, Saint, 354-430</persName>
+              </author>
+            </msItem>
+            <msItem n="Recto">
+              <locus>Recto</locus>
+              <title>Excerpts on Genesis, late 17th-early 18th century</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (1 leaf) : 345 x 214 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>between 1650 and 1750?</origDate>
+            </origin>
+            <provenance>Sold at auction at Hidden Treasures Antiques and Fine Art (Mineola, New York), 14 September 2017, lot 8.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Commentaries</term>
+          <term>Manuscripts, Latin--17th century</term>
+          <term>Manuscripts, Latin--18th century</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+        <keywords n="keywords">
+          <term>Commentary</term>
+          <term>17th century</term>
+          <term>18th century</term>
+          <term>French</term>
+          <term>Paper</term>
+          <term>Watermark</term>
+          <term>France</term>
+          <term>Theology</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Recto">
+      <graphic height="8722px" url="master/11280_0000.tif" width="5799px"/>
+      <graphic height="190px" url="thumb/11280_0000_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/11280_0000_web.jpg" width="1196px"/>
+    </surface>
+    <surface n="Verso">
+      <graphic height="8722px" url="master/11280_0001.tif" width="5799px"/>
+      <graphic height="190px" url="thumb/11280_0001_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/11280_0001_web.jpg" width="1196px"/>
+    </surface>
+  </facsimile>
+</TEI>

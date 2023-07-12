@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 244: Part of a collection of Seliḥot, with directions in Judeo-Arabic</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 244: Part of a collection of Seliḥot, with directions in Judeo-Arabic are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Fol. 1 contains a the first seven verses from Judah ha-Levi's seliḥah that starts יעירוני רעיוני וסוד לבי (Thesaurus of Medieval Hebrew poetry / Israel Davidson. New York : JTS, 1924, 3155; in the Diṿan / Heinrich Brody [ed.]. Berlin : T.H. Itskovski, 1910, v. 3, no. 32; Bernstein, Shire Yehudah ha-Leṿi / Simon Bernstein [ed.]. New York : Ogen, 1945, p. 65, no. XVII); In this version, the poem startsיעירוני בשמך רעיוני, as in his Maʹariv for Shavuʹot bearing this title (Davidson, TMHP 3149, Brody, ibid. vol. III no. 99); Fol. 2 contains parts of the prayers ה' אלהי אברהם and מכניסי רחמים, commonly found at the end of the Seliḥot service.</note>
+        <note>Condition: non-consecutive, nearly complete; versi faded and illegible.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 244</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419233503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="jrb">Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Part of a collection of Seliḥot, with directions in Judeo-Arabic</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>11 X 7.9 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 10-12.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursivesporadic vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1399"/>
+              <p>12th century-14th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Shavuot , Liturgy , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2917px" url="master/4611_0000.tif" width="2176px"/>
+      <graphic height="190px" url="thumb/4611_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4611_0000_web.jpg" width="1343px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="2917px" url="master/4611_0001.tif" width="2176px"/>
+      <graphic height="190px" url="thumb/4611_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4611_0001_web.jpg" width="1343px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="2917px" url="master/4611_0002.tif" width="2176px"/>
+      <graphic height="190px" url="thumb/4611_0002_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4611_0002_web.jpg" width="1343px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="2917px" url="master/4611_0003.tif" width="2176px"/>
+      <graphic height="190px" url="thumb/4611_0003_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4611_0003_web.jpg" width="1343px"/>
+    </surface>
+  </facsimile>
+</TEI>

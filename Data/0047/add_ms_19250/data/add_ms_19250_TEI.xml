@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Add MS 19250: The Pentateuch scroll, so-called 'Kaifeng Torah Scroll.'</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Add MS 19250: The Pentateuch scroll, so-called 'Kaifeng Torah Scroll.' are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Add MS 19250: The Pentateuch scroll, so-called 'Kaifeng Torah Scroll.'. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>One liquid spill.</note>
+        <note>A few cuts/tears at edges.</note>
+        <note>Some erasures. Slight dirt.</note>
+        <note>Pleats and folds (not obscuring text).</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Add MS 19250</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19250</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Pentateuch scroll, so-called 'Kaifeng Torah Scroll.'</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Pentateuch scroll, so-called 'Kaifeng Torah Scroll.'</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>95 membranes, 239 columns.; 95 membranes, 239 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 239; ruled lines: 49; written lines: 49; Uniform layout. Ruling by hard point. 239 columns in total, one to five columns per membrane. No tagin. No majuscular and minuscular letters, or special shapes of letters. The "puncta extraordinaria" placed on a few words only.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Oriental (close to Persian) square script of the 17th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Boxed.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1643" notAfter="1663"/>
+              <p>Between 1643 and 1663</p>
+              <origPlace>Kaifeng, China</origPlace>
+            </origin>
+            <provenance>Acquisition: Presented to the British Museum by the Society for Promoting Christianity among the Jews on 11 December 1852: inscribed on verso.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="5584px" url="master/10120_0000.jpg" width="2132px"/>
+      <graphic height="190px" url="thumb/10120_0000_thumb.jpg" width="72px"/>
+      <graphic height="1800px" url="web/10120_0000_web.jpg" width="687px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5500px" url="master/10120_0001.jpg" width="28020px"/>
+      <graphic height="37px" url="thumb/10120_0001_thumb.jpg" width="190px"/>
+      <graphic height="353px" url="web/10120_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5500px" url="master/10120_0002.jpg" width="24554px"/>
+      <graphic height="42px" url="thumb/10120_0002_thumb.jpg" width="190px"/>
+      <graphic height="403px" url="web/10120_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5500px" url="master/10120_0003.jpg" width="24446px"/>
+      <graphic height="42px" url="thumb/10120_0003_thumb.jpg" width="190px"/>
+      <graphic height="404px" url="web/10120_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5500px" url="master/10120_0004.jpg" width="27664px"/>
+      <graphic height="37px" url="thumb/10120_0004_thumb.jpg" width="190px"/>
+      <graphic height="357px" url="web/10120_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5500px" url="master/10120_0005.jpg" width="28723px"/>
+      <graphic height="36px" url="thumb/10120_0005_thumb.jpg" width="190px"/>
+      <graphic height="344px" url="web/10120_0005_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5500px" url="master/10120_0006.jpg" width="28723px"/>
+      <graphic height="36px" url="thumb/10120_0006_thumb.jpg" width="190px"/>
+      <graphic height="344px" url="web/10120_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5500px" url="master/10120_0007.jpg" width="25883px"/>
+      <graphic height="40px" url="thumb/10120_0007_thumb.jpg" width="190px"/>
+      <graphic height="382px" url="web/10120_0007_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5500px" url="master/10120_0008.jpg" width="28616px"/>
+      <graphic height="36px" url="thumb/10120_0008_thumb.jpg" width="190px"/>
+      <graphic height="345px" url="web/10120_0008_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5500px" url="master/10120_0009.jpg" width="17854px"/>
+      <graphic height="58px" url="thumb/10120_0009_thumb.jpg" width="190px"/>
+      <graphic height="554px" url="web/10120_0009_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

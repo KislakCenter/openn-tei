@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<marc:records xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:record>
+    <marc:leader>04396ctc a2200361Ia 4500</marc:leader>
+    <marc:controlfield tag="001">9977569835703681</marc:controlfield>
+    <marc:controlfield tag="005">20190822094839.0</marc:controlfield>
+    <marc:controlfield tag="008">190821q16001899xx            000 0 heb d</marc:controlfield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(OCoLC)1112672132</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(OCoLC)on1112672132</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="040">
+  <marc:subfield code="a">PAU</marc:subfield>
+  <marc:subfield code="b">eng</marc:subfield>
+  <marc:subfield code="e">dacs</marc:subfield>
+  <marc:subfield code="c">PAU</marc:subfield>
+  <marc:subfield code="d">PAU</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="9" tag="099">
+  <marc:subfield code="a">Misc Mss (Large) Box 3 Folder 13</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2="0" tag="245">
+  <marc:subfield code="6">880-01</marc:subfield>
+  <marc:subfield code="a">Fragments from Sifre Torot and mezuzot,</marc:subfield>
+  <marc:subfield code="f">1600? - 1899?</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="300">
+  <marc:subfield code="a">6</marc:subfield>
+  <marc:subfield code="f">items (6 fragments) :</marc:subfield>
+  <marc:subfield code="b">parchment.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2=" " tag="505">
+  <marc:subfield code="6">880-02</marc:subfield>
+  <marc:subfield code="a">1. [Fragment from a Torah scroll, Genesis 48:7-49:8] (Poland? Lithuania? circa 1850) -- 2. [Fragment from a Torah scroll, Exodus 9:29-10:13] (Poland? Lithuania? circa 1850) -- 3. [Fragment from a Torah scroll, Genesis 28:19-29:30] (Southern Italy? North Africa? circa 1600) -- 4. Mezuzah (Jerusalem? 1850?) -- 5. Mezuzah (Poland? Lithuania? circa 1899) -- 6. Mezuzah (Poland? circa 1899).</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="520">
+  <marc:subfield code="a">This is a collection of fragments from Torah scrolls and mezuzot which likely spans the European, Sefardic, and Jerusalemite scribal customs and rites. The first two items are fragments from Torah scrolls intentionally cut out due to misspelled words (pesulim) and they are cut in a straight line around the column, likely by a razor blade. Both were ruled to be written in 42 lines; the first has 42 lines of text while the second stops mid-word on the 40th line. The script is a Polish-Lithuanian safrut, with wide tagin on the letters; many of the tagin are not completed. The third item is a fine example of earlier Sefardic-influenced safrut, likely 17th-century, with thin tagin; the column of 42 lines is 27 centimeters tall. The third item has irregular tears in the margins with little loss of text. Items 4-6 are mezuzot; the first mezuzah appears to be in a Jerusalemite (Yerushalmi) hand, written in one column of 22 lines (140x125 mm); the shin-dalet-yud written on the verso is erased. Items 5 and 6 are Polish or Lithuanian, with item 6 more likely being Polish based on the heavier script of the shin-dalet-yud.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="524">
+  <marc:subfield code="a">UPenn Misc Mss (Large) Box 3 Folder 13</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="546">
+  <marc:subfield code="a">In Hebrew.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="561">
+  <marc:subfield code="a">Formerly owned by Canadian collector Casey A. Wood.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="650">
+  <marc:subfield code="a">Jews</marc:subfield>
+  <marc:subfield code="x">History</marc:subfield>
+  <marc:subfield code="v">Sources.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="650">
+  <marc:subfield code="a">Torah scrolls</marc:subfield>
+  <marc:subfield code="v">Specimens.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="650">
+  <marc:subfield code="a">Mezuzah</marc:subfield>
+  <marc:subfield code="v">Specimens.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="7" tag="655">
+  <marc:subfield code="a">Fragments (object portions)</marc:subfield>
+  <marc:subfield code="2">aat</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="7" tag="655">
+  <marc:subfield code="a">Manuscripts, Hebrew</marc:subfield>
+  <marc:subfield code="y">17th century.</marc:subfield>
+  <marc:subfield code="2">local</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="7" tag="655">
+  <marc:subfield code="a">Manuscripts, Hebrew</marc:subfield>
+  <marc:subfield code="y">19th century.</marc:subfield>
+  <marc:subfield code="2">local</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="655">
+  <marc:subfield code="a">Manuscripts, European.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="700">
+  <marc:subfield code="a">Wood, Casey A.</marc:subfield>
+  <marc:subfield code="q">(Casey Albert),</marc:subfield>
+  <marc:subfield code="d">1856-1942,</marc:subfield>
+  <marc:subfield code="e">former owner.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="852">
+  <marc:subfield code="b">Kislak Center for Special Collections, Rare Books and Manuscripts</marc:subfield>
+  <marc:subfield code="a">University of Pennsylvania</marc:subfield>
+  <marc:subfield code="e">3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</marc:subfield>
+  <marc:subfield code="j">Misc Mss (Large) Box 3 Folder 13</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2="0" tag="880">
+  <marc:subfield code="6">245-01//r</marc:subfield>
+  <marc:subfield code="a">&#x5E7;&#x5D8;&#x5E2;&#x5D9;&#x5DD; &#x5DE;&#x5E1;&#x5E4;&#x5E8;&#x5D9; &#x5EA;&#x5D5;&#x5E8;&#x5D4; &#x5D5;&#x5DE;&#x5D6;&#x5D5;&#x5D6;&#x5D5;&#x5EA;,</marc:subfield>
+  <marc:subfield code="f">1600? - 1899?</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2=" " tag="880">
+  <marc:subfield code="6">505-02//r</marc:subfield>
+  <marc:subfield code="a">1. [&#x5E7;&#x5D8;&#x5E2; &#x5DE;&#x5E1;"&#x5EA; &#x5D1;&#x5E8;&#x5D0;&#x5E9;&#x5D9;&#x5EA; &#x5E0;"&#x5D7;:&#x5D6;-&#x5E0;"&#x5D8;: &#x5D7;] (&#x5E4;&#x5D5;&#x5DC;&#x5D9;&#x5DF;? &#x5DC;&#x5D9;&#x5D8;&#x5D0;? &#x5D1;&#x5E2;&#x5E8;&#x5DA; 1850) -- 2. [&#x5E7;&#x5D8;&#x5E2; &#x5DE;&#x5E1;"&#x5EA; &#x5E9;&#x5DE;&#x5D5;&#x5EA; &#x5D8;:&#x5DB;"&#x5D8;-&#x5D9;:&#x5D9;"&#x5D2;] (&#x5E4;&#x5D5;&#x5DC;&#x5D9;&#x5DF;? &#x5DC;&#x5D9;&#x5D8;&#x5D0;? &#x5D1;&#x5E2;&#x5E8;&#x5DA; 1850) -- 3.  [&#x5E7;&#x5D8;&#x5E2; &#x5DE;&#x5E1;"&#x5EA; &#x5D1;&#x5E8;&#x5D0;&#x5E9;&#x5D9;&#x5EA; &#x5DB;"&#x5D7;:&#x5D9;"&#x5D8;-&#x5DB;"&#x5D8;:&#x5DC;] (&#x5D3;&#x5E8;&#x5D5;&#x5DD; &#x5D0;&#x5D9;&#x5D8;&#x5DC;&#x5D9;&#x5D4;? &#x5E6;&#x5E4;&#x5D5;&#x5DF; &#x5D0;&#x5E4;&#x5E8;&#x5D9;&#x5E7;&#x5D4;? &#x5D1;&#x5E2;&#x5E8;&#x5DA; 1600) -- 4. &#x5DE;&#x5D6;&#x5D5;&#x5D6;&#x5D4; (&#x5D9;&#x5E8;&#x5D5;&#x5E9;&#x5DC;&#x5D9;&#x5DD;? 1850?) -- 5. &#x5DE;&#x5D6;&#x5D5;&#x5D6;&#x5D4; (&#x5E4;&#x5D5;&#x5DC;&#x5D9;&#x5DF;? &#x5DC;&#x5D9;&#x5D8;&#x5D0;? &#x5D1;&#x5E2;&#x5E8;&#x5DA; 1899) -- 6. &#x5DE;&#x5D6;&#x5D5;&#x5D6;&#x5D4; (&#x5E4;&#x5D5;&#x5DC;&#x5D9;&#x5DF;? &#x5D1;&#x5E2;&#x5E8;&#x5DA; 1899).</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="948">
+  <marc:subfield code="h">HELD BY PAU - 0 OTHER HOLDINGS</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="994">
+  <marc:subfield code="a">Z0</marc:subfield>
+  <marc:subfield code="b">PAU</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="996">
+  <marc:subfield code="a">unbound</marc:subfield>
+</marc:datafield>
+    <marc:holdings>
+      <marc:holding>
+        <marc:holding_id>22597113420003681</marc:holding_id>
+        <marc:call_number>Misc Mss (Large) Box 3 Folder 13</marc:call_number>
+        <marc:library>KislakCntr</marc:library>
+        <marc:location>scmss</marc:location>
+      </marc:holding>
+    </marc:holdings>
+  </marc:record>
+</marc:records>

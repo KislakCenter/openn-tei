@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of St. George's United Methodist Church, StGeorge.LettersToConference1771: Letters To Conference, 1771</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Carly Sewell</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Michelle Belden</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>St. George's United Methodist Church</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of St. George's United Methodist Church StGeorge.LettersToConference1771: Letters To Conference, 1771 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Saint George's United Methodist Church of Philadelphia has waived all copyright and related or neighboring rights to this metadata about St. George's United Methodist Church StGeorge.LettersToConference1771: Letters To Conference, 1771. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="relatedResource" target="https://philadelphiacongregations.org">Philadelphia Congregations Early Records Project</note>
+        <note type="relatedResource" target="https://dl.atla.com/collections/philadelphia-congregations-early-records-project">ATLA Digital Library</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>St. George's United Methodist Church</repository>
+            <idno type="call-number">StGeorge.LettersToConference1771</idno>
+            <altIdentifier type="resource">
+              <idno>https://philadelphiacongregations.org/records/item/StGeorge.LettersToConference1771</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two photocopied letters and one typed reproduction of a letter to the annual conference of Methodists in Philadelphia in 1771. The first letter discusses allegations of misbehavior, the second a request for contact from a colleague, and the third a request for pens from a preacher laid up with gout.</summary>
+            <textLang mainLang="eng">English</textLang>
+            <msItem>
+              <title>Letters To Conference, 1771</title>
+              <author>St. George's Methodist Church (Philadelphia, Pa.)</author>
+              <author ref="https://viaf.org/viaf/149080565">Methodist Episcopal Church. Philadelphia Conference</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>3 pages; </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="1771"/>
+              <p>1771</p>
+              <origPlace>United States</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>18th century</term>
+        </keywords>
+        <keywords n="subjects">
+          <term target="http://id.worldcat.org/fast/860682">Church discipline</term>
+          <term target="http://id.worldcat.org/fast/980830">Itinerancy (Church polity)</term>
+          <term target="http://id.worldcat.org/fast/1018703">Methodists</term>
+          <term target="http://id.worldcat.org/fast/1018643">Methodist Church</term>
+          <term target="http://id.worldcat.org/fast/996779">Letters</term>
+          <term target="http://id.worldcat.org/fast/1204170">Pennsylvania--Philadelphia</term>
+          <term>St. George's Methodist Church (Philadelphia, Pa.)</term>
+          <term target="http://id.worldcat.org/fast/699629">Methodist Episcopal Church. Philadelphia Conference</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term target="http://id.worldcat.org/fast/1424060">Manuscripts</term>
+          <term target="http://id.worldcat.org/fast/2003288">Correspondence</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="p. 1" xml:id="surface-stgeorge-letterstoconference1771-1">
+      <graphic height="6155px" url="master/12090_0000.tif" width="6742px"/>
+      <graphic height="173px" url="thumb/12090_0000_thumb.jpg" width="190px"/>
+      <graphic height="1643px" url="web/12090_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="p. 2" xml:id="surface-stgeorge-letterstoconference1771-2">
+      <graphic height="6156px" url="master/12090_0001.tif" width="6638px"/>
+      <graphic height="176px" url="thumb/12090_0001_thumb.jpg" width="190px"/>
+      <graphic height="1669px" url="web/12090_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="p. 3" xml:id="surface-stgeorge-letterstoconference1771-3">
+      <graphic height="6317px" url="master/12090_0002.tif" width="5192px"/>
+      <graphic height="190px" url="thumb/12090_0002_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/12090_0002_web.jpg" width="1479px"/>
+    </surface>
+  </facsimile>
+</TEI>

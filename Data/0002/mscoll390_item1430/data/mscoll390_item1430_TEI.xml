@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 1430: Hastagaurīvrata</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 1430: Hastagaurīvrata are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2v); alternate title Gajagaurīvrata from incipit (f. 1r).</note>
+        <note>Written in 11 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Mistakes blacked out; vertical margins marked with double red line.</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 1430</idno>
+            <altIdentifier type="bibid">
+              <idno>9957836493503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/798258251</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5783649</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Text is a description of the observance and rites (vrata) dedicated to the Hindu goddess Gaurī (a form of Pārvatī, the wife of Śiva), sitting on top of a white elephant (hasta or gaja). Rites are performed when the sun enters into the constellation of Hasta (identified partly with the constellation Corvus). Presented as a conversation between the deity Kṛṣṇa and the legendary figure Kunti.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Hastagaurīvrata</title>
+              <title type="vernacular">हस्तगौरीव्रत</title>
+              <colophon>Colophon: iti bhaviṣyottarapurāṇe hastagaurīvrataṃ // (f. 2v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 11 x 20 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Gaurī (Hindu deity)</term>
+          <term>Parvati (Hindu deity)</term>
+          <term>Vratas</term>
+          <term>Puja (Hinduism)</term>
+          <term>Devotional literature, Sanskrit</term>
+          <term>Rites and ceremonies--India</term>
+          <term>Corvus--India</term>
+          <term>Elephants--Symbolic aspects</term>
+          <term>Hindu astronomy</term>
+          <term>Krishna (Hindu deity)</term>
+          <term>Kuntī (Hindu mythology)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuals (instructional materials)</term>
+          <term>Prayers</term>
+          <term>Dialogues</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-1430-1">
+      <graphic height="2912px" url="master/4158_0000.tif" width="4887px"/>
+      <graphic height="113px" url="thumb/4158_0000_thumb.jpg" width="190px"/>
+      <graphic height="1072px" url="web/4158_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-1430-2">
+      <graphic height="5233px" url="master/4158_0001.tif" width="4887px"/>
+      <graphic height="190px" url="thumb/4158_0001_thumb.jpg" width="177px"/>
+      <graphic height="1800px" url="web/4158_0001_web.jpg" width="1681px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-1430-3">
+      <graphic height="2912px" url="master/4158_0002.tif" width="4887px"/>
+      <graphic height="113px" url="thumb/4158_0002_thumb.jpg" width="190px"/>
+      <graphic height="1072px" url="web/4158_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

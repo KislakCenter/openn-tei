@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Lansdowne Ch 30: Latin deed with Hebrew quitclaim and note</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Lansdowne Ch 30: Latin deed with Hebrew quitclaim and note are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Lansdowne Ch 30: Latin deed with Hebrew quitclaim and note. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965 and Olszowy-Schlanger, Judith. Hebrew and Hebrew-Latin Documents from Medieval England: a diplomatic and Palaeographical Study. Turnhout: Brill, 2015.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Lansdowne Ch 30</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Lansdowne_Ch_30</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="la" otherLangs="he">Latin; Hebrew</textLang>
+            <msItem>
+              <title>Latin deed with Hebrew quitclaim and note</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>1 folio; 1 folio </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; ruled lines: 14 47; written lines: 14 47; The Hebrew text written on the back of the Latin charter. Three strips of vellum attached at the bottom (for the currently missing seals).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Latin and Hebrew Ashkenazi semi-cursive script of the 13th century.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="1235"/>
+              <p>1235</p>
+              <origPlace>Unknown</origPlace>
+            </origin>
+            <provenance>Acquisition: William Petty (formerly Fitzmaurice) (b. 1737, d. 1805), 2nd earl of Shelburne and 1st marquess of Lansdowne, prime minister; purchased by the British Museum together with 1244 other Lansdowne manuscripts in 1807.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6963px" url="master/10241_0000.jpg" width="4014px"/>
+      <graphic height="190px" url="thumb/10241_0000_thumb.jpg" width="109px"/>
+      <graphic height="1800px" url="web/10241_0000_web.jpg" width="1037px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6915px" url="master/10241_0001.jpg" width="4073px"/>
+      <graphic height="190px" url="thumb/10241_0001_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/10241_0001_web.jpg" width="1060px"/>
+    </surface>
+  </facsimile>
+</TEI>

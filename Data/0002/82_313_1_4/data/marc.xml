@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<marc:records xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:record>
+    <marc:leader>02883ntd a2200397Ia 4500</marc:leader>
+    <marc:controlfield tag="001">9978112510303681</marc:controlfield>
+    <marc:controlfield tag="005">20220624111800.0</marc:controlfield>
+    <marc:controlfield tag="008">220324q10001099xx            000 0 heb d</marc:controlfield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(OCoLC)1305323543</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(OCoLC)on1305323543</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="040">
+  <marc:subfield code="a">PAU</marc:subfield>
+  <marc:subfield code="b">eng</marc:subfield>
+  <marc:subfield code="e">dacs</marc:subfield>
+  <marc:subfield code="c">PAU</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="9" tag="099">
+  <marc:subfield code="a">CAJS: RAR MS 82.313.1.4</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2=" " tag="130">
+  <marc:subfield code="6">880-01</marc:subfield>
+  <marc:subfield code="a">Bible.</marc:subfield>
+  <marc:subfield code="p">Psalms, CXIX.</marc:subfield>
+  <marc:subfield code="l">Hebrew.</marc:subfield>
+  <marc:subfield code="k">Selections.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2="0" tag="245">
+  <marc:subfield code="6">880-02</marc:subfield>
+  <marc:subfield code="a">Psalter fragment,</marc:subfield>
+  <marc:subfield code="f">11th century?.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="300">
+  <marc:subfield code="a">1</marc:subfield>
+  <marc:subfield code="f">leaf :</marc:subfield>
+  <marc:subfield code="b">paper.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="524">
+  <marc:subfield code="a">UPenn CAJS: RAR MS 82.313.1.4.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="544">
+  <marc:subfield code="n">The missing text from Psalms CXIX:92 was attached to UPenn CAJS: RAR MS 82.313.1.2.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="546">
+  <marc:subfield code="a">In Hebrew.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="561">
+  <marc:subfield code="a">Transferred to the Cairo Genizah Collection (Library at the Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania).</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="561">
+  <marc:subfield code="a">Formerly held in the Cairo Genizah Collection (Dropsie College).</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="650">
+  <marc:subfield code="a">Manuscript fragments</marc:subfield>
+  <marc:subfield code="v">Specimens.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="650">
+  <marc:subfield code="a">Jews</marc:subfield>
+  <marc:subfield code="z">Africa, North</marc:subfield>
+  <marc:subfield code="y">11th century</marc:subfield>
+  <marc:subfield code="x">History</marc:subfield>
+  <marc:subfield code="v">Sources.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="7" tag="655">
+  <marc:subfield code="a">fragments (object portions)</marc:subfield>
+  <marc:subfield code="2">aat</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="7" tag="655">
+  <marc:subfield code="a">psalters (books)</marc:subfield>
+  <marc:subfield code="2">aat</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="655">
+  <marc:subfield code="a">Manuscripts, Medieval.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="7" tag="655">
+  <marc:subfield code="a">Manuscripts, Hebrew</marc:subfield>
+  <marc:subfield code="y">11th century.</marc:subfield>
+  <marc:subfield code="2">local</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="7" tag="655">
+  <marc:subfield code="a">copybooks (instructional materials)</marc:subfield>
+  <marc:subfield code="2">aat</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="2" ind2=" " tag="710">
+  <marc:subfield code="a">Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</marc:subfield>
+  <marc:subfield code="k">Manuscript.</marc:subfield>
+  <marc:subfield code="n">UPenn CAJS: RAR MS 82.313.1.4</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2=" " tag="773">
+  <marc:subfield code="t">Cairo Genizah Collection.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="852">
+  <marc:subfield code="b">Library at the Herbert D. Katz Center for Advanced Judaic Studies</marc:subfield>
+  <marc:subfield code="a">University of Pennsylvania</marc:subfield>
+  <marc:subfield code="e">420 Walnut Street, Philadelphia, Pennsylvania 19106-3703.</marc:subfield>
+  <marc:subfield code="j">CAJS: RAR MS 82.313.1.4</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="4" ind2="1" tag="856">
+  <marc:subfield code="z">Digital facsimile for browsing (Colenda)</marc:subfield>
+  <marc:subfield code="u">https://colenda.library.upenn.edu/catalog/81431-p3jh3dm66</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2="0" tag="880">
+  <marc:subfield code="6">245-02//r</marc:subfield>
+  <marc:subfield code="a">&#x5E7;&#x5D8;&#x5E2; &#x5DE;&#x5EA;&#x5D4;&#x5DC;&#x5D9;&#x5DD;,</marc:subfield>
+  <marc:subfield code="f">&#x5D4;&#x5DE;&#x5D0;&#x5D4; &#x5D4;-11?.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="880">
+  <marc:subfield code="6">520-00//r</marc:subfield>
+  <marc:subfield code="a">Fragment of a Hebrew psalter, with only select verses from Psalms CXIX surviving; first legible text is CXIX:88, &#x5D5;&#x5D0;&#x5E9;&#x5DE;&#x5E8;&#x5D4; &#x5E2;&#x5D3;&#x5D5;&#x5EA; &#x5E4;&#x5D9;&#x5DA;, and continues to the bottom of the folio side ending with 95, &#x5E2;&#x5D3;&#x5D5;&#x5EA;&#x5D9;&#x5DA; &#x5D0;&#x5EA;'[&#x5D1;&#x5D5;&#x5E0;&#x5DF;] (verse 96 faded and illegible; recto); verso damaged and illegible. Verse 92 torn from this manuscript, surviving in UPenn CAJS: RAR MS 82.313.1.2 (recto). Written in an Oriental (likely North African) script of the 11th century, possibly in two (or more) hands; this manuscript may have originally been a copybook.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2=" " tag="880">
+  <marc:subfield code="6">130-01//r</marc:subfield>
+  <marc:subfield code="a">&#x5EA;&#x5E0;&#x5DA;.</marc:subfield>
+  <marc:subfield code="p">&#x5EA;&#x5D4;&#x5DC;&#x5D9;&#x5DD;, &#x5E7;&#x5D9;"&#x5D8;.</marc:subfield>
+  <marc:subfield code="l">&#x5E2;&#x5D1;&#x5E8;&#x5D9;&#x5EA;.</marc:subfield>
+  <marc:subfield code="k">&#x5E7;&#x5D8;&#x5E2;&#x5D9;&#x5DD;.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="948">
+  <marc:subfield code="h">HELD BY PAU - 0 OTHER HOLDINGS</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="994">
+  <marc:subfield code="a">Z0</marc:subfield>
+  <marc:subfield code="b">PAU</marc:subfield>
+</marc:datafield>
+    <marc:holdings>
+      <marc:holding>
+        <marc:holding_id>22693135030003681</marc:holding_id>
+        <marc:call_number>CAJS: RAR MS 82.313.1.4</marc:call_number>
+        <marc:library>KatzLib</marc:library>
+        <marc:location>cjsrarms</marc:location>
+      </marc:holding>
+    </marc:holdings>
+  </marc:record>
+</marc:records>

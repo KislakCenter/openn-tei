@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 196: Overpainted leaves from a Persian manuscript and an Arabic lithograph</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts LJS 196: Overpainted leaves from a Persian manuscript and an Arabic lithograph are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. leaves.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">LJS 196</idno>
+            <altIdentifier type="bibid">
+              <idno>9957604443503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/794841666</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5760444</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Leaves, one from a Persian manuscript and the other from an Arabic lithograph, both of uncertain date and origin, each with an illumination overpainted in the 20th century to mimic Mughal style, likely in India for the tourist trade. The leaves themselves are possibly from the late 19th or early 20th century, and the paintings are considerably later. On the Persian leaf, the miniature of a scene of a man kneeling at the mouth of a cave with another man kneeling before him enclosed in a rondel is painted over the text on the page. The other side of this leaf is written in 12 long lines. On the verso of the Arabic leaf, which was page 99 in the volume printed by lithograph, the miniature of a man and woman on a throne on a veranda, surrounded by nine musicians, has been painted over the main text, with the surrounding commentary left visible; the recto of this leaf has 8 lines of main text, with interlinear notes and surrounding commentary in a smaller script. The leaf is from a grammatical work with commentary.</summary>
+            <textLang mainLang="per" otherLangs="ara">Persian and Arabic</textLang>
+            <msItem>
+              <title>Overpainted leaves from a Persian manuscript and an Arabic lithograph</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Stanitz, John D</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Schoenberg, Lawrence J</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>2 leaves (2 items) : 265 x 170 mm., 213 x 170 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by John D. Stanitz (Cleveland, Ohio), Ms. 27.</provenance>
+            <provenance>Acquired by Lawrence J. Schoenberg with other Stanitz manuscripts, Sept. 1997.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+            <provenance>Gift of Barbara Brizdle Schoenberg, 2016.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Musicians in art</term>
+          <term>Arabic language--Grammar</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Commentaries</term>
+          <term>Illuminations</term>
+          <term>Forgeries (derivative objects)</term>
+          <term>Manuscripts, Persian--19th century</term>
+          <term>Manuscripts, Persian--20th century</term>
+          <term>Manuscripts, Digital</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ljs-196-1">
+      <graphic height="5200px" url="master/0164_0000.tif" width="4275px"/>
+      <graphic height="190px" url="thumb/0164_0000_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/0164_0000_web.jpg" width="1480px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ljs-196-2">
+      <graphic height="5200px" url="master/0164_0001.tif" width="4275px"/>
+      <graphic height="190px" url="thumb/0164_0001_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/0164_0001_web.jpg" width="1480px"/>
+    </surface>
+    <surface n="2r" xml:id="surface-ljs-196-3">
+      <graphic height="6376px" url="master/0164_0002.tif" width="4201px"/>
+      <graphic height="190px" url="thumb/0164_0002_thumb.jpg" width="125px"/>
+      <graphic height="1800px" url="web/0164_0002_web.jpg" width="1186px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ljs-196-4">
+      <graphic height="6376px" url="master/0164_0003.tif" width="4201px"/>
+      <graphic height="190px" url="thumb/0164_0003_thumb.jpg" width="125px"/>
+      <graphic height="1800px" url="web/0164_0003_web.jpg" width="1186px"/>
+    </surface>
+  </facsimile>
+</TEI>

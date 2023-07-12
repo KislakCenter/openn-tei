@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 62: Judeo-Arabic commentary on Daniel 9-12 ; Judeo-Arabic essay on messianic eras</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 62: Judeo-Arabic commentary on Daniel 9-12 ; Judeo-Arabic essay on messianic eras are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Fol. 1 appears to be from a preface to the essay, or perhaps unrelated to the essay, on fol. 2 (written in the same hand); it contains praise to God, and covers the recto and top two lines of the verso, in large characters in well-spaced lines;The remainder of the verso bears shorthand notes in a different hand, possibly preparatory notes for a sermon, starting with Song of Solomon I 3, leading to Exodus IV 30-31; Fol. 2 is from a historosophic essay in Judeo-Arabic, on Messianic eras, subdivided into numbered end period's (קצים a term based on Daniel XI 13 as in Saʹadia Gaon's Kitāb al-Amānāt wa'l-iʹtikādāt VII 3-5); This folio contains the end of a discussion on the seventh such period, that of the Hasmonean era, citing Talmud Shabbat 21b (introduced as in the late Gaonic monographs: קאל אלחכ) including the baraita there on lighting the Hanukkah Lamp; This is followed by the eighth era, the future salvation alluded to in Daniel XII 6-13; this essay may be an expanded subtopic in a work whose subject is Daniel (or at least the visions in Daniel XI-XII), a literary structure common in Saʹadia's works; The essay is followed by another, under the heading וישם פניו (Daniel XI 17), expounding on the vision in Daniel XI 17-24, attributing it to the Moslem era. He mentions מחמד ומלך אלאסלאם.</note>
+        <note>Condition: non-consecutive; loss in lower exterior corner.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 62</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417583503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="arc" otherLangs="jrb heb">Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE); Judeo-Arabic; Hebrew</textLang>
+            <msItem>
+              <title>Judeo-Arabic commentary on Daniel 9-12 ; Judeo-Arabic essay on messianic eras</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>18.1 X 14.6 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: ? (1r), 12 (1v), 33 (2r-v).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>11th century or 12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Adler.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Messianic era (Judaism) , Early works to 1800</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4370px" url="master/4434_0000.tif" width="6850px"/>
+      <graphic height="121px" url="thumb/4434_0000_thumb.jpg" width="190px"/>
+      <graphic height="1148px" url="web/4434_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4370px" url="master/4434_0001.tif" width="6850px"/>
+      <graphic height="121px" url="thumb/4434_0001_thumb.jpg" width="190px"/>
+      <graphic height="1148px" url="web/4434_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

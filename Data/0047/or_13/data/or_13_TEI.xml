@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 13: The Pentateuch scroll.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 13: The Pentateuch scroll. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 13: The Pentateuch scroll.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Leather surface abraded, sometimes erasing text.</note>
+        <note>Salt accretions.</note>
+        <note>Some old patch repairs.</note>
+        <note>Text transferred to verso through damp and pressure.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 13</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_13</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Pentateuch scroll.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Pentateuch scroll.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="leather">
+                <support>
+                  <p>Leather</p>
+                </support>
+                <extent>15 membranes, 73 columns.; 15 membranes, 73 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 73; ruled lines: 51; written lines: 51; Uniform layout. Ruling by hard point. Visible pricking and stiching. 73 columns in total, three to six columns per membrane. Rare tagin on various letters (around 90 instances). Several instances of majuscular and minuscular letters. Special shapes of the letter ע, ן, נ, ם, ל, ך, ח, ז, א and פ occur. The "puncta extraordinaria" occur in Gen. 18:9, 19:33, 33:4, Num. 21:30, 29:15. Every column begins with a new verse, and the initial letter is always ו, with the exception of Gen. 1:1, 5:1, and 13 other instances.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Oriental square script of the 16th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Tin box.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1500" notAfter="1599"/>
+              <p>Between 1500 and 1599</p>
+            </origin>
+            <provenance>Acquisition: Presented to the British Museum by Maj.-Gen. V. Eyre on 25 February 1867: inscribed on verso.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="7278px" url="master/13066_0000.jpg" width="2377px"/>
+      <graphic height="190px" url="thumb/13066_0000_thumb.jpg" width="62px"/>
+      <graphic height="1800px" url="web/13066_0000_web.jpg" width="587px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="3007px" url="master/13066_0001.jpg" width="23986px"/>
+      <graphic height="23px" url="thumb/13066_0001_thumb.jpg" width="190px"/>
+      <graphic height="225px" url="web/13066_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="2787px" url="master/13066_0002.jpg" width="10716px"/>
+      <graphic height="49px" url="thumb/13066_0002_thumb.jpg" width="190px"/>
+      <graphic height="468px" url="web/13066_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="2787px" url="master/13066_0003.jpg" width="8349px"/>
+      <graphic height="63px" url="thumb/13066_0003_thumb.jpg" width="190px"/>
+      <graphic height="600px" url="web/13066_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

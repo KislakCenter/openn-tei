@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS: RAR MS 82.313.1.10: Judeo-Arabic text</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies CAJS: RAR MS 82.313.1.10: Judeo-Arabic text are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>420 Walnut Street, Philadelphia, Pennsylvania 19106-3703</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS: RAR MS 82.313.1.10</idno>
+            <altIdentifier type="bibid">
+              <idno>9978112308603681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1305025129</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://colenda.library.upenn.edu/catalog/81431-p3xp6vn3v</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb">In Judeo-Arabic</textLang>
+            <msItem>
+              <title>Judeo-Arabic text</title>
+              <title type="vernacular">קטע ביהודית-ערבית</title>
+              <author>
+                <name type="authority">Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library)</name>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 leaf :</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>1200s?</origDate>
+            </origin>
+            <provenance>Transferred to the Cairo Genizah Collection (Library at the Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania).</provenance>
+            <provenance>Formerly held in the Cairo Genizah Collection (Dropsie College).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term ref="http://id.worldcat.org/fast/983135">Jews</term>
+          <term>Jews--Middle East--13th century--History--Sources</term>
+          <term ref="http://id.worldcat.org/fast/958235">History</term>
+          <term ref="http://id.worldcat.org/fast/1938802">Manuscript fragments</term>
+          <term>Judeo-Arabic language--Texts</term>
+          <term>Manuscript fragments--Specimens</term>
+          <term ref="http://id.worldcat.org/fast/984468">Judeo-Arabic language</term>
+          <term ref="http://id.worldcat.org/fast/1241586">Middle East</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Specimens</term>
+          <term>Sources</term>
+          <term>Texts</term>
+          <term>Fragments (object portions)</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Judeo-Arabic--13th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Recto">
+      <graphic height="3430px" url="master/11593_0000.tif" width="3008px"/>
+      <graphic height="190px" url="thumb/11593_0000_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/11593_0000_web.jpg" width="1578px"/>
+    </surface>
+    <surface n="Verso">
+      <graphic height="3430px" url="master/11593_0001.tif" width="3008px"/>
+      <graphic height="190px" url="thumb/11593_0001_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/11593_0001_web.jpg" width="1578px"/>
+    </surface>
+  </facsimile>
+</TEI>

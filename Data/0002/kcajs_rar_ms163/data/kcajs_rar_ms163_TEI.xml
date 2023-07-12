@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS Rar Ms 163: Kitāb Bulghat al-ḥāfiẓ wa-balāghat al-lāfiẓ.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies CAJS Rar Ms 163: Kitāb Bulghat al-ḥāfiẓ wa-balāghat al-lāfiẓ. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Library at the Herbert D. Katz Center for Advanced Judaic Studies CAJS Rar Ms 163: Kitāb Bulghat al-ḥāfiẓ wa-balāghat al-lāfiẓ.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from title page (f. 1r).</note>
+        <note>On approval notice between Luzac and Co. and the Königliche Bibliothek Berlin, dated 7 April 1913 laid in.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>420 Walnut Street, Philadelphia, Pennsylvania 19106-3703</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS Rar Ms 163</idno>
+            <altIdentifier type="bibid">
+              <idno>9977646151603681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1131862407</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0002/html/kcajs_rar_ms_163.html</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Loose leaf copy of a work of advice on letter writing followed by a list of 54 religious duties (farīḍah) attributed to Ḥasan al-Baṣrī, copied in a different hand.</summary>
+            <textLang mainLang="ara">Arabic</textLang>
+            <msItem>
+              <title>Kitāb Bulghat al-ḥāfiẓ wa-balāghat al-lāfiẓ.</title>
+              <title type="vernacular">كتاب بلغة الحافظ وبلاغة اللافظ</title>
+              <author>
+                <persName type="authority">Qanawī, Muḥammad ibn ʻAbd al-Karīm, -after 1736 or 1737</persName>
+                <persName type="vernacular">قنوي، محمد بن عبد الكريم،</persName>
+              </author>
+              <author>
+                <persName type="authority">Ḥasan al-Baṣrī, 641 or 642-728 or 729</persName>
+                <persName type="vernacular">حسن البصري،</persName>
+              </author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Sulzberger, Mayer, 1843-1923</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <name type="authority">Dropsie College for Hebrew and Cognate Learning</name>
+              </respStmt>
+              <respStmt>
+                <resp>vendor</resp>
+                <name type="authority">Luzac &amp; Co. (London, England)</name>
+              </respStmt>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>Kitāb Bulghat al-ḥāfiẓ wa-balāghat al-lāfiẓ.</title>
+            </msItem>
+            <msItem n="17v">
+              <locus>17v</locus>
+              <title>Arbaʻah wa-khamsūn farīḍah</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>21 leaves : 208 x 149 (165 x 110 and 150 x 95) mm</extent>
+                <foliation>Modern foliation added in pencil, upper center recto; catchwords every verso, lower left.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>First work written in 22 long lines; second work written in 33 long, closely written lines copied at an angle across the page.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in naskh in black ink; pointed.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Rubrications in red.</decoNote>
+              <decoNote n="1r">Notations in ink</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Leaves are unbound; held in a paper folder.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>The copy is undated, but was perhaps produced in the 18th or 19th century.</p>
+              <origDate>between 1700 and 1850?</origDate>
+            </origin>
+            <provenance>Given by Mayer Sulzberger to the Dropsie College for Hebrew and Cognate Learning (note on front of paper folder).</provenance>
+            <provenance>Formerly owned by the Dropsie College for Hebrew and Cognate Learning.</provenance>
+            <!--
+                                  2020-06-04 DE: Adding proveance for LCP 796 fields - -
+
+                                  As far as I can tell, 790 fields are OCLC only. They don't appear in LOC MARC.
+                                  documentation. See: http://www.loc.gov/marc/bibliographic/, which lacks 79x
+                                  fields. See also https://www.oclc.org/bibformats/en/7xx/796.html.
+
+                                  Adding this for LCP for Benjamin Rush. Not handling linkage to 880 fields for non-Latin scripts.
+                              -->
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Letter writing, Arabic--Early works to 1800</term>
+          <term>Islam--Customs and practices--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Arabic</term>
+          <term>Manuscripts, 18th century</term>
+          <term>Manuscripts, 19th century</term>
+          <term>Codices (bound manuscripts)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Paper folder outside front">
+      <graphic height="5812px" url="master/9944_0000.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0000_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0000_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="Paper folder inside front">
+      <graphic height="5812px" url="master/9944_0001.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0001_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0001_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5812px" url="master/9944_0002.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0002_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0002_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5812px" url="master/9944_0003.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0003_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0003_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5812px" url="master/9944_0004.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0004_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0004_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5812px" url="master/9944_0005.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0005_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0005_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5812px" url="master/9944_0006.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0006_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0006_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5812px" url="master/9944_0007.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0007_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0007_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5812px" url="master/9944_0008.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0008_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0008_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5812px" url="master/9944_0009.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0009_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0009_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5812px" url="master/9944_0010.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0010_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0010_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5812px" url="master/9944_0011.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0011_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0011_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5812px" url="master/9944_0012.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0012_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0012_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5812px" url="master/9944_0013.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0013_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0013_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5812px" url="master/9944_0014.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0014_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0014_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5812px" url="master/9944_0015.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0015_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0015_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5812px" url="master/9944_0016.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0016_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0016_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5812px" url="master/9944_0017.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0017_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0017_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5812px" url="master/9944_0018.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0018_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0018_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5812px" url="master/9944_0019.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0019_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0019_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5812px" url="master/9944_0020.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0020_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0020_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5812px" url="master/9944_0021.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0021_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0021_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5812px" url="master/9944_0022.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0022_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0022_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5812px" url="master/9944_0023.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0023_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0023_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5812px" url="master/9944_0024.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0024_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0024_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5812px" url="master/9944_0025.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0025_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0025_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="5812px" url="master/9944_0026.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0026_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0026_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="5812px" url="master/9944_0027.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0027_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0027_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="5812px" url="master/9944_0028.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0028_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0028_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="5812px" url="master/9944_0029.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0029_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0029_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="5812px" url="master/9944_0030.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0030_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0030_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="5812px" url="master/9944_0031.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0031_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0031_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="5812px" url="master/9944_0032.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0032_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0032_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="5812px" url="master/9944_0033.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0033_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0033_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="5812px" url="master/9944_0034.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0034_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0034_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="5812px" url="master/9944_0035.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0035_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0035_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="5812px" url="master/9944_0036.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0036_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0036_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="5812px" url="master/9944_0037.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0037_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0037_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="5812px" url="master/9944_0038.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0038_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0038_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="5812px" url="master/9944_0039.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0039_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0039_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="5812px" url="master/9944_0040.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0040_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0040_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="5812px" url="master/9944_0041.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0041_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0041_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="21r">
+      <graphic height="5812px" url="master/9944_0042.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0042_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0042_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="21v">
+      <graphic height="5812px" url="master/9944_0043.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0043_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0043_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="Paper folder inside back">
+      <graphic height="5812px" url="master/9944_0044.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0044_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0044_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="Paper folder outside back">
+      <graphic height="5812px" url="master/9944_0045.tif" width="4279px"/>
+      <graphic height="190px" url="thumb/9944_0045_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9944_0045_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="Loose leaf recto">
+      <graphic height="3575px" url="master/9944_0046.tif" width="5374px"/>
+      <graphic height="126px" url="thumb/9944_0046_thumb.jpg" width="190px"/>
+      <graphic height="1197px" url="web/9944_0046_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Loose leaf verso">
+      <graphic height="3575px" url="master/9944_0047.tif" width="5374px"/>
+      <graphic height="126px" url="thumb/9944_0047_thumb.jpg" width="190px"/>
+      <graphic height="1197px" url="web/9944_0047_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Envelope front">
+      <graphic height="5132px" url="master/9944_0048.tif" width="6938px"/>
+      <graphic height="140px" url="thumb/9944_0048_thumb.jpg" width="190px"/>
+      <graphic height="1331px" url="web/9944_0048_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Envelope back">
+      <graphic height="5132px" url="master/9944_0049.tif" width="6938px"/>
+      <graphic height="140px" url="thumb/9944_0049_thumb.jpg" width="190px"/>
+      <graphic height="1331px" url="web/9944_0049_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

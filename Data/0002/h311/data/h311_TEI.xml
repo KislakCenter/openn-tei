@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 311: Judeo-Arabic essay on biblical homonyms</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 311: Judeo-Arabic essay on biblical homonyms are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Commentary on a piyyuṭ? Halper (p. 164): "The writer explains the force of thirteen difficulat and rare words which are employed in this piyyuṭ, instead of easier synonyms, for the sake of effect [...]"; text commences with a numbered list (8-13) of words, with definitions in Arabic, and Biblical sources that infer various usage of the given word. Perhaps a forerunner of the Maḥberet of Menaḥem ibn Saruḳ. It is unclear what is unique about these homonyms, they are not in alphabetic or textual order. The verso is probably from a different source, apparently an Ethical treatise citing rabbinic sources, in Arabic; sporadic vocalization.</note>
+        <note>Condition: complete; losses, hole in the center.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 311</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419913503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="jrb">Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Judeo-Arabic essay on biblical homonyms</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>19.3 X 7.1 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 28; ruling method: unruled; left rule is justified by a graphic filler; copied with thick dull reed, utilizing entire surface of parchment, no margins or interlinear space.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-square vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="0900" notAfter="1099"/>
+              <p>10th century-11th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hebrew language , Homonyms , Early works to 1800</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4851px" url="master/4678_0000.tif" width="1824px"/>
+      <graphic height="190px" url="thumb/4678_0000_thumb.jpg" width="71px"/>
+      <graphic height="1800px" url="web/4678_0000_web.jpg" width="676px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4851px" url="master/4678_0001.tif" width="1824px"/>
+      <graphic height="190px" url="thumb/4678_0001_thumb.jpg" width="71px"/>
+      <graphic height="1800px" url="web/4678_0001_web.jpg" width="676px"/>
+    </surface>
+  </facsimile>
+</TEI>

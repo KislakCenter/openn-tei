@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="archie-tei.rng" type="xml"?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcription of folios 079v-074r of the Archimedes Palimpsest. (= Archimedes folio Comm3v,
+					Commentary on Aristotle's Categories)</title>
+				<author>Anonymous</author>
+				<respStmt>
+					<resp>Sponsor</resp>
+					<name>The Owner of the Archimedes Palimpsest</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>Marwan Rashed</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>Natalie Tchernetska</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>David Sedley</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>Nigel Wilson</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>Robert Sharples</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Reviel Netz</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Alexander Lee</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Doug Emery</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>William Noel</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Michael Toth</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<idno>5580</idno>
+				<publisher>Owner of the Archimedes Palimpsest</publisher>
+				<date>2010</date>
+				<availability>
+					<p>Licensed for use under Creative Commons Attribution 3.0 Unported, license
+						http://creativecommons.org/licenses/by/3.0/legalcode.</p>
+					<p>It is requested that copies of any published articles based on the information in this data set
+						be sent to The Curator of Manuscripts, The Walters Art Museum, 600 North Charles Street,
+						Baltimore MD 21201.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<listBibl>
+					<bibl>Privately owned parchment codex: "The Archimedes Palimpsest".</bibl>
+					<bibl>Multispectral Digital Image Product of the Archimedes Palimpsest (The Owner of the Archimedes
+						Palimpsest, 2008).</bibl>
+					<bibl>Christie’s New York, 29th October 1998 Sale, no. 9058, The Archimedes Palimpsest. </bibl>
+					<bibl>A. Papadopoulos-Kerameus, Hierosolymitike Bibliotheke, vol. 4 (St Petersburg, 1899), 329–331,
+						MS 355.</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy xml:id="keywords">
+					<category xml:id="keyword_1">
+						<catDesc>10th Century Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_2">
+						<catDesc>13th Century Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_3">
+						<catDesc>Archimedes Palimpsest</catDesc>
+					</category>
+					<category xml:id="keyword_4">
+						<catDesc>Byzantine Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_5">
+						<catDesc>Content: Against Diondas</catDesc>
+					</category>
+					<category xml:id="keyword_6">
+						<catDesc>Content: Against Timandros</catDesc>
+					</category>
+					<category xml:id="keyword_7">
+						<catDesc>Content: Archimedes</catDesc>
+					</category>
+					<category xml:id="keyword_8">
+						<catDesc>Content: Aristotle</catDesc>
+					</category>
+					<category xml:id="keyword_9">
+						<catDesc>Content: Categories</catDesc>
+					</category>
+					<category xml:id="keyword_10">
+						<catDesc>Content: Hyperides</catDesc>
+					</category>
+					<category xml:id="keyword_11">
+						<catDesc>Content: J. L. Heiberg</catDesc>
+					</category>
+					<category xml:id="keyword_12">
+						<catDesc>Content: Method</catDesc>
+					</category>
+					<category xml:id="keyword_13">
+						<catDesc>Content: On Floating Bodies</catDesc>
+					</category>
+					<category xml:id="keyword_14">
+						<catDesc>Content: On Spiral Lines</catDesc>
+					</category>
+					<category xml:id="keyword_15">
+						<catDesc>Content: On the Equilibrium of Planes</catDesc>
+					</category>
+					<category xml:id="keyword_16">
+						<catDesc>Content: On the Measurement of the Circle</catDesc>
+					</category>
+					<category xml:id="keyword_17">
+						<catDesc>Content: On the Sphere and Cylinder</catDesc>
+					</category>
+					<category xml:id="keyword_18">
+						<catDesc>Content: Stomachion</catDesc>
+					</category>
+					<category xml:id="keyword_19">
+						<catDesc>Foliation scheme: Undertext foliation, ordered by sequence of undertext</catDesc>
+					</category>
+					<category xml:id="keyword_20">
+						<catDesc>Foliation scheme: Undertext foliation, ordered by sequence of columnar
+							undertext</catDesc>
+					</category>
+					<category xml:id="keyword_21">
+						<catDesc>Greek Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_22">
+						<catDesc>J. L. Heiberg</catDesc>
+					</category>
+					<category xml:id="keyword_23">
+						<catDesc>Parchment Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_24">
+						<catDesc>Private Collection</catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc-c">accented ancient Greek in Unicode-C Greek characters</language>
+				<language ident="eng">English</language>
+				<language ident="lat">Latin</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="#keywords">
+					<list>
+						<item>Content: Aristotle</item>
+						<item>Content: Categories</item>
+						<item>Archimedes Palimpsest</item>
+						<item>Greek Manuscript</item>
+						<item>Byzantine Manuscript</item>
+						<item>Parchment Manuscript</item>
+						<item>13th Century Manuscript</item>
+						<item>10th Century Manuscript</item>
+						<item>Private Collection</item>
+						<item>Foliation scheme: Undertext foliation, ordered by sequence of undertext</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<!--
+            utFolio is Comm3v-->
+	<facsimile>
+		<surface ulx="0" uly="0" lrx="8160" lry="10880">
+			<graphic url="079v-074r_Alex03v_Sinar_LED365_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_LED445_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_LED470_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_LED505_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_LED530_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_LED570_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_LED617_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_LED625_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_LED700_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_LED735_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_LED870_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_RAKBLL_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_RAKBLR_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_RAKIRL_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_RAKIRR_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_TNGSTN_01_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_pseudo_no-veil.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_pseudo_sharpie.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_true_pack8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_ultraviolet_norm8.tif"/>
+			<graphic url="079v-074r_Alex03v_Sinar_uvblue_norm8.tif"/>
+			<zone lrx="6418" lry="720" ulx="1534" uly="472" xml:id="zComm3v_79v-74r1_01"/>
+			<zone lrx="6418" lry="976" ulx="1534" uly="728" xml:id="zComm3v_79v-74r1_02"/>
+			<zone lrx="6418" lry="1232" ulx="1534" uly="984" xml:id="zComm3v_79v-74r1_03"/>
+			<zone lrx="6418" lry="1488" ulx="1534" uly="1240" xml:id="zComm3v_79v-74r1_04"/>
+			<zone lrx="6418" lry="1728" ulx="1534" uly="1480" xml:id="zComm3v_79v-74r1_05"/>
+			<zone lrx="6418" lry="1984" ulx="1534" uly="1736" xml:id="zComm3v_79v-74r1_06"/>
+			<zone lrx="6418" lry="2224" ulx="1534" uly="1976" xml:id="zComm3v_79v-74r1_07"/>
+			<zone lrx="6418" lry="2464" ulx="1534" uly="2216" xml:id="zComm3v_79v-74r1_08"/>
+			<zone lrx="6418" lry="2720" ulx="1534" uly="2472" xml:id="zComm3v_79v-74r1_09"/>
+			<zone lrx="6418" lry="2976" ulx="1534" uly="2728" xml:id="zComm3v_79v-74r1_10"/>
+			<zone lrx="6418" lry="3190" ulx="1534" uly="2968" xml:id="zComm3v_79v-74r1_11"/>
+			<zone lrx="6418" lry="3414" ulx="1534" uly="3192" xml:id="zComm3v_79v-74r1_12"/>
+			<zone lrx="6418" lry="3654" ulx="1534" uly="3432" xml:id="zComm3v_79v-74r1_13"/>
+			<zone lrx="6418" lry="3894" ulx="1534" uly="3672" xml:id="zComm3v_79v-74r1_14"/>
+			<zone lrx="6418" lry="4118" ulx="1534" uly="3896" xml:id="zComm3v_79v-74r1_15"/>
+			<zone lrx="6418" lry="4342" ulx="1534" uly="4120" xml:id="zComm3v_79v-74r1_16"/>
+			<zone lrx="6418" lry="4566" ulx="1534" uly="4344" xml:id="zComm3v_79v-74r1_17"/>
+			<zone lrx="6418" lry="4790" ulx="1534" uly="4568" xml:id="zComm3v_79v-74r1_18"/>
+			<zone lrx="6418" lry="5014" ulx="1534" uly="4792" xml:id="zComm3v_79v-74r1_19"/>
+			<zone lrx="6418" lry="5238" ulx="1534" uly="5016" xml:id="zComm3v_79v-74r1_20"/>
+			<zone lrx="6418" lry="5462" ulx="1534" uly="5240" xml:id="zComm3v_79v-74r1_21"/>
+			<zone lrx="6418" lry="5686" ulx="1534" uly="5464" xml:id="zComm3v_79v-74r1_22"/>
+			<zone lrx="6418" lry="5942" ulx="1534" uly="5720" xml:id="zComm3v_79v-74r1_23"/>
+			<zone lrx="6418" lry="6166" ulx="1534" uly="5944" xml:id="zComm3v_79v-74r1_24"/>
+			<zone lrx="6418" lry="6390" ulx="1534" uly="6168" xml:id="zComm3v_79v-74r1_25"/>
+			<zone lrx="6418" lry="6630" ulx="1534" uly="6408" xml:id="zComm3v_79v-74r1_26"/>
+			<zone lrx="6418" lry="6870" ulx="1534" uly="6648" xml:id="zComm3v_79v-74r1_27"/>
+			<zone lrx="6418" lry="7110" ulx="1534" uly="6888" xml:id="zComm3v_79v-74r1_28"/>
+			<zone lrx="6418" lry="7366" ulx="1534" uly="7144" xml:id="zComm3v_79v-74r1_29"/>
+			<zone lrx="6418" lry="7590" ulx="1534" uly="7368" xml:id="zComm3v_79v-74r1_30"/>
+		</surface>
+	</facsimile>
+	<text xml:lang="grc-c">
+		<body>
+			<div>
+				<ab><milestone n="79v+74r" unit="folio"/>
+					<lb n="1" facs="#zComm3v_79v-74r1_01"/><gap quantity="35"/> ὑπο <gap quantity="2"/>
+					<lb n="2" facs="#zComm3v_79v-74r1_02"/><gap quantity="29"/> την <gap quantity="4"/> αἱ <w part="I"
+							>το<unclear>ι</unclear></w>
+					<lb n="3" facs="#zComm3v_79v-74r1_03"/><gap quantity="40"/>
+					<lb n="4" facs="#zComm3v_79v-74r1_04"/><gap quantity="15"/>
+					<w><supplied reason="lost">κα</supplied>θ’</w>
+					<w><supplied reason="lost">ὑπο</supplied>κειμ<supplied reason="lost">ένου</supplied></w>
+					<w><supplied reason="lost">λ</supplied>έγεσθαι</w>
+					<w part="I"><unclear>ὄ</unclear>ν</w>
+					<lb n="5" facs="#zComm3v_79v-74r1_05"/><w part="F"><supplied reason="lost">ομα</supplied></w>
+					<gap quantity="6"/>
+					<w><supplied reason="lost">φ</supplied><unclear>ω</unclear>ν<unclear>ὴ</unclear></w> σημαντικὴ
+							<w>π<unclear>ερί</unclear></w>
+					<w><unclear>τινων</unclear></w>
+					<w part="I">σημαινο</w>
+					<lb n="6" facs="#zComm3v_79v-74r1_06"/><w part="F"><unclear>μένων</unclear></w>
+					<gap quantity="7"/> δὲ <w><unclear>τὰ</unclear></w>
+					<w><supplied reason="lost">σ</supplied>ημ<supplied reason="lost">αν</supplied>τικά</w> τινων ὀνόματα
+					ε <gap quantity="1"/>
+					<lb n="7" facs="#zComm3v_79v-74r1_07"/><gap quantity="32"/> ταὐτὸ <w part="I"
+							>δ<unclear>υ</unclear>ν<unclear>ή</unclear></w>
+					<lb n="8" facs="#zComm3v_79v-74r1_08"/><w part="F"><supplied reason="lost">σεται</supplied></w>
+					<gap quantity="17"/> κατηγορουμένοις τινῶν<pc>.</pc>
+					<lb n="9" facs="#zComm3v_79v-74r1_09"/><w><unclear>οὐ</unclear></w>
+					<w><unclear>δεῖ</unclear></w>
+					<w><unclear>δὲ</unclear></w> λανθάνειν ἡμᾶς ὅτι Ἀνδρονίκῳ καὶ ἄλλοις <lb n="10"
+						facs="#zComm3v_79v-74r1_10"/><w><supplied reason="lost">ἐδόκει</supplied></w>
+					<w><unclear>μὴ</unclear></w>
+					<w><unclear>μόνον</unclear></w> τὰ ἐν τῷ τί ἐστι κατηγορούμενα <lb n="11"
+						facs="#zComm3v_79v-74r1_11"/><w><unclear>κα</unclear><supplied reason="lost">θ’</supplied></w>
+					<w><supplied reason="lost">ὑπο</supplied>κειμένου</w> κατηγορεῖσθαι<pc>,</pc> ἀλλ’ ἤδη καὶ
+						ἕτερα<pc>,</pc>
+					<lb n="12" facs="#zComm3v_79v-74r1_12"/><w><supplied reason="lost"
+							>ὥσπε</supplied><unclear>ρ</unclear></w> τὸ μουσικὸν κατὰ Ἀριστοξένου καὶ τὸ <lb n="13"
+						facs="#zComm3v_79v-74r1_13"/><w><unclear>γραμματικὸν</unclear></w> κατὰ Ἀριστάρχου καθ’
+					ὑποκειμένου <lb n="14" facs="#zComm3v_79v-74r1_14"
+						/><w><unclear>κατηγο</unclear>ρεῖσθαι</w><pc>,</pc> καὶ Ἀθηναῖος κατὰ Σωκράτους<pc>.</pc>
+					<gap quantity="3"/>
+					<lb n="15" facs="#zComm3v_79v-74r1_15"/><w><supplied reason="lost">ἴσ</supplied>ως</w>
+					<w><supplied reason="lost">συμπ</supplied>ε<supplied reason="lost"
+						>ρ</supplied><unclear>ι</unclear>ληπτέον</w> καὶ <w><unclear>ταῦτα</unclear></w><pc>.</pc>
+					<w><unclear>πάντα</unclear></w> μὲν γὰρ <lb n="16" facs="#zComm3v_79v-74r1_16"/><gap quantity="39"/>
+					<lb n="17" facs="#zComm3v_79v-74r1_17"/><gap quantity="27"/>
+					<w><supplied reason="lost">κα</supplied><unclear>θ</unclear>’</w> ὑποκειμένου <lb n="18"
+						facs="#zComm3v_79v-74r1_18"/><gap quantity="10"/> ἐν τῷ τί ἐστι λέγεσθαι<pc>,</pc> ἀλλ’ εἴπερ
+					καὶ <lb n="19" facs="#zComm3v_79v-74r1_19"/><gap quantity="20"/> καθ’ ὑποκειμένου λέγεσθαι <lb
+						n="20" facs="#zComm3v_79v-74r1_20"/><gap quantity="19"/> ὅσα λέγομεν <w part="I"
+							>κατηγοροῦ<supplied reason="lost">ν</supplied></w>
+					<lb n="21" facs="#zComm3v_79v-74r1_21"/><w part="F"><unclear>τές</unclear></w>
+					<w><unclear>τινο</unclear>ς</w><pc>,</pc> ἐκεῖνο εἶναι<pc>.</pc> Ἀθηναῖον γὰρ εἶναι τὸν <lb n="22"
+						facs="#zComm3v_79v-74r1_22"/>Σωκράτη <surplus reason="editorial">εἶναι</surplus> καὶ
+							<w><unclear>μου</unclear>σικὸν</w> εἶναι Ἀριστόξενον <lb n="23" facs="#zComm3v_79v-74r1_23"
+					/>καὶ γραμματικὸν εἶναι Ἀρίσταρχον<pc>,</pc>
+					<w>περιπα<unclear>τεῖν</unclear></w>
+					<lb n="24" facs="#zComm3v_79v-74r1_24"/><w><unclear>δὲ</unclear></w>
+					<w><unclear>καὶ</unclear></w> καθεύδειν οὐκέτι ταῦτα εἶναι<pc>.</pc>
+					<w>π<unclear>άλιν</unclear></w>
+					<w><supplied reason="lost">δ’</supplied></w>
+					<w part="I"><supplied reason="lost">ὅσα</supplied></w>
+					<lb n="25" facs="#zComm3v_79v-74r1_25"/><w part="F"><unclear>π</unclear><supplied reason="lost"
+							>ε</supplied><unclear>ρ</unclear></w>
+					<w><unclear>τούτ</unclear>ω<unclear>ν</unclear></w> κατηγορεῖται<pc>,</pc> λεγόντων
+							<w>ἡμῶ<unclear>ν</unclear></w>
+					<w>τα<unclear>ῦτα</unclear></w>
+					<lb n="26" facs="#zComm3v_79v-74r1_26"/><w><supplied reason="lost">ἐ</supplied>κεῖνα</w>
+						εἶναι<pc>,</pc> καὶ κατὰ τοῦ ὑποκειμένου ῥηθήσεται<pc>,</pc>
+					<lb n="27" facs="#zComm3v_79v-74r1_27"/><w><unclear>οἷον</unclear></w> Ἀρίσταρχος
+						γραμματικός<pc>,</pc> ὁ δὲ <w>γραμματ<unclear>ικὸς</unclear></w>
+					<w part="I">ἐπι</w>
+					<lb n="28" facs="#zComm3v_79v-74r1_28"/><w part="F"><unclear>στήμων</unclear></w><pc>,</pc>
+					<w>κ<supplied reason="lost">αθ’</supplied></w>
+					<w><supplied reason="lost">ὑ</supplied>ποκειμέν<unclear>ου</unclear></w>
+					<w><unclear>δ</unclear>ὲ</w>
+					<w>κατηγορεῖτ<supplied reason="lost">αι</supplied></w>
+					<gap quantity="5"/>
+					<lb n="29" facs="#zComm3v_79v-74r1_29"/><gap quantity="6"/> γραμματικὸς <w><supplied reason="lost"
+							>κατὰ</supplied></w>
+					<w><supplied reason="lost">Ἀριστάρχου</supplied></w><pc>,</pc>
+					<w><supplied reason="lost">τὸ</supplied></w>
+					<w part="I"><supplied reason="lost">ἐπ</supplied><unclear>ιστ</unclear>ή</w>
+					<lb n="30" facs="#zComm3v_79v-74r1_30"/><w part="F">μων</w> καὶ κατὰ Ἀριστάρχου <gap quantity="3"/>
+					ῥηθήσεται <gap quantity="5"/>
+				</ab>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 6287: The Book of Esther, in Spanish.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 6287: The Book of Esther, in Spanish. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 6287: The Book of Esther, in Spanish.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Dirt at edges.</note>
+        <note>Mould-spotting where parchment lies against roller at inner end.</note>
+        <note>A few usage stains.</note>
+        <note>Slight burn-through of ink in a few places.</note>
+        <note>Small splits in silk tie.</note>
+        <note>One strip (212mm x 191mm) containing one column is rolled up with the manuscript.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 6287</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_6287</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Book of Esther, in Spanish.</summary>
+            <textLang mainLang="es">Castilian, Spanish</textLang>
+            <msItem>
+              <title>The Book of Esther, in Spanish.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>7 membranes + 1 separate membrane, 28 columns.; 7 membranes + 1 separate membrane, 28 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 28; ruled lines: 15; written lines: 15; Uniform layout. Ruling by hard point, membrane by membrane. Larger initial words. Most of outermost membrane backed with olive silk, sewn at edges, with ties. The names of the sons of Haman arranged in 11 lines, in accordance with the rule. Wooden roller (400mm high).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Latin script of the 18th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house (boxed).</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1700" notAfter="1799"/>
+              <p>Between 1700 and 1799</p>
+              <origPlace>Spain</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="7048px" url="master/13310_0000.jpg" width="3003px"/>
+      <graphic height="190px" url="thumb/13310_0000_thumb.jpg" width="81px"/>
+      <graphic height="1800px" url="web/13310_0000_web.jpg" width="767px"/>
+    </surface>
+    <surface n="i-r">
+      <graphic height="3649px" url="master/13310_0001.jpg" width="3283px"/>
+      <graphic height="190px" url="thumb/13310_0001_thumb.jpg" width="171px"/>
+      <graphic height="1800px" url="web/13310_0001_web.jpg" width="1620px"/>
+    </surface>
+    <surface n="i-v">
+      <graphic height="3843px" url="master/13310_0002.jpg" width="3403px"/>
+      <graphic height="190px" url="thumb/13310_0002_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/13310_0002_web.jpg" width="1594px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="3664px" url="master/13310_0003.jpg" width="25178px"/>
+      <graphic height="27px" url="thumb/13310_0003_thumb.jpg" width="190px"/>
+      <graphic height="261px" url="web/13310_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3664px" url="master/13310_0004.jpg" width="28742px"/>
+      <graphic height="24px" url="thumb/13310_0004_thumb.jpg" width="190px"/>
+      <graphic height="229px" url="web/13310_0004_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

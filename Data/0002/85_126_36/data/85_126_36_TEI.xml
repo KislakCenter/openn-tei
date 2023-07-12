@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Penn CAJS: RAR MS 85.126.36: Mishnah, Mo'ed, Betsah, 1:2-6</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Images are  ©2020 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2020 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Chapters subdivided into unnumbered Mishnayot, denoted by a colon. The recto contains Betsah I 2 ישחוט to 4 שנים ומצא, the verso ibid. 5 מתירין אף to 6 מהיום ובית הילל מתירין.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Penn CAJS: RAR MS 85.126.36</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Mishnah, Mo'ed, Betsah, 1:2-6</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew; Oriental; square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1299"/>
+              <p>12th-13th century</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylania. Center for Advanced Judaic Studies. Library). Cairo Genizah Collection (Dropsie College. Library).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Prohibited work (Jewish law)</term>
+          <term>Fasts and feasts</term>
+          <term>Judaism</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3504px" url="master/9748_0000.tif" width="2368px"/>
+      <graphic height="190px" url="thumb/9748_0000_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/9748_0000_web.jpg" width="1216px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3456px" url="master/9748_0001.tif" width="2480px"/>
+      <graphic height="190px" url="thumb/9748_0001_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/9748_0001_web.jpg" width="1291px"/>
+    </surface>
+  </facsimile>
+</TEI>

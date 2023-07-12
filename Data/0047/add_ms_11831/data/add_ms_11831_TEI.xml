@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Add MS 11831: The Book of Esther.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Add MS 11831: The Book of Esther. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Add MS 11831: The Book of Esther.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Small diagonal creases at edges.</note>
+        <note>One usage stain.</note>
+        <note>Ivory with lacunae in bone, and also small splits where dried out.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Add MS 11831</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_11831</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Book of Esther.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Book of Esther.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>3 membranes, 18 columns.; 3 membranes, 18 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 18; ruled lines: 20; written lines: 20; Uniform layout. Ruling by hard point, membrane by membrane. Visible stiching of membranes. Three tagin on שעטנזגץ, but not regularly. A few majuscular or minuscular letters. The names of the sons of Haman arranged in 11 lines, in accordance with the rule. Ivory roller (210mm high with canister).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Sefardi square script of the 17th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house (boxed).</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1600" notAfter="1699"/>
+              <p>Between 1600 and 1699</p>
+              <origPlace>Unknown</origPlace>
+            </origin>
+            <provenance>Acquisition: Acquired by the British Museum from Rev. Thomas Butler on 05 July 1841: inscribed on verso.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="1881px" url="master/9946_0000.jpg" width="6463px"/>
+      <graphic height="55px" url="thumb/9946_0000_thumb.jpg" width="190px"/>
+      <graphic height="523px" url="web/9946_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="front-i">
+      <graphic height="1682px" url="master/9946_0001.jpg" width="6307px"/>
+      <graphic height="50px" url="thumb/9946_0001_thumb.jpg" width="190px"/>
+      <graphic height="480px" url="web/9946_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="i-r">
+      <graphic height="1612px" url="master/9946_0002.jpg" width="1788px"/>
+      <graphic height="171px" url="thumb/9946_0002_thumb.jpg" width="190px"/>
+      <graphic height="1612px" url="web/9946_0002_web.jpg" width="1788px"/>
+    </surface>
+    <surface n="i-v">
+      <graphic height="1636px" url="master/9946_0003.jpg" width="1788px"/>
+      <graphic height="173px" url="thumb/9946_0003_thumb.jpg" width="190px"/>
+      <graphic height="1636px" url="web/9946_0003_web.jpg" width="1788px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="4909px" url="master/9946_0004.jpg" width="30000px"/>
+      <graphic height="31px" url="thumb/9946_0004_thumb.jpg" width="190px"/>
+      <graphic height="294px" url="web/9946_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="back-i">
+      <graphic height="1682px" url="master/9946_0005.jpg" width="6307px"/>
+      <graphic height="50px" url="thumb/9946_0005_thumb.jpg" width="190px"/>
+      <graphic height="480px" url="web/9946_0005_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="back">
+      <graphic height="1682px" url="master/9946_0006.jpg" width="6307px"/>
+      <graphic height="50px" url="thumb/9946_0006_thumb.jpg" width="190px"/>
+      <graphic height="480px" url="web/9946_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="spine">
+      <graphic height="1780px" url="master/9946_0007.jpg" width="6384px"/>
+      <graphic height="52px" url="thumb/9946_0007_thumb.jpg" width="190px"/>
+      <graphic height="501px" url="web/9946_0007_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

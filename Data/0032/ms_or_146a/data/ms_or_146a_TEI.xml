@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Columbia University. MS Or 146a: Leaf from Yūsuf va Zulaykhā</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Columbia University.</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 146a: Leaf from Yūsuf va Zulaykhā are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 146a: Leaf from Yūsuf va Zulaykhā. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Manuscript codex.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>This leaf was formerly laid in with MS Or 146, a manuscript codex containing Tuḥfat al-mulūk.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>New York, NY. 10027</settlement>
+            <institution>Columbia University.</institution>
+            <repository>Rare Book and Manuscript Library</repository>
+            <idno type="call-number">MS Or 146a</idno>
+            <altIdentifier type="bibid">
+              <idno>13617628</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1076587381</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0032/html/ms_or_146a.html</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://clio.columbia.edu/catalog/13617628</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>One leaf with a section of Jamī's poem Yūsuf va Zulaykhā. The leaf contains section 7 of the poem, about the Prophet Muḥammad's miʻrāj; couplets 4-17 on the recto, 19-25 on the verso with an illustration of the Prophet between verses 23 and 24.</summary>
+            <textLang mainLang="per">Persian</textLang>
+            <msItem>
+              <title>Leaf from Yūsuf va Zulaykhā</title>
+              <author>
+                <persName type="authority">Jāmī, 1414-1492</persName>
+                <persName type="vernacular">جامى،</persName>
+              </author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Smith, David Eugene, 1860-1944</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="Unnumbered recto">
+              <locus>Unnumbered recto</locus>
+              <title>[Leaf from Yūsuf va Zulaykhā]</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 leaf : 220 x 140 (145 x 60) mm</extent>
+                <foliation>Unfoliated; catchword on the verso, lower left.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>14 lines in two columns on the recto and 8 lines in two columns on the verso with an illustration the width of both columns before the last two lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in nasta'liq in black ink; pointed.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Polychrome miniature of the Prophet (67 x 55 mm) in red, blue, yellow, green, brown and white (verso).</decoNote>
+              <decoNote n="Unnumbered recto">Painting</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>between 1725 and 1825?</origDate>
+              <origPlace>Iran?</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Persian poetry--747-1500</term>
+          <term>Manuscripts, Persian</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Miniatures (paintings)</term>
+          <term>Detached leaves</term>
+          <term>Manuscripts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Unnumbered recto">
+      <graphic height="5270px" url="master/6921_0000.tif" width="3358px"/>
+      <graphic height="190px" url="thumb/6921_0000_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/6921_0000_web.jpg" width="1147px"/>
+    </surface>
+    <surface n="Unnumbered verso">
+      <graphic height="5285px" url="master/6921_0001.tif" width="3371px"/>
+      <graphic height="190px" url="thumb/6921_0001_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/6921_0001_web.jpg" width="1148px"/>
+    </surface>
+  </facsimile>
+</TEI>

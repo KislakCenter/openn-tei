@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 401: Letter to Daṿid ha-Leṿi ben Yitsḥaḳ</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 401: Letter to Daṿid ha-Leṿi ben Yitsḥaḳ are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Written as prose; no graphic division of the poetic verses; first half is vocalized; no other signs that might indicate that this is an article of mail; All of the letter is a laudatory poem in honor of David ha-Leṿi, an Elder of the Karaites in Fustat, and a protector of the Jews in the court of the Caliph. Biographical notes on David ha-Levi were collected by Samuel Miklos Stern, Revue des études juives, v. 128 (1969), p. 209-210; The author served as the court scribe and clerk under Ephraim ben Shemaryah, in the court of the Erets Israeli Rabbanite Jews of Fustat (whose synagogue housed the Genizah), and appears on court documents dated 1020-1024 (see E. Bareqet, Shafrir Mitsraim, 1995, p. 122-123; Fustat on the Nile, Leiden, 1999, pp. 161-162). The verses rhyme in ים-.</note>
+        <note>Condition: complete; faded, erasures; verso is blank.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 401</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420803503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Letter to Daṿid ha-Leṿi ben Yitsḥaḳ</title>
+              <author>Daṿid ben Shekhanya,11th cent.</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>27.9 X 18.7 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 23 (recto).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental square vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1013" notAfter="1024"/>
+              <p>1013-1024?</p>
+              <origPlace>Fustat</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Karaites</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6925px" url="master/4766_0000.tif" width="4672px"/>
+      <graphic height="190px" url="thumb/4766_0000_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/4766_0000_web.jpg" width="1214px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6925px" url="master/4766_0001.tif" width="4672px"/>
+      <graphic height="190px" url="thumb/4766_0001_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/4766_0001_web.jpg" width="1214px"/>
+    </surface>
+  </facsimile>
+</TEI>

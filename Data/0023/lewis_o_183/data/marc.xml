@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>02393ctm a2200457Ia 4500</marc:leader>
+        <marc:controlfield tag="001">on1243897976</marc:controlfield>
+        <marc:controlfield tag="003">OCoLC</marc:controlfield>
+        <marc:controlfield tag="005">20210722102017.0</marc:controlfield>
+        <marc:controlfield tag="008">210330q13001399ua p          000 0 ara d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(PLF)2572451</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="099" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lewis O 183</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="049" ind1=" " ind2=" ">
+            <marc:subfield code="a">PLFF</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">PLF</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="e">amremm</marc:subfield>
+            <marc:subfield code="c">PLF</marc:subfield>
+            <marc:subfield code="d">OCLCO</marc:subfield>
+            <marc:subfield code="d">OCLCF</marc:subfield>
+            <marc:subfield code="d">OCLCO</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="066" ind1=" " ind2=" ">
+            <marc:subfield code="c">(3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)1243897976</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="049" ind1=" " ind2=" ">
+            <marc:subfield code="a">PAUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="6">880-01</marc:subfield>
+            <marc:subfield code="a">Qurʼan.</marc:subfield>
+            <marc:subfield code="k">Selections.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="4">
+            <marc:subfield code="6">880-02</marc:subfield>
+            <marc:subfield code="a">[al-Qurʼān].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="3" ind2=" ">
+            <marc:subfield code="a">Koran</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Egypt?,</marc:subfield>
+            <marc:subfield code="c">between 1300 and 1399?]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">11 leaves :</marc:subfield>
+            <marc:subfield code="b">paper, illuminations ;</marc:subfield>
+            <marc:subfield code="c">362 x 260 (260 x170) [some leaves trimmed].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ms. leaves.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Incomplete copy of Juzʼ 22 from the Qurʼān, begins with the end of verse 31 of al-Aḥzāb; also contains leaves with verses from al-Zumar (39:4-11).</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="546" ind1=" " ind2=" ">
+            <marc:subfield code="a">Arabic.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Foliation: Unfoliated leaves; no catchwords.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Layout: Written in 5 long lines.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Script: Written in clear muḥaqqaq in black ink, pointed and vocalized.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Decoration: First page has illuminated text-surround in three registers in gold and blue with red and green touches, the middle of the register has a tan cross-hatch background with blue and green lotus flowers; three circular vignettes along the outer margin (f. [1]r); verse endings marked by small 8-leaf flowers in gold with red and blue dots; marginal medallions in pointed ovals and teardrops mark text divisions; readings in red.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Binding: Unbound loose leaves.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Origin: Item is undated, likely 14th century based on the style and paper.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Manuscripts, Arabic</marc:subfield>
+            <marc:subfield code="y">14th century.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Manuscripts, Oriental</marc:subfield>
+            <marc:subfield code="y">14th century.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Manuscripts, Arabic.</marc:subfield>
+            <marc:subfield code="2">fast</marc:subfield>
+            <marc:subfield code="0">(OCoLC)fst01008278</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Manuscripts, Oriental.</marc:subfield>
+            <marc:subfield code="2">fast</marc:subfield>
+            <marc:subfield code="0">(OCoLC)fst01008453</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="648" ind1=" " ind2="7">
+            <marc:subfield code="a">1300-1399</marc:subfield>
+            <marc:subfield code="2">fast</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">manuscripts (documents)</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+            <marc:subfield code="0">(CStmoGRI)aatgf300028569</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Qur'ans.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+            <marc:subfield code="0">(CStmoGRI)aatgf300265128</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Illuminations (painting)</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">detached leaves (gathered matter)</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Free Library of Philadelphia.</marc:subfield>
+            <marc:subfield code="b">Rare Book Department.</marc:subfield>
+            <marc:subfield code="b">John Frederick Lewis Collection of Oriental Manuscripts.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1=" " ind2=" ">
+            <marc:subfield code="b">Rare Book Department</marc:subfield>
+            <marc:subfield code="a">Free Library of Philadelphia</marc:subfield>
+            <marc:subfield code="e">Philadelphia</marc:subfield>
+            <marc:subfield code="u">https://know.freelibrary.org/Record/2572451</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">Digital facsimile in OPenn</marc:subfield>
+            <marc:subfield code="z">https://openn.library.upenn.edu/Data/0023/html/lewis_o_183.html</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="880" ind1="0" ind2=" ">
+            <marc:subfield code="6">130-01/(3/r</marc:subfield>
+            <marc:subfield code="a">قرآن.</marc:subfield>
+            <marc:subfield code="k">Selections.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="880" ind1="1" ind2="3">
+            <marc:subfield code="6">245-02/(3/r</marc:subfield>
+            <marc:subfield code="a">[القرآن].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="994" ind1=" " ind2=" ">
+            <marc:subfield code="a">C0</marc:subfield>
+            <marc:subfield code="b">PAU</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

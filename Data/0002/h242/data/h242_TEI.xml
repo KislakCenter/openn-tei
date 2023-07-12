@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 242: Part of a collection ot Seliḥot</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 242: Part of a collection ot Seliḥot are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Fol. 1 starts with the end of Seliḥot in the standard structure based on biblical verses linked ככתוב. Followed by a litany titled לא לנו י'י / למה יאמרו הגוים (Psalms CXV 1/2) the latter of which also serves as the refrain of the litany; The verses are arranged א-ת and continues. The next refrain of the next littany is אלהינו שבשמים (Psalms ibid.). This sequence also appears in Mosseri VIII 206; ENA 2159, 52; Cambridge T-S NS 110. 105 ; T-S H5. 89 ; Oxford Bodleian 2718, 6, although there are some variants in the contents of the verses; Fol. 2 contains a litany with an alternating refrain: את[א]נו על שמך \ י'י עשה למען שמך. The verses are arranged א-ת. Followed by another litany, whose refrain alternates: מה נאמר לפניך \ ומה נספר לפניך. This sequence also appears in Cambridge T-S NS 151.44 and Oxford Bodleian 2715, 9, although there are some variants in the contents of the verses.</note>
+        <note>Condition: consecutive, complete; loss along edges, erasures.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 242</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419213503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Part of a collection ot Seliḥot</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17 X 13.5 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 17-19, per page.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive sporadic vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1199"/>
+              <p>12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Libraries).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Judaism , Liturgy , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4232px" url="master/4609_0000.tif" width="3168px"/>
+      <graphic height="190px" url="thumb/4609_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4609_0000_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4232px" url="master/4609_0001.tif" width="3168px"/>
+      <graphic height="190px" url="thumb/4609_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4609_0001_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4232px" url="master/4609_0002.tif" width="3168px"/>
+      <graphic height="190px" url="thumb/4609_0002_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4609_0002_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4232px" url="master/4609_0003.tif" width="3168px"/>
+      <graphic height="190px" url="thumb/4609_0003_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4609_0003_web.jpg" width="1347px"/>
+    </surface>
+  </facsimile>
+</TEI>

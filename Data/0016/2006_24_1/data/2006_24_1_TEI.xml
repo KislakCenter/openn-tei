@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Penn Museum 2006-24-1: Ḥamlah-ʼi Ḥaydarī</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/2.0/legalcode">Images are  ©2019 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution ShareAlike License version 4.0 (CC-BY-2.0 https://creativecommons.org/licenses/by/2.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/2.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2019 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title supplied by cataloger.</note>
+        <note>Dimensions of original manuscript: 410 x 260 (250 x 135) mm.</note>
+        <note>Laid, non-European paper; no visible chain lines.</note>
+        <note>"Waqf" is written across the top of one leaf and across the rubrications on another leaf.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>University of Pennsylvania Museum of Archaeology and Anthropology</repository>
+            <idno type="call-number">Penn Museum 2006-24-1</idno>
+            <altIdentifier type="bibid">
+              <idno>9977571453503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1112669532</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0016/html/2006_24_1.html</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>One bifolium, not consecutive pages, from a religious poem.</summary>
+            <textLang mainLang="per">Persian</textLang>
+            <msItem>
+              <title>Ḥamlah-ʼi Ḥaydarī</title>
+              <title type="vernacular">[حملۀ حيدرى]</title>
+              <author>
+                <persName type="authority">Bāz̲il, Muhammad Rafīʻ ibn Muḥammad al-Mashhadī, -1712</persName>
+                <persName type="vernacular">باذل، مهمد رفيع بن محمد المشهدى،</persName>
+              </author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Dyson, Robert H</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="2B">
+              <locus>2B</locus>
+              <title>[Ḥamlah-ʼi Ḥaydarī]</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1 online resource (1 bifolium)</extent>
+                <foliation>Modern foliation added in pencil, upper outer corners as if the leaves were to be read left to right (1A-2B); catchwords every verso, lower left. The digital images have been sorted so that they read in left-to-right order; foliation therefore is 2B-1A.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 23 lines in four columns.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in nastaʻlīq in black ink; pointed.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>Bifolium is loose.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Item is undated, but perhaps produced in the 17th century.</p>
+              <origDate>between 1600 and 1699?</origDate>
+            </origin>
+            <provenance>Gift of Dr. Robert H. Dyson, Jr. in 2006</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Fascimiles</term>
+          <term>Detached leaves</term>
+          <term>Manuscripts, Persian</term>
+          <term>Manuscripts, 17th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="2B">
+      <graphic height="8393px" url="master/9352_0000.tif" width="5011px"/>
+      <graphic height="190px" url="thumb/9352_0000_thumb.jpg" width="113px"/>
+      <graphic height="1800px" url="web/9352_0000_web.jpg" width="1074px"/>
+    </surface>
+    <surface n="2A">
+      <graphic height="8393px" url="master/9352_0001.tif" width="5011px"/>
+      <graphic height="190px" url="thumb/9352_0001_thumb.jpg" width="113px"/>
+      <graphic height="1800px" url="web/9352_0001_web.jpg" width="1074px"/>
+    </surface>
+    <surface n="1B">
+      <graphic height="8393px" url="master/9352_0002.tif" width="5011px"/>
+      <graphic height="190px" url="thumb/9352_0002_thumb.jpg" width="113px"/>
+      <graphic height="1800px" url="web/9352_0002_web.jpg" width="1074px"/>
+    </surface>
+    <surface n="1A">
+      <graphic height="8393px" url="master/9352_0003.tif" width="5011px"/>
+      <graphic height="190px" url="thumb/9352_0003_thumb.jpg" width="113px"/>
+      <graphic height="1800px" url="web/9352_0003_web.jpg" width="1074px"/>
+    </surface>
+  </facsimile>
+</TEI>

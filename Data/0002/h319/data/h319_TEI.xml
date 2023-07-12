@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 319: Panegyric poem in honor of an unspecified bridegroom</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 319: Panegyric poem in honor of an unspecified bridegroom are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Verse endings denoted by a punctus; 1r, probably the primary inscription, a document in Judeo-Arabic preventing a blind ḥazan named She'erit ben Japheth from leading the services. A court appointment of a representative of an orphan, whose deceased father bears this same name, is found in Cambridge T-S 10 J7 fol. 17 (recorded by S. Goitein, Mediterranean Society, vol. III pp. 295-296). This She'erit died in Fustat. See also שארית החזן פאר החזנים mentioned in Cambridge 13 J19 fol. 14; 17 lines with large spaces between them, as is common among official letters of the Gaonate (e.g. responsum of R. Ḥai Gaon in Cambridge NS 324.112/Mosseri VII 157, dated April 1037); 1v contains a poem, in Wafir meter, in honor of an unspecified bridegroom (represented in the formulary format: [פל[וני. Starts אשורר שיר לציר חוקר. Forty verses, monorhymed ים-. This appears to be a secondary inscription on the blank (or erased) side of the document on side 1.</note>
+        <note>Condition: superscription partially torn, losses; faded; widthwise, mail format fold; verso in different hand.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 319</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419993503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb">Judeo-Arabic</textLang>
+            <msItem>
+              <title>Panegyric poem in honor of an unspecified bridegroom</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>45.7 X 20.3 (20.3 X 14.6 cm? ec) </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1 (recto); 2 (verso); lines: 3, 17 (recto), 40 (verso); ruling method: left rule justified by cramping exceeding words between lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1299"/>
+              <p>11th century-13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Judaism (Functionaries)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="11811px" url="master/4686_0000.tif" width="5200px"/>
+      <graphic height="190px" url="thumb/4686_0000_thumb.jpg" width="83px"/>
+      <graphic height="1800px" url="web/4686_0000_web.jpg" width="792px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="11811px" url="master/4686_0001.tif" width="5200px"/>
+      <graphic height="190px" url="thumb/4686_0001_thumb.jpg" width="83px"/>
+      <graphic height="1800px" url="web/4686_0001_web.jpg" width="792px"/>
+    </surface>
+  </facsimile>
+</TEI>

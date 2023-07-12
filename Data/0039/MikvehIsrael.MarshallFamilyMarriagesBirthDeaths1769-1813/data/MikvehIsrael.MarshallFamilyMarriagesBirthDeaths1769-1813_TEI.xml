@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Congregation Mikveh Israel, Philadelphia, PA, MikvehIsrael.MarshallFamilyMarriagesBirthDeaths1769-1813: Marshall family marriages, births and deaths, 1769-1813</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Carly Sewell</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Michelle Belden</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Congregation Mikveh Israel, Philadelphia, PA</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Congregation Mikveh Israel, Philadelphia, PA MikvehIsrael.MarshallFamilyMarriagesBirthDeaths1769-1813: Marshall family marriages, births and deaths, 1769-1813 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Congregation Mikveh Israel has waived all copyright and related or neighboring rights to this metadata about Congregation Mikveh Israel, Philadelphia, PA MikvehIsrael.MarshallFamilyMarriagesBirthDeaths1769-1813: Marshall family marriages, births and deaths, 1769-1813. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="relatedResource" target="https://philadelphiacongregations.org">Philadelphia Congregations Early Records Project</note>
+        <note type="relatedResource" target="https://dl.atla.com/collections/philadelphia-congregations-early-records-project">ATLA Digital Library</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Congregation Mikveh Israel, Philadelphia, PA</repository>
+            <idno type="call-number">MikvehIsrael.MarshallFamilyMarriagesBirthDeaths1769-1813</idno>
+            <altIdentifier type="resource">
+              <idno>https://philadelphiacongregations.org/records/item/MikvehIsrael.MarshallFamilyMarriagesBirthDeaths1769-1813</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>One page listing the marriages, births and deaths that took place in the Marshall family between 1769 and 1813.</summary>
+            <textLang mainLang="eng">English</textLang>
+            <msItem>
+              <title>Marshall family marriages, births and deaths, 1769-1813</title>
+              <author ref="https://viaf.org/viaf/132590987">Congregation Mikveh Israel (Philadelphia, Pa.)</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>1 page; </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1769" notAfter="1813"/>
+              <p>1769-1813</p>
+              <origPlace>United States</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>18th century</term>
+          <term>19th century</term>
+        </keywords>
+        <keywords n="subjects">
+          <term target="http://id.worldcat.org/fast/1010631">Marriage records</term>
+          <term target="http://id.worldcat.org/fast/1093240">Registers of births, etc</term>
+          <term target="http://id.worldcat.org/fast/983135">Jews</term>
+          <term target="http://id.worldcat.org/fast/1141042">Synagogues</term>
+          <term target="http://id.worldcat.org/fast/1204170">Pennsylvania--Philadelphia</term>
+          <term target="http://id.worldcat.org/fast/607794">Congregation Mikveh Israel (Philadelphia, Pa.)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term target="http://id.worldcat.org/fast/1424060">Manuscripts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Recto" xml:id="surface-mikvehisrael-marshallfamilymarriagesbirthdeaths1769-1813-1">
+      <graphic height="4942px" url="master/12152_0000.tif" width="4380px"/>
+      <graphic height="190px" url="thumb/12152_0000_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/12152_0000_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Verso" xml:id="surface-mikvehisrael-marshallfamilymarriagesbirthdeaths1769-1813-2">
+      <graphic height="4944px" url="master/12152_0001.tif" width="4412px"/>
+      <graphic height="190px" url="thumb/12152_0001_thumb.jpg" width="170px"/>
+      <graphic height="1800px" url="web/12152_0001_web.jpg" width="1606px"/>
+    </surface>
+  </facsimile>
+</TEI>

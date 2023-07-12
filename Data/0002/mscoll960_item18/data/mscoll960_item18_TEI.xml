@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 960 Item 18: Qaṣīdah /</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 960 Item 18: Qaṣīdah / are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 960 Item 18: Qaṣīdah /. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from handlist.</note>
+        <note>Dated A.H. 11 Muharram 1330 (1 January 1912).</note>
+        <note>Probably written in Morocco, in Maghribi script, on one page of the bifolium (f. 2v); watermark of a Turkish or Persian phrase.</note>
+        <note>Border decoration and text division in gold ink.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 960 Item 18</idno>
+            <altIdentifier type="bibid">
+              <idno>9961384973503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/875885833</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6138497</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Short prayer in verse decoratively copied on an oversized sheet, which is housed flat in a map drawer.</summary>
+            <textLang mainLang="ara">In Arabic</textLang>
+            <msItem>
+              <title>Qaṣīdah /</title>
+              <title type="vernacular">قصيدة</title>
+              <author>
+                <name type="authority">Fez Lithographs Collection (University of Pennsylvania)</name>
+              </author>
+              <author>
+                <name type="authority">Allan G. Chester and Florence K. Chester Fund</name>
+              </author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Abdulrazak, Fawzi</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="1r">
+              <locus>[1]r</locus>
+              <title>Qaṣīdah [li-muʼallif majhūl], A.H. 1330 (1912)</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (1 bifolium) : 445 x 355 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>A.H. 1330 (1912)</origDate>
+            </origin>
+            <provenance>Sold as part of the Fez Lithographs Collection by Fawzi Abdulrazak (Cambridge, Massachusetts), 2013.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Islam--Prayers and devotions</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Prayers</term>
+          <term>Manuscripts, Arabic--20th century</term>
+          <term>Manuscripts--Morocco--20th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7835px" url="master/9837_0000.tif" width="3547px"/>
+      <graphic height="190px" url="thumb/9837_0000_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/9837_0000_web.jpg" width="814px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7835px" url="master/9837_0001.tif" width="3547px"/>
+      <graphic height="190px" url="thumb/9837_0001_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/9837_0001_web.jpg" width="814px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="7835px" url="master/9837_0002.tif" width="3547px"/>
+      <graphic height="190px" url="thumb/9837_0002_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/9837_0002_web.jpg" width="814px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="7835px" url="master/9837_0003.tif" width="3547px"/>
+      <graphic height="190px" url="thumb/9837_0003_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/9837_0003_web.jpg" width="814px"/>
+    </surface>
+  </facsimile>
+</TEI>

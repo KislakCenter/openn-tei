@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 236: Part of a collection of piyutim for Yom Kippur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 236: Part of a collection of piyutim for Yom Kippur are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Verse endings denoted by a sof pasuḳ; one word vocalized; Fol. 1 recto contains Isaac Ibn Ghiyyat's ידידי אל ברכהו (Davidson, Thesaurus of Medieval Hebrew poetry / Israel Davisdson. New York : JTS, 1923-1933; Shire R. Yitsḥaḳ Ibn Giyat, 1038-1089, 1987 / Yonah David. Yerushalayim : R. Mass, 1987, no. 140); On the verso, under the heading יחידה, Moses Ibn Ezra's ידידים לבית אל חשו (ibid 585; Shire ha-ḳodesh / Mosheh ibn Ezra ; Simon Bernstein [ed.]. Tel-Aviv : Masadah, 1957, no.138); Fol. 2 recto contains Moses Ibn Gikatilla's בעשור לחדש ביום כפור (ibid. 1154ב). Verso is blank or erased; The latter two piyyutim are followed by the shorthand allusion to the recitation of the 13 attributes אל מלך, the common format for Seliḥot.</note>
+        <note>Condition: fol. 1 nearly complete; fol. 2 damaged with losses in upper exterior corner; faded.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 236</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419163503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="jrb">Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Part of a collection of piyutim for Yom Kippur</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>18.4 X 13.3 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines:.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1299"/>
+              <p>12th century-13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Yom Kippur , Liturgy , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4722px" url="master/4603_0000.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4603_0000_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/4603_0000_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4722px" url="master/4603_0001.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4603_0001_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/4603_0001_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4722px" url="master/4603_0002.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4603_0002_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/4603_0002_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4722px" url="master/4603_0003.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4603_0003_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/4603_0003_web.jpg" width="1293px"/>
+    </surface>
+  </facsimile>
+</TEI>

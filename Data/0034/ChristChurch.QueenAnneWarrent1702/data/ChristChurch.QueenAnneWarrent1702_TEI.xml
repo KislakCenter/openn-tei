@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Christ Church, Philadelphia, PA, ChristChurch.QueenAnneWarrent1702: Queen Anne Warrant, 1702</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Carly Sewell</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Michelle Belden</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Christ Church, Philadelphia, PA</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Christ Church, Philadelphia, PA ChristChurch.QueenAnneWarrent1702: Queen Anne Warrant, 1702 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Christ Church Philadelphia has waived all copyright and related or neighboring rights to this metadata about Christ Church, Philadelphia, PA ChristChurch.QueenAnneWarrent1702: Queen Anne Warrant, 1702. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="relatedResource" target="https://philadelphiacongregations.org">Philadelphia Congregations Early Records Project</note>
+        <note type="relatedResource" target="https://dl.atla.com/collections/philadelphia-congregations-early-records-project">ATLA Digital Library</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Christ Church, Philadelphia, PA</repository>
+            <idno type="call-number">ChristChurch.QueenAnneWarrent1702</idno>
+            <altIdentifier type="resource">
+              <idno>https://philadelphiacongregations.org/records/item/ChristChurch.QueenAnneWarrent1702</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Treasury warrant from Queen Anne, continuing a previous warrant from King William, allowing Christ Church to pay annual salaries of 50 pounds to a Protestant minister and 30 pounds to a schoolmaster, to be paid with one penny per each pound of tobacco duties collected in Pennsylvania.</summary>
+            <textLang mainLang="eng">English</textLang>
+            <msItem>
+              <title>Queen Anne Warrant, 1702</title>
+              <author ref="http://viaf.org/viaf/123165129">Christ Church (Philadelphia, Pa.)</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>1 page; </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="1702"/>
+              <p>1702</p>
+              <origPlace>United States</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>18th century</term>
+        </keywords>
+        <keywords n="subjects">
+          <term target="http://id.worldcat.org/fast/914304">Episcopalians</term>
+          <term target="http://id.worldcat.org/fast/860699">Church finance</term>
+          <term target="http://id.worldcat.org/fast/1079934">Protestants</term>
+          <term target="http://id.worldcat.org/fast/864014">Clergy</term>
+          <term target="http://id.worldcat.org/fast/860929">Church schools</term>
+          <term target="http://id.worldcat.org/fast/1432109">Tobacco</term>
+          <term target="http://id.worldcat.org/fast/1143876">Taxation</term>
+          <term target="http://id.worldcat.org/fast/1204170">Pennsylvania--Philadelphia</term>
+          <term target="http://id.worldcat.org/fast/557988">Christ Church (Philadelphia, Pa.)</term>
+          <term target="http://id.worldcat.org/fast/533119">Episcopal Church</term>
+          <term target="http://id.worldcat.org/fast/14260">Anne, Queen of Great Britain, 1665-1714</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term target="http://id.worldcat.org/fast/1424060">Manuscripts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Recto" xml:id="surface-christchurch-queenannewarrent1702-1">
+      <graphic height="3604px" url="master/12042_0000.tif" width="6320px"/>
+      <graphic height="108px" url="thumb/12042_0000_thumb.jpg" width="190px"/>
+      <graphic height="1026px" url="web/12042_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Verso" xml:id="surface-christchurch-queenannewarrent1702-2">
+      <graphic height="3606px" url="master/12042_0001.tif" width="6320px"/>
+      <graphic height="108px" url="thumb/12042_0001_thumb.jpg" width="190px"/>
+      <graphic height="1027px" url="web/12042_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

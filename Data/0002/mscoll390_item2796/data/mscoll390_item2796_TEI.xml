@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2796: Śītalāstotra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2796: Śītalāstotra are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 1r).</note>
+        <note>Scribe is Mādhava the son of Kāṃhāṃnajīt.</note>
+        <note>Written in 12 lines per leaf.</note>
+        <note>1 leaf.</note>
+        <note>Mistakes blacked or crossed out; double black vertical lines mark margins.</note>
+        <note>Non-Latin script record.</note>
+        <note>Scribe is Hānajīt Sutamādhava Śana.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2796</idno>
+            <altIdentifier type="bibid">
+              <idno>9958374913503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/812169027</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5837491</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Small manuscript for private use, recitation, and prayer, dedicated to praising the goddess of smallpox Śītalā (the cooling one) in order to ward of disease. Contains 12 verses of text. Back of manuscript used for scribal practice, especially the akṣaras (syllables) "da" and "dha."</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Śītalāstotra</title>
+              <title type="vernacular">शीतलास्तोत्र</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName type="authority">Mādhava ( son of Kāṃhāṃnajīt)</persName>
+              </respStmt>
+              <colophon>Colophon: iti śrīskaṃdapurāṇe śītalāstotraṃ saṃpūrṇaṃ // samāptam iti // saṃvat 1681 varṣe dvitīyavaitravadi 12 śanaupaṃ - kāṃhāṃnajītsutamādhavena likhi[taM] // bha - ratnaj[īt]paṭhanārtham // mādhavasya kṛṣṇe bhaktir astu // (f. 1r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (1 leaf) : 12 x 23 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hindu goddesses</term>
+          <term>Smallpox--Religious aspects</term>
+          <term>Diseases--Religious aspects</term>
+          <term>Hindu hymns, Sanskrit</term>
+          <term>Devotional literature, Sanskrit</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Poems</term>
+          <term>Prayers</term>
+          <term>Hymns</term>
+          <term>Manuscripts, Sanskrit--17th century</term>
+          <term>Manuscripts--India--17th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-2796-1">
+      <graphic height="3028px" url="master/3433_0000.tif" width="5712px"/>
+      <graphic height="100px" url="thumb/3433_0000_thumb.jpg" width="190px"/>
+      <graphic height="954px" url="web/3433_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ms-coll-390-item-2796-2">
+      <graphic height="3028px" url="master/3433_0001.tif" width="5712px"/>
+      <graphic height="100px" url="thumb/3433_0001_thumb.jpg" width="190px"/>
+      <graphic height="954px" url="web/3433_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

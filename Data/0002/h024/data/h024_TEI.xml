@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 24: Isaiah 15:1-28:4, with Masorah magna and parva</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 24: Isaiah 15:1-28:4, with Masorah magna and parva are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Text breaks signified by a full open line, where necessary; Isaiah XV 1נד]מה] -XVIII 4 אלי; missing from damaged parts of fol. are XV 8-9; XVI 8-10 (partially); XVII 1-4; Masorah contains only a small fraction of the annotations found in the complete version; closed text break (parashah) found in Aleppo Codex after XVII 8 is not maintained here, while rest of text breaks are; There are a few additional copies of the text in the margins, probably a writing exercise or correction; in the margin between columns 1-2 is XV 6-9, in the upper margin of the recto is XIV 32-XV 2, in the margin after column 6 is XVIII 4-5.</note>
+        <note>Condition: loss of most of the exterior column, interior lower corner and lower edge.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 24</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417223503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Isaiah 15:1-28:4, with Masorah magna and parva</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>29.2 X 26.8 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 3; lines: 24; ruling method: left rule filled by 2-3 hyphens.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental square vocalization and cantillation (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>11th century-12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Masorah</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7445px" url="master/4400_0000.tif" width="6900px"/>
+      <graphic height="190px" url="thumb/4400_0000_thumb.jpg" width="176px"/>
+      <graphic height="1800px" url="web/4400_0000_web.jpg" width="1668px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7444px" url="master/4400_0001.tif" width="6900px"/>
+      <graphic height="190px" url="thumb/4400_0001_thumb.jpg" width="176px"/>
+      <graphic height="1800px" url="web/4400_0001_web.jpg" width="1669px"/>
+    </surface>
+  </facsimile>
+</TEI>

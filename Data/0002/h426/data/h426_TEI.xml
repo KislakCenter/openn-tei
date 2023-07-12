@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 426: Letter</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 426: Letter are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A folio, 29 lines of content, and a decorative signature; The letter opens with 10 lines of a partially rhyming preface in Talmudic language, showering the addressee with praise and blessings. Line 5 and half of line 4 have been erased. The name of the addressee may have been here, as it is conspicuously missing from the rest. The last two and one half lines are of a similar nature. The rest is in Judeo-Arabic; Mention is made (ll. 17, 21, 25) of The Nazir Joseph ha-Levi (d. 1713), an emissary from Hebron who settled in Cairo and served as the head of its court. In his responsa Mate Yosef, (Istanbul, 1717-1726) he is often approached to deal with questions related to collection emissaries ([ש[לוחי] דר[בנן) (A. Ya'ari: Sheluḥe Erets Yiśraʾel / Abraham Yaari. Jerusalem : Mosad ha-Rav Ḳuḳ, 1977, p. 932); Also mentioned is an agent collecting for Safed named Ḥayim Ravuaḥ (l. 13). One of the subjects here is the issue of the transmission of a divorce bill.</note>
+        <note>Condition: complete; losses, faded; folded in mail format; verso is blank.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 426</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421053503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="arc" otherLangs="heb jrb">Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE); Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Letter</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>24.1 X 22.2 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 30 (recto).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Sephardic cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1685" notAfter="1699"/>
+              <p>late 17th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hebrew letters</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6059px" url="master/4791_0000.tif" width="5664px"/>
+      <graphic height="190px" url="thumb/4791_0000_thumb.jpg" width="177px"/>
+      <graphic height="1800px" url="web/4791_0000_web.jpg" width="1683px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6059px" url="master/4791_0001.tif" width="5664px"/>
+      <graphic height="190px" url="thumb/4791_0001_thumb.jpg" width="177px"/>
+      <graphic height="1800px" url="web/4791_0001_web.jpg" width="1683px"/>
+    </surface>
+  </facsimile>
+</TEI>

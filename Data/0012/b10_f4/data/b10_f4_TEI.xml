@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Library Company, B10.F4: Charm</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Kelly Tuttle</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Library Company</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library Company B10.F4: Charm are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, The Library Company of Philadelphia has waived all copyright and related or neighboring rights to this metadata about Library Company B10.F4: Charm. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Watermarked European paper</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>Library Company</institution>
+            <repository>Library Company</repository>
+            <idno type="call-number">B10.F4</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Talismanic charm written large format to be folded; mostly comprised of several, repeated, verses from the Qurʾān. A few words in Soninke in Arabic letters.</summary>
+            <textLang mainLang="ara" otherLangs="snk">Arabic; Soninke</textLang>
+            <msItem>
+              <title>Charm</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="http://id.loc.gov/authorities/names/n88140545">Du Simitière, Pierre Eugène,  approximately 1736-1784</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="Side 1">
+              <locus target="#surface-b10-f4-1">Side 1</locus>
+              <title>[Charm]</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                  <watermark>Centrally placed circular seal.</watermark>
+                </support>
+                <extent>385 x 315 mm </extent>
+                <foliation>Single leaf</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>39 lines in two columns</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>West African maghribī in red and brown; pointed.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Alternating sections of text in red and brown; geometric design on the reverse side of the page in one corner.</decoNote>
+              <decoNote n="Side 2"><locus target="#surface-b10-f4-2">Side 2</locus>Illumination</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1750" notAfter="1784"/>
+              <p>Perhaps produced in the Caribbean region, possibly in Saint-Domingue (now Haiti) or Jamaica; 18th century</p>
+              <origPlace>[Caribbean?]</origPlace>
+            </origin>
+            <provenance>Part of the Du Simitière print collection</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>Talismans</term>
+          <term>Arabic</term>
+          <term>Illumination</term>
+          <term>Prayers</term>
+          <term>Soninke</term>
+          <term>Charms</term>
+        </keywords>
+        <keywords n="subjects">
+          <term target="http://id.loc.gov/authorities/subjects/sh85068403">Islam, prayers and devotions</term>
+          <term target="http://id.loc.gov/authorities/subjects/sh85132095">Talismans</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term target="http://vocab.getty.edu/page/aat/300234011">Talismans</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1" xml:id="surface-b10-f4-1">
+      <graphic height="8098px" url="master/9807_0000.tif" width="9807px"/>
+      <graphic height="156px" url="thumb/9807_0000_thumb.jpg" width="190px"/>
+      <graphic height="1486px" url="web/9807_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 2" xml:id="surface-b10-f4-2">
+      <graphic height="8098px" url="master/9807_0001.tif" width="9807px"/>
+      <graphic height="156px" url="thumb/9807_0001_thumb.jpg" width="190px"/>
+      <graphic height="1486px" url="web/9807_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

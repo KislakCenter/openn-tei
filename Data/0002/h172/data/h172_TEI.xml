@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 172: Morning blessings and Psalms</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 172: Morning blessings and Psalms are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Prayer endings denoted by a sof pasuḳ plus a semi-alef; From a prayer book. Fol. 1, partially vocalized, is from the beginning of Birkhot ha-shaḥar, including אלהי נשמה, morning blessing 16, and the beginning of לעולם יהא אדם (Midrash Tana deṿe Eliyahu 22) as in Sidur R. ʹAmram Gaʾon; The blessings include some uncommon ones, in addition to the basic 11 (Talmud Berakhot 60b); The first two, מעיר ישנים and מקיץ רדומים are signed for erasure, הנותן לשכוי בינה is tenth,עוטר ישראל is omitted (as is הנותן ליעף כח, consistent with the Oriental custom); After the standard series שלא שמתני (as in Sidur R. Seʹadyah Gaʹon) גוי-עבד-אשה (ibid. Menaḥot 43b) are added added שלא שמתני בהמה and שלא שמתני מאומות העולם אלא מעמך ישראל. Both are encircled for erasure; Fol. 2 is from the common assembled Psalms at the beginning of Pesuḳe de-zimrah (Psalm CV 1-15 and other excerpts).</note>
+        <note>Condition: non-consecutive, nearly complete; loss from upper exterior corner of fol. 1.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 172</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418573503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Morning blessings and Psalms</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>14 X 9.5 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 16.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-square vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1299"/>
+              <p>11th century-13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Judaism , Prayer-books and devotions Hebrew</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3474px" url="master/4542_0000.tif" width="2480px"/>
+      <graphic height="190px" url="thumb/4542_0000_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4542_0000_web.jpg" width="1285px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3474px" url="master/4542_0001.tif" width="2480px"/>
+      <graphic height="190px" url="thumb/4542_0001_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4542_0001_web.jpg" width="1285px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3474px" url="master/4542_0002.tif" width="2480px"/>
+      <graphic height="190px" url="thumb/4542_0002_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4542_0002_web.jpg" width="1285px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3474px" url="master/4542_0003.tif" width="2480px"/>
+      <graphic height="190px" url="thumb/4542_0003_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4542_0003_web.jpg" width="1285px"/>
+    </surface>
+  </facsimile>
+</TEI>

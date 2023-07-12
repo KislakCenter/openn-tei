@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 1457.5: The Pentateuch scroll.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 1457.5: The Pentateuch scroll. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 1457.5: The Pentateuch scroll.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Staining and water damage throughout, in patches.</note>
+        <note>Dirt, mud, accretions, deliberate erasures.</note>
+        <note>Some dark, contracted edges.</note>
+        <note>Worming.</note>
+        <note>Folds.</note>
+        <note>Some abraded surfaces and delamination.</note>
+        <note>Ink falking in parts, with losses of text.</note>
+        <note>Ink offset on verso.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 1457.5</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1457.5</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Pentateuch scroll.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Pentateuch scroll.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="leather">
+                <support>
+                  <p>Leather</p>
+                </support>
+                <extent>12 membranes, 29 columns.; 12 membranes, 29 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 29; ruled lines: 50 51; written lines: 50 51; Uniform layout. Ruling by hard point. Visible pricking and stiching of membranes. 76 columns in total, one to six columns per membrane. No tagin on letters. In some fragments ח is arched. Special shapes of letters occur: the inverted נ placed before and after Num. 10:35-36, פ' לפוף is frequent. Columns generally begin with a new verse. Several instances of majuscular and minuscular letters. The "puncta extraordinaria" placed on the words fixed by masorah.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Oriental square script of the 15th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Boxed.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1400" notAfter="1499"/>
+              <p>Between 1400 and 1499</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="6786px" url="master/13013_0000.jpg" width="1559px"/>
+      <graphic height="190px" url="thumb/13013_0000_thumb.jpg" width="43px"/>
+      <graphic height="1800px" url="web/13013_0000_web.jpg" width="413px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="4705px" url="master/13013_0001.jpg" width="30000px"/>
+      <graphic height="29px" url="thumb/13013_0001_thumb.jpg" width="190px"/>
+      <graphic height="282px" url="web/13013_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Columbia University. MS Or 83a: Qur'ān leaf.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Columbia University.</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 83a: Qur'ān leaf. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 83a: Qur'ān leaf.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Manuscript codex fragment.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>This leaf was previously inserted in MS Or 83 - FOLIO/FLAT, and has been removed and cataloged separately.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>New York, NY. 10027</settlement>
+            <institution>Columbia University.</institution>
+            <repository>Rare Book and Manuscript Library</repository>
+            <idno type="call-number">MS Or 83a</idno>
+            <altIdentifier type="bibid">
+              <idno>13610483</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1066257998</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0032/html/ms_or_083a.html</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://clio.columbia.edu/catalog/13610483</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Unbound leaf containing verses of the Qur'ān from the third word of 3:80 to the end of 3:91.</summary>
+            <textLang mainLang="ara">Arabic</textLang>
+            <msItem>
+              <title>Qur'ān leaf.</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Smith, David Eugene, 1860-1944</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="Unnumbered recto">
+              <locus>Unnumbered recto</locus>
+              <title>[Qur'ān leaf].</title>
+            </msItem>
+            <msItem n="Unnumbered recto">
+              <locus>Unnumbered recto</locus>
+              <title>Āl-ʿImrān 80 (partial)-91.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 leaf : 200 x 140 (162 x 100 ) mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>11 long lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in naskh in black ink; pointed and vocalized.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>between 1650 and 1799?</origDate>
+            </origin>
+            <provenance>Presumed to be a gift of David Eugene Smith, 1931-1934.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Manuscripts, Arabic</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Detached leaves</term>
+          <term>Qurʼans</term>
+          <term>Manuscripts</term>
+          <term>Early works to 1800</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Unnumbered recto">
+      <graphic height="3614px" url="master/6892_0000.tif" width="2690px"/>
+      <graphic height="190px" url="thumb/6892_0000_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/6892_0000_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="Unnumbered verso">
+      <graphic height="3614px" url="master/6892_0001.tif" width="2690px"/>
+      <graphic height="190px" url="thumb/6892_0001_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/6892_0001_web.jpg" width="1339px"/>
+    </surface>
+  </facsimile>
+</TEI>

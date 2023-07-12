@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 1986: Gāyatrīkalpa</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 1986: Gāyatrīkalpa are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title supplied by cataloger, on the basis of the following passage on f. 1r: "... brahmavidyāyāḥ sāvitryā gāyatryāḥ kalpoktaṁ." Title Gāyatrīpuraścaraṇavidhi supplied on the acquisition wrapper label, under which name the ms. was cataloged by Poleman.</note>
+        <note>Written 7-8 lines per leaf.</note>
+        <note>Good condition. Paper apparently trimmed on margins, for marginal writing such as pagination indications are cut off on edges. Mistakes blotched out with black. Marginal corrections.</note>
+        <note>Begins: śrīgurubhyo namaḥ ācamya prāṇān āyamya sumukhaś cetyādi śrī* prītyarthaṁ amukagotrotpasya amukaśarmaṇaḥ mama iha janmani janmāntare ca vāṅmanaḥkāyakṛtānāṁ mahāpātakasamastapātakānāṁ aharahaḥ</note>
+        <note>Text ends (f. 3v): siddhir bhavatu me deva tvat prasādān maheśvara anena matkṛtena amu[ra]kasaṁkhyājapena bhagavān śrīparameśvaraḥ prīyatāṁna mama</note>
+        <note>Colophon (f. 3v): śake 1752 p[l]avanāma savat caitre māse śuklapakṣe tithiḥ 2 bhṛguvāsare* likitaṁ sarasvatiprasann śr[ī]ḥ</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 1986</idno>
+            <altIdentifier type="bibid">
+              <idno>9934319993503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/406584442</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/3431999</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="san" otherLangs="">In Sanskrit (Devanāgarī)</textLang>
+            <msItem>
+              <title>Gāyatrīkalpa</title>
+              <colophon>Colophon (f. 3v): śake 1752 p[l]avanāma savat caitre māse śuklapakṣe tithiḥ 2 bhṛguvāsare* likitaṁ sarasvatiprasann śr[ī]ḥ</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (3 leaves) : 11 x 22 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hinduism--Rituals--Texts</term>
+          <term>Tantrism</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2678px" url="master/6332_0000.tif" width="4806px"/>
+      <graphic height="105px" url="thumb/6332_0000_thumb.jpg" width="190px"/>
+      <graphic height="1002px" url="web/6332_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="4713px" url="master/6332_0001.tif" width="4976px"/>
+      <graphic height="179px" url="thumb/6332_0001_thumb.jpg" width="190px"/>
+      <graphic height="1704px" url="web/6332_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v-3r">
+      <graphic height="4713px" url="master/6332_0002.tif" width="4976px"/>
+      <graphic height="179px" url="thumb/6332_0002_thumb.jpg" width="190px"/>
+      <graphic height="1704px" url="web/6332_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="2678px" url="master/6332_0003.tif" width="4806px"/>
+      <graphic height="105px" url="thumb/6332_0003_thumb.jpg" width="190px"/>
+      <graphic height="1002px" url="web/6332_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

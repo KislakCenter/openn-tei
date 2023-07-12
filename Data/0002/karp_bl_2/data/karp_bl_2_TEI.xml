@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Museum of Archaeology and Anthropology, Karp Bl. 2: Leaves from a codex of Proverbs</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania Museum of Archaeology and Anthropology</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Images are  ©2022 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>These are two leaves extracted from a codex of Proverbs, and each leaf contains a separate chapter; extant is Proverbs VI:1, beginning ערבת לרעך and finishing the folio side with קצין ומשל (first word of verse 8, תכין, missing from leaf) and continuing בחוץ לחמה until 15, יב[א] אידו ופתע ישבע (f. 1r-v); second leaf begins with X:14, ופי אויל מחתה קרובה, finishing the side with 21, ואוילים בחסר לב ימות[ו], continuing with ברכת until verse 29, ומחיתה לפועלי און (f. 2r-v). Dots above incorrect words (f. 1r), possibly indicating this was from a copybook. Title supplied by cataloger. Written in Egypt or possibly Palestine, between the last half of the 11th century and the 12th century.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>University of Pennsylvania Museum of Archaeology and Anthropology</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Karp Bl. 2</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Leaves from a codex of Proverbs</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="http://viaf.org/viaf/34466668">Karp, Abraham J.</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>190 x 161 (130 x 90) mm. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 12 lines; 2-3 breaks per line (possibly assisting reading).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in an Oriental square script.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1050" notAfter="1200"/>
+              <p>Between 1050 and 1200</p>
+              <origPlace>Egypt?</origPlace>
+            </origin>
+            <provenance>Formerly in the collection of Rabbi Dr. Abraham J. Karp.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Genizah — Specimens</term>
+          <term>Hebrew language — Specimens</term>
+          <term>Manuscript fragments — Specimens</term>
+          <term>Jew —History — Egypt — Sources</term>
+          <term>Jews — Israel — History — Sources</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4897px" url="master/11572_0000.tif" width="6702px"/>
+      <graphic height="138px" url="thumb/11572_0000_thumb.jpg" width="190px"/>
+      <graphic height="1315px" url="web/11572_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4897px" url="master/11572_0001.tif" width="6702px"/>
+      <graphic height="138px" url="thumb/11572_0001_thumb.jpg" width="190px"/>
+      <graphic height="1315px" url="web/11572_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

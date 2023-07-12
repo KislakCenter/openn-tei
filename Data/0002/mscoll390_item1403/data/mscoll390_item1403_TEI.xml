@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 1403: Vaṭasāvitrīvratodyāpana</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 1403: Vaṭasāvitrīvratodyāpana are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from incipit (f. 1r).</note>
+        <note>Written in 9-10 lines per leaf.</note>
+        <note>3 segments foliated 1-3, upper left and lower right verso; manuscript is one leaf folded into three segments with the text running sequentially throughout the recto and then sequentially on the verso.</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins; significant syllables, words, or phrases highlighted in red throughout; vertical margins marked with double red line.</note>
+        <note>Watermark with the initials E M A in a V shape.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 1403</idno>
+            <altIdentifier type="bibid">
+              <idno>9964155043503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/910897605</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6415504</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manual with associated rules and laws (dharma) for women to honor their husbands by performing rites and observances (vrata) that involve the wrapping of a banyan or vaṭa tree (Ficus benghalensis) at the end of a larger observance and fast and by honoring the Vedic deity Sāvitrī as a form of the Great Goddess (Devi).</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Vaṭasāvitrīvratodyāpana</title>
+              <title type="vernacular">वटसावित्रीव्रतोद्यापन</title>
+              <colophon>Colophon: iti sāvitrīvratodyāpanasamāptaḥ (f. 3v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (1 leaf) : 33 x 21 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Sāvitrī (Hindu deity)</term>
+          <term>Vratas</term>
+          <term>Hindu women</term>
+          <term>Banyan tree--Religious aspects--Hinduism</term>
+          <term>Tree worship--India</term>
+          <term>Hinduism--Rituals--Texts</term>
+          <term>Rites and ceremonies--India</term>
+          <term>Hindu law</term>
+          <term>Dharma</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuals (instructional materials)</term>
+          <term>Treatises</term>
+          <term>Watermarks</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-1403-1">
+      <graphic height="7680px" url="master/2082_0000.tif" width="5334px"/>
+      <graphic height="190px" url="thumb/2082_0000_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2082_0000_web.jpg" width="1250px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ms-coll-390-item-1403-2">
+      <graphic height="7680px" url="master/2082_0001.tif" width="5334px"/>
+      <graphic height="190px" url="thumb/2082_0001_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2082_0001_web.jpg" width="1250px"/>
+    </surface>
+  </facsimile>
+</TEI>

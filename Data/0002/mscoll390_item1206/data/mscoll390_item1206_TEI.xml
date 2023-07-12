@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 1206: Kenopaniṣad</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 1206: Kenopaniṣad are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from title abbreviations in margins.</note>
+        <note>Written in 9-10 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 1206</idno>
+            <altIdentifier type="bibid">
+              <idno>9963701223503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/904985383</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6370122</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is used for contemplation, study, and recitation, and is a philosophical work dedicated to asking questions about the nature of the universe, human perception of it, and the highest realities therein.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Kenopaniṣad</title>
+              <title type="vernacular">केनोपनिषद्</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 11 x 25 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hinduism--Examinations, questions, etc</term>
+          <term>Perception (Philosophy)</term>
+          <term>Hindu cosmology</term>
+          <term>Hindu philosophy</term>
+          <term>Philosophy, Indic</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-1206-1">
+      <graphic height="3050px" url="master/5432_0000.tif" width="5983px"/>
+      <graphic height="96px" url="thumb/5432_0000_thumb.jpg" width="190px"/>
+      <graphic height="917px" url="web/5432_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-1206-2">
+      <graphic height="5609px" url="master/5432_0001.tif" width="5983px"/>
+      <graphic height="178px" url="thumb/5432_0001_thumb.jpg" width="190px"/>
+      <graphic height="1687px" url="web/5432_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-1206-3">
+      <graphic height="3050px" url="master/5432_0002.tif" width="5983px"/>
+      <graphic height="96px" url="thumb/5432_0002_thumb.jpg" width="190px"/>
+      <graphic height="917px" url="web/5432_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Museum of Archaeology and Anthropology, e16522: Letter</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania Museum of Archaeology and Anthropology</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/2.0/legalcode">Images are  ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution ShareAlike License version 4.0 (CC-BY-2.0 https://creativecommons.org/licenses/by/2.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/2.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Upper part cut away, a frequent practice since the several lines of polite address were not needed for reference, and the back had only the address, so it was used for scrap paper. Thick originally white paper, folded into stripes at 2.5 cm. Back side partly inscribed in usual way for continuation - turned over and upside down and continued. Recto (front): 17 lines (14 fully preserved), plus 14 shorter lines (11 full) on margin. Verso (back side): 16 lines (4 badly preserved), plus 13 on margin. Line 13 seriously damaged by fold (on recto side). See also E 16517. Not yet fully catalogued. Metadata based on image and Advanced Papyrological Information System (APIS) data. Title based on Prof. Robert A. Kraft's 1990 survey of University Museum Hebrew Manuscripts. Upper part missing; lower part torn away irregularly.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>University of Pennsylvania Museum of Archaeology and Anthropology</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">e16522</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb">Judeo-Arabic</textLang>
+            <msItem>
+              <title>Letter</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>17.7 cm. x 18.3 cm. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>1 col.: 17 lines plus 14 lines on margin (Recto); 16 lines plus 13 on margin (Verso)</layout>
+              </layoutDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <provenance>University of Pennsylvania Museum, Ellen W. Harrison Collection. Purchased from Prof. Moritz of Cairo through W.M. Muller, 1910.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4915px" url="master/11565_0000.tif" width="5792px"/>
+      <graphic height="161px" url="thumb/11565_0000_thumb.jpg" width="190px"/>
+      <graphic height="1527px" url="web/11565_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4915px" url="master/11565_0001.tif" width="5792px"/>
+      <graphic height="161px" url="thumb/11565_0001_thumb.jpg" width="190px"/>
+      <graphic height="1527px" url="web/11565_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

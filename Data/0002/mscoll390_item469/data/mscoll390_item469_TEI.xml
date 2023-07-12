@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 469: Saṃkaṭāstotra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 469: Saṃkaṭāstotra are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2).</note>
+        <note>Written in 7 lines per leaf.</note>
+        <note>7 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Dated saṃvat 1882 (1820) (f. 2r).</note>
+        <note>Mistakes blacked out; some corrections and additions in margins; vertical margins marked with double red line.</note>
+        <note>Formerly housed with Item 465, Item 466, Item 467, Item 468, and Item 470. These items likely shared a former owner.</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 469</idno>
+            <altIdentifier type="bibid">
+              <idno>9954526403503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/781297258</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5452640</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Praise (stotra) and veneration text dealing with flora and fauna, especially birds and blossoms, along the banks of the Ganges River in the pilgrimage city of Kāśī (Vārāṇasī).</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Saṃkaṭāstotra</title>
+              <title type="vernacular">संकटस्तोत्र</title>
+              <colophon>Colophon: iti śrīkāśīkhaṃṇḍe saṃkaṭāstotrasamāptaṃ // śubham astu // saṃvata 1882 // (f. 2r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 9 x 17 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Birds--India</term>
+          <term>Flowers--India</term>
+          <term>Hindu pilgrims and pilgrimages--India</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Prayers</term>
+          <term>Poems</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-469-1">
+      <graphic height="2533px" url="master/3542_0000.tif" width="4171px"/>
+      <graphic height="115px" url="thumb/3542_0000_thumb.jpg" width="190px"/>
+      <graphic height="1093px" url="web/3542_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-469-2">
+      <graphic height="4462px" url="master/3542_0001.tif" width="4171px"/>
+      <graphic height="190px" url="thumb/3542_0001_thumb.jpg" width="177px"/>
+      <graphic height="1800px" url="web/3542_0001_web.jpg" width="1683px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-469-3">
+      <graphic height="2533px" url="master/3542_0002.tif" width="4171px"/>
+      <graphic height="115px" url="thumb/3542_0002_thumb.jpg" width="190px"/>
+      <graphic height="1093px" url="web/3542_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

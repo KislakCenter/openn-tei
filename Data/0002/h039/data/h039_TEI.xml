@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 39: Haftarot for Minḥah of Yom Kippur, First day of Sukkoth, with Targum Pseudo-Jonathan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 39: Haftarot for Minḥah of Yom Kippur, First day of Sukkoth, with Targum Pseudo-Jonathan are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Catchwords on each side (?); Hebrew text bears Tiberian vowel points; the Targum bears interlinear Babylonian vowels; headline in slightly enlarged squared characters; From a collection of Haftarot with Targum Pseudo-Jonathan after each verse; it contains the end of the paragraph from Micah (VII 18-20) which concludes the Haftarah for Minḥah of Yom Kippur; followed by, after seven lines of the recto, the heading לראשון של סוכה בתרי עשר; The Haftarah for the first of Sukkoth (Zechariah XIII 9-XIV). This fragment contains up to XIV 16 [והיה כל [הנותר. See S. Goitein: Sidre ḥinukh bi-yeme ha-Geʾonim u-vet ha-Rambam / S.D. Goitein. Yerushalayim : Mekhon Ben-Tsevi, 1962, p. 54.</note>
+        <note>Condition: nearly complete; damage along the edges.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 39</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417373503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="arc">Hebrew; Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textLang>
+            <msItem>
+              <title>Haftarot for Minḥah of Yom Kippur, First day of Sukkoth, with Targum Pseudo-Jonathan</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>29.5 X 18.9 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 32; ruling method: left margin is justified by stretching the last character.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Oriental semi-square vocalization (Tiberian and Babylonian) and cantillation (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>11th century-12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Y.M.H.A.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Yom Kippur , Liturgy , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6957px" url="master/4413_0000.tif" width="4500px"/>
+      <graphic height="190px" url="thumb/4413_0000_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/4413_0000_web.jpg" width="1164px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6957px" url="master/4413_0001.tif" width="4500px"/>
+      <graphic height="190px" url="thumb/4413_0001_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/4413_0001_web.jpg" width="1164px"/>
+    </surface>
+  </facsimile>
+</TEI>

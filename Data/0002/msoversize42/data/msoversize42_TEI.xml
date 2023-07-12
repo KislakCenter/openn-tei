@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Oversize 42: United States military commission</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book &amp; Manuscript Library, Ms. Oversize 42: United States military commission are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Oversize 42</idno>
+            <altIdentifier type="bibid">
+              <idno>9949256323503681</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4925632</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Commission of Thomas H. Cushing as Captain in the Second Sub Legion (the 2nd Infantry Regiment), as of 4 Mar. 1791, signed and dated 19 Mar. 1793. Signed by George Washington, President of the United States; Henry Knox, Secretary of War; and John Stagg, Chief Clerk of the War Department. An engraved form printed on parchment with information about name, rank, and date added by hand and with paper seal attached in the upper left corner. At the top is an engraving of the American eagle much as it appears in the Great Seal of the United States; at the bottom is a vignette containing weapons and flags and the statement Drawn &amp; engraved by Thackara &amp; Vallance, Philadelphia. Inscription in ink at the bottom edge of the verso: Cap. Cushing.</summary>
+            <msItem>
+              <title>United States military commission</title>
+              <author>United States</author>
+              <author>Washington, George, 1732-1799</author>
+              <author>Knox, Henry, 1750-1806</author>
+              <author>Stagg, John</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Crandall, W. W</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Sudo, Maryann</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by the Carnegie Book Shop (New York) to W. W. Crandall.</provenance>
+            <provenance>Gift of Maryann Sudo, 2010.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>United States.--Army--History--18th century</term>
+          <term>United States.--Army--Officers</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Military commissions</term>
+          <term>Engravings</term>
+          <term>Manuscripts, American--18th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="6462px" url="master/5576_0000.tif" width="5366px"/>
+      <graphic height="190px" url="thumb/5576_0000_thumb.jpg" width="158px"/>
+      <graphic height="1800px" url="web/5576_0000_web.jpg" width="1495px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="6462px" url="master/5576_0001.tif" width="5366px"/>
+      <graphic height="190px" url="thumb/5576_0001_thumb.jpg" width="158px"/>
+      <graphic height="1800px" url="web/5576_0001_web.jpg" width="1495px"/>
+    </surface>
+  </facsimile>
+</TEI>

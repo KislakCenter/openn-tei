@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 394: Letter to Moses Abu-l'Ḥai, Fustat</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 394: Letter to Moses Abu-l'Ḥai, Fustat are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Hebrew phrases denoted by a bar above each word; address on verso; The writer deals with various topics, and urges the addressee to cause Isaac "the teacher" ben Ḥayim "the Scribe" Nafussi (who also appears as an alternate addressee on the verso) to settle the accounts for books given to him for sale. The same Isaac appears in Cambridge T-S 24.44, dated 1102.</note>
+        <note>Condition: damaged, loss in left edge; folded in mail format.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 394</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420713503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb" otherLangs="heb">Judeo-Arabic; Hebrew</textLang>
+            <msItem>
+              <title>Letter to Moses Abu-l'Ḥai, Fustat</title>
+              <author>Amram ben Yosef ibn al-Nagid,12th/13th cent.</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>26.3 X 19 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 32 (recto), 26 (verso); ruling method: in mail format.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1185" notAfter="1215"/>
+              <p>late 12th century-early 13th century?</p>
+              <origPlace>Alexandria</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hebrew letters</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6925px" url="master/4759_0000.tif" width="4864px"/>
+      <graphic height="190px" url="thumb/4759_0000_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/4759_0000_web.jpg" width="1264px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6925px" url="master/4759_0001.tif" width="4864px"/>
+      <graphic height="190px" url="thumb/4759_0001_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/4759_0001_web.jpg" width="1264px"/>
+    </surface>
+  </facsimile>
+</TEI>

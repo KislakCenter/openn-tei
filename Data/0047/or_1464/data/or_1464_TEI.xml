@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 1464: The Pentateuch scroll.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 1464: The Pentateuch scroll. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 1464: The Pentateuch scroll.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Black contracted edges with splits, especially at inner end.</note>
+        <note>Some longer tears, some obscuring text.</note>
+        <note>Surface delamination.</note>
+        <note>Old repairs.</note>
+        <note>Dirt and accretions.</note>
+        <note>Small section of ink flaking.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 1464</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1464</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Pentateuch scroll.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Pentateuch scroll.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="leather">
+                <support>
+                  <p>Leather</p>
+                </support>
+                <extent>25 membranes, 75 columns.; 25 membranes, 75 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 75; ruled lines: 52 53; written lines: 52 53; Uniform layout. Ruling by hard point. Visible pricking and stiching. 75 columns in total, three columns per membrane. Three tagin on שעטנזגץ, and one on the letter ח. Several occurences of majuscular and minuscular letters. Special shape of the letter פ occurs frequently.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Oriental square script of the 16th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Boxed.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1500" notAfter="1599"/>
+              <p>Between 1500 and 1599</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="6763px" url="master/13020_0000.jpg" width="2493px"/>
+      <graphic height="190px" url="thumb/13020_0000_thumb.jpg" width="70px"/>
+      <graphic height="1800px" url="web/13020_0000_web.jpg" width="663px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="2885px" url="master/13020_0001.jpg" width="27769px"/>
+      <graphic height="19px" url="thumb/13020_0001_thumb.jpg" width="190px"/>
+      <graphic height="187px" url="web/13020_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="2885px" url="master/13020_0002.jpg" width="29906px"/>
+      <graphic height="18px" url="thumb/13020_0002_thumb.jpg" width="190px"/>
+      <graphic height="173px" url="web/13020_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

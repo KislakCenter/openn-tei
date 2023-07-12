@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 271: Collected piyutim for the Fast of Gedaliah</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 271: Collected piyutim for the Fast of Gedaliah are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Each strophe begins a new line; verse endings not corresponding with line endings denoted by a punctus; A. (fol. 1) verses ע to the end, of a poem, probably a Seliḥah for the Fast of Gedaliah. There are four verses per strophe, each letter begins two verses. After ת there is an additional strophe, followed by the line יכמרו רחמיך אל שארית רחומים; B. (fol. 2) Strophes ב-ו (Meḥayeh - Ḥanun) of a Ḳerovah le-Shemoneh ẹśreh for the Fast of Gedaliah, The beginning of this poem is found in Cambridge T-S H4.28, where it starts ארץ ארץ ארץ השמעת דבר קולך; Sporadically vocalized; our verses per strophe, the first two are of the same letter, the third startsבצום השביעי. After the contracted allusion to the blessing מחיה, is an additional allusion to the beginning of Ḳedushah: כתר יתנו לך (as is the standard Ḳedushah in Siddur R. 'Amram, Warsaw, 1865, p. 10).</note>
+        <note>Condition: non-consecutive, complete.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 271</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419513503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Collected piyutim for the Fast of Gedaliah</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>18.7 X 11.7 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 11; ruling method: left rule occasionally justified by cramping exceeding word between lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1399"/>
+              <p>12th century-14th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Fasts and feasts , Judaism Liturgy , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4706px" url="master/4638_0000.tif" width="2896px"/>
+      <graphic height="190px" url="thumb/4638_0000_thumb.jpg" width="117px"/>
+      <graphic height="1800px" url="web/4638_0000_web.jpg" width="1107px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4706px" url="master/4638_0001.tif" width="2896px"/>
+      <graphic height="190px" url="thumb/4638_0001_thumb.jpg" width="117px"/>
+      <graphic height="1800px" url="web/4638_0001_web.jpg" width="1107px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4706px" url="master/4638_0002.tif" width="2896px"/>
+      <graphic height="190px" url="thumb/4638_0002_thumb.jpg" width="117px"/>
+      <graphic height="1800px" url="web/4638_0002_web.jpg" width="1107px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4706px" url="master/4638_0003.tif" width="2896px"/>
+      <graphic height="190px" url="thumb/4638_0003_thumb.jpg" width="117px"/>
+      <graphic height="1800px" url="web/4638_0003_web.jpg" width="1107px"/>
+    </surface>
+  </facsimile>
+</TEI>

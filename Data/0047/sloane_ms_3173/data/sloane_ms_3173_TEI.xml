@@ -1,0 +1,574 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Sloane MS 3173: Hagadah for Passover with the commentaries of Isaac Abravanel ('Leipnik Haggadah').</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Sloane MS 3173: Hagadah for Passover with the commentaries of Isaac Abravanel ('Leipnik Haggadah'). are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Sloane MS 3173: Hagadah for Passover with the commentaries of Isaac Abravanel ('Leipnik Haggadah').. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Sloane MS 3173</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_3173</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Hagadah for Passover with the commentaries of Isaac Abravanel ('Leipnik Haggadah').</summary>
+            <textLang mainLang="he" otherLangs="yid">Hebrew; Yiddish</textLang>
+            <msItem>
+              <title>Hagadah for Passover with the commentaries of Isaac Abravanel ('Leipnik Haggadah').</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>40 folios; 40 folios </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; ruled lines: 10 60; written lines: 10 60; Ruling and sometimes pricking are visible. Watermark, folio [41v], of a fleur-de-lis, unidentified. The square and semi-cursive scripts are imitations of the Amsterdam letters and Rashi script respectively used in printing.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Ashkenazi punctuated square and unpunctuated semi-cursive script.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>Post-1600. Brown leather, gold tooled.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="1740"/>
+              <p>1740</p>
+              <origPlace>Hamburg-Altona</origPlace>
+            </origin>
+            <provenance>Yosef ben David of Leipnik</provenance>
+            <provenance>Acquisition: Sir Hans Sloane: baronet, physician and collector (b. 1660, d. 1753): in his collection; acquired by the British Museum in 1753. English inscription citing the Catalogue of the Sloane Manuscripts (on a paper slip glued to folio [41v]).</provenance>
+            <provenance>Acquisition: Note by Frederic Madden: "See another copy of this work, similarly written and ornamented, MS Add. 18724. F.M." (folio [41v]).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="8478px" url="master/13151_0000.jpg" width="6327px"/>
+      <graphic height="190px" url="thumb/13151_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0000_web.jpg" width="1343px"/>
+    </surface>
+    <surface n="front-i">
+      <graphic height="8570px" url="master/13151_0001.jpg" width="6399px"/>
+      <graphic height="190px" url="thumb/13151_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0001_web.jpg" width="1344px"/>
+    </surface>
+    <surface n="i-r">
+      <graphic height="8617px" url="master/13151_0002.jpg" width="6386px"/>
+      <graphic height="190px" url="thumb/13151_0002_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0002_web.jpg" width="1334px"/>
+    </surface>
+    <surface n="i-v">
+      <graphic height="8570px" url="master/13151_0003.jpg" width="6399px"/>
+      <graphic height="190px" url="thumb/13151_0003_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0003_web.jpg" width="1344px"/>
+    </surface>
+    <surface n="ii-r">
+      <graphic height="8617px" url="master/13151_0004.jpg" width="6386px"/>
+      <graphic height="190px" url="thumb/13151_0004_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0004_web.jpg" width="1334px"/>
+    </surface>
+    <surface n="ii-v">
+      <graphic height="8570px" url="master/13151_0005.jpg" width="6399px"/>
+      <graphic height="190px" url="thumb/13151_0005_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0005_web.jpg" width="1344px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="8617px" url="master/13151_0006.jpg" width="6386px"/>
+      <graphic height="190px" url="thumb/13151_0006_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0006_web.jpg" width="1334px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="8588px" url="master/13151_0007.jpg" width="6418px"/>
+      <graphic height="190px" url="thumb/13151_0007_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0007_web.jpg" width="1345px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="8498px" url="master/13151_0008.jpg" width="6356px"/>
+      <graphic height="190px" url="thumb/13151_0008_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0008_web.jpg" width="1346px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="8588px" url="master/13151_0009.jpg" width="6418px"/>
+      <graphic height="190px" url="thumb/13151_0009_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0009_web.jpg" width="1345px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="8647px" url="master/13151_0010.jpg" width="6367px"/>
+      <graphic height="190px" url="thumb/13151_0010_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/13151_0010_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="8588px" url="master/13151_0011.jpg" width="6418px"/>
+      <graphic height="190px" url="thumb/13151_0011_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0011_web.jpg" width="1345px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="8647px" url="master/13151_0012.jpg" width="6367px"/>
+      <graphic height="190px" url="thumb/13151_0012_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/13151_0012_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="8519px" url="master/13151_0013.jpg" width="6449px"/>
+      <graphic height="190px" url="thumb/13151_0013_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0013_web.jpg" width="1363px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="8647px" url="master/13151_0014.jpg" width="6367px"/>
+      <graphic height="190px" url="thumb/13151_0014_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/13151_0014_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="8668px" url="master/13151_0015.jpg" width="6449px"/>
+      <graphic height="190px" url="thumb/13151_0015_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0015_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="8572px" url="master/13151_0016.jpg" width="6419px"/>
+      <graphic height="190px" url="thumb/13151_0016_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0016_web.jpg" width="1348px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="8668px" url="master/13151_0017.jpg" width="6449px"/>
+      <graphic height="190px" url="thumb/13151_0017_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0017_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="8572px" url="master/13151_0018.jpg" width="6419px"/>
+      <graphic height="190px" url="thumb/13151_0018_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0018_web.jpg" width="1348px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="8668px" url="master/13151_0019.jpg" width="6449px"/>
+      <graphic height="190px" url="thumb/13151_0019_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0019_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="8542px" url="master/13151_0020.jpg" width="6439px"/>
+      <graphic height="190px" url="thumb/13151_0020_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0020_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="8668px" url="master/13151_0021.jpg" width="6449px"/>
+      <graphic height="190px" url="thumb/13151_0021_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0021_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="8494px" url="master/13151_0022.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0022_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0022_web.jpg" width="1364px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="8706px" url="master/13151_0023.jpg" width="6489px"/>
+      <graphic height="190px" url="thumb/13151_0023_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0023_web.jpg" width="1342px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="8494px" url="master/13151_0024.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0024_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0024_web.jpg" width="1364px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="8508px" url="master/13151_0025.jpg" width="6489px"/>
+      <graphic height="190px" url="thumb/13151_0025_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0025_web.jpg" width="1372px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="8494px" url="master/13151_0026.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0026_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0026_web.jpg" width="1364px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="8508px" url="master/13151_0027.jpg" width="6489px"/>
+      <graphic height="190px" url="thumb/13151_0027_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0027_web.jpg" width="1372px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="8494px" url="master/13151_0028.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0028_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0028_web.jpg" width="1364px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="8508px" url="master/13151_0029.jpg" width="6489px"/>
+      <graphic height="190px" url="thumb/13151_0029_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0029_web.jpg" width="1372px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="8494px" url="master/13151_0030.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0030_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0030_web.jpg" width="1364px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="8528px" url="master/13151_0031.jpg" width="6489px"/>
+      <graphic height="190px" url="thumb/13151_0031_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0031_web.jpg" width="1369px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="8578px" url="master/13151_0032.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0032_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0032_web.jpg" width="1351px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="8638px" url="master/13151_0033.jpg" width="6489px"/>
+      <graphic height="190px" url="thumb/13151_0033_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0033_web.jpg" width="1352px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="8578px" url="master/13151_0034.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0034_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0034_web.jpg" width="1351px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="8638px" url="master/13151_0035.jpg" width="6489px"/>
+      <graphic height="190px" url="thumb/13151_0035_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0035_web.jpg" width="1352px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="8578px" url="master/13151_0036.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0036_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0036_web.jpg" width="1351px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="8638px" url="master/13151_0037.jpg" width="6489px"/>
+      <graphic height="190px" url="thumb/13151_0037_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0037_web.jpg" width="1352px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="8578px" url="master/13151_0038.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0038_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0038_web.jpg" width="1351px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="8667px" url="master/13151_0039.jpg" width="6489px"/>
+      <graphic height="190px" url="thumb/13151_0039_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0039_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="8578px" url="master/13151_0040.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0040_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0040_web.jpg" width="1351px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="8667px" url="master/13151_0041.jpg" width="6489px"/>
+      <graphic height="190px" url="thumb/13151_0041_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0041_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="8578px" url="master/13151_0042.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0042_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0042_web.jpg" width="1351px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="8667px" url="master/13151_0043.jpg" width="6489px"/>
+      <graphic height="190px" url="thumb/13151_0043_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0043_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="8578px" url="master/13151_0044.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0044_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0044_web.jpg" width="1351px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="8576px" url="master/13151_0045.jpg" width="6489px"/>
+      <graphic height="190px" url="thumb/13151_0045_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0045_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="21r">
+      <graphic height="8534px" url="master/13151_0046.jpg" width="6504px"/>
+      <graphic height="190px" url="thumb/13151_0046_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0046_web.jpg" width="1372px"/>
+    </surface>
+    <surface n="21v">
+      <graphic height="8494px" url="master/13151_0047.jpg" width="6377px"/>
+      <graphic height="190px" url="thumb/13151_0047_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0047_web.jpg" width="1351px"/>
+    </surface>
+    <surface n="22r">
+      <graphic height="8534px" url="master/13151_0048.jpg" width="6504px"/>
+      <graphic height="190px" url="thumb/13151_0048_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0048_web.jpg" width="1372px"/>
+    </surface>
+    <surface n="22v">
+      <graphic height="8494px" url="master/13151_0049.jpg" width="6377px"/>
+      <graphic height="190px" url="thumb/13151_0049_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0049_web.jpg" width="1351px"/>
+    </surface>
+    <surface n="23r">
+      <graphic height="8614px" url="master/13151_0050.jpg" width="6504px"/>
+      <graphic height="190px" url="thumb/13151_0050_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0050_web.jpg" width="1359px"/>
+    </surface>
+    <surface n="23v">
+      <graphic height="8400px" url="master/13151_0051.jpg" width="6377px"/>
+      <graphic height="190px" url="thumb/13151_0051_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0051_web.jpg" width="1366px"/>
+    </surface>
+    <surface n="24r">
+      <graphic height="8634px" url="master/13151_0052.jpg" width="6439px"/>
+      <graphic height="190px" url="thumb/13151_0052_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0052_web.jpg" width="1342px"/>
+    </surface>
+    <surface n="24v">
+      <graphic height="8400px" url="master/13151_0053.jpg" width="6377px"/>
+      <graphic height="190px" url="thumb/13151_0053_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0053_web.jpg" width="1366px"/>
+    </surface>
+    <surface n="25r">
+      <graphic height="8505px" url="master/13151_0054.jpg" width="6425px"/>
+      <graphic height="190px" url="thumb/13151_0054_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0054_web.jpg" width="1360px"/>
+    </surface>
+    <surface n="25v">
+      <graphic height="8509px" url="master/13151_0055.jpg" width="6397px"/>
+      <graphic height="190px" url="thumb/13151_0055_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0055_web.jpg" width="1353px"/>
+    </surface>
+    <surface n="26r">
+      <graphic height="8537px" url="master/13151_0056.jpg" width="6425px"/>
+      <graphic height="190px" url="thumb/13151_0056_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0056_web.jpg" width="1355px"/>
+    </surface>
+    <surface n="26v">
+      <graphic height="8509px" url="master/13151_0057.jpg" width="6397px"/>
+      <graphic height="190px" url="thumb/13151_0057_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0057_web.jpg" width="1353px"/>
+    </surface>
+    <surface n="27r">
+      <graphic height="8577px" url="master/13151_0058.jpg" width="6425px"/>
+      <graphic height="190px" url="thumb/13151_0058_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0058_web.jpg" width="1348px"/>
+    </surface>
+    <surface n="27v">
+      <graphic height="8419px" url="master/13151_0059.jpg" width="6417px"/>
+      <graphic height="190px" url="thumb/13151_0059_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0059_web.jpg" width="1372px"/>
+    </surface>
+    <surface n="28r">
+      <graphic height="8601px" url="master/13151_0060.jpg" width="6425px"/>
+      <graphic height="190px" url="thumb/13151_0060_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0060_web.jpg" width="1344px"/>
+    </surface>
+    <surface n="28v">
+      <graphic height="8419px" url="master/13151_0061.jpg" width="6417px"/>
+      <graphic height="190px" url="thumb/13151_0061_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13151_0061_web.jpg" width="1372px"/>
+    </surface>
+    <surface n="29r">
+      <graphic height="8601px" url="master/13151_0062.jpg" width="6425px"/>
+      <graphic height="190px" url="thumb/13151_0062_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0062_web.jpg" width="1344px"/>
+    </surface>
+    <surface n="29v">
+      <graphic height="8650px" url="master/13151_0063.jpg" width="6417px"/>
+      <graphic height="190px" url="thumb/13151_0063_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0063_web.jpg" width="1335px"/>
+    </surface>
+    <surface n="30r">
+      <graphic height="8562px" url="master/13151_0064.jpg" width="6439px"/>
+      <graphic height="190px" url="thumb/13151_0064_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0064_web.jpg" width="1353px"/>
+    </surface>
+    <surface n="30v">
+      <graphic height="8650px" url="master/13151_0065.jpg" width="6417px"/>
+      <graphic height="190px" url="thumb/13151_0065_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0065_web.jpg" width="1335px"/>
+    </surface>
+    <surface n="31r">
+      <graphic height="8562px" url="master/13151_0066.jpg" width="6439px"/>
+      <graphic height="190px" url="thumb/13151_0066_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0066_web.jpg" width="1353px"/>
+    </surface>
+    <surface n="31v">
+      <graphic height="8650px" url="master/13151_0067.jpg" width="6417px"/>
+      <graphic height="190px" url="thumb/13151_0067_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0067_web.jpg" width="1335px"/>
+    </surface>
+    <surface n="32r">
+      <graphic height="8677px" url="master/13151_0068.jpg" width="6481px"/>
+      <graphic height="190px" url="thumb/13151_0068_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0068_web.jpg" width="1344px"/>
+    </surface>
+    <surface n="32v">
+      <graphic height="8650px" url="master/13151_0069.jpg" width="6417px"/>
+      <graphic height="190px" url="thumb/13151_0069_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0069_web.jpg" width="1335px"/>
+    </surface>
+    <surface n="33r">
+      <graphic height="8585px" url="master/13151_0070.jpg" width="6441px"/>
+      <graphic height="190px" url="thumb/13151_0070_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0070_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="33v">
+      <graphic height="8650px" url="master/13151_0071.jpg" width="6417px"/>
+      <graphic height="190px" url="thumb/13151_0071_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0071_web.jpg" width="1335px"/>
+    </surface>
+    <surface n="34r">
+      <graphic height="8557px" url="master/13151_0072.jpg" width="6441px"/>
+      <graphic height="190px" url="thumb/13151_0072_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0072_web.jpg" width="1355px"/>
+    </surface>
+    <surface n="34v">
+      <graphic height="8650px" url="master/13151_0073.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0073_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0073_web.jpg" width="1340px"/>
+    </surface>
+    <surface n="35r">
+      <graphic height="8607px" url="master/13151_0074.jpg" width="6441px"/>
+      <graphic height="190px" url="thumb/13151_0074_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0074_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="35v">
+      <graphic height="8650px" url="master/13151_0075.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0075_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0075_web.jpg" width="1340px"/>
+    </surface>
+    <surface n="36r">
+      <graphic height="8607px" url="master/13151_0076.jpg" width="6441px"/>
+      <graphic height="190px" url="thumb/13151_0076_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0076_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="36v">
+      <graphic height="8650px" url="master/13151_0077.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0077_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0077_web.jpg" width="1340px"/>
+    </surface>
+    <surface n="37r">
+      <graphic height="8607px" url="master/13151_0078.jpg" width="6441px"/>
+      <graphic height="190px" url="thumb/13151_0078_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0078_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="37v">
+      <graphic height="8736px" url="master/13151_0079.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0079_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13151_0079_web.jpg" width="1327px"/>
+    </surface>
+    <surface n="38r">
+      <graphic height="8607px" url="master/13151_0080.jpg" width="6441px"/>
+      <graphic height="190px" url="thumb/13151_0080_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0080_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="38v">
+      <graphic height="8736px" url="master/13151_0081.jpg" width="6440px"/>
+      <graphic height="190px" url="thumb/13151_0081_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13151_0081_web.jpg" width="1327px"/>
+    </surface>
+    <surface n="39r">
+      <graphic height="8607px" url="master/13151_0082.jpg" width="6441px"/>
+      <graphic height="190px" url="thumb/13151_0082_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0082_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="39v">
+      <graphic height="8671px" url="master/13151_0083.jpg" width="6470px"/>
+      <graphic height="190px" url="thumb/13151_0083_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0083_web.jpg" width="1343px"/>
+    </surface>
+    <surface n="40r">
+      <graphic height="8607px" url="master/13151_0084.jpg" width="6441px"/>
+      <graphic height="190px" url="thumb/13151_0084_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0084_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="40v">
+      <graphic height="8671px" url="master/13151_0085.jpg" width="6470px"/>
+      <graphic height="190px" url="thumb/13151_0085_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0085_web.jpg" width="1343px"/>
+    </surface>
+    <surface n="41r">
+      <graphic height="8607px" url="master/13151_0086.jpg" width="6441px"/>
+      <graphic height="190px" url="thumb/13151_0086_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13151_0086_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="41v">
+      <graphic height="8696px" url="master/13151_0087.jpg" width="6541px"/>
+      <graphic height="190px" url="thumb/13151_0087_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13151_0087_web.jpg" width="1353px"/>
+    </surface>
+    <surface n="i-r">
+      <graphic height="8628px" url="master/13151_0088.jpg" width="6358px"/>
+      <graphic height="190px" url="thumb/13151_0088_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13151_0088_web.jpg" width="1326px"/>
+    </surface>
+    <surface n="i-v">
+      <graphic height="8492px" url="master/13151_0089.jpg" width="6309px"/>
+      <graphic height="190px" url="thumb/13151_0089_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0089_web.jpg" width="1337px"/>
+    </surface>
+    <surface n="ii-r">
+      <graphic height="8628px" url="master/13151_0090.jpg" width="6358px"/>
+      <graphic height="190px" url="thumb/13151_0090_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13151_0090_web.jpg" width="1326px"/>
+    </surface>
+    <surface n="ii-v">
+      <graphic height="8556px" url="master/13151_0091.jpg" width="6178px"/>
+      <graphic height="190px" url="thumb/13151_0091_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/13151_0091_web.jpg" width="1300px"/>
+    </surface>
+    <surface n="iii-r">
+      <graphic height="8628px" url="master/13151_0092.jpg" width="6358px"/>
+      <graphic height="190px" url="thumb/13151_0092_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13151_0092_web.jpg" width="1326px"/>
+    </surface>
+    <surface n="iii-v">
+      <graphic height="8526px" url="master/13151_0093.jpg" width="6267px"/>
+      <graphic height="190px" url="thumb/13151_0093_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/13151_0093_web.jpg" width="1323px"/>
+    </surface>
+    <surface n="back-i">
+      <graphic height="8628px" url="master/13151_0094.jpg" width="6358px"/>
+      <graphic height="190px" url="thumb/13151_0094_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13151_0094_web.jpg" width="1326px"/>
+    </surface>
+    <surface n="back">
+      <graphic height="8478px" url="master/13151_0095.jpg" width="6277px"/>
+      <graphic height="190px" url="thumb/13151_0095_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13151_0095_web.jpg" width="1332px"/>
+    </surface>
+    <surface n="spine">
+      <graphic height="8810px" url="master/13151_0096.jpg" width="1649px"/>
+      <graphic height="190px" url="thumb/13151_0096_thumb.jpg" width="35px"/>
+      <graphic height="1800px" url="web/13151_0096_web.jpg" width="336px"/>
+    </surface>
+  </facsimile>
+</TEI>

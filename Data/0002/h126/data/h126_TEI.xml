@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 126: Sefer ha-Eshkol, Tefilin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 126: Sefer ha-Eshkol, Tefilin are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Outer sheet of fascicle; text breaks are denoted by 2 spaces; Fol. 1 contains the text parallel to, in the printed edition of Albeck: Abraham ben Isaac, of Narbonne. Sefer ha-Eshkol / Ḥanokh Albeck [ed.]. Yerushalayim : R. Mas, 1934-1938. , p. 226 l. 22 הויות מלגיו – p. 227 l. 13 [שהגשר בלש[ון. After one missing bifolio, fol. 2 resumes at p. 229 l. 10 בן לקיש – l. 32 [טובים [לאו זמן; A non-consecutive paper bifolium, damaged and slightly missing in the lower interior corner. 13 lines per page. The left rule is justified by the downward slanting of the exceeding word. Text breaks are signified by 2 empty spaces; This is from the only known Oriental copy of this work, probably antedating the two European mss. used in the Albeck edition; Halper erroneously attributes this to Alfasi, on Tefillin (after Menaḥot, chapter 3).</note>
+        <note>Condition: non-consecutive; torn, faded, loss in lower interior corner.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 126</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418153503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="arc">Hebrew; Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textLang>
+            <msItem>
+              <title>Sefer ha-Eshkol, Tefilin</title>
+              <author>Abraham ben Isaac,ca. 1110-1179.</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17.1 X 13.2 </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 13; ruling method: left rule justified by downward slanting of exceeding word.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1199"/>
+              <p>12th century</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Jewish law</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3794px" url="master/4498_0000.tif" width="3184px"/>
+      <graphic height="190px" url="thumb/4498_0000_thumb.jpg" width="159px"/>
+      <graphic height="1800px" url="web/4498_0000_web.jpg" width="1511px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3794px" url="master/4498_0001.tif" width="3184px"/>
+      <graphic height="190px" url="thumb/4498_0001_thumb.jpg" width="159px"/>
+      <graphic height="1800px" url="web/4498_0001_web.jpg" width="1511px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3794px" url="master/4498_0002.tif" width="3184px"/>
+      <graphic height="190px" url="thumb/4498_0002_thumb.jpg" width="159px"/>
+      <graphic height="1800px" url="web/4498_0002_web.jpg" width="1511px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3794px" url="master/4498_0003.tif" width="3184px"/>
+      <graphic height="190px" url="thumb/4498_0003_thumb.jpg" width="159px"/>
+      <graphic height="1800px" url="web/4498_0003_web.jpg" width="1511px"/>
+    </surface>
+  </facsimile>
+</TEI>

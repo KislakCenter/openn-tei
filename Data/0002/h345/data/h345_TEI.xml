@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 345: Court document</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 345: Court document are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A court document in Judeo-Arabic. The witnesses, Abu'l Munajja ha-kohen ben Abu'l Wafa and Abu'l Hassan ben Abul'Wa.hash testify that Abu Sahl ha-Levi ben Joseph has paid the sum that was to be added for the partnership between Abu'l Hassan and Abu Natsr ben Khalf; The first autograph signature is that of Hillel ben Tsadok the Av Bet Din, the second is torn and illegible, only the title הח]בר] is extant. In Oxford Bodleian Heb. d. 66 (Cowely 2878) fol. 76, the same R. Hillel co-signs with Mevorakh ben Nathan ha-haver, the clerk and scribe in the court of Fustat between 1150-1181 (below 346, see also Mann, The Jews of Egypt vol. II p. 293; Goitein, A Mediterranean Society, vol. V p. 358); In a letter dated 1153, Samuel ha-nagid refers to our Hillel (or his father) as the Av Bet Din 'of all of Israel'in Cambridge T-S 13J 18 fol. 25 (Mann, ibid. p. 287), yet in terms of documentation, he is relatively obscure; On the verso, in a different, more cursive hand, is a list in Judeo-Arabic of items in the dowry of Sitt al-Ruat towards her marriage to Mevorakh ben Abu ʹAli.</note>
+        <note>Condition: nearly complete; damaged, faded, losses.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 345</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420233503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb">Judeo-Arabic</textLang>
+            <msItem>
+              <title>Court document</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>15.3 X 13 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 18 (recto), 16 (verso).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate/>
+              <p>Feb. 1150</p>
+              <origPlace>Fustat</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Court records</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4050px" url="master/4711_0000.tif" width="3344px"/>
+      <graphic height="190px" url="thumb/4711_0000_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/4711_0000_web.jpg" width="1486px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4098px" url="master/4711_0001.tif" width="3344px"/>
+      <graphic height="190px" url="thumb/4711_0001_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/4711_0001_web.jpg" width="1469px"/>
+    </surface>
+  </facsimile>
+</TEI>

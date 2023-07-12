@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 214: Haggadah for Passover (an improvisational version)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 214: Haggadah for Passover (an improvisational version) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Text breaks are dentoted by a sof pasuḳ, plus a space; The text that appears in this fragment is clearly structured on the common Passover Hagaddah. The fragment starts with the citation of Gen. XIV 13-14 and ends in Ez. XVI 4-5; Yet the rest is a well-structured deviation from the standard text, with much biblical citation; The small size, square letters and full vocalization may also indicate that this is intended for popular usage, possibly by ignorant laymen or children who would not benefit from the standard formal text.</note>
+        <note>Condition: consecutive, complete.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 214</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418943503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="arc" otherLangs="heb">Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE); Hebrew</textLang>
+            <msItem>
+              <title>Haggadah for Passover (an improvisational version)</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>13 X 9.9 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 11-12; ruling method: left rule is justified by a single character from anticipated word.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental square vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1399"/>
+              <p>12th century-14th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Haggadot , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3366px" url="master/4582_0000.tif" width="2528px"/>
+      <graphic height="190px" url="thumb/4582_0000_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4582_0000_web.jpg" width="1352px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3366px" url="master/4582_0001.tif" width="2528px"/>
+      <graphic height="190px" url="thumb/4582_0001_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4582_0001_web.jpg" width="1352px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3366px" url="master/4582_0002.tif" width="2528px"/>
+      <graphic height="190px" url="thumb/4582_0002_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4582_0002_web.jpg" width="1352px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3366px" url="master/4582_0003.tif" width="2528px"/>
+      <graphic height="190px" url="thumb/4582_0003_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4582_0003_web.jpg" width="1352px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<marc:records xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:record>
+    <marc:leader>01320ctmaa22002772a 4500</marc:leader>
+    <marc:controlfield tag="001">9924311453503681</marc:controlfield>
+    <marc:controlfield tag="005">20220504172007.0</marc:controlfield>
+    <marc:controlfield tag="008">920915q11101114ua            ||| | jrb d</marc:controlfield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(OCoLC)on1310071290</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(OCoLC)1310071290</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(CStRLIN)PAAH92-A61</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(PU)2431145-penndb-Voyager</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="066">
+  <marc:subfield code="c">(2</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2="0" tag="245">
+  <marc:subfield code="6">880-01</marc:subfield>
+  <marc:subfield code="a">K&#x323;et&#x323;a&#x2BB;a shel lu&#x2BE;ah&#x323; shanah.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="340">
+  <marc:subfield code="a">Paper.</marc:subfield>
+  <marc:subfield code="b">2 leaves, measuring 7 x 5 1/4 inches.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="546">
+  <marc:subfield code="a">Judeo-Arabic.</marc:subfield>
+  <marc:subfield code="b">square characters, in black ink.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="650">
+  <marc:subfield code="a">Calendar.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="2" ind2=" " tag="710">
+  <marc:subfield code="a">Annenberg Research Institute.</marc:subfield>
+  <marc:subfield code="k">Manuscript.</marc:subfield>
+  <marc:subfield code="n">Rare ms. 69.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2=" " tag="740">
+  <marc:subfield code="a">Lu&#x2BE;ah&#x323; Shanah.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2=" " tag="740">
+  <marc:subfield code="a">Part of descriptive calendar, Judeo Arabic.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2=" " tag="740">
+  <marc:subfield code="a">Cairo Genizah Fragment.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="852">
+  <marc:subfield code="b">Library at the Herbert D. Katz Center for Advanced Judaic Studies</marc:subfield>
+  <marc:subfield code="a">University of Pennsylvania</marc:subfield>
+  <marc:subfield code="e">420 Walnut Street, Philadelphia, Pennsylvania 19106-3703.</marc:subfield>
+  <marc:subfield code="j">CAJS Rar Ms 69</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="4" ind2="1" tag="856">
+  <marc:subfield code="z">Digital facsimile for browsing (Colenda)</marc:subfield>
+  <marc:subfield code="u">https://colenda.library.upenn.edu/catalog/81431-p34q7r61d</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2="0" tag="880">
+  <marc:subfield code="6">245-01/(2/r</marc:subfield>
+  <marc:subfield code="a">&#x5E7;&#x5D8;&#x5E2; &#x5E9;&#x5DC; &#x5DC;&#x5D5;&#x5D7; &#x5E9;&#x5E0;&#x5D4;.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="949">
+  <marc:subfield code="a">CAJS Rar Ms 69</marc:subfield>
+  <marc:subfield code="c">1</marc:subfield>
+  <marc:subfield code="f">AR1</marc:subfield>
+  <marc:subfield code="l">cjs</marc:subfield>
+  <marc:subfield code="z">006959900454</marc:subfield>
+  <marc:subfield code="1">L001001000</marc:subfield>
+  <marc:subfield code="3">931108</marc:subfield>
+  <marc:subfield code="4">L99N</marc:subfield>
+  <marc:subfield code="7">ARA</marc:subfield>
+  <marc:subfield code="8">RLIN</marc:subfield>
+  <marc:subfield code="9">1110</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="950">
+  <marc:subfield code="l">PAAH</marc:subfield>
+  <marc:subfield code="i">10/01/92 C</marc:subfield>
+</marc:datafield>
+    <marc:holdings>
+      <marc:holding>
+        <marc:holding_id>22399597150003681</marc:holding_id>
+        <marc:call_number>CAJS Rar Ms 69</marc:call_number>
+        <marc:library>KatzLib</marc:library>
+        <marc:location>cjsrarms</marc:location>
+      </marc:holding>
+    </marc:holdings>
+  </marc:record>
+</marc:records>

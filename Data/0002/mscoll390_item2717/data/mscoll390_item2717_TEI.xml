@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2717: Tvaritarudraviddhi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2717: Tvaritarudraviddhi are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 3v); alternate title Tvaritarudra from margin.</note>
+        <note>Written in 3 lines per leaf.</note>
+        <note>3 leaves foliated 1-3, upper left and lower right verso.</note>
+        <note>Additions in margins of final folio (f. 3v).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2717</idno>
+            <altIdentifier type="bibid">
+              <idno>9975391453503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/973954244</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/7539145</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Primarily a collection of Tantric mantras (words or phrases of power) for use in rites and ceremonies dedicated to the Hindu deity Tvaritarudra, a god combining Rudra (a lower form of Śiva according to Tantric tradition) and his consort or divine energy (śakti) Tvarita (a lower form of the goddess Dūrgā). From a work called the Ratnakara.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Tvaritarudraviddhi</title>
+              <title type="vernacular">त्वरितरुद्रविधि</title>
+              <colophon>Colophon: iti kṛtaratnākare tvaritarudravidhiḥ samāptaḥ (f. 3v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (3 leaves) : 14 x 36 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Tantrism</term>
+          <term>Śaivism</term>
+          <term>Rudra (Hindu deity)</term>
+          <term>Siva (Hindu deity)</term>
+          <term>Hindu mantras</term>
+          <term>Hinduism--Rituals--Texts</term>
+          <term>Rites and ceremonies--India</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-2717-1">
+      <graphic height="3319px" url="master/4965_0000.tif" width="8009px"/>
+      <graphic height="78px" url="thumb/4965_0000_thumb.jpg" width="190px"/>
+      <graphic height="745px" url="web/4965_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-2717-2">
+      <graphic height="6472px" url="master/4965_0001.tif" width="8009px"/>
+      <graphic height="153px" url="thumb/4965_0001_thumb.jpg" width="190px"/>
+      <graphic height="1454px" url="web/4965_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v-3r" xml:id="surface-ms-coll-390-item-2717-3">
+      <graphic height="6472px" url="master/4965_0002.tif" width="8009px"/>
+      <graphic height="153px" url="thumb/4965_0002_thumb.jpg" width="190px"/>
+      <graphic height="1454px" url="web/4965_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v" xml:id="surface-ms-coll-390-item-2717-4">
+      <graphic height="3319px" url="master/4965_0003.tif" width="8009px"/>
+      <graphic height="78px" url="thumb/4965_0003_thumb.jpg" width="190px"/>
+      <graphic height="745px" url="web/4965_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

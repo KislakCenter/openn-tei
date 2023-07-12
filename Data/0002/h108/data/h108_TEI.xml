@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 108: Gaonic gloss on Ḥagigah 21b-22a</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 108: Gaonic gloss on Ḥagigah 21b-22a are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Part of a Gaonic responsum, probably that of Ḥai or Sherirah Gaon. A complete version appears in: Teshuvot geʾonim ḳadmonim / Joseph ben Samuel Bonfils. Berlin : Friedlander, 1848, no. 72; Levin, Otsar ha-gaonim / Benjamin Manasseh Lewin. Haifa : [s.n], 1928-1943, vol. IV, responsa Section, pp. 37-45: no. 32); The complete version is a lengthy discourse on a difficult passage in Ḥagigah (21b-22a) which requires much supplementary detail. The discourse starts with the standard heading for Gaonic responsa: וששאלתם, yet the text is clearly a gloss in the Gaonic style, flowing with the Talmudic text, adding dialectic clarifications and conjunctive phrases; A gloss on the tractate of Ḥagigah attributed to Ḥai Gaon is mentioned in a few latter sources, but all are on mystical and philosophical topics dealt with in chapter 1; See, Levin, op. cit. vol. IV, 1932, commentary section, item nos. 51-55, 57-58, 61, 67, 71, 73. The gloss on Ḥagigiah 23a ll. 6-7 is identical with that of R. Ḥananel, with a few lexical alterations. The rest is different.</note>
+        <note>Condition: lacking upper half.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 108</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417983503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Gaonic gloss on Ḥagigah 21b-22a</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>16.4 X 7 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 19 (recto), 20 (verso).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>11th century-12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Gaonic literature</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3932px" url="master/4480_0000.tif" width="1890px"/>
+      <graphic height="190px" url="thumb/4480_0000_thumb.jpg" width="91px"/>
+      <graphic height="1800px" url="web/4480_0000_web.jpg" width="865px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3932px" url="master/4480_0001.tif" width="1890px"/>
+      <graphic height="190px" url="thumb/4480_0001_thumb.jpg" width="91px"/>
+      <graphic height="1800px" url="web/4480_0001_web.jpg" width="865px"/>
+    </surface>
+  </facsimile>
+</TEI>

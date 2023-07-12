@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 346: Court document</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 346: Court document are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A legal document in Judeo-Arabic and legal Hebrew-Aramaic, issued in the court of Daniel, titled here here הנשיא הגדול ראש גליות כל ישראל, identical to the title bestowed on Daniel in a Ḳetubah dated one month before this document, in London, British Library Or. 5561B fol. 2, and a few months later in Cambridge T-S 13J 13 fol. 11. See Mann, the Jews of Egypt, vol. I p. 175; The autograph signatures of the clerks of the court, serving here as witnesses, Abraham ha-kohen ben Aaron and Mevorakh ben Nathan he-ḥaver. The latter appears in Genizah documents, as a clerk, judge and scribe in the court of Fustat, between 1150, serving under his father, until 1181, when he served under Maimonides; He appears in the list of judges assembled by S. D. Goitein, A Mediterranean Society vol. II Appendix D, no. 22. The content of the document appears to be in his hand. Compare to Cambridge T-S 13J 1 fol. 21 (dated 1150); The autographs of the judges: Jacob ha-Kohen ben Joseph (found on documents dated 1161-1164, the period preceding that of Maimonides), Menaḥem ben Berakhot and Menasheh ben Joseph, a member of Maimonides'court, 1164-1199. See Goitein, ibid. nos. 19, 27; Testimony that the seven dinar given by Abu'l-Ala ben Asbu Sahl al-Jubaili to Abul'Ma'ali the merchant as a pledge, has been taken from him, he is thus acquitted of any claim. The latter is also known as Samuel ben Judah ibn Asad.</note>
+        <note>Condition: nearly complete, damaged; verso, save scribblings in Arabic, is blank.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 346</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420243503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb" otherLangs="heb arc">Judeo-Arabic; Hebrew; Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textLang>
+            <msItem>
+              <title>Court document</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>28 X 26 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 26 (25 text, 1 signature) (recto); ruling method: left rule justified by stretching last character.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Arabic Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate/>
+              <p>June-July 1164</p>
+              <origPlace>Fustat</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Acquittals</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7598px" url="master/4712_0000.tif" width="6592px"/>
+      <graphic height="190px" url="thumb/4712_0000_thumb.jpg" width="165px"/>
+      <graphic height="1800px" url="web/4712_0000_web.jpg" width="1562px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7598px" url="master/4712_0001.tif" width="6592px"/>
+      <graphic height="190px" url="thumb/4712_0001_thumb.jpg" width="165px"/>
+      <graphic height="1800px" url="web/4712_0001_web.jpg" width="1562px"/>
+    </surface>
+  </facsimile>
+</TEI>

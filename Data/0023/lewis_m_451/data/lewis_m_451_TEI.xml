@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis M 451: Unfinished Drawing of a Man with a Hookah; Drawing of Musicians</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis M 451: Unfinished Drawing of a Man with a Hookah; Drawing of Musicians are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis M 451: Unfinished Drawing of a Man with a Hookah; Drawing of Musicians. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis collection of Oriental Manuscripts</collection>
+            <idno type="call-number">Lewis M 451</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="zxx">No linguistic content, Not applicable</textLang>
+            <msItem>
+              <title>Unfinished Drawing of a Man with a Hookah; Drawing of Musicians</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="https://viaf.org/viaf/63874811">Lewis, John Frederick, 1860-1932</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>6 x 6 cm </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis M 451 front">
+      <graphic height="2299px" url="master/11080_0000.tif" width="2920px"/>
+      <graphic height="149px" url="thumb/11080_0000_thumb.jpg" width="190px"/>
+      <graphic height="1417px" url="web/11080_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Lewis M 451 reverse">
+      <graphic height="2358px" url="master/11080_0001.tif" width="2946px"/>
+      <graphic height="152px" url="thumb/11080_0001_thumb.jpg" width="190px"/>
+      <graphic height="1440px" url="web/11080_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

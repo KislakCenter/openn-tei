@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Penn CAJS: RAR MS 85.126.12: Collection of secular poetry</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Images are  ©2020 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2020 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Written in the same format as ENA 326, in which each verse starts a new line, and the remainder of the verse in the second line is centered; exceeding words aligned above the line; sporadic vocalization. The folio contains verses 6-12 (=end) of a Love Song that starts עזבתני ועלה לשחקים, (Davidson, Thesaurus of Medieval Hebrew poetry, 303ע), in the anthology of Ibn Gabirol's secular poems published by D. Yarden: Shire ha-ḥol / Dov Yarden ed.. Jerusalem, 1975, p. 62-63. The Judeo-Arabic heading that attributes the following poem to Ibn Gabirol on the death of his father, על השחקים נפשך רוכבת (Davidson, TMHP 491ע), in Yarden, ibid. pp. 286-287. Here it starts עלי שחקים. The folio ends after 11 (out of 12) verses. The sequence of these two poems is also found in Cambridge T-S 16.381 and in New York JTSA ENA 326, 12-13.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Penn CAJS: RAR MS 85.126.12</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Collection of secular poetry</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew; Oriental; semi-cursive; vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1199"/>
+              <p>12th century</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylania. Center for Advanced Judaic Studies. Library). Cairo Genizah Collection (Dropsie College. Library).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3452px" url="master/9736_0000.tif" width="2768px"/>
+      <graphic height="190px" url="thumb/9736_0000_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/9736_0000_web.jpg" width="1443px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3389px" url="master/9736_0001.tif" width="2752px"/>
+      <graphic height="190px" url="thumb/9736_0001_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/9736_0001_web.jpg" width="1462px"/>
+    </surface>
+  </facsimile>
+</TEI>

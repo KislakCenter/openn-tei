@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 219: Liturgical poems, probably for funeral services</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 219: Liturgical poems, probably for funeral services are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Verse endings are signified by a punctus, strophe endings by a sof pasuḳ and paragraph break; Fol. 1 recto and the upper third of the verso: under the heading אחרת לחכם a dirge of six strophes, four rhymed verses each (except for the final strophe which has 6). Apparently not intended for any specific sage; Starts: האספו אנשי אמת. This dirge appears in Cambridge T-S K25.15 where it is attributed (in the heading) toישועה הכהן בן יוסף הדיין. This poem was published by Sarah Cohen, Tarbits v. 69 (2000, p.449-460) on p. 460, from a different fragment: JTSA ENA 2165; The remainder of the fragment, under the heading אחרת, contains the first eight strophes of a Eulogy poem בן אדם אל, probably intended for a Rosh Yeshivah in Erets Israel; Four rhyming verses each, the first starts בן אדם followed by the acrostic א-ת at the head of each verse (the fragment reaches verse ס).</note>
+        <note>Condition: complete, consecutive.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 219</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419003503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="jrb">Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Liturgical poems, probably for funeral services</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17.6 X 13 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 16.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursivesporadic vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1199"/>
+              <p>12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Libraries).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Funeral rites and ceremonies, Jewish</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4488px" url="master/4587_0000.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4587_0000_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4587_0000_web.jpg" width="1360px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4488px" url="master/4587_0001.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4587_0001_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4587_0001_web.jpg" width="1360px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4488px" url="master/4587_0002.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4587_0002_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4587_0002_web.jpg" width="1360px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4488px" url="master/4587_0003.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4587_0003_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4587_0003_web.jpg" width="1360px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,2338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen type="xml" RNGSchema="tei_walters_ms.rng"?>
+<TEI version="5.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="n670.021979" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader type="text" xml:id="n670.021980"><fileDesc xml:id="n670.021981"><titleStmt xml:id="n670.021982"><title type="common" xml:id="n670.021983">Walters Ms. W.1, Gospel Book</title>
+<title type="work" n="item 2021" xml:id="n670.021984">Gospel of St. Matthew</title>
+<title type="work" n="item 2022" xml:id="n670.021985">Prologue and Book of St. Mark</title>
+<title type="work" n="item 2023" xml:id="n670.021986">Prologue and Book of St. Luke</title>
+<title type="work" n="item 2024" xml:id="n670.021987">Prologue and Book of St. John</title>
+<title type="work" n="item 2025" xml:id="n670.021988">List of pericopes for the liturgical year</title>
+<title type="work" n="item 2020" xml:id="n670.021989">Gospel Book</title>
+<respStmt xml:id="n670.021990"><resp xml:id="n670.021991">Principal cataloger</resp>
+<name xml:id="n670.021992">Randall, Lilian M.C.</name>
+</respStmt>
+<respStmt xml:id="n670.021993"><resp xml:id="n670.021994">Cataloger</resp>
+<name xml:id="n670.021995">Herbold, Rebekah</name>
+</respStmt>
+<respStmt xml:id="n670.021996"><resp xml:id="n670.021997">Editor</resp>
+<name xml:id="n670.021998">Herbert, Lynley</name>
+</respStmt>
+<respStmt xml:id="n670.021999"><resp xml:id="n670.022000">Contributor</resp>
+<name xml:id="n670.022001">Emery, Doug</name>
+</respStmt>
+<respStmt xml:id="n670.022002"><resp xml:id="n670.022003">Contributor</resp>
+<name xml:id="n670.022004">Herbold, Rebekah</name>
+</respStmt>
+<respStmt xml:id="n670.022005"><resp xml:id="n670.022006">Contributor</resp>
+<name xml:id="n670.022007">Tabritha, Ariel</name>
+</respStmt>
+<respStmt xml:id="n670.022008"><resp xml:id="n670.022009">Contributor</resp>
+<name xml:id="n670.022010">Wiegand, Kimber</name>
+</respStmt>
+<respStmt xml:id="n670.022011"><resp xml:id="n670.022012">Conservator</resp>
+<name xml:id="n670.022013">Quandt, Abigail</name>
+</respStmt>
+</titleStmt>
+<publicationStmt xml:id="n670.022014"><publisher xml:id="pub-wam">The Walters Art Museum</publisher>
+<availability xml:id="n670.022015"><p xml:id="n670.022016">Licensed for use under Creative Commons Attribution-ShareAlike 3.0 Unported Access Rights, http://creativecommons.org/licenses/by-sa/3.0/legalcode. It is requested that copies of any published articles based on the information in this data set be sent to the curator of manuscripts, The Walters Art Museum, 600 North Charles Street, Baltimore MD 21201.</p>
+</availability>
+</publicationStmt>
+<notesStmt xml:id="n670.022017"><note type="abstract" xml:id="n670.022018">Completed in Brittany in the early tenth century, this Gospel Book features three full-page miniatures and four large decorated initials. Reliance on a Carolingian model influenced by the Tours school of illumination is shown in the poses of the three extant evangelist portraits. Jonathan Alexander has suggested significant similarities between four other Gospel Books and W.1, all completed between the late ninth century and early tenth century (see Alexander, 1986). One Gospel Book in particular, Alençon 84, appears to have been produced in the same scriptorium as W.1, possibly by the same artists.</note>
+</notesStmt>
+<sourceDesc xml:id="n670.022019"><msDesc xml:id="n670.022020"><msIdentifier xml:id="n670.022021"><settlement xml:id="n670.022022">Baltimore</settlement>
+<repository xml:id="n670.022023">The Walters Art Museum</repository>
+<idno xml:id="n670.022024">W.1</idno>
+</msIdentifier>
+<msContents xml:id="n670.022025"><textLang xml:id="n670.022026" mainLang="lat">The primary language in this manuscript is Latin.</textLang>
+<msItem n="item 2020" xml:id="n670.022027"><locus to="167v" from="1r" xml:id="n670.022028">1r - 167v</locus>
+<title type="work" xml:id="n670.022029">Gospel Book</title>
+<note type="text" xml:id="n670.022030">Ammonian section numbers present in margins; occasional letters and symbols in margins, added early; brief imprecations in Latin, in margins,  added intermittently; nineteenth-century marginal notations added in French clarifying sequence of misbound text</note>
+<msItem n="item 2021" xml:id="n670.022031"><locusGrp xml:id="n670.022032"><locus to="32v" from="1r" xml:id="n670.022033">1r - 32v</locus>
+<locus to="48v" from="41r" xml:id="n670.022034">41r - 48v</locus>
+<locus to="36r" from="33r" xml:id="n670.022035">33r - 36r</locus>
+</locusGrp>
+<title type="work" xml:id="n670.022036">Gospel of St. Matthew</title>
+<incipit xml:lang="lat" xml:id="n670.022037">Incipit Evangelium secundum liber generationis Ihesu Xristi, filii David, filii Abraham</incipit>
+</msItem>
+<msItem n="item 2022" xml:id="n670.022038"><locusGrp xml:id="n670.022039"><locus to="40r" from="36r" xml:id="n670.022040">36r - 40r</locus>
+<locus to="72v" from="49r" xml:id="n670.022041">49r - 72v</locus>
+</locusGrp>
+<title type="work" xml:id="n670.022042">Prologue and Book of St. Mark</title>
+<incipit xml:lang="lat" xml:id="n670.022043">Marcus Evangelista Dei, et Patri in baptismate</incipit>
+<note type="contents" xml:id="n670.022044">Fols. 36r-v: Prologue to Mark; fols. 36v-38r: Chapter list, termed "Breviarium;" fols. 39r-72v: Gospel of St. Mark</note>
+</msItem>
+<msItem n="item 2023" xml:id="n670.022045"><locus to="122v" from="72v" xml:id="n670.022046">72v - 122v</locus>
+<title type="work" xml:id="n670.022047">Prologue and Book of St. Luke</title>
+<incipit xml:lang="lat" xml:id="n670.022048">Quoniam quidem</incipit>
+<note type="contents" xml:id="n670.022049">Fols. 72v-73r: Prologue to Luke, termed "Argumentum;" fols. 73v-77r: Chapter list, termed "Capitula;" fols. 78r-122v: Gospel of St. Luke</note>
+</msItem>
+<msItem n="item 2024" xml:id="n670.022050"><locus to="155v" from="122r" xml:id="n670.022051">122r - 155v</locus>
+<title type="work" xml:id="n670.022052">Prologue and Book of St. John</title>
+<note type="contents" xml:id="n670.022053">Fols. 122v-123v: Prlogue to John, termed "Breviarius;" fols. 123v-124r: Chapter list, termed "Breviarius;" fols. 125r-155v: Gospel of St. John</note>
+</msItem>
+<msItem n="item 2025" xml:id="n670.022054"><locus to="167v" from="156r" xml:id="n670.022055">156r - 167v</locus>
+<title type="work" xml:id="n670.022056">List of pericopes for the liturgical year</title>
+<rubric xml:lang="lat" xml:id="n670.022057">Incipit capitulare</rubric>
+<note type="contents" xml:id="n670.022058">List of pericopes for the liturgical year, termed "Capitulare;" ends imperfectly with St. Theodore (Nov. 9)</note>
+</msItem>
+</msItem>
+</msContents>
+<physDesc xml:id="n670.022059"><objectDesc form="book" xml:id="n670.022060"><supportDesc material="parchment" xml:id="n670.022061"><support xml:id="n670.022062"><p xml:id="n670.022063">Parchment medium- to heavy-weight, with flaws and early mends visible</p>
+</support>
+<extent xml:id="n670.022064">Foliation: iii+167+i<dimensions type="leaves" xml:id="n670.022065"><height unit="cm" xml:id="n670.022066">24.5</height>
+<width unit="cm" xml:id="n670.022067">18.0</width>
+</dimensions>
+<dimensions type="written" n="item 2020" xml:id="n670.022068"><height unit="cm" xml:id="n670.022069">18.0</height>
+<width unit="cm" xml:id="n670.022070">11.0</width>
+</dimensions>
+</extent>
+<foliation xml:id="n670.022071">Palimpsests in last two quires</foliation>
+<collation xml:id="n670.022072"><p xml:id="n670.022073"><formula xml:id="n670.022074">Quires 1-20: 8 (fols. 1-160); Quire 21: 8, with eighth folio cancelled (fols. 161-167)</formula>
+Quires 5-6: misbound, in reverse order</p>
+</collation>
+</supportDesc>
+<layoutDesc xml:id="n670.022075"><layout n="item 2020" ruledLines="25" columns="1" xml:id="n670.022076">Ruled with stylus on hair-side of outermost bifolio of each quire; written in brown ink, many scribal hands throughout</layout>
+</layoutDesc>
+</objectDesc>
+<handDesc xml:id="n670.022077"><handNote n="item 2020" xml:id="n670.022078">Written in Carolingian miniscule</handNote>
+</handDesc>
+<decoDesc xml:id="n670.022079"><decoNote n="item 2021" xml:id="n670.022080">One large decorated initial on fol. 1r</decoNote>
+<decoNote n="item 2022" xml:id="n670.022081">One full-page portrait on fol. 38v</decoNote>
+<decoNote n="item 2023" xml:id="n670.022082">One full-page portrait on fol. 77v, one large decorated initial on fol. 78r</decoNote>
+<decoNote n="item 2024" xml:id="n670.022083">One full-page portrait on fol. 124v; one large decorated initial on fol. 125r</decoNote>
+<decoNote n="item 2020" xml:id="n670.022084">Three extant full-page Evangelist portraits (lacking portrait of Matthew), four large decorated initials</decoNote>
+<decoNote n="fol. 1r" xml:id="n670.022085"><title xml:id="n670.022086">Large decorated initial</title>
+<note type="decoration-form" xml:id="n670.022087">Inhabited initial "L," 22 lines</note>
+</decoNote>
+<decoNote n="fol. 38v" xml:id="n670.022088"><title xml:id="n670.022089">St. Mark</title>
+<note type="decoration-form" xml:id="n670.022090">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 39r" xml:id="n670.022091"><title xml:id="n670.022092">Inhabited initial "I"</title>
+<note type="decoration-form" xml:id="n670.022093">Full-page length initial "I"</note>
+</decoNote>
+<decoNote n="fol. 77v" xml:id="n670.022094"><title xml:id="n670.022095">St. Luke</title>
+<note type="decoration-form" xml:id="n670.022096">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 78r" xml:id="n670.022097"><title xml:id="n670.022098">Large Decorated initial "Q"</title>
+<note type="decoration-form" xml:id="n670.022099">Inhabited initial "Q," 8 lines</note>
+</decoNote>
+<decoNote n="fol. 124v" xml:id="n670.022100"><title xml:id="n670.022101">St. John</title>
+<note type="decoration-form" xml:id="n670.022102">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 125r" xml:id="n670.022103"><title xml:id="n670.022104">Large decorated initial "I"</title>
+<note type="decoration-form" xml:id="n670.022105">Large decorated initial "I," 23 lines</note>
+</decoNote>
+</decoDesc>
+<bindingDesc xml:id="n670.022106"><binding contemporary="false" xml:id="n670.022107"><p xml:id="n670.022108">Modern vellum, New York: Macdonald, 1949; replacing green calf binding applied in Limoges, ca. nineteenth century</p>
+</binding>
+</bindingDesc>
+</physDesc>
+<history xml:id="n670.022109"><origin notBefore="0900" notAfter="0925" xml:id="n670.022110"><origDate xml:id="n670.022111">Ca. 900-25 CE</origDate>
+<origPlace xml:id="n670.022112">Brittany</origPlace>
+</origin>
+<provenance xml:id="n670.022113">Created ca. 900-925 in Brittany</provenance>
+<provenance xml:id="n670.022114">Malevergne de Lafaye, 1838, notary in Limoges; his ownership entry recording purchase of codex for 50 francs on March 20, 1838</provenance>
+<provenance xml:id="n670.022115">Léon or Paul Gruel, Paris, ca. late eighteenth century or early nineteenth century; firm's sale slip numbered "1304" in file</provenance>
+<provenance xml:id="n670.022116">Henry Walters, Baltimore, purchased from Gruel before 1931</provenance>
+<acquisition xml:id="n670.022117">Walters Art Museum, 1931, by Henry Walters' bequest</acquisition>
+</history>
+</msDesc>
+<listBibl xml:id="n670.022118"><head xml:id="n670.022119">Relevant Works</head>
+<bibl xml:id="n670.022120">De Ricci, Seymour, and W. J. Wilson. Census of Medieval and Renaissance Manuscripts in the United States and Canada. Vol. 1. New York: H. W. Wilson Company, 1935; p. 767, cat. no. 61.</bibl>
+<bibl xml:id="n670.022121">L.M. Micheli, L'enluminure du haut moyen âge et les influences irlandais. (Brussels, 1939), p. 99</bibl>
+<bibl xml:id="n670.022122">F. Wormald, An Early Breton Gospel-Book: A Ninth-Century Manuscript from the Collection of H.L. Bradfer-Lawrence (1887-1965), ed. J.J.G. Alexander (Cambridge, Roxburghe Club, 1977), pp. 15-22, passim</bibl>
+<bibl xml:id="n670.022123">J.J.G. Alexander, "La résistance à la domination culturelle carolingienne dans l'art breton du IXe siècle: Le témoignage de l'enluminure des manuscrits," Landévennec et le monachisme breton dans le haut moyen âge. Actes du colloque du 15th centenaire de l'abbaye de Landévennec, 25-26-27 April 1985 (Bannalec, 1986), pp. 270-271, Fig. 3 (fol. 124v)</bibl>
+<bibl xml:id="n670.022124">J.L. Deuffic, "La production manuscrite des scriptoria bretons," ibid., p. 294</bibl>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc xml:id="n670.022125"><classDecl xml:id="n670.022126"><taxonomy xml:id="keywords"><category xml:id="keyword_3"><catDesc xml:id="n670.022127">Art</catDesc>
+</category>
+<category xml:id="keyword_26"><catDesc xml:id="n670.022128">Medicine</catDesc>
+</category>
+<category xml:id="keyword_29"><catDesc xml:id="n670.022129">Museum</catDesc>
+</category>
+<category xml:id="keyword_34"><catDesc xml:id="n670.022130">Poetry</catDesc>
+</category>
+<category xml:id="keyword_39"><catDesc xml:id="n670.022131">Script</catDesc>
+</category>
+<category xml:id="keyword_54"><catDesc xml:id="n670.022132">Muhammad, the Prophet</catDesc>
+</category>
+<category xml:id="keyword_83"><catDesc xml:id="n670.022133">Kashmiri</catDesc>
+</category>
+<category xml:id="keyword_84"><catDesc xml:id="n670.022134">Horses</catDesc>
+</category>
+<category xml:id="keyword_45"><catDesc xml:id="n670.022135">Walters Art Museum</catDesc>
+</category>
+<category xml:id="keyword_139"><catDesc xml:id="n670.022136">Document</catDesc>
+</category>
+<category xml:id="keyword_62"><catDesc xml:id="n670.022137">Astrology</catDesc>
+</category>
+<category xml:id="keyword_87"><catDesc xml:id="n670.022138">Devotion</catDesc>
+</category>
+<category xml:id="keyword_15"><catDesc xml:id="n670.022139">History</catDesc>
+</category>
+<category xml:id="keyword_88"><catDesc xml:id="n670.022140">Legal</catDesc>
+</category>
+<category xml:id="keyword_89"><catDesc xml:id="n670.022141">Literature -- Poetry</catDesc>
+</category>
+<category xml:id="keyword_90"><catDesc xml:id="n670.022142">Literature -- Prose</catDesc>
+</category>
+<category xml:id="keyword_91"><catDesc xml:id="n670.022143">Liturgy</catDesc>
+</category>
+<category xml:id="keyword_92"><catDesc xml:id="n670.022144">Philosophy</catDesc>
+</category>
+<category xml:id="keyword_38"><catDesc xml:id="n670.022145">Science</catDesc>
+</category>
+<category xml:id="keyword_93"><catDesc xml:id="n670.022146">Science -- Medicine</catDesc>
+</category>
+<category xml:id="keyword_40"><catDesc xml:id="n670.022147">Scripture</catDesc>
+</category>
+<category xml:id="keyword_55"><catDesc xml:id="n670.022148">Sufism</catDesc>
+</category>
+<category xml:id="keyword_94"><catDesc xml:id="n670.022149">Theology</catDesc>
+</category>
+<category xml:id="keyword_53"><catDesc xml:id="n670.022150">Mineralogy</catDesc>
+</category>
+<category xml:id="keyword_60"><catDesc xml:id="n670.022151">Logic</catDesc>
+</category>
+<category xml:id="keyword_50"><catDesc xml:id="n670.022152">Geography</catDesc>
+</category>
+<category xml:id="keyword_64"><catDesc xml:id="n670.022153">Geomancy</catDesc>
+</category>
+<category xml:id="keyword_10"><catDesc xml:id="n670.022154">Cosmology</catDesc>
+</category>
+<category xml:id="keyword_49"><catDesc xml:id="n670.022155">Cartography</catDesc>
+</category>
+<category xml:id="keyword_63"><catDesc xml:id="n670.022156">Fortune-telling</catDesc>
+</category>
+<category xml:id="keyword_23"><catDesc xml:id="n670.022157">Koran</catDesc>
+</category>
+<category xml:id="keyword_36"><catDesc xml:id="n670.022158">Qur`an</catDesc>
+</category>
+<category xml:id="keyword_77"><catDesc xml:id="n670.022159">Firman</catDesc>
+</category>
+<category xml:id="keyword_61"><catDesc xml:id="n670.022160">Palimpsest</catDesc>
+</category>
+<category xml:id="keyword_35"><catDesc xml:id="n670.022161">Prayer</catDesc>
+</category>
+<category xml:id="keyword_95"><catDesc xml:id="n670.022162">Bible</catDesc>
+</category>
+<category xml:id="keyword_96"><catDesc xml:id="n670.022163">Gospels</catDesc>
+</category>
+<category xml:id="keyword_97"><catDesc xml:id="n670.022164">Psalter</catDesc>
+</category>
+<category xml:id="keyword_98"><catDesc xml:id="n670.022165">Missal</catDesc>
+</category>
+<category xml:id="keyword_99"><catDesc xml:id="n670.022166">Lectionary</catDesc>
+</category>
+<category xml:id="keyword_100"><catDesc xml:id="n670.022167">Book of Hours</catDesc>
+</category>
+<category xml:id="keyword_101"><catDesc xml:id="n670.022168">Antiphonary</catDesc>
+</category>
+<category xml:id="keyword_104"><catDesc xml:id="n670.022169">Homilary</catDesc>
+</category>
+<category xml:id="keyword_105"><catDesc xml:id="n670.022170">Processional</catDesc>
+</category>
+<category xml:id="keyword_106"><catDesc xml:id="n670.022171">Horologion</catDesc>
+</category>
+<category xml:id="keyword_107"><catDesc xml:id="n670.022172">Breviary</catDesc>
+</category>
+<category xml:id="keyword_108"><catDesc xml:id="n670.022173">Hymnal</catDesc>
+</category>
+<category xml:id="keyword_109"><catDesc xml:id="n670.022174">Chronicle</catDesc>
+</category>
+<category xml:id="keyword_51"><catDesc xml:id="n670.022175">Maghreb</catDesc>
+</category>
+<category xml:id="keyword_56"><catDesc xml:id="n670.022176">Sub-Saharan (West) Africa</catDesc>
+</category>
+<category xml:id="keyword_42"><catDesc xml:id="n670.022177">Turkey</catDesc>
+</category>
+<category xml:id="keyword_81"><catDesc xml:id="n670.022178">Afghanistan</catDesc>
+</category>
+<category xml:id="keyword_57"><catDesc xml:id="n670.022179">Central Asia</catDesc>
+</category>
+<category xml:id="keyword_11"><catDesc xml:id="n670.022180">Egypt</catDesc>
+</category>
+<category xml:id="keyword_69"><catDesc xml:id="n670.022181">England</catDesc>
+</category>
+<category xml:id="keyword_18"><catDesc xml:id="n670.022182">India</catDesc>
+</category>
+<category xml:id="keyword_20"><catDesc xml:id="n670.022183">Iran</catDesc>
+</category>
+<category xml:id="keyword_21"><catDesc xml:id="n670.022184">Iraq</catDesc>
+</category>
+<category xml:id="keyword_80"><catDesc xml:id="n670.022185">Pakistan</catDesc>
+</category>
+<category xml:id="keyword_111"><catDesc xml:id="n670.022186">Germany</catDesc>
+</category>
+<category xml:id="keyword_112"><catDesc xml:id="n670.022187">France</catDesc>
+</category>
+<category xml:id="keyword_113"><catDesc xml:id="n670.022188">Austria</catDesc>
+</category>
+<category xml:id="keyword_114"><catDesc xml:id="n670.022189">Netherlands</catDesc>
+</category>
+<category xml:id="keyword_115"><catDesc xml:id="n670.022190">Ethiopia</catDesc>
+</category>
+<category xml:id="keyword_116"><catDesc xml:id="n670.022191">Armenia</catDesc>
+</category>
+<category xml:id="keyword_117"><catDesc xml:id="n670.022192">Flanders</catDesc>
+</category>
+<category xml:id="keyword_118"><catDesc xml:id="n670.022193">Greece</catDesc>
+</category>
+<category xml:id="keyword_52"><catDesc xml:id="n670.022194">Mamluk</catDesc>
+</category>
+<category xml:id="keyword_28"><catDesc xml:id="n670.022195">Mughal</catDesc>
+</category>
+<category xml:id="keyword_31"><catDesc xml:id="n670.022196">Ottoman</catDesc>
+</category>
+<category xml:id="keyword_68"><catDesc xml:id="n670.022197">Ottonian</catDesc>
+</category>
+<category xml:id="keyword_78"><catDesc xml:id="n670.022198">Armenian</catDesc>
+</category>
+<category xml:id="keyword_73"><catDesc xml:id="n670.022199">Byzantine</catDesc>
+</category>
+<category xml:id="keyword_1"><catDesc xml:id="n670.022200">Abbasid</catDesc>
+</category>
+<category xml:id="keyword_79"><catDesc xml:id="n670.022201">Qajar</catDesc>
+</category>
+<category xml:id="keyword_65"><catDesc xml:id="n670.022202">Rajput</catDesc>
+</category>
+<category xml:id="keyword_7"><catDesc xml:id="n670.022203">Christian</catDesc>
+</category>
+<category xml:id="keyword_2"><catDesc xml:id="n670.022204">Arabic</catDesc>
+</category>
+<category xml:id="keyword_74"><catDesc xml:id="n670.022205">Austrian</catDesc>
+</category>
+<category xml:id="keyword_75"><catDesc xml:id="n670.022206">Dutch</catDesc>
+</category>
+<category xml:id="keyword_12"><catDesc xml:id="n670.022207">Egyptian</catDesc>
+</category>
+<category xml:id="keyword_13"><catDesc xml:id="n670.022208">Fatimid</catDesc>
+</category>
+<category xml:id="keyword_70"><catDesc xml:id="n670.022209">German</catDesc>
+</category>
+<category xml:id="keyword_19"><catDesc xml:id="n670.022210">Indian</catDesc>
+</category>
+<category xml:id="keyword_22"><catDesc xml:id="n670.022211">Islamic</catDesc>
+</category>
+<category xml:id="keyword_33"><catDesc xml:id="n670.022212">Persian</catDesc>
+</category>
+<category xml:id="keyword_37"><catDesc xml:id="n670.022213">Safavid</catDesc>
+</category>
+<category xml:id="keyword_41"><catDesc xml:id="n670.022214">Timurid</catDesc>
+</category>
+<category xml:id="keyword_43"><catDesc xml:id="n670.022215">Turkish</catDesc>
+</category>
+<category xml:id="keyword_44"><catDesc xml:id="n670.022216">Umayyad</catDesc>
+</category>
+<category xml:id="keyword_119"><catDesc xml:id="n670.022217">English</catDesc>
+</category>
+<category xml:id="keyword_120"><catDesc xml:id="n670.022218">French</catDesc>
+</category>
+<category xml:id="keyword_121"><catDesc xml:id="n670.022219">Flemish</catDesc>
+</category>
+<category xml:id="keyword_122"><catDesc xml:id="n670.022220">Ethiopian</catDesc>
+</category>
+<category xml:id="keyword_86"><catDesc xml:id="n670.022221">Carolingian</catDesc>
+</category>
+<category xml:id="keyword_6"><catDesc xml:id="n670.022222">Calligraphy</catDesc>
+</category>
+<category xml:id="keyword_9"><catDesc xml:id="n670.022223">Colophon</catDesc>
+</category>
+<category xml:id="keyword_14"><catDesc xml:id="n670.022224">Headpiece</catDesc>
+</category>
+<category xml:id="keyword_16"><catDesc xml:id="n670.022225">Illumination</catDesc>
+</category>
+<category xml:id="keyword_17"><catDesc xml:id="n670.022226">Illustration</catDesc>
+</category>
+<category xml:id="keyword_25"><catDesc xml:id="n670.022227">Medallion</catDesc>
+</category>
+<category xml:id="keyword_27"><catDesc xml:id="n670.022228">Miniature</catDesc>
+</category>
+<category xml:id="keyword_30"><catDesc xml:id="n670.022229">Ornament</catDesc>
+</category>
+<category xml:id="keyword_32"><catDesc xml:id="n670.022230">Painting</catDesc>
+</category>
+<category xml:id="keyword_59"><catDesc xml:id="n670.022231">Early Abbasid script</catDesc>
+</category>
+<category xml:id="keyword_76"><catDesc xml:id="n670.022232">Ragini</catDesc>
+</category>
+<category xml:id="keyword_71"><catDesc xml:id="n670.022233">Romanesque</catDesc>
+</category>
+<category xml:id="keyword_72"><catDesc xml:id="n670.022234">Gothic</catDesc>
+</category>
+<category xml:id="keyword_123"><catDesc xml:id="n670.022235">Watermark</catDesc>
+</category>
+<category xml:id="keyword_127"><catDesc xml:id="n670.022236">Grotesques</catDesc>
+</category>
+<category xml:id="keyword_128"><catDesc xml:id="n670.022237">Historiated initial</catDesc>
+</category>
+<category xml:id="keyword_129"><catDesc xml:id="n670.022238">Inhabited initial</catDesc>
+</category>
+<category xml:id="keyword_132"><catDesc xml:id="n670.022239">White-vine lettering</catDesc>
+</category>
+<category xml:id="keyword_134"><catDesc xml:id="n670.022240">Textura</catDesc>
+</category>
+<category xml:id="keyword_135"><catDesc xml:id="n670.022241">Batarda</catDesc>
+</category>
+<category xml:id="keyword_136"><catDesc xml:id="n670.022242">Humanistic</catDesc>
+</category>
+<category xml:id="keyword_137"><catDesc xml:id="n670.022243">Uncial</catDesc>
+</category>
+<category xml:id="keyword_66"><catDesc xml:id="n670.022244">Accordion book</catDesc>
+</category>
+<category xml:id="keyword_67"><catDesc xml:id="n670.022245">Album</catDesc>
+</category>
+<category xml:id="keyword_5"><catDesc xml:id="n670.022246">Book</catDesc>
+</category>
+<category xml:id="keyword_8"><catDesc xml:id="n670.022247">Codex</catDesc>
+</category>
+<category xml:id="keyword_24"><catDesc xml:id="n670.022248">Manuscript</catDesc>
+</category>
+<category xml:id="keyword_138"><catDesc xml:id="n670.022249">Heraldry</catDesc>
+</category>
+<category xml:id="keyword_103"><catDesc xml:id="n670.022250">Saint's Life</catDesc>
+</category>
+<category xml:id="keyword_143"><catDesc xml:id="n670.022251">Drawing</catDesc>
+</category>
+<category xml:id="keyword_140"><catDesc xml:id="n670.022252">Grisaille</catDesc>
+</category>
+<category xml:id="keyword_58"><catDesc xml:id="n670.022253">New Abbasid style</catDesc>
+</category>
+<category xml:id="keyword_158"><catDesc xml:id="n670.022254">Musical notation</catDesc>
+</category>
+<category xml:id="keyword_159"><catDesc xml:id="n670.022255">Russia</catDesc>
+</category>
+<category xml:id="keyword_85"><catDesc xml:id="n670.022256">Romania</catDesc>
+</category>
+<category xml:id="keyword_144"><catDesc xml:id="n670.022257">Charter</catDesc>
+</category>
+<category xml:id="keyword_160"><catDesc xml:id="n670.022258">Russian</catDesc>
+</category>
+<category xml:id="keyword_141"><catDesc xml:id="n670.022259">Genealogy</catDesc>
+</category>
+<category xml:id="keyword_161"><catDesc xml:id="n670.022260">Mass book</catDesc>
+</category>
+<category xml:id="keyword_102"><catDesc xml:id="n670.022261">Prayer book</catDesc>
+</category>
+<category xml:id="keyword_162"><catDesc xml:id="n670.022262">Gospel Lectionary</catDesc>
+</category>
+<category xml:id="keyword_110"><catDesc xml:id="n670.022263">Psalter-Hours</catDesc>
+</category>
+<category xml:id="keyword_163"><catDesc xml:id="n670.022264">Treatise</catDesc>
+</category>
+<category xml:id="keyword_164"><catDesc xml:id="n670.022265">Grammar</catDesc>
+</category>
+<category xml:id="keyword_165"><catDesc xml:id="n670.022266">Gloss</catDesc>
+</category>
+<category xml:id="keyword_166"><catDesc xml:id="n670.022267">Pontifical</catDesc>
+</category>
+<category xml:id="keyword_167"><catDesc xml:id="n670.022268">Private devotional text</catDesc>
+</category>
+<category xml:id="keyword_168"><catDesc xml:id="n670.022269">Gradual</catDesc>
+</category>
+<category xml:id="keyword_169"><catDesc xml:id="n670.022270">Protective scroll</catDesc>
+</category>
+<category xml:id="keyword_170"><catDesc xml:id="n670.022271">Scroll</catDesc>
+</category>
+<category xml:id="keyword_147"><catDesc xml:id="n670.022272">10th century</catDesc>
+</category>
+<category xml:id="keyword_148"><catDesc xml:id="n670.022273">11th century</catDesc>
+</category>
+<category xml:id="keyword_149"><catDesc xml:id="n670.022274">12th century</catDesc>
+</category>
+<category xml:id="keyword_150"><catDesc xml:id="n670.022275">13th century</catDesc>
+</category>
+<category xml:id="keyword_151"><catDesc xml:id="n670.022276">14th century</catDesc>
+</category>
+<category xml:id="keyword_152"><catDesc xml:id="n670.022277">15th century</catDesc>
+</category>
+<category xml:id="keyword_153"><catDesc xml:id="n670.022278">16th century</catDesc>
+</category>
+<category xml:id="keyword_154"><catDesc xml:id="n670.022279">17th century</catDesc>
+</category>
+<category xml:id="keyword_155"><catDesc xml:id="n670.022280">18th century</catDesc>
+</category>
+<category xml:id="keyword_156"><catDesc xml:id="n670.022281">19th century</catDesc>
+</category>
+<category xml:id="keyword_157"><catDesc xml:id="n670.022282">20th century</catDesc>
+</category>
+<category xml:id="keyword_145"><catDesc xml:id="n670.022283">8th century</catDesc>
+</category>
+<category xml:id="keyword_146"><catDesc xml:id="n670.022284">9th century</catDesc>
+</category>
+<category xml:id="keyword_142"><catDesc xml:id="n670.022285">Block book</catDesc>
+</category>
+<category xml:id="keyword_130"><catDesc xml:id="n670.022286">Caroline minuscule</catDesc>
+</category>
+<category xml:id="keyword_48"><catDesc xml:id="n670.022287">Central Arab lands (Near East)</catDesc>
+</category>
+<category xml:id="keyword_82"><catDesc xml:id="n670.022288">Chart</catDesc>
+</category>
+<category xml:id="keyword_133"><catDesc xml:id="n670.022289">English secretary hand</catDesc>
+</category>
+<category xml:id="keyword_47"><catDesc xml:id="n670.022290">Kufic</catDesc>
+</category>
+<category xml:id="keyword_131"><catDesc xml:id="n670.022291">Gothic book hand</catDesc>
+</category>
+<category xml:id="keyword_125"><catDesc xml:id="n670.022292">Original binding</catDesc>
+</category>
+<category xml:id="keyword_124"><catDesc xml:id="n670.022293">Treasure binding</catDesc>
+</category>
+<category xml:id="keyword_171"><catDesc xml:id="n670.022294">Gospel Book</catDesc>
+</category>
+<category xml:id="keyword_172"><catDesc xml:id="n670.022295">Spanish</catDesc>
+</category>
+<category xml:id="keyword_173"><catDesc xml:id="n670.022296">Spain</catDesc>
+</category>
+<category xml:id="keyword_174"><catDesc xml:id="n670.022297">Italian</catDesc>
+</category>
+<category xml:id="keyword_175"><catDesc xml:id="n670.022298">Italy</catDesc>
+</category>
+<category xml:id="keyword_176"><catDesc xml:id="n670.022299">Coptic</catDesc>
+</category>
+<category xml:id="keyword_177"><catDesc xml:id="n670.022300">Scrapbook</catDesc>
+</category>
+<category xml:id="keyword_178"><catDesc xml:id="n670.022301">American</catDesc>
+</category>
+<category xml:id="keyword_179"><catDesc xml:id="n670.022302">United States</catDesc>
+</category>
+<category xml:id="keyword_180"><catDesc xml:id="n670.022303">Maryland Historical Society</catDesc>
+</category>
+<category xml:id="keyword_181"><catDesc xml:id="n670.022304">Friendship book</catDesc>
+</category>
+<category xml:id="keyword_182"><catDesc xml:id="n670.022305">Friendship</catDesc>
+</category>
+<category xml:id="keyword_183"><catDesc xml:id="n670.022306">Biography</catDesc>
+</category>
+<category xml:id="keyword_184"><catDesc xml:id="n670.022307">Judaism</catDesc>
+</category>
+<category xml:id="keyword_185"><catDesc xml:id="n670.022308">Talmud</catDesc>
+</category>
+<category xml:id="keyword_186"><catDesc xml:id="n670.022309">Collection of Sermons</catDesc>
+</category>
+<category xml:id="keyword_187"><catDesc xml:id="n670.022310">Notable</catDesc>
+</category>
+<category xml:id="keyword_126"><catDesc xml:id="n670.022311">Notable binding</catDesc>
+</category>
+<category xml:id="keyword_188"><catDesc xml:id="n670.022312">Textbook</catDesc>
+</category>
+<category xml:id="keyword_189"><catDesc xml:id="n670.022313">Scholarly compendium</catDesc>
+</category>
+<category xml:id="keyword_191"><catDesc xml:id="n670.022314">Ancient Greece</catDesc>
+</category>
+<category xml:id="keyword_190"><catDesc xml:id="n670.022315">Ancient Rome</catDesc>
+</category>
+<category xml:id="keyword_192"><catDesc xml:id="n670.022316">Literature</catDesc>
+</category>
+<category xml:id="keyword_193"><catDesc xml:id="n670.022317">Japanese</catDesc>
+</category>
+<category xml:id="keyword_194"><catDesc xml:id="n670.022318">Japan</catDesc>
+</category>
+</taxonomy>
+<taxonomy xml:id="genres"><category xml:id="genre_1"><catDesc xml:id="n670.022319">Liturgical</catDesc>
+</category>
+<category xml:id="genre_2"><catDesc xml:id="n670.022320">Devotional</catDesc>
+</category>
+<category xml:id="genre_3"><catDesc xml:id="n670.022321">Scriptural</catDesc>
+</category>
+<category xml:id="genre_4"><catDesc xml:id="n670.022322">Theological</catDesc>
+</category>
+<category xml:id="genre_5"><catDesc xml:id="n670.022323">Legal</catDesc>
+</category>
+<category xml:id="genre_6"><catDesc xml:id="n670.022324">Historical</catDesc>
+</category>
+<category xml:id="genre_7"><catDesc xml:id="n670.022325">Scientific</catDesc>
+</category>
+<category xml:id="genre_8"><catDesc xml:id="n670.022326">Scientific -- Medical</catDesc>
+</category>
+<category xml:id="genre_9"><catDesc xml:id="n670.022327">Literary -- Prose</catDesc>
+</category>
+<category xml:id="genre_10"><catDesc xml:id="n670.022328">Literary -- Poetry</catDesc>
+</category>
+<category xml:id="genre_11"><catDesc xml:id="n670.022329">Philosophical</catDesc>
+</category>
+<category xml:id="genre_12"><catDesc xml:id="n670.022330">Astrological</catDesc>
+</category>
+<category xml:id="genre_13"><catDesc xml:id="n670.022331">Sufi</catDesc>
+</category>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc xml:id="n670.022332"><langUsage xml:id="n670.022333"><language ident="en" xml:id="n670.022334">English</language>
+</langUsage>
+<textClass xml:id="n670.022335"><catRef target="#genre_2" scheme="#genres" xml:id="n670.022336"/>
+<catRef target="#genre_1" scheme="#genres" xml:id="n670.022337"/>
+<keywords scheme="#keywords" xml:id="n670.022338"><list xml:id="n670.022339"><item xml:id="n670.022340">Gospel Book</item>
+<item xml:id="n670.022341">French</item>
+<item xml:id="n670.022342">Book</item>
+<item xml:id="n670.022343">Caroline minuscule</item>
+<item xml:id="n670.022344">Codex</item>
+<item xml:id="n670.022345">Illumination</item>
+<item xml:id="n670.022346">Miniature</item>
+<item xml:id="n670.022347">Flanders</item>
+<item xml:id="n670.022348">France</item>
+<item xml:id="n670.022349">10th century</item>
+<item xml:id="n670.022350">Devotion</item>
+<item xml:id="n670.022351">Christian</item>
+<item xml:id="n670.022352">Manuscript</item>
+<item xml:id="n670.022353">Painting</item>
+<item xml:id="n670.022354">Walters Art Museum</item>
+<item xml:id="n670.022355">Liturgy</item>
+</list>
+</keywords>
+</textClass>
+</profileDesc>
+</teiHeader>
+<facsimile xml:id="n670.022356"><surface n="Upper board outside" xml:id="n670.020229"><graphic width="9763px" xml:id="n670.020230" url="master/W1_000001_1000.tif" height="10498px"/>
+<graphic width="2350px" xml:id="n670.020231" url="300/W1_000001_300.tif" height="3143px"/>
+<graphic width="1346px" xml:id="n670.020232" url="sap/W1_000001_sap.jpg" height="1800px"/>
+<graphic width="142px" xml:id="n670.020233" url="thumb/W1_000001_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Upper board inside" xml:id="n670.020234"><graphic width="5575px" xml:id="n670.020235" url="master/W1_000002_600.tif" height="6166px"/>
+<graphic width="2231px" xml:id="n670.020236" url="300/W1_000002_300.tif" height="3080px"/>
+<graphic width="1304px" xml:id="n670.020237" url="sap/W1_000002_sap.jpg" height="1800px"/>
+<graphic width="138px" xml:id="n670.020238" url="thumb/W1_000002_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Front flyleaf i, r" xml:id="n670.020239"><graphic width="5415px" xml:id="n670.020240" url="master/W1_000003_600.tif" height="5952px"/>
+<graphic width="2136px" xml:id="n670.020241" url="300/W1_000003_300.tif" height="2973px"/>
+<graphic width="1293px" xml:id="n670.020242" url="sap/W1_000003_sap.jpg" height="1800px"/>
+<graphic width="136px" xml:id="n670.020243" url="thumb/W1_000003_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Front flyleaf i, v" xml:id="n670.020244"><graphic width="5415px" xml:id="n670.020245" url="master/W1_000004_600.tif" height="5912px"/>
+<graphic width="2113px" xml:id="n670.020246" url="300/W1_000004_300.tif" height="2954px"/>
+<graphic width="1288px" xml:id="n670.020247" url="sap/W1_000004_sap.jpg" height="1800px"/>
+<graphic width="136px" xml:id="n670.020248" url="thumb/W1_000004_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Front flyleaf ii, r" xml:id="n670.020249"><graphic width="5358px" xml:id="n670.020250" url="master/W1_000005_600.tif" height="5941px"/>
+<graphic width="2099px" xml:id="n670.020251" url="300/W1_000005_300.tif" height="2962px"/>
+<graphic width="1275px" xml:id="n670.020252" url="sap/W1_000005_sap.jpg" height="1800px"/>
+<graphic width="135px" xml:id="n670.020253" url="thumb/W1_000005_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Front flyleaf ii, v" xml:id="n670.020254"><graphic width="5415px" xml:id="n670.020255" url="master/W1_000006_600.tif" height="5906px"/>
+<graphic width="2116px" xml:id="n670.020256" url="300/W1_000006_300.tif" height="2950px"/>
+<graphic width="1291px" xml:id="n670.020257" url="sap/W1_000006_sap.jpg" height="1800px"/>
+<graphic width="136px" xml:id="n670.020258" url="thumb/W1_000006_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Front flyleaf iii, r" xml:id="n670.020259"><graphic width="5392px" xml:id="n670.020260" url="master/W1_000007_600.tif" height="5952px"/>
+<graphic width="2121px" xml:id="n670.020261" url="300/W1_000007_300.tif" height="2971px"/>
+<graphic width="1285px" xml:id="n670.020262" url="sap/W1_000007_sap.jpg" height="1800px"/>
+<graphic width="136px" xml:id="n670.020263" url="thumb/W1_000007_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Front flyleaf iii, v" xml:id="n670.020264"><graphic width="5432px" xml:id="n670.020265" url="master/W1_000008_600.tif" height="5935px"/>
+<graphic width="2139px" xml:id="n670.020266" url="300/W1_000008_300.tif" height="2965px"/>
+<graphic width="1298px" xml:id="n670.020267" url="sap/W1_000008_sap.jpg" height="1800px"/>
+<graphic width="137px" xml:id="n670.020268" url="thumb/W1_000008_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 1r" xml:id="n670.020269"><graphic width="9930px" xml:id="n670.020270" url="master/W1_000009_1100.tif" height="10946px"/>
+<graphic width="2145px" xml:id="n670.020271" url="300/W1_000009_300.tif" height="2983px"/>
+<graphic width="1294px" xml:id="n670.020272" url="sap/W1_000009_sap.jpg" height="1800px"/>
+<graphic width="137px" xml:id="n670.020273" url="thumb/W1_000009_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 1v" xml:id="n670.020274"><graphic width="5407px" xml:id="n670.020275" url="master/W1_000010_600.tif" height="5956px"/>
+<graphic width="2147px" xml:id="n670.020276" url="300/W1_000010_300.tif" height="2964px"/>
+<graphic width="1304px" xml:id="n670.020277" url="sap/W1_000010_sap.jpg" height="1800px"/>
+<graphic width="138px" xml:id="n670.020278" url="thumb/W1_000010_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 2r" xml:id="n670.020279"><graphic width="5414px" xml:id="n670.020280" url="master/W1_000011_600.tif" height="5934px"/>
+<graphic width="2082px" xml:id="n670.020281" url="300/W1_000011_300.tif" height="2962px"/>
+<graphic width="1265px" xml:id="n670.020282" url="sap/W1_000011_sap.jpg" height="1800px"/>
+<graphic width="134px" xml:id="n670.020283" url="thumb/W1_000011_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 2v" xml:id="n670.020284"><graphic width="5413px" xml:id="n670.020285" url="master/W1_000012_600.tif" height="5916px"/>
+<graphic width="2109px" xml:id="n670.020286" url="300/W1_000012_300.tif" height="2956px"/>
+<graphic width="1284px" xml:id="n670.020287" url="sap/W1_000012_sap.jpg" height="1800px"/>
+<graphic width="136px" xml:id="n670.020288" url="thumb/W1_000012_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 3r" xml:id="n670.020289"><graphic width="5415px" xml:id="n670.020290" url="master/W1_000013_600.tif" height="5901px"/>
+<graphic width="2119px" xml:id="n670.020291" url="300/W1_000013_300.tif" height="2948px"/>
+<graphic width="1294px" xml:id="n670.020292" url="sap/W1_000013_sap.jpg" height="1800px"/>
+<graphic width="137px" xml:id="n670.020293" url="thumb/W1_000013_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 3v" xml:id="n670.020294"><graphic width="5424px" xml:id="n670.020295" url="master/W1_000014_600.tif" height="5871px"/>
+<graphic width="2132px" xml:id="n670.020296" url="300/W1_000014_300.tif" height="2936px"/>
+<graphic width="1307px" xml:id="n670.020297" url="sap/W1_000014_sap.jpg" height="1800px"/>
+<graphic width="138px" xml:id="n670.020298" url="thumb/W1_000014_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 4r" xml:id="n670.020299"><graphic width="5426px" xml:id="n670.020300" url="master/W1_000015_600.tif" height="5355px"/>
+<graphic width="2099px" xml:id="n670.020301" url="300/W1_000015_300.tif" height="2666px"/>
+<graphic width="1417px" xml:id="n670.020302" url="sap/W1_000015_sap.jpg" height="1800px"/>
+<graphic width="150px" xml:id="n670.020303" url="thumb/W1_000015_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 4v" xml:id="n670.020304"><graphic width="5419px" xml:id="n670.020305" url="master/W1_000016_600.tif" height="5371px"/>
+<graphic width="2121px" xml:id="n670.020306" url="300/W1_000016_300.tif" height="2600px"/>
+<graphic width="1468px" xml:id="n670.020307" url="sap/W1_000016_sap.jpg" height="1800px"/>
+<graphic width="155px" xml:id="n670.020308" url="thumb/W1_000016_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 5r" xml:id="n670.020309"><graphic width="5432px" xml:id="n670.020310" url="master/W1_000017_600.tif" height="5901px"/>
+<graphic width="2079px" xml:id="n670.020311" url="300/W1_000017_300.tif" height="2948px"/>
+<graphic width="1269px" xml:id="n670.020312" url="sap/W1_000017_sap.jpg" height="1800px"/>
+<graphic width="134px" xml:id="n670.020313" url="thumb/W1_000017_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 5v" xml:id="n670.020314"><graphic width="5413px" xml:id="n670.020315" url="master/W1_000018_600.tif" height="5900px"/>
+<graphic width="2127px" xml:id="n670.020316" url="300/W1_000018_300.tif" height="2947px"/>
+<graphic width="1299px" xml:id="n670.020317" url="sap/W1_000018_sap.jpg" height="1800px"/>
+<graphic width="137px" xml:id="n670.020318" url="thumb/W1_000018_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 6r" xml:id="n670.020319"><graphic width="5398px" xml:id="n670.020320" url="master/W1_000019_600.tif" height="5895px"/>
+<graphic width="2067px" xml:id="n670.020321" url="300/W1_000019_300.tif" height="2936px"/>
+<graphic width="1267px" xml:id="n670.020322" url="sap/W1_000019_sap.jpg" height="1800px"/>
+<graphic width="134px" xml:id="n670.020323" url="thumb/W1_000019_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 6v" xml:id="n670.020324"><graphic width="5407px" xml:id="n670.020325" url="master/W1_000020_600.tif" height="5876px"/>
+<graphic width="2124px" xml:id="n670.020326" url="300/W1_000020_300.tif" height="2930px"/>
+<graphic width="1305px" xml:id="n670.020327" url="sap/W1_000020_sap.jpg" height="1800px"/>
+<graphic width="138px" xml:id="n670.020328" url="thumb/W1_000020_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 7r" xml:id="n670.020329"><graphic width="5426px" xml:id="n670.020330" url="master/W1_000021_600.tif" height="5906px"/>
+<graphic width="2079px" xml:id="n670.020331" url="300/W1_000021_300.tif" height="2942px"/>
+<graphic width="1272px" xml:id="n670.020332" url="sap/W1_000021_sap.jpg" height="1800px"/>
+<graphic width="134px" xml:id="n670.020333" url="thumb/W1_000021_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 7v" xml:id="n670.020334"><graphic width="5419px" xml:id="n670.020335" url="master/W1_000022_600.tif" height="5882px"/>
+<graphic width="2141px" xml:id="n670.020336" url="300/W1_000022_300.tif" height="2938px"/>
+<graphic width="1311px" xml:id="n670.020337" url="sap/W1_000022_sap.jpg" height="1800px"/>
+<graphic width="138px" xml:id="n670.020338" url="thumb/W1_000022_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 8r" xml:id="n670.020339"><graphic width="5391px" xml:id="n670.020340" url="master/W1_000023_600.tif" height="5900px"/>
+<graphic width="2090px" xml:id="n670.020341" url="300/W1_000023_300.tif" height="2950px"/>
+<graphic width="1275px" xml:id="n670.020342" url="sap/W1_000023_sap.jpg" height="1800px"/>
+<graphic width="135px" xml:id="n670.020343" url="thumb/W1_000023_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 8v" xml:id="n670.020344"><graphic width="5419px" xml:id="n670.020345" url="master/W1_000024_600.tif" height="5859px"/>
+<graphic width="2135px" xml:id="n670.020346" url="300/W1_000024_300.tif" height="2927px"/>
+<graphic width="1313px" xml:id="n670.020347" url="sap/W1_000024_sap.jpg" height="1800px"/>
+<graphic width="139px" xml:id="n670.020348" url="thumb/W1_000024_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 9r" xml:id="n670.020349"><graphic width="5386px" xml:id="n670.020350" url="master/W1_000025_600.tif" height="5912px"/>
+<graphic width="2056px" xml:id="n670.020351" url="300/W1_000025_300.tif" height="2951px"/>
+<graphic width="1254px" xml:id="n670.020352" url="sap/W1_000025_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020353" url="thumb/W1_000025_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 9v" xml:id="n670.020354"><graphic width="5316px" xml:id="n670.020355" url="master/W1_000026_600.tif" height="5922px"/>
+<graphic width="2044px" xml:id="n670.020356" url="300/W1_000026_300.tif" height="2961px"/>
+<graphic width="1243px" xml:id="n670.020357" url="sap/W1_000026_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020358" url="thumb/W1_000026_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 10r" xml:id="n670.020359"><graphic width="5301px" xml:id="n670.020360" url="master/W1_000027_600.tif" height="5884px"/>
+<graphic width="2051px" xml:id="n670.020361" url="300/W1_000027_300.tif" height="2942px"/>
+<graphic width="1255px" xml:id="n670.020362" url="sap/W1_000027_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020363" url="thumb/W1_000027_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 10v" xml:id="n670.020364"><graphic width="5322px" xml:id="n670.020365" url="master/W1_000028_600.tif" height="5922px"/>
+<graphic width="2076px" xml:id="n670.020366" url="300/W1_000028_300.tif" height="2956px"/>
+<graphic width="1264px" xml:id="n670.020367" url="sap/W1_000028_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.020368" url="thumb/W1_000028_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 11r" xml:id="n670.020369"><graphic width="5363px" xml:id="n670.020370" url="master/W1_000029_600.tif" height="5969px"/>
+<graphic width="2067px" xml:id="n670.020371" url="300/W1_000029_300.tif" height="2982px"/>
+<graphic width="1248px" xml:id="n670.020372" url="sap/W1_000029_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020373" url="thumb/W1_000029_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 11v" xml:id="n670.020374"><graphic width="5350px" xml:id="n670.020375" url="master/W1_000030_600.tif" height="5962px"/>
+<graphic width="2035px" xml:id="n670.020376" url="300/W1_000030_300.tif" height="2981px"/>
+<graphic width="1229px" xml:id="n670.020377" url="sap/W1_000030_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020378" url="thumb/W1_000030_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 12r" xml:id="n670.020379"><graphic width="5312px" xml:id="n670.020380" url="master/W1_000031_600.tif" height="5957px"/>
+<graphic width="2014px" xml:id="n670.020381" url="300/W1_000031_300.tif" height="2979px"/>
+<graphic width="1217px" xml:id="n670.020382" url="sap/W1_000031_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.020383" url="thumb/W1_000031_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 12v" xml:id="n670.020384"><graphic width="5333px" xml:id="n670.020385" url="master/W1_000032_600.tif" height="5877px"/>
+<graphic width="2018px" xml:id="n670.020386" url="300/W1_000032_300.tif" height="2936px"/>
+<graphic width="1237px" xml:id="n670.020387" url="sap/W1_000032_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020388" url="thumb/W1_000032_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 13r" xml:id="n670.020389"><graphic width="5300px" xml:id="n670.020390" url="master/W1_000033_600.tif" height="5952px"/>
+<graphic width="2011px" xml:id="n670.020391" url="300/W1_000033_300.tif" height="2973px"/>
+<graphic width="1217px" xml:id="n670.020392" url="sap/W1_000033_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.020393" url="thumb/W1_000033_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 13v" xml:id="n670.020394"><graphic width="5351px" xml:id="n670.020395" url="master/W1_000034_600.tif" height="5871px"/>
+<graphic width="2044px" xml:id="n670.020396" url="300/W1_000034_300.tif" height="2930px"/>
+<graphic width="1256px" xml:id="n670.020397" url="sap/W1_000034_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.020398" url="thumb/W1_000034_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 14r" xml:id="n670.020399"><graphic width="5352px" xml:id="n670.020400" url="master/W1_000035_600.tif" height="5923px"/>
+<graphic width="2011px" xml:id="n670.020401" url="300/W1_000035_300.tif" height="2962px"/>
+<graphic width="1222px" xml:id="n670.020402" url="sap/W1_000035_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020403" url="thumb/W1_000035_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 14v" xml:id="n670.020404"><graphic width="5316px" xml:id="n670.020405" url="master/W1_000036_600.tif" height="5899px"/>
+<graphic width="2016px" xml:id="n670.020406" url="300/W1_000036_300.tif" height="2947px"/>
+<graphic width="1231px" xml:id="n670.020407" url="sap/W1_000036_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020408" url="thumb/W1_000036_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 15r" xml:id="n670.020409"><graphic width="5267px" xml:id="n670.020410" url="master/W1_000037_600.tif" height="5912px"/>
+<graphic width="2039px" xml:id="n670.020411" url="300/W1_000037_300.tif" height="2953px"/>
+<graphic width="1243px" xml:id="n670.020412" url="sap/W1_000037_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020413" url="thumb/W1_000037_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 15v" xml:id="n670.020414"><graphic width="5265px" xml:id="n670.020415" url="master/W1_000038_600.tif" height="5893px"/>
+<graphic width="2047px" xml:id="n670.020416" url="300/W1_000038_300.tif" height="2944px"/>
+<graphic width="1252px" xml:id="n670.020417" url="sap/W1_000038_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020418" url="thumb/W1_000038_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 16r" xml:id="n670.020419"><graphic width="5307px" xml:id="n670.020420" url="master/W1_000039_600.tif" height="5906px"/>
+<graphic width="2051px" xml:id="n670.020421" url="300/W1_000039_300.tif" height="2951px"/>
+<graphic width="1251px" xml:id="n670.020422" url="sap/W1_000039_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020423" url="thumb/W1_000039_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 16v" xml:id="n670.020424"><graphic width="5236px" xml:id="n670.020425" url="master/W1_000040_600.tif" height="5899px"/>
+<graphic width="2035px" xml:id="n670.020426" url="300/W1_000040_300.tif" height="2933px"/>
+<graphic width="1249px" xml:id="n670.020427" url="sap/W1_000040_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020428" url="thumb/W1_000040_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 17r" xml:id="n670.020429"><graphic width="5318px" xml:id="n670.020430" url="master/W1_000041_600.tif" height="5832px"/>
+<graphic width="2053px" xml:id="n670.020431" url="300/W1_000041_300.tif" height="2916px"/>
+<graphic width="1267px" xml:id="n670.020432" url="sap/W1_000041_sap.jpg" height="1800px"/>
+<graphic width="134px" xml:id="n670.020433" url="thumb/W1_000041_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 17v" xml:id="n670.020434"><graphic width="5253px" xml:id="n670.020435" url="master/W1_000042_600.tif" height="5876px"/>
+<graphic width="2061px" xml:id="n670.020436" url="300/W1_000042_300.tif" height="2933px"/>
+<graphic width="1265px" xml:id="n670.020437" url="sap/W1_000042_sap.jpg" height="1800px"/>
+<graphic width="134px" xml:id="n670.020438" url="thumb/W1_000042_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 18r" xml:id="n670.020439"><graphic width="5238px" xml:id="n670.020440" url="master/W1_000043_600.tif" height="5861px"/>
+<graphic width="2033px" xml:id="n670.020441" url="300/W1_000043_300.tif" height="2928px"/>
+<graphic width="1250px" xml:id="n670.020442" url="sap/W1_000043_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020443" url="thumb/W1_000043_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 18v" xml:id="n670.020444"><graphic width="5299px" xml:id="n670.020445" url="master/W1_000044_600.tif" height="5854px"/>
+<graphic width="2050px" xml:id="n670.020446" url="300/W1_000044_300.tif" height="2921px"/>
+<graphic width="1263px" xml:id="n670.020447" url="sap/W1_000044_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.020448" url="thumb/W1_000044_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 19r" xml:id="n670.020449"><graphic width="5266px" xml:id="n670.020450" url="master/W1_000045_600.tif" height="5907px"/>
+<graphic width="1993px" xml:id="n670.020451" url="300/W1_000045_300.tif" height="2950px"/>
+<graphic width="1216px" xml:id="n670.020452" url="sap/W1_000045_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.020453" url="thumb/W1_000045_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 19v" xml:id="n670.020454"><graphic width="5276px" xml:id="n670.020455" url="master/W1_000046_600.tif" height="5899px"/>
+<graphic width="2036px" xml:id="n670.020456" url="300/W1_000046_300.tif" height="2944px"/>
+<graphic width="1245px" xml:id="n670.020457" url="sap/W1_000046_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020458" url="thumb/W1_000046_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 20r" xml:id="n670.020459"><graphic width="5226px" xml:id="n670.020460" url="master/W1_000047_600.tif" height="5957px"/>
+<graphic width="1993px" xml:id="n670.020461" url="300/W1_000047_300.tif" height="2973px"/>
+<graphic width="1207px" xml:id="n670.020462" url="sap/W1_000047_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.020463" url="thumb/W1_000047_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 20v" xml:id="n670.020464"><graphic width="5287px" xml:id="n670.020465" url="master/W1_000048_600.tif" height="5871px"/>
+<graphic width="2055px" xml:id="n670.020466" url="300/W1_000048_300.tif" height="2933px"/>
+<graphic width="1261px" xml:id="n670.020467" url="sap/W1_000048_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.020468" url="thumb/W1_000048_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 21r" xml:id="n670.020469"><graphic width="5307px" xml:id="n670.020470" url="master/W1_000049_600.tif" height="5946px"/>
+<graphic width="2014px" xml:id="n670.020471" url="300/W1_000049_300.tif" height="2973px"/>
+<graphic width="1219px" xml:id="n670.020472" url="sap/W1_000049_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020473" url="thumb/W1_000049_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 21v" xml:id="n670.020474"><graphic width="5254px" xml:id="n670.020475" url="master/W1_000050_600.tif" height="5922px"/>
+<graphic width="2024px" xml:id="n670.020476" url="300/W1_000050_300.tif" height="2958px"/>
+<graphic width="1232px" xml:id="n670.020477" url="sap/W1_000050_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020478" url="thumb/W1_000050_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 22r" xml:id="n670.020479"><graphic width="5330px" xml:id="n670.020480" url="master/W1_000051_600.tif" height="5946px"/>
+<graphic width="2036px" xml:id="n670.020481" url="300/W1_000051_300.tif" height="2962px"/>
+<graphic width="1237px" xml:id="n670.020482" url="sap/W1_000051_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020483" url="thumb/W1_000051_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 22v" xml:id="n670.020484"><graphic width="5299px" xml:id="n670.020485" url="master/W1_000052_600.tif" height="5905px"/>
+<graphic width="2033px" xml:id="n670.020486" url="300/W1_000052_300.tif" height="2947px"/>
+<graphic width="1241px" xml:id="n670.020487" url="sap/W1_000052_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020488" url="thumb/W1_000052_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 23r" xml:id="n670.020489"><graphic width="5272px" xml:id="n670.020490" url="master/W1_000053_600.tif" height="5963px"/>
+<graphic width="2022px" xml:id="n670.020491" url="300/W1_000053_300.tif" height="2973px"/>
+<graphic width="1224px" xml:id="n670.020492" url="sap/W1_000053_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020493" url="thumb/W1_000053_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 23v" xml:id="n670.020494"><graphic width="5288px" xml:id="n670.020495" url="master/W1_000054_600.tif" height="5910px"/>
+<graphic width="2036px" xml:id="n670.020496" url="300/W1_000054_300.tif" height="2950px"/>
+<graphic width="1242px" xml:id="n670.020497" url="sap/W1_000054_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020498" url="thumb/W1_000054_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 24r" xml:id="n670.020499"><graphic width="5284px" xml:id="n670.020500" url="master/W1_000055_600.tif" height="5941px"/>
+<graphic width="2031px" xml:id="n670.020501" url="300/W1_000055_300.tif" height="2965px"/>
+<graphic width="1233px" xml:id="n670.020502" url="sap/W1_000055_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020503" url="thumb/W1_000055_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 24v" xml:id="n670.020504"><graphic width="5237px" xml:id="n670.020505" url="master/W1_000056_600.tif" height="5849px"/>
+<graphic width="2036px" xml:id="n670.020506" url="300/W1_000056_300.tif" height="2925px"/>
+<graphic width="1253px" xml:id="n670.020507" url="sap/W1_000056_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020508" url="thumb/W1_000056_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 25r" xml:id="n670.020509"><graphic width="5335px" xml:id="n670.020510" url="master/W1_000057_600.tif" height="5883px"/>
+<graphic width="2033px" xml:id="n670.020511" url="300/W1_000057_300.tif" height="2942px"/>
+<graphic width="1244px" xml:id="n670.020512" url="sap/W1_000057_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020513" url="thumb/W1_000057_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 25v" xml:id="n670.020514"><graphic width="5242px" xml:id="n670.020515" url="master/W1_000058_600.tif" height="5854px"/>
+<graphic width="2004px" xml:id="n670.020516" url="300/W1_000058_300.tif" height="2927px"/>
+<graphic width="1232px" xml:id="n670.020517" url="sap/W1_000058_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020518" url="thumb/W1_000058_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 26r" xml:id="n670.020519"><graphic width="5313px" xml:id="n670.020520" url="master/W1_000059_600.tif" height="5861px"/>
+<graphic width="2031px" xml:id="n670.020521" url="300/W1_000059_300.tif" height="2931px"/>
+<graphic width="1247px" xml:id="n670.020522" url="sap/W1_000059_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020523" url="thumb/W1_000059_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 26v" xml:id="n670.020524"><graphic width="5236px" xml:id="n670.020525" url="master/W1_000060_600.tif" height="5905px"/>
+<graphic width="2024px" xml:id="n670.020526" url="300/W1_000060_300.tif" height="2950px"/>
+<graphic width="1235px" xml:id="n670.020527" url="sap/W1_000060_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020528" url="thumb/W1_000060_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 27r" xml:id="n670.020529"><graphic width="5341px" xml:id="n670.020530" url="master/W1_000061_600.tif" height="5930px"/>
+<graphic width="2025px" xml:id="n670.020531" url="300/W1_000061_300.tif" height="2962px"/>
+<graphic width="1230px" xml:id="n670.020532" url="sap/W1_000061_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020533" url="thumb/W1_000061_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 27v" xml:id="n670.020534"><graphic width="5236px" xml:id="n670.020535" url="master/W1_000062_600.tif" height="5883px"/>
+<graphic width="2010px" xml:id="n670.020536" url="300/W1_000062_300.tif" height="2939px"/>
+<graphic width="1231px" xml:id="n670.020537" url="sap/W1_000062_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020538" url="thumb/W1_000062_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 28r" xml:id="n670.020539"><graphic width="5284px" xml:id="n670.020540" url="master/W1_000063_600.tif" height="5912px"/>
+<graphic width="1993px" xml:id="n670.020541" url="300/W1_000063_300.tif" height="2953px"/>
+<graphic width="1215px" xml:id="n670.020542" url="sap/W1_000063_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.020543" url="thumb/W1_000063_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 28v" xml:id="n670.020544"><graphic width="5276px" xml:id="n670.020545" url="master/W1_000064_600.tif" height="5871px"/>
+<graphic width="2027px" xml:id="n670.020546" url="300/W1_000064_300.tif" height="2936px"/>
+<graphic width="1243px" xml:id="n670.020547" url="sap/W1_000064_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020548" url="thumb/W1_000064_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 29r" xml:id="n670.020549"><graphic width="5307px" xml:id="n670.020550" url="master/W1_000065_600.tif" height="5946px"/>
+<graphic width="2011px" xml:id="n670.020551" url="300/W1_000065_300.tif" height="2970px"/>
+<graphic width="1218px" xml:id="n670.020552" url="sap/W1_000065_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020553" url="thumb/W1_000065_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 29v" xml:id="n670.020554"><graphic width="5305px" xml:id="n670.020555" url="master/W1_000066_600.tif" height="5888px"/>
+<graphic width="2033px" xml:id="n670.020556" url="300/W1_000066_300.tif" height="2944px"/>
+<graphic width="1243px" xml:id="n670.020557" url="sap/W1_000066_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020558" url="thumb/W1_000066_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 30r" xml:id="n670.020559"><graphic width="5238px" xml:id="n670.020560" url="master/W1_000067_600.tif" height="5952px"/>
+<graphic width="1971px" xml:id="n670.020561" url="300/W1_000067_300.tif" height="2974px"/>
+<graphic width="1193px" xml:id="n670.020562" url="sap/W1_000067_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.020563" url="thumb/W1_000067_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 30v" xml:id="n670.020564"><graphic width="5185px" xml:id="n670.020565" url="master/W1_000068_600.tif" height="5899px"/>
+<graphic width="2001px" xml:id="n670.020566" url="300/W1_000068_300.tif" height="2950px"/>
+<graphic width="1221px" xml:id="n670.020567" url="sap/W1_000068_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020568" url="thumb/W1_000068_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 31r" xml:id="n670.020569"><graphic width="5306px" xml:id="n670.020570" url="master/W1_000069_600.tif" height="5912px"/>
+<graphic width="2025px" xml:id="n670.020571" url="300/W1_000069_300.tif" height="2956px"/>
+<graphic width="1233px" xml:id="n670.020572" url="sap/W1_000069_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020573" url="thumb/W1_000069_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 31v" xml:id="n670.020574"><graphic width="5179px" xml:id="n670.020575" url="master/W1_000070_600.tif" height="5865px"/>
+<graphic width="2004px" xml:id="n670.020576" url="300/W1_000070_300.tif" height="2930px"/>
+<graphic width="1231px" xml:id="n670.020577" url="sap/W1_000070_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020578" url="thumb/W1_000070_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 32r" xml:id="n670.020579"><graphic width="5272px" xml:id="n670.020580" url="master/W1_000071_600.tif" height="5941px"/>
+<graphic width="2002px" xml:id="n670.020581" url="300/W1_000071_300.tif" height="2965px"/>
+<graphic width="1215px" xml:id="n670.020582" url="sap/W1_000071_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.020583" url="thumb/W1_000071_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 32v" xml:id="n670.020584"><graphic width="5248px" xml:id="n670.020585" url="master/W1_000072_600.tif" height="5893px"/>
+<graphic width="2024px" xml:id="n670.020586" url="300/W1_000072_300.tif" height="2930px"/>
+<graphic width="1244px" xml:id="n670.020587" url="sap/W1_000072_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020588" url="thumb/W1_000072_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 33r" xml:id="n670.020589"><graphic width="5301px" xml:id="n670.020590" url="master/W1_000073_600.tif" height="5895px"/>
+<graphic width="2022px" xml:id="n670.020591" url="300/W1_000073_300.tif" height="2945px"/>
+<graphic width="1236px" xml:id="n670.020592" url="sap/W1_000073_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020593" url="thumb/W1_000073_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 33v" xml:id="n670.020594"><graphic width="5281px" xml:id="n670.020595" url="master/W1_000074_600.tif" height="5871px"/>
+<graphic width="2067px" xml:id="n670.020596" url="300/W1_000074_300.tif" height="2933px"/>
+<graphic width="1268px" xml:id="n670.020597" url="sap/W1_000074_sap.jpg" height="1800px"/>
+<graphic width="134px" xml:id="n670.020598" url="thumb/W1_000074_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 34r" xml:id="n670.020599"><graphic width="5289px" xml:id="n670.020600" url="master/W1_000075_600.tif" height="5907px"/>
+<graphic width="2036px" xml:id="n670.020601" url="300/W1_000075_300.tif" height="2951px"/>
+<graphic width="1242px" xml:id="n670.020602" url="sap/W1_000075_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020603" url="thumb/W1_000075_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 34v" xml:id="n670.020604"><graphic width="5299px" xml:id="n670.020605" url="master/W1_000076_600.tif" height="5905px"/>
+<graphic width="2061px" xml:id="n670.020606" url="300/W1_000076_300.tif" height="2944px"/>
+<graphic width="1260px" xml:id="n670.020607" url="sap/W1_000076_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.020608" url="thumb/W1_000076_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 35r" xml:id="n670.020609"><graphic width="5227px" xml:id="n670.020610" url="master/W1_000077_600.tif" height="5901px"/>
+<graphic width="2005px" xml:id="n670.020611" url="300/W1_000077_300.tif" height="2945px"/>
+<graphic width="1225px" xml:id="n670.020612" url="sap/W1_000077_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020613" url="thumb/W1_000077_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 35v" xml:id="n670.020614"><graphic width="5282px" xml:id="n670.020615" url="master/W1_000078_600.tif" height="5916px"/>
+<graphic width="2055px" xml:id="n670.020616" url="300/W1_000078_300.tif" height="2941px"/>
+<graphic width="1258px" xml:id="n670.020617" url="sap/W1_000078_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.020618" url="thumb/W1_000078_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 36r" xml:id="n670.020619"><graphic width="5198px" xml:id="n670.020620" url="master/W1_000079_600.tif" height="5923px"/>
+<graphic width="1997px" xml:id="n670.020621" url="300/W1_000079_300.tif" height="2953px"/>
+<graphic width="1217px" xml:id="n670.020622" url="sap/W1_000079_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.020623" url="thumb/W1_000079_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 36v" xml:id="n670.020624"><graphic width="5276px" xml:id="n670.020625" url="master/W1_000080_600.tif" height="5882px"/>
+<graphic width="2052px" xml:id="n670.020626" url="300/W1_000080_300.tif" height="2939px"/>
+<graphic width="1257px" xml:id="n670.020627" url="sap/W1_000080_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.020628" url="thumb/W1_000080_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 37r" xml:id="n670.020629"><graphic width="5232px" xml:id="n670.020630" url="master/W1_000081_600.tif" height="5946px"/>
+<graphic width="2011px" xml:id="n670.020631" url="300/W1_000081_300.tif" height="2971px"/>
+<graphic width="1218px" xml:id="n670.020632" url="sap/W1_000081_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020633" url="thumb/W1_000081_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 37v" xml:id="n670.020634"><graphic width="5304px" xml:id="n670.020635" url="master/W1_000082_600.tif" height="5899px"/>
+<graphic width="2072px" xml:id="n670.020636" url="300/W1_000082_300.tif" height="2947px"/>
+<graphic width="1266px" xml:id="n670.020637" url="sap/W1_000082_sap.jpg" height="1800px"/>
+<graphic width="134px" xml:id="n670.020638" url="thumb/W1_000082_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 38r" xml:id="n670.020639"><graphic width="5221px" xml:id="n670.020640" url="master/W1_000083_600.tif" height="5935px"/>
+<graphic width="2017px" xml:id="n670.020641" url="300/W1_000083_300.tif" height="2965px"/>
+<graphic width="1224px" xml:id="n670.020642" url="sap/W1_000083_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020643" url="thumb/W1_000083_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 38v" xml:id="n670.020644"><graphic width="9711px" xml:id="n670.020645" url="master/W1_000084_1100.tif" height="10852px"/>
+<graphic width="2091px" xml:id="n670.020646" url="300/W1_000084_300.tif" height="2957px"/>
+<graphic width="1273px" xml:id="n670.020647" url="sap/W1_000084_sap.jpg" height="1800px"/>
+<graphic width="134px" xml:id="n670.020648" url="thumb/W1_000084_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 39r" xml:id="n670.020649"><graphic width="5278px" xml:id="n670.020650" url="master/W1_000085_600.tif" height="5878px"/>
+<graphic width="2030px" xml:id="n670.020651" url="300/W1_000085_300.tif" height="2937px"/>
+<graphic width="1244px" xml:id="n670.020652" url="sap/W1_000085_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020653" url="thumb/W1_000085_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 39v" xml:id="n670.020654"><graphic width="5270px" xml:id="n670.020655" url="master/W1_000086_600.tif" height="5859px"/>
+<graphic width="2050px" xml:id="n670.020656" url="300/W1_000086_300.tif" height="2927px"/>
+<graphic width="1261px" xml:id="n670.020657" url="sap/W1_000086_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.020658" url="thumb/W1_000086_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 40r" xml:id="n670.020659"><graphic width="5136px" xml:id="n670.020660" url="master/W1_000087_600.tif" height="5930px"/>
+<graphic width="1963px" xml:id="n670.020661" url="300/W1_000087_300.tif" height="2959px"/>
+<graphic width="1194px" xml:id="n670.020662" url="sap/W1_000087_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.020663" url="thumb/W1_000087_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 40v" xml:id="n670.020664"><graphic width="5255px" xml:id="n670.020665" url="master/W1_000088_600.tif" height="5907px"/>
+<graphic width="2025px" xml:id="n670.020666" url="300/W1_000088_300.tif" height="2951px"/>
+<graphic width="1235px" xml:id="n670.020667" url="sap/W1_000088_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020668" url="thumb/W1_000088_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 41r" xml:id="n670.020669"><graphic width="5227px" xml:id="n670.020670" url="master/W1_000089_600.tif" height="5924px"/>
+<graphic width="2011px" xml:id="n670.020671" url="300/W1_000089_300.tif" height="2953px"/>
+<graphic width="1225px" xml:id="n670.020672" url="sap/W1_000089_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020673" url="thumb/W1_000089_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 41v" xml:id="n670.020674"><graphic width="5288px" xml:id="n670.020675" url="master/W1_000090_600.tif" height="5888px"/>
+<graphic width="2036px" xml:id="n670.020676" url="300/W1_000090_300.tif" height="2938px"/>
+<graphic width="1247px" xml:id="n670.020677" url="sap/W1_000090_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020678" url="thumb/W1_000090_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 42r" xml:id="n670.020679"><graphic width="5216px" xml:id="n670.020680" url="master/W1_000091_600.tif" height="5906px"/>
+<graphic width="2002px" xml:id="n670.020681" url="300/W1_000091_300.tif" height="2951px"/>
+<graphic width="1221px" xml:id="n670.020682" url="sap/W1_000091_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020683" url="thumb/W1_000091_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 42v" xml:id="n670.020684"><graphic width="5305px" xml:id="n670.020685" url="master/W1_000092_600.tif" height="5899px"/>
+<graphic width="2056px" xml:id="n670.020686" url="300/W1_000092_300.tif" height="2950px"/>
+<graphic width="1254px" xml:id="n670.020687" url="sap/W1_000092_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020688" url="thumb/W1_000092_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 43r" xml:id="n670.020689"><graphic width="5193px" xml:id="n670.020690" url="master/W1_000093_600.tif" height="5907px"/>
+<graphic width="2002px" xml:id="n670.020691" url="300/W1_000093_300.tif" height="2948px"/>
+<graphic width="1223px" xml:id="n670.020692" url="sap/W1_000093_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020693" url="thumb/W1_000093_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 43v" xml:id="n670.020694"><graphic width="5259px" xml:id="n670.020695" url="master/W1_000094_600.tif" height="5894px"/>
+<graphic width="2027px" xml:id="n670.020696" url="300/W1_000094_300.tif" height="2944px"/>
+<graphic width="1239px" xml:id="n670.020697" url="sap/W1_000094_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020698" url="thumb/W1_000094_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 44r" xml:id="n670.020699"><graphic width="5210px" xml:id="n670.020700" url="master/W1_000095_600.tif" height="5918px"/>
+<graphic width="1996px" xml:id="n670.020701" url="300/W1_000095_300.tif" height="2951px"/>
+<graphic width="1218px" xml:id="n670.020702" url="sap/W1_000095_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020703" url="thumb/W1_000095_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 44v" xml:id="n670.020704"><graphic width="5299px" xml:id="n670.020705" url="master/W1_000096_600.tif" height="5899px"/>
+<graphic width="2044px" xml:id="n670.020706" url="300/W1_000096_300.tif" height="2947px"/>
+<graphic width="1249px" xml:id="n670.020707" url="sap/W1_000096_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020708" url="thumb/W1_000096_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 45r" xml:id="n670.020709"><graphic width="5278px" xml:id="n670.020710" url="master/W1_000097_600.tif" height="5946px"/>
+<graphic width="2034px" xml:id="n670.020711" url="300/W1_000097_300.tif" height="2968px"/>
+<graphic width="1233px" xml:id="n670.020712" url="sap/W1_000097_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020713" url="thumb/W1_000097_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 45v" xml:id="n670.020714"><graphic width="5305px" xml:id="n670.020715" url="master/W1_000098_600.tif" height="5933px"/>
+<graphic width="2036px" xml:id="n670.020716" url="300/W1_000098_300.tif" height="2961px"/>
+<graphic width="1237px" xml:id="n670.020717" url="sap/W1_000098_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020718" url="thumb/W1_000098_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 46r" xml:id="n670.020719"><graphic width="5397px" xml:id="n670.020720" url="master/W1_000099_600.tif" height="5895px"/>
+<graphic width="2054px" xml:id="n670.020721" url="300/W1_000099_300.tif" height="2948px"/>
+<graphic width="1254px" xml:id="n670.020722" url="sap/W1_000099_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020723" url="thumb/W1_000099_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 46v" xml:id="n670.020724"><graphic width="5202px" xml:id="n670.020725" url="master/W1_000100_600.tif" height="5859px"/>
+<graphic width="2018px" xml:id="n670.020726" url="300/W1_000100_300.tif" height="2930px"/>
+<graphic width="1240px" xml:id="n670.020727" url="sap/W1_000100_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020728" url="thumb/W1_000100_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 47r" xml:id="n670.020729"><graphic width="5340px" xml:id="n670.020730" url="master/W1_000101_600.tif" height="5889px"/>
+<graphic width="2025px" xml:id="n670.020731" url="300/W1_000101_300.tif" height="2945px"/>
+<graphic width="1238px" xml:id="n670.020732" url="sap/W1_000101_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020733" url="thumb/W1_000101_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 47v" xml:id="n670.020734"><graphic width="5242px" xml:id="n670.020735" url="master/W1_000102_600.tif" height="5871px"/>
+<graphic width="2021px" xml:id="n670.020736" url="300/W1_000102_300.tif" height="2936px"/>
+<graphic width="1239px" xml:id="n670.020737" url="sap/W1_000102_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020738" url="thumb/W1_000102_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 48r" xml:id="n670.020739"><graphic width="5375px" xml:id="n670.020740" url="master/W1_000103_600.tif" height="5912px"/>
+<graphic width="2039px" xml:id="n670.020741" url="300/W1_000103_300.tif" height="2939px"/>
+<graphic width="1249px" xml:id="n670.020742" url="sap/W1_000103_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020743" url="thumb/W1_000103_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 48v" xml:id="n670.020744"><graphic width="5151px" xml:id="n670.020745" url="master/W1_000104_600.tif" height="5865px"/>
+<graphic width="1973px" xml:id="n670.020746" url="300/W1_000104_300.tif" height="2933px"/>
+<graphic width="1211px" xml:id="n670.020747" url="sap/W1_000104_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.020748" url="thumb/W1_000104_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 49r" xml:id="n670.020749"><graphic width="5358px" xml:id="n670.020750" url="master/W1_000105_600.tif" height="5917px"/>
+<graphic width="2048px" xml:id="n670.020751" url="300/W1_000105_300.tif" height="2953px"/>
+<graphic width="1248px" xml:id="n670.020752" url="sap/W1_000105_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020753" url="thumb/W1_000105_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 49v" xml:id="n670.020754"><graphic width="5202px" xml:id="n670.020755" url="master/W1_000106_600.tif" height="5905px"/>
+<graphic width="2027px" xml:id="n670.020756" url="300/W1_000106_300.tif" height="2950px"/>
+<graphic width="1237px" xml:id="n670.020757" url="sap/W1_000106_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020758" url="thumb/W1_000106_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 50r" xml:id="n670.020759"><graphic width="5369px" xml:id="n670.020760" url="master/W1_000107_600.tif" height="5900px"/>
+<graphic width="2039px" xml:id="n670.020761" url="300/W1_000107_300.tif" height="2948px"/>
+<graphic width="1245px" xml:id="n670.020762" url="sap/W1_000107_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020763" url="thumb/W1_000107_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 50v" xml:id="n670.020764"><graphic width="5227px" xml:id="n670.020765" url="master/W1_000108_600.tif" height="5844px"/>
+<graphic width="1976px" xml:id="n670.020766" url="300/W1_000108_300.tif" height="2920px"/>
+<graphic width="1218px" xml:id="n670.020767" url="sap/W1_000108_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020768" url="thumb/W1_000108_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 51r" xml:id="n670.020769"><graphic width="5273px" xml:id="n670.020770" url="master/W1_000109_600.tif" height="5890px"/>
+<graphic width="2022px" xml:id="n670.020771" url="300/W1_000109_300.tif" height="2939px"/>
+<graphic width="1238px" xml:id="n670.020772" url="sap/W1_000109_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020773" url="thumb/W1_000109_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 51v" xml:id="n670.020774"><graphic width="5256px" xml:id="n670.020775" url="master/W1_000110_600.tif" height="5850px"/>
+<graphic width="2005px" xml:id="n670.020776" url="300/W1_000110_300.tif" height="2922px"/>
+<graphic width="1235px" xml:id="n670.020777" url="sap/W1_000110_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020778" url="thumb/W1_000110_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 52r" xml:id="n670.020779"><graphic width="5267px" xml:id="n670.020780" url="master/W1_000111_600.tif" height="5906px"/>
+<graphic width="2025px" xml:id="n670.020781" url="300/W1_000111_300.tif" height="2948px"/>
+<graphic width="1236px" xml:id="n670.020782" url="sap/W1_000111_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020783" url="thumb/W1_000111_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 52v" xml:id="n670.020784"><graphic width="5250px" xml:id="n670.020785" url="master/W1_000112_600.tif" height="5849px"/>
+<graphic width="2005px" xml:id="n670.020786" url="300/W1_000112_300.tif" height="2922px"/>
+<graphic width="1235px" xml:id="n670.020787" url="sap/W1_000112_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020788" url="thumb/W1_000112_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 53r" xml:id="n670.020789"><graphic width="5386px" xml:id="n670.020790" url="master/W1_000113_600.tif" height="5856px"/>
+<graphic width="2053px" xml:id="n670.020791" url="300/W1_000113_300.tif" height="2928px"/>
+<graphic width="1262px" xml:id="n670.020792" url="sap/W1_000113_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.020793" url="thumb/W1_000113_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 53v" xml:id="n670.020794"><graphic width="5215px" xml:id="n670.020795" url="master/W1_000114_600.tif" height="5839px"/>
+<graphic width="2016px" xml:id="n670.020796" url="300/W1_000114_300.tif" height="2914px"/>
+<graphic width="1246px" xml:id="n670.020797" url="sap/W1_000114_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020798" url="thumb/W1_000114_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 54r" xml:id="n670.020799"><graphic width="5420px" xml:id="n670.020800" url="master/W1_000115_600.tif" height="5872px"/>
+<graphic width="2065px" xml:id="n670.020801" url="300/W1_000115_300.tif" height="2936px"/>
+<graphic width="1266px" xml:id="n670.020802" url="sap/W1_000115_sap.jpg" height="1800px"/>
+<graphic width="134px" xml:id="n670.020803" url="thumb/W1_000115_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 54v" xml:id="n670.020804"><graphic width="5215px" xml:id="n670.020805" url="master/W1_000116_600.tif" height="5821px"/>
+<graphic width="2010px" xml:id="n670.020806" url="300/W1_000116_300.tif" height="2911px"/>
+<graphic width="1243px" xml:id="n670.020807" url="sap/W1_000116_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020808" url="thumb/W1_000116_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 55r" xml:id="n670.020809"><graphic width="5420px" xml:id="n670.020810" url="master/W1_000117_600.tif" height="5878px"/>
+<graphic width="2059px" xml:id="n670.020811" url="300/W1_000117_300.tif" height="2939px"/>
+<graphic width="1261px" xml:id="n670.020812" url="sap/W1_000117_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.020813" url="thumb/W1_000117_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 55v" xml:id="n670.020814"><graphic width="5215px" xml:id="n670.020815" url="master/W1_000118_600.tif" height="5832px"/>
+<graphic width="1999px" xml:id="n670.020816" url="300/W1_000118_300.tif" height="2911px"/>
+<graphic width="1236px" xml:id="n670.020817" url="sap/W1_000118_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020818" url="thumb/W1_000118_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 56r" xml:id="n670.020819"><graphic width="5358px" xml:id="n670.020820" url="master/W1_000119_600.tif" height="5850px"/>
+<graphic width="2045px" xml:id="n670.020821" url="300/W1_000119_300.tif" height="2922px"/>
+<graphic width="1259px" xml:id="n670.020822" url="sap/W1_000119_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.020823" url="thumb/W1_000119_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 56v" xml:id="n670.020824"><graphic width="5232px" xml:id="n670.020825" url="master/W1_000120_600.tif" height="5866px"/>
+<graphic width="2005px" xml:id="n670.020826" url="300/W1_000120_300.tif" height="2931px"/>
+<graphic width="1231px" xml:id="n670.020827" url="sap/W1_000120_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020828" url="thumb/W1_000120_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 57r" xml:id="n670.020829"><graphic width="5392px" xml:id="n670.020830" url="master/W1_000121_600.tif" height="5923px"/>
+<graphic width="2031px" xml:id="n670.020831" url="300/W1_000121_300.tif" height="2959px"/>
+<graphic width="1235px" xml:id="n670.020832" url="sap/W1_000121_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020833" url="thumb/W1_000121_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 57v" xml:id="n670.020834"><graphic width="5250px" xml:id="n670.020835" url="master/W1_000122_600.tif" height="5855px"/>
+<graphic width="2002px" xml:id="n670.020836" url="300/W1_000122_300.tif" height="2925px"/>
+<graphic width="1232px" xml:id="n670.020837" url="sap/W1_000122_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020838" url="thumb/W1_000122_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 58r" xml:id="n670.020839"><graphic width="5346px" xml:id="n670.020840" url="master/W1_000123_600.tif" height="5872px"/>
+<graphic width="2048px" xml:id="n670.020841" url="300/W1_000123_300.tif" height="2934px"/>
+<graphic width="1256px" xml:id="n670.020842" url="sap/W1_000123_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.020843" url="thumb/W1_000123_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 58v" xml:id="n670.020844"><graphic width="5249px" xml:id="n670.020845" url="master/W1_000124_600.tif" height="5873px"/>
+<graphic width="2016px" xml:id="n670.020846" url="300/W1_000124_300.tif" height="2934px"/>
+<graphic width="1237px" xml:id="n670.020847" url="sap/W1_000124_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020848" url="thumb/W1_000124_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 59r" xml:id="n670.020849"><graphic width="5340px" xml:id="n670.020850" url="master/W1_000125_600.tif" height="5935px"/>
+<graphic width="2014px" xml:id="n670.020851" url="300/W1_000125_300.tif" height="2951px"/>
+<graphic width="1228px" xml:id="n670.020852" url="sap/W1_000125_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020853" url="thumb/W1_000125_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 59v" xml:id="n670.020854"><graphic width="5125px" xml:id="n670.020855" url="master/W1_000126_600.tif" height="5856px"/>
+<graphic width="1985px" xml:id="n670.020856" url="300/W1_000126_300.tif" height="2928px"/>
+<graphic width="1220px" xml:id="n670.020857" url="sap/W1_000126_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020858" url="thumb/W1_000126_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 60r" xml:id="n670.020859"><graphic width="5278px" xml:id="n670.020860" url="master/W1_000127_600.tif" height="5867px"/>
+<graphic width="2008px" xml:id="n670.020861" url="300/W1_000127_300.tif" height="2931px"/>
+<graphic width="1233px" xml:id="n670.020862" url="sap/W1_000127_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020863" url="thumb/W1_000127_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 60v" xml:id="n670.020864"><graphic width="5187px" xml:id="n670.020865" url="master/W1_000128_600.tif" height="5889px"/>
+<graphic width="1993px" xml:id="n670.020866" url="300/W1_000128_300.tif" height="2938px"/>
+<graphic width="1221px" xml:id="n670.020867" url="sap/W1_000128_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020868" url="thumb/W1_000128_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 61r" xml:id="n670.020869"><graphic width="5290px" xml:id="n670.020870" url="master/W1_000129_600.tif" height="5860px"/>
+<graphic width="2010px" xml:id="n670.020871" url="300/W1_000129_300.tif" height="2925px"/>
+<graphic width="1237px" xml:id="n670.020872" url="sap/W1_000129_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020873" url="thumb/W1_000129_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 61v" xml:id="n670.020874"><graphic width="5193px" xml:id="n670.020875" url="master/W1_000130_600.tif" height="5906px"/>
+<graphic width="2016px" xml:id="n670.020876" url="300/W1_000130_300.tif" height="2950px"/>
+<graphic width="1230px" xml:id="n670.020877" url="sap/W1_000130_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020878" url="thumb/W1_000130_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 62r" xml:id="n670.020879"><graphic width="5301px" xml:id="n670.020880" url="master/W1_000131_600.tif" height="5838px"/>
+<graphic width="2022px" xml:id="n670.020881" url="300/W1_000131_300.tif" height="2919px"/>
+<graphic width="1247px" xml:id="n670.020882" url="sap/W1_000131_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020883" url="thumb/W1_000131_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 62v" xml:id="n670.020884"><graphic width="5208px" xml:id="n670.020885" url="master/W1_000132_600.tif" height="5865px"/>
+<graphic width="2021px" xml:id="n670.020886" url="300/W1_000132_300.tif" height="2933px"/>
+<graphic width="1241px" xml:id="n670.020887" url="sap/W1_000132_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020888" url="thumb/W1_000132_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 63r" xml:id="n670.020889"><graphic width="5295px" xml:id="n670.020890" url="master/W1_000133_600.tif" height="5878px"/>
+<graphic width="2039px" xml:id="n670.020891" url="300/W1_000133_300.tif" height="2936px"/>
+<graphic width="1250px" xml:id="n670.020892" url="sap/W1_000133_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020893" url="thumb/W1_000133_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 63v" xml:id="n670.020894"><graphic width="5202px" xml:id="n670.020895" url="master/W1_000134_600.tif" height="5865px"/>
+<graphic width="2018px" xml:id="n670.020896" url="300/W1_000134_300.tif" height="2933px"/>
+<graphic width="1239px" xml:id="n670.020897" url="sap/W1_000134_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020898" url="thumb/W1_000134_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 64r" xml:id="n670.020899"><graphic width="5301px" xml:id="n670.020900" url="master/W1_000135_600.tif" height="5827px"/>
+<graphic width="2048px" xml:id="n670.020901" url="300/W1_000135_300.tif" height="2905px"/>
+<graphic width="1269px" xml:id="n670.020902" url="sap/W1_000135_sap.jpg" height="1800px"/>
+<graphic width="134px" xml:id="n670.020903" url="thumb/W1_000135_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 64v" xml:id="n670.020904"><graphic width="5231px" xml:id="n670.020905" url="master/W1_000136_600.tif" height="5887px"/>
+<graphic width="2038px" xml:id="n670.020906" url="300/W1_000136_300.tif" height="2944px"/>
+<graphic width="1246px" xml:id="n670.020907" url="sap/W1_000136_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.020908" url="thumb/W1_000136_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 65r" xml:id="n670.020909"><graphic width="5250px" xml:id="n670.020910" url="master/W1_000137_600.tif" height="5872px"/>
+<graphic width="2019px" xml:id="n670.020911" url="300/W1_000137_300.tif" height="2933px"/>
+<graphic width="1239px" xml:id="n670.020912" url="sap/W1_000137_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020913" url="thumb/W1_000137_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 65v" xml:id="n670.020914"><graphic width="5225px" xml:id="n670.020915" url="master/W1_000138_600.tif" height="5877px"/>
+<graphic width="2021px" xml:id="n670.020916" url="300/W1_000138_300.tif" height="2936px"/>
+<graphic width="1239px" xml:id="n670.020917" url="sap/W1_000138_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020918" url="thumb/W1_000138_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 66r" xml:id="n670.020919"><graphic width="5267px" xml:id="n670.020920" url="master/W1_000139_600.tif" height="5844px"/>
+<graphic width="2016px" xml:id="n670.020921" url="300/W1_000139_300.tif" height="2916px"/>
+<graphic width="1244px" xml:id="n670.020922" url="sap/W1_000139_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020923" url="thumb/W1_000139_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 66v" xml:id="n670.020924"><graphic width="5191px" xml:id="n670.020925" url="master/W1_000140_600.tif" height="5893px"/>
+<graphic width="2013px" xml:id="n670.020926" url="300/W1_000140_300.tif" height="2941px"/>
+<graphic width="1232px" xml:id="n670.020927" url="sap/W1_000140_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020928" url="thumb/W1_000140_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 67r" xml:id="n670.020929"><graphic width="5227px" xml:id="n670.020930" url="master/W1_000141_600.tif" height="5849px"/>
+<graphic width="2016px" xml:id="n670.020931" url="300/W1_000141_300.tif" height="2922px"/>
+<graphic width="1242px" xml:id="n670.020932" url="sap/W1_000141_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020933" url="thumb/W1_000141_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 67v" xml:id="n670.020934"><graphic width="5185px" xml:id="n670.020935" url="master/W1_000142_600.tif" height="5905px"/>
+<graphic width="2015px" xml:id="n670.020936" url="300/W1_000142_300.tif" height="2944px"/>
+<graphic width="1232px" xml:id="n670.020937" url="sap/W1_000142_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020938" url="thumb/W1_000142_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 68r" xml:id="n670.020939"><graphic width="5204px" xml:id="n670.020940" url="master/W1_000143_600.tif" height="5867px"/>
+<graphic width="2002px" xml:id="n670.020941" url="300/W1_000143_300.tif" height="2934px"/>
+<graphic width="1228px" xml:id="n670.020942" url="sap/W1_000143_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020943" url="thumb/W1_000143_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 68v" xml:id="n670.020944"><graphic width="5191px" xml:id="n670.020945" url="master/W1_000144_600.tif" height="5859px"/>
+<graphic width="2024px" xml:id="n670.020946" url="300/W1_000144_300.tif" height="2927px"/>
+<graphic width="1245px" xml:id="n670.020947" url="sap/W1_000144_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020948" url="thumb/W1_000144_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 69r" xml:id="n670.020949"><graphic width="5204px" xml:id="n670.020950" url="master/W1_000145_600.tif" height="5849px"/>
+<graphic width="2005px" xml:id="n670.020951" url="300/W1_000145_300.tif" height="2919px"/>
+<graphic width="1236px" xml:id="n670.020952" url="sap/W1_000145_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020953" url="thumb/W1_000145_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 69v" xml:id="n670.020954"><graphic width="5202px" xml:id="n670.020955" url="master/W1_000146_600.tif" height="5870px"/>
+<graphic width="2021px" xml:id="n670.020956" url="300/W1_000146_300.tif" height="2935px"/>
+<graphic width="1239px" xml:id="n670.020957" url="sap/W1_000146_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020958" url="thumb/W1_000146_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 70r" xml:id="n670.020959"><graphic width="5238px" xml:id="n670.020960" url="master/W1_000147_600.tif" height="5855px"/>
+<graphic width="2013px" xml:id="n670.020961" url="300/W1_000147_300.tif" height="2928px"/>
+<graphic width="1238px" xml:id="n670.020962" url="sap/W1_000147_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020963" url="thumb/W1_000147_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 70v" xml:id="n670.020964"><graphic width="5214px" xml:id="n670.020965" url="master/W1_000148_600.tif" height="5882px"/>
+<graphic width="1984px" xml:id="n670.020966" url="300/W1_000148_300.tif" height="2933px"/>
+<graphic width="1218px" xml:id="n670.020967" url="sap/W1_000148_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020968" url="thumb/W1_000148_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 71r" xml:id="n670.020969"><graphic width="5267px" xml:id="n670.020970" url="master/W1_000149_600.tif" height="5873px"/>
+<graphic width="2019px" xml:id="n670.020971" url="300/W1_000149_300.tif" height="2937px"/>
+<graphic width="1238px" xml:id="n670.020972" url="sap/W1_000149_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020973" url="thumb/W1_000149_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 71v" xml:id="n670.020974"><graphic width="5208px" xml:id="n670.020975" url="master/W1_000150_600.tif" height="5865px"/>
+<graphic width="1998px" xml:id="n670.020976" url="300/W1_000150_300.tif" height="2927px"/>
+<graphic width="1229px" xml:id="n670.020977" url="sap/W1_000150_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020978" url="thumb/W1_000150_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 72r" xml:id="n670.020979"><graphic width="5233px" xml:id="n670.020980" url="master/W1_000151_600.tif" height="5878px"/>
+<graphic width="2005px" xml:id="n670.020981" url="300/W1_000151_300.tif" height="2934px"/>
+<graphic width="1230px" xml:id="n670.020982" url="sap/W1_000151_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.020983" url="thumb/W1_000151_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 72v" xml:id="n670.020984"><graphic width="5156px" xml:id="n670.020985" url="master/W1_000152_600.tif" height="5899px"/>
+<graphic width="1979px" xml:id="n670.020986" url="300/W1_000152_300.tif" height="2944px"/>
+<graphic width="1210px" xml:id="n670.020987" url="sap/W1_000152_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.020988" url="thumb/W1_000152_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 73r" xml:id="n670.020989"><graphic width="5261px" xml:id="n670.020990" url="master/W1_000153_600.tif" height="5867px"/>
+<graphic width="2016px" xml:id="n670.020991" url="300/W1_000153_300.tif" height="2931px"/>
+<graphic width="1238px" xml:id="n670.020992" url="sap/W1_000153_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.020993" url="thumb/W1_000153_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 73v" xml:id="n670.020994"><graphic width="5151px" xml:id="n670.020995" url="master/W1_000154_600.tif" height="5871px"/>
+<graphic width="1987px" xml:id="n670.020996" url="300/W1_000154_300.tif" height="2936px"/>
+<graphic width="1218px" xml:id="n670.020997" url="sap/W1_000154_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.020998" url="thumb/W1_000154_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 74r" xml:id="n670.020999"><graphic width="5329px" xml:id="n670.021000" url="master/W1_000155_600.tif" height="5849px"/>
+<graphic width="2036px" xml:id="n670.021001" url="300/W1_000155_300.tif" height="2922px"/>
+<graphic width="1254px" xml:id="n670.021002" url="sap/W1_000155_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.021003" url="thumb/W1_000155_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 74v" xml:id="n670.021004"><graphic width="5179px" xml:id="n670.021005" url="master/W1_000156_600.tif" height="5848px"/>
+<graphic width="2015px" xml:id="n670.021006" url="300/W1_000156_300.tif" height="2924px"/>
+<graphic width="1240px" xml:id="n670.021007" url="sap/W1_000156_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021008" url="thumb/W1_000156_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 75r" xml:id="n670.021009"><graphic width="5278px" xml:id="n670.021010" url="master/W1_000157_600.tif" height="5872px"/>
+<graphic width="2005px" xml:id="n670.021011" url="300/W1_000157_300.tif" height="2933px"/>
+<graphic width="1230px" xml:id="n670.021012" url="sap/W1_000157_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021013" url="thumb/W1_000157_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 75v" xml:id="n670.021014"><graphic width="5100px" xml:id="n670.021015" url="master/W1_000158_600.tif" height="5882px"/>
+<graphic width="1973px" xml:id="n670.021016" url="300/W1_000158_300.tif" height="2941px"/>
+<graphic width="1208px" xml:id="n670.021017" url="sap/W1_000158_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021018" url="thumb/W1_000158_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 76r" xml:id="n670.021019"><graphic width="5255px" xml:id="n670.021020" url="master/W1_000159_600.tif" height="5889px"/>
+<graphic width="1993px" xml:id="n670.021021" url="300/W1_000159_300.tif" height="2938px"/>
+<graphic width="1221px" xml:id="n670.021022" url="sap/W1_000159_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021023" url="thumb/W1_000159_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 76v" xml:id="n670.021024"><graphic width="5185px" xml:id="n670.021025" url="master/W1_000160_600.tif" height="5893px"/>
+<graphic width="1999px" xml:id="n670.021026" url="300/W1_000160_300.tif" height="2947px"/>
+<graphic width="1221px" xml:id="n670.021027" url="sap/W1_000160_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021028" url="thumb/W1_000160_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 77r" xml:id="n670.021029"><graphic width="5289px" xml:id="n670.021030" url="master/W1_000161_600.tif" height="5849px"/>
+<graphic width="1997px" xml:id="n670.021031" url="300/W1_000161_300.tif" height="2925px"/>
+<graphic width="1229px" xml:id="n670.021032" url="sap/W1_000161_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021033" url="thumb/W1_000161_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 77v" xml:id="n670.021034"><graphic width="9575px" xml:id="n670.021035" url="master/W1_000162_1100.tif" height="10884px"/>
+<graphic width="2031px" xml:id="n670.021036" url="300/W1_000162_300.tif" height="2966px"/>
+<graphic width="1233px" xml:id="n670.021037" url="sap/W1_000162_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021038" url="thumb/W1_000162_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 78r" xml:id="n670.021039"><graphic width="9617px" xml:id="n670.021040" url="master/W1_000163_1100.tif" height="10738px"/>
+<graphic width="1971px" xml:id="n670.021041" url="300/W1_000163_300.tif" height="2925px"/>
+<graphic width="1213px" xml:id="n670.021042" url="sap/W1_000163_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021043" url="thumb/W1_000163_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 78v" xml:id="n670.021044"><graphic width="5134px" xml:id="n670.021045" url="master/W1_000164_600.tif" height="5904px"/>
+<graphic width="1950px" xml:id="n670.021046" url="300/W1_000164_300.tif" height="2952px"/>
+<graphic width="1189px" xml:id="n670.021047" url="sap/W1_000164_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021048" url="thumb/W1_000164_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 79r" xml:id="n670.021049"><graphic width="5232px" xml:id="n670.021050" url="master/W1_000165_600.tif" height="5826px"/>
+<graphic width="1991px" xml:id="n670.021051" url="300/W1_000165_300.tif" height="2908px"/>
+<graphic width="1232px" xml:id="n670.021052" url="sap/W1_000165_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021053" url="thumb/W1_000165_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 79v" xml:id="n670.021054"><graphic width="5088px" xml:id="n670.021055" url="master/W1_000166_600.tif" height="5865px"/>
+<graphic width="1927px" xml:id="n670.021056" url="300/W1_000166_300.tif" height="2930px"/>
+<graphic width="1184px" xml:id="n670.021057" url="sap/W1_000166_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021058" url="thumb/W1_000166_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 80r" xml:id="n670.021059"><graphic width="5187px" xml:id="n670.021060" url="master/W1_000167_600.tif" height="5821px"/>
+<graphic width="1951px" xml:id="n670.021061" url="300/W1_000167_300.tif" height="2905px"/>
+<graphic width="1209px" xml:id="n670.021062" url="sap/W1_000167_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021063" url="thumb/W1_000167_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 80v" xml:id="n670.021064"><graphic width="5111px" xml:id="n670.021065" url="master/W1_000168_600.tif" height="5871px"/>
+<graphic width="1936px" xml:id="n670.021066" url="300/W1_000168_300.tif" height="2930px"/>
+<graphic width="1189px" xml:id="n670.021067" url="sap/W1_000168_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021068" url="thumb/W1_000168_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 81r" xml:id="n670.021069"><graphic width="5244px" xml:id="n670.021070" url="master/W1_000169_600.tif" height="5844px"/>
+<graphic width="1974px" xml:id="n670.021071" url="300/W1_000169_300.tif" height="2914px"/>
+<graphic width="1219px" xml:id="n670.021072" url="sap/W1_000169_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021073" url="thumb/W1_000169_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 81v" xml:id="n670.021074"><graphic width="5054px" xml:id="n670.021075" url="master/W1_000170_600.tif" height="5893px"/>
+<graphic width="1924px" xml:id="n670.021076" url="300/W1_000170_300.tif" height="2944px"/>
+<graphic width="1176px" xml:id="n670.021077" url="sap/W1_000170_sap.jpg" height="1800px"/>
+<graphic width="124px" xml:id="n670.021078" url="thumb/W1_000170_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 82r" xml:id="n670.021079"><graphic width="5289px" xml:id="n670.021080" url="master/W1_000171_600.tif" height="5827px"/>
+<graphic width="2000px" xml:id="n670.021081" url="300/W1_000171_300.tif" height="2905px"/>
+<graphic width="1239px" xml:id="n670.021082" url="sap/W1_000171_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021083" url="thumb/W1_000171_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 82v" xml:id="n670.021084"><graphic width="5083px" xml:id="n670.021085" url="master/W1_000172_600.tif" height="5893px"/>
+<graphic width="1953px" xml:id="n670.021086" url="300/W1_000172_300.tif" height="2941px"/>
+<graphic width="1195px" xml:id="n670.021087" url="sap/W1_000172_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021088" url="thumb/W1_000172_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 83r" xml:id="n670.021089"><graphic width="5295px" xml:id="n670.021090" url="master/W1_000173_600.tif" height="5855px"/>
+<graphic width="2005px" xml:id="n670.021091" url="300/W1_000173_300.tif" height="2928px"/>
+<graphic width="1233px" xml:id="n670.021092" url="sap/W1_000173_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021093" url="thumb/W1_000173_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 83v" xml:id="n670.021094"><graphic width="5094px" xml:id="n670.021095" url="master/W1_000174_600.tif" height="5893px"/>
+<graphic width="1964px" xml:id="n670.021096" url="300/W1_000174_300.tif" height="2947px"/>
+<graphic width="1200px" xml:id="n670.021097" url="sap/W1_000174_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021098" url="thumb/W1_000174_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 84r" xml:id="n670.021099"><graphic width="5232px" xml:id="n670.021100" url="master/W1_000175_600.tif" height="5889px"/>
+<graphic width="1968px" xml:id="n670.021101" url="300/W1_000175_300.tif" height="2945px"/>
+<graphic width="1203px" xml:id="n670.021102" url="sap/W1_000175_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021103" url="thumb/W1_000175_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 84v" xml:id="n670.021104"><graphic width="5106px" xml:id="n670.021105" url="master/W1_000176_600.tif" height="5899px"/>
+<graphic width="1939px" xml:id="n670.021106" url="300/W1_000176_300.tif" height="2947px"/>
+<graphic width="1185px" xml:id="n670.021107" url="sap/W1_000176_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021108" url="thumb/W1_000176_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 85r" xml:id="n670.021109"><graphic width="5278px" xml:id="n670.021110" url="master/W1_000177_600.tif" height="5895px"/>
+<graphic width="1982px" xml:id="n670.021111" url="300/W1_000177_300.tif" height="2945px"/>
+<graphic width="1212px" xml:id="n670.021112" url="sap/W1_000177_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021113" url="thumb/W1_000177_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 85v" xml:id="n670.021114"><graphic width="5106px" xml:id="n670.021115" url="master/W1_000178_600.tif" height="5876px"/>
+<graphic width="1956px" xml:id="n670.021116" url="300/W1_000178_300.tif" height="2938px"/>
+<graphic width="1198px" xml:id="n670.021117" url="sap/W1_000178_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021118" url="thumb/W1_000178_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 86r" xml:id="n670.021119"><graphic width="5295px" xml:id="n670.021120" url="master/W1_000179_600.tif" height="5872px"/>
+<graphic width="1991px" xml:id="n670.021121" url="300/W1_000179_300.tif" height="2933px"/>
+<graphic width="1222px" xml:id="n670.021122" url="sap/W1_000179_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021123" url="thumb/W1_000179_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 86v" xml:id="n670.021124"><graphic width="5077px" xml:id="n670.021125" url="master/W1_000180_600.tif" height="5859px"/>
+<graphic width="1939px" xml:id="n670.021126" url="300/W1_000180_300.tif" height="2924px"/>
+<graphic width="1193px" xml:id="n670.021127" url="sap/W1_000180_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021128" url="thumb/W1_000180_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 87r" xml:id="n670.021129"><graphic width="5295px" xml:id="n670.021130" url="master/W1_000181_600.tif" height="5798px"/>
+<graphic width="1991px" xml:id="n670.021131" url="300/W1_000181_300.tif" height="2899px"/>
+<graphic width="1236px" xml:id="n670.021132" url="sap/W1_000181_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021133" url="thumb/W1_000181_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 87v" xml:id="n670.021134"><graphic width="5146px" xml:id="n670.021135" url="master/W1_000182_600.tif" height="5859px"/>
+<graphic width="1970px" xml:id="n670.021136" url="300/W1_000182_300.tif" height="2927px"/>
+<graphic width="1212px" xml:id="n670.021137" url="sap/W1_000182_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021138" url="thumb/W1_000182_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 88r" xml:id="n670.021139"><graphic width="5272px" xml:id="n670.021140" url="master/W1_000183_600.tif" height="5855px"/>
+<graphic width="1976px" xml:id="n670.021141" url="300/W1_000183_300.tif" height="2922px"/>
+<graphic width="1217px" xml:id="n670.021142" url="sap/W1_000183_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021143" url="thumb/W1_000183_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 88v" xml:id="n670.021144"><graphic width="5196px" xml:id="n670.021145" url="master/W1_000184_600.tif" height="5910px"/>
+<graphic width="2001px" xml:id="n670.021146" url="300/W1_000184_300.tif" height="2952px"/>
+<graphic width="1220px" xml:id="n670.021147" url="sap/W1_000184_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021148" url="thumb/W1_000184_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 89r" xml:id="n670.021149"><graphic width="5290px" xml:id="n670.021150" url="master/W1_000185_600.tif" height="5912px"/>
+<graphic width="1993px" xml:id="n670.021151" url="300/W1_000185_300.tif" height="2955px"/>
+<graphic width="1214px" xml:id="n670.021152" url="sap/W1_000185_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021153" url="thumb/W1_000185_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 89v" xml:id="n670.021154"><graphic width="5049px" xml:id="n670.021155" url="master/W1_000186_600.tif" height="5871px"/>
+<graphic width="1942px" xml:id="n670.021156" url="300/W1_000186_300.tif" height="2933px"/>
+<graphic width="1192px" xml:id="n670.021157" url="sap/W1_000186_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021158" url="thumb/W1_000186_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 90r" xml:id="n670.021159"><graphic width="5232px" xml:id="n670.021160" url="master/W1_000187_600.tif" height="5849px"/>
+<graphic width="1971px" xml:id="n670.021161" url="300/W1_000187_300.tif" height="2925px"/>
+<graphic width="1213px" xml:id="n670.021162" url="sap/W1_000187_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021163" url="thumb/W1_000187_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 90v" xml:id="n670.021164"><graphic width="5054px" xml:id="n670.021165" url="master/W1_000188_600.tif" height="5899px"/>
+<graphic width="1936px" xml:id="n670.021166" url="300/W1_000188_300.tif" height="2947px"/>
+<graphic width="1182px" xml:id="n670.021167" url="sap/W1_000188_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021168" url="thumb/W1_000188_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 91r" xml:id="n670.021169"><graphic width="5210px" xml:id="n670.021170" url="master/W1_000189_600.tif" height="5912px"/>
+<graphic width="1965px" xml:id="n670.021171" url="300/W1_000189_300.tif" height="2956px"/>
+<graphic width="1197px" xml:id="n670.021172" url="sap/W1_000189_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021173" url="thumb/W1_000189_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 91v" xml:id="n670.021174"><graphic width="5020px" xml:id="n670.021175" url="master/W1_000190_600.tif" height="5905px"/>
+<graphic width="1939px" xml:id="n670.021176" url="300/W1_000190_300.tif" height="2950px"/>
+<graphic width="1183px" xml:id="n670.021177" url="sap/W1_000190_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021178" url="thumb/W1_000190_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 92r" xml:id="n670.021179"><graphic width="5261px" xml:id="n670.021180" url="master/W1_000191_600.tif" height="5878px"/>
+<graphic width="2005px" xml:id="n670.021181" url="300/W1_000191_300.tif" height="2936px"/>
+<graphic width="1229px" xml:id="n670.021182" url="sap/W1_000191_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021183" url="thumb/W1_000191_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 92v" xml:id="n670.021184"><graphic width="5037px" xml:id="n670.021185" url="master/W1_000192_600.tif" height="5904px"/>
+<graphic width="1939px" xml:id="n670.021186" url="300/W1_000192_300.tif" height="2947px"/>
+<graphic width="1184px" xml:id="n670.021187" url="sap/W1_000192_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021188" url="thumb/W1_000192_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 93r" xml:id="n670.021189"><graphic width="5193px" xml:id="n670.021190" url="master/W1_000193_600.tif" height="5929px"/>
+<graphic width="1999px" xml:id="n670.021191" url="300/W1_000193_300.tif" height="2965px"/>
+<graphic width="1214px" xml:id="n670.021192" url="sap/W1_000193_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021193" url="thumb/W1_000193_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 93v" xml:id="n670.021194"><graphic width="5037px" xml:id="n670.021195" url="master/W1_000194_600.tif" height="5933px"/>
+<graphic width="1930px" xml:id="n670.021196" url="300/W1_000194_300.tif" height="2964px"/>
+<graphic width="1172px" xml:id="n670.021197" url="sap/W1_000194_sap.jpg" height="1800px"/>
+<graphic width="124px" xml:id="n670.021198" url="thumb/W1_000194_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 94r" xml:id="n670.021199"><graphic width="5267px" xml:id="n670.021200" url="master/W1_000195_600.tif" height="5917px"/>
+<graphic width="2005px" xml:id="n670.021201" url="300/W1_000195_300.tif" height="2959px"/>
+<graphic width="1220px" xml:id="n670.021202" url="sap/W1_000195_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021203" url="thumb/W1_000195_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 94v" xml:id="n670.021204"><graphic width="5055px" xml:id="n670.021205" url="master/W1_000196_600.tif" height="5870px"/>
+<graphic width="1945px" xml:id="n670.021206" url="300/W1_000196_300.tif" height="2935px"/>
+<graphic width="1193px" xml:id="n670.021207" url="sap/W1_000196_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021208" url="thumb/W1_000196_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 95r" xml:id="n670.021209"><graphic width="5295px" xml:id="n670.021210" url="master/W1_000197_600.tif" height="5895px"/>
+<graphic width="2019px" xml:id="n670.021211" url="300/W1_000197_300.tif" height="2948px"/>
+<graphic width="1233px" xml:id="n670.021212" url="sap/W1_000197_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021213" url="thumb/W1_000197_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 95v" xml:id="n670.021214"><graphic width="5037px" xml:id="n670.021215" url="master/W1_000198_600.tif" height="5899px"/>
+<graphic width="1933px" xml:id="n670.021216" url="300/W1_000198_300.tif" height="2944px"/>
+<graphic width="1182px" xml:id="n670.021217" url="sap/W1_000198_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021218" url="thumb/W1_000198_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 96r" xml:id="n670.021219"><graphic width="5318px" xml:id="n670.021220" url="master/W1_000199_600.tif" height="5884px"/>
+<graphic width="2019px" xml:id="n670.021221" url="300/W1_000199_300.tif" height="2942px"/>
+<graphic width="1235px" xml:id="n670.021222" url="sap/W1_000199_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021223" url="thumb/W1_000199_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 96v" xml:id="n670.021224"><graphic width="5142px" xml:id="n670.021225" url="master/W1_000200_600.tif" height="5861px"/>
+<graphic width="1974px" xml:id="n670.021226" url="300/W1_000200_300.tif" height="2931px"/>
+<graphic width="1212px" xml:id="n670.021227" url="sap/W1_000200_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021228" url="thumb/W1_000200_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 97r" xml:id="n670.021229"><graphic width="5323px" xml:id="n670.021230" url="master/W1_000201_600.tif" height="5861px"/>
+<graphic width="2005px" xml:id="n670.021231" url="300/W1_000201_300.tif" height="2928px"/>
+<graphic width="1233px" xml:id="n670.021232" url="sap/W1_000201_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021233" url="thumb/W1_000201_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 97v" xml:id="n670.021234"><graphic width="5108px" xml:id="n670.021235" url="master/W1_000202_600.tif" height="5895px"/>
+<graphic width="1957px" xml:id="n670.021236" url="300/W1_000202_300.tif" height="2945px"/>
+<graphic width="1196px" xml:id="n670.021237" url="sap/W1_000202_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021238" url="thumb/W1_000202_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 98r" xml:id="n670.021239"><graphic width="5265px" xml:id="n670.021240" url="master/W1_000203_600.tif" height="5860px"/>
+<graphic width="2010px" xml:id="n670.021241" url="300/W1_000203_300.tif" height="2927px"/>
+<graphic width="1236px" xml:id="n670.021242" url="sap/W1_000203_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021243" url="thumb/W1_000203_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 98v" xml:id="n670.021244"><graphic width="5125px" xml:id="n670.021245" url="master/W1_000204_600.tif" height="5855px"/>
+<graphic width="1951px" xml:id="n670.021246" url="300/W1_000204_300.tif" height="2925px"/>
+<graphic width="1201px" xml:id="n670.021247" url="sap/W1_000204_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021248" url="thumb/W1_000204_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 99r" xml:id="n670.021249"><graphic width="5253px" xml:id="n670.021250" url="master/W1_000205_600.tif" height="5882px"/>
+<graphic width="2004px" xml:id="n670.021251" url="300/W1_000205_300.tif" height="2941px"/>
+<graphic width="1227px" xml:id="n670.021252" url="sap/W1_000205_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021253" url="thumb/W1_000205_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 99v" xml:id="n670.021254"><graphic width="5108px" xml:id="n670.021255" url="master/W1_000206_600.tif" height="5900px"/>
+<graphic width="1965px" xml:id="n670.021256" url="300/W1_000206_300.tif" height="2948px"/>
+<graphic width="1200px" xml:id="n670.021257" url="sap/W1_000206_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021258" url="thumb/W1_000206_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 100r" xml:id="n670.021259"><graphic width="5242px" xml:id="n670.021260" url="master/W1_000207_600.tif" height="5848px"/>
+<graphic width="2016px" xml:id="n670.021261" url="300/W1_000207_300.tif" height="2924px"/>
+<graphic width="1241px" xml:id="n670.021262" url="sap/W1_000207_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021263" url="thumb/W1_000207_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 100v" xml:id="n670.021264"><graphic width="5118px" xml:id="n670.021265" url="master/W1_000208_600.tif" height="5855px"/>
+<graphic width="1954px" xml:id="n670.021266" url="300/W1_000208_300.tif" height="2928px"/>
+<graphic width="1201px" xml:id="n670.021267" url="sap/W1_000208_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021268" url="thumb/W1_000208_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 101r" xml:id="n670.021269"><graphic width="5214px" xml:id="n670.021270" url="master/W1_000209_600.tif" height="5893px"/>
+<graphic width="1999px" xml:id="n670.021271" url="300/W1_000209_300.tif" height="2944px"/>
+<graphic width="1222px" xml:id="n670.021272" url="sap/W1_000209_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021273" url="thumb/W1_000209_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 101v" xml:id="n670.021274"><graphic width="5119px" xml:id="n670.021275" url="master/W1_000210_600.tif" height="5867px"/>
+<graphic width="1980px" xml:id="n670.021276" url="300/W1_000210_300.tif" height="2931px"/>
+<graphic width="1216px" xml:id="n670.021277" url="sap/W1_000210_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021278" url="thumb/W1_000210_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 102r" xml:id="n670.021279"><graphic width="5191px" xml:id="n670.021280" url="master/W1_000211_600.tif" height="5922px"/>
+<graphic width="1990px" xml:id="n670.021281" url="300/W1_000211_300.tif" height="2961px"/>
+<graphic width="1210px" xml:id="n670.021282" url="sap/W1_000211_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021283" url="thumb/W1_000211_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 102v" xml:id="n670.021284"><graphic width="5102px" xml:id="n670.021285" url="master/W1_000212_600.tif" height="5906px"/>
+<graphic width="1976px" xml:id="n670.021286" url="300/W1_000212_300.tif" height="2952px"/>
+<graphic width="1205px" xml:id="n670.021287" url="sap/W1_000212_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021288" url="thumb/W1_000212_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 103r" xml:id="n670.021289"><graphic width="5287px" xml:id="n670.021290" url="master/W1_000213_600.tif" height="5865px"/>
+<graphic width="2036px" xml:id="n670.021291" url="300/W1_000213_300.tif" height="2927px"/>
+<graphic width="1252px" xml:id="n670.021292" url="sap/W1_000213_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.021293" url="thumb/W1_000213_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 103v" xml:id="n670.021294"><graphic width="5084px" xml:id="n670.021295" url="master/W1_000214_600.tif" height="5855px"/>
+<graphic width="1947px" xml:id="n670.021296" url="300/W1_000214_300.tif" height="2924px"/>
+<graphic width="1199px" xml:id="n670.021297" url="sap/W1_000214_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021298" url="thumb/W1_000214_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 104r" xml:id="n670.021299"><graphic width="5248px" xml:id="n670.021300" url="master/W1_000215_600.tif" height="5876px"/>
+<graphic width="2018px" xml:id="n670.021301" url="300/W1_000215_300.tif" height="2935px"/>
+<graphic width="1238px" xml:id="n670.021302" url="sap/W1_000215_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021303" url="thumb/W1_000215_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 104v" xml:id="n670.021304"><graphic width="5147px" xml:id="n670.021305" url="master/W1_000216_600.tif" height="5895px"/>
+<graphic width="2002px" xml:id="n670.021306" url="300/W1_000216_300.tif" height="2948px"/>
+<graphic width="1223px" xml:id="n670.021307" url="sap/W1_000216_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021308" url="thumb/W1_000216_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 105r" xml:id="n670.021309"><graphic width="5265px" xml:id="n670.021310" url="master/W1_000217_600.tif" height="5882px"/>
+<graphic width="2033px" xml:id="n670.021311" url="300/W1_000217_300.tif" height="2939px"/>
+<graphic width="1245px" xml:id="n670.021312" url="sap/W1_000217_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021313" url="thumb/W1_000217_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 105v" xml:id="n670.021314"><graphic width="5136px" xml:id="n670.021315" url="master/W1_000218_600.tif" height="5877px"/>
+<graphic width="1997px" xml:id="n670.021316" url="300/W1_000218_300.tif" height="2939px"/>
+<graphic width="1223px" xml:id="n670.021317" url="sap/W1_000218_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021318" url="thumb/W1_000218_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 106r" xml:id="n670.021319"><graphic width="5247px" xml:id="n670.021320" url="master/W1_000219_600.tif" height="5865px"/>
+<graphic width="2024px" xml:id="n670.021321" url="300/W1_000219_300.tif" height="2933px"/>
+<graphic width="1242px" xml:id="n670.021322" url="sap/W1_000219_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021323" url="thumb/W1_000219_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 106v" xml:id="n670.021324"><graphic width="5060px" xml:id="n670.021325" url="master/W1_000220_600.tif" height="5888px"/>
+<graphic width="1945px" xml:id="n670.021326" url="300/W1_000220_300.tif" height="2944px"/>
+<graphic width="1189px" xml:id="n670.021327" url="sap/W1_000220_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021328" url="thumb/W1_000220_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 107r" xml:id="n670.021329"><graphic width="5220px" xml:id="n670.021330" url="master/W1_000221_600.tif" height="5911px"/>
+<graphic width="2007px" xml:id="n670.021331" url="300/W1_000221_300.tif" height="2956px"/>
+<graphic width="1222px" xml:id="n670.021332" url="sap/W1_000221_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021333" url="thumb/W1_000221_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 107v" xml:id="n670.021334"><graphic width="5066px" xml:id="n670.021335" url="master/W1_000222_600.tif" height="5939px"/>
+<graphic width="1953px" xml:id="n670.021336" url="300/W1_000222_300.tif" height="2967px"/>
+<graphic width="1185px" xml:id="n670.021337" url="sap/W1_000222_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021338" url="thumb/W1_000222_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 108r" xml:id="n670.021339"><graphic width="5236px" xml:id="n670.021340" url="master/W1_000223_600.tif" height="5899px"/>
+<graphic width="2021px" xml:id="n670.021341" url="300/W1_000223_300.tif" height="2944px"/>
+<graphic width="1236px" xml:id="n670.021342" url="sap/W1_000223_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021343" url="thumb/W1_000223_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 108v" xml:id="n670.021344"><graphic width="5179px" xml:id="n670.021345" url="master/W1_000224_600.tif" height="5967px"/>
+<graphic width="1979px" xml:id="n670.021346" url="300/W1_000224_300.tif" height="2964px"/>
+<graphic width="1202px" xml:id="n670.021347" url="sap/W1_000224_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021348" url="thumb/W1_000224_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 109r" xml:id="n670.021349"><graphic width="5236px" xml:id="n670.021350" url="master/W1_000225_600.tif" height="5900px"/>
+<graphic width="2038px" xml:id="n670.021351" url="300/W1_000225_300.tif" height="2950px"/>
+<graphic width="1244px" xml:id="n670.021352" url="sap/W1_000225_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021353" url="thumb/W1_000225_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 109v" xml:id="n670.021354"><graphic width="5231px" xml:id="n670.021355" url="master/W1_000226_600.tif" height="5921px"/>
+<graphic width="2013px" xml:id="n670.021356" url="300/W1_000226_300.tif" height="2952px"/>
+<graphic width="1227px" xml:id="n670.021357" url="sap/W1_000226_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021358" url="thumb/W1_000226_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 110r" xml:id="n670.021359"><graphic width="5213px" xml:id="n670.021360" url="master/W1_000227_600.tif" height="5871px"/>
+<graphic width="2035px" xml:id="n670.021361" url="300/W1_000227_300.tif" height="2936px"/>
+<graphic width="1248px" xml:id="n670.021362" url="sap/W1_000227_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.021363" url="thumb/W1_000227_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 110v" xml:id="n670.021364"><graphic width="5254px" xml:id="n670.021365" url="master/W1_000228_600.tif" height="5899px"/>
+<graphic width="2021px" xml:id="n670.021366" url="300/W1_000228_300.tif" height="2950px"/>
+<graphic width="1233px" xml:id="n670.021367" url="sap/W1_000228_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021368" url="thumb/W1_000228_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 111r" xml:id="n670.021369"><graphic width="5288px" xml:id="n670.021370" url="master/W1_000229_600.tif" height="5859px"/>
+<graphic width="2061px" xml:id="n670.021371" url="300/W1_000229_300.tif" height="2930px"/>
+<graphic width="1266px" xml:id="n670.021372" url="sap/W1_000229_sap.jpg" height="1800px"/>
+<graphic width="134px" xml:id="n670.021373" url="thumb/W1_000229_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 111v" xml:id="n670.021374"><graphic width="5385px" xml:id="n670.021375" url="master/W1_000230_600.tif" height="5893px"/>
+<graphic width="2095px" xml:id="n670.021376" url="300/W1_000230_300.tif" height="2947px"/>
+<graphic width="1280px" xml:id="n670.021377" url="sap/W1_000230_sap.jpg" height="1800px"/>
+<graphic width="135px" xml:id="n670.021378" url="thumb/W1_000230_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 112r" xml:id="n670.021379"><graphic width="5242px" xml:id="n670.021380" url="master/W1_000231_600.tif" height="5842px"/>
+<graphic width="2047px" xml:id="n670.021381" url="300/W1_000231_300.tif" height="2918px"/>
+<graphic width="1262px" xml:id="n670.021382" url="sap/W1_000231_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.021383" url="thumb/W1_000231_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 112v" xml:id="n670.021384"><graphic width="5071px" xml:id="n670.021385" url="master/W1_000232_600.tif" height="5882px"/>
+<graphic width="1970px" xml:id="n670.021386" url="300/W1_000232_300.tif" height="2938px"/>
+<graphic width="1207px" xml:id="n670.021387" url="sap/W1_000232_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021388" url="thumb/W1_000232_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 113r" xml:id="n670.021389"><graphic width="5237px" xml:id="n670.021390" url="master/W1_000233_600.tif" height="5843px"/>
+<graphic width="2021px" xml:id="n670.021391" url="300/W1_000233_300.tif" height="2919px"/>
+<graphic width="1246px" xml:id="n670.021392" url="sap/W1_000233_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.021393" url="thumb/W1_000233_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 113v" xml:id="n670.021394"><graphic width="5055px" xml:id="n670.021395" url="master/W1_000234_600.tif" height="5888px"/>
+<graphic width="1947px" xml:id="n670.021396" url="300/W1_000234_300.tif" height="2938px"/>
+<graphic width="1193px" xml:id="n670.021397" url="sap/W1_000234_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021398" url="thumb/W1_000234_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 114r" xml:id="n670.021399"><graphic width="5179px" xml:id="n670.021400" url="master/W1_000235_600.tif" height="5836px"/>
+<graphic width="1993px" xml:id="n670.021401" url="300/W1_000235_300.tif" height="2918px"/>
+<graphic width="1229px" xml:id="n670.021402" url="sap/W1_000235_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021403" url="thumb/W1_000235_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 114v" xml:id="n670.021404"><graphic width="5054px" xml:id="n670.021405" url="master/W1_000236_600.tif" height="5865px"/>
+<graphic width="1942px" xml:id="n670.021406" url="300/W1_000236_300.tif" height="2933px"/>
+<graphic width="1192px" xml:id="n670.021407" url="sap/W1_000236_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021408" url="thumb/W1_000236_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 115r" xml:id="n670.021409"><graphic width="5231px" xml:id="n670.021410" url="master/W1_000237_600.tif" height="5865px"/>
+<graphic width="2013px" xml:id="n670.021411" url="300/W1_000237_300.tif" height="2933px"/>
+<graphic width="1235px" xml:id="n670.021412" url="sap/W1_000237_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021413" url="thumb/W1_000237_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 115v" xml:id="n670.021414"><graphic width="5094px" xml:id="n670.021415" url="master/W1_000238_600.tif" height="5882px"/>
+<graphic width="1928px" xml:id="n670.021416" url="300/W1_000238_300.tif" height="2939px"/>
+<graphic width="1181px" xml:id="n670.021417" url="sap/W1_000238_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021418" url="thumb/W1_000238_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 116r" xml:id="n670.021419"><graphic width="5214px" xml:id="n670.021420" url="master/W1_000239_600.tif" height="5859px"/>
+<graphic width="1996px" xml:id="n670.021421" url="300/W1_000239_300.tif" height="2927px"/>
+<graphic width="1227px" xml:id="n670.021422" url="sap/W1_000239_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021423" url="thumb/W1_000239_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 116v" xml:id="n670.021424"><graphic width="5163px" xml:id="n670.021425" url="master/W1_000240_600.tif" height="5922px"/>
+<graphic width="1959px" xml:id="n670.021426" url="300/W1_000240_300.tif" height="2958px"/>
+<graphic width="1192px" xml:id="n670.021427" url="sap/W1_000240_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021428" url="thumb/W1_000240_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 117r" xml:id="n670.021429"><graphic width="5100px" xml:id="n670.021430" url="master/W1_000241_600.tif" height="5893px"/>
+<graphic width="1959px" xml:id="n670.021431" url="300/W1_000241_300.tif" height="2947px"/>
+<graphic width="1196px" xml:id="n670.021432" url="sap/W1_000241_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021433" url="thumb/W1_000241_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 117v" xml:id="n670.021434"><graphic width="5117px" xml:id="n670.021435" url="master/W1_000242_600.tif" height="5910px"/>
+<graphic width="1962px" xml:id="n670.021436" url="300/W1_000242_300.tif" height="2953px"/>
+<graphic width="1196px" xml:id="n670.021437" url="sap/W1_000242_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021438" url="thumb/W1_000242_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 118r" xml:id="n670.021439"><graphic width="5323px" xml:id="n670.021440" url="master/W1_000243_600.tif" height="5850px"/>
+<graphic width="2022px" xml:id="n670.021441" url="300/W1_000243_300.tif" height="2925px"/>
+<graphic width="1244px" xml:id="n670.021442" url="sap/W1_000243_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021443" url="thumb/W1_000243_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 118v" xml:id="n670.021444"><graphic width="5112px" xml:id="n670.021445" url="master/W1_000244_600.tif" height="5894px"/>
+<graphic width="1953px" xml:id="n670.021446" url="300/W1_000244_300.tif" height="2947px"/>
+<graphic width="1193px" xml:id="n670.021447" url="sap/W1_000244_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021448" url="thumb/W1_000244_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 119r" xml:id="n670.021449"><graphic width="5266px" xml:id="n670.021450" url="master/W1_000245_600.tif" height="5849px"/>
+<graphic width="2028px" xml:id="n670.021451" url="300/W1_000245_300.tif" height="2925px"/>
+<graphic width="1248px" xml:id="n670.021452" url="sap/W1_000245_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.021453" url="thumb/W1_000245_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 119v" xml:id="n670.021454"><graphic width="5203px" xml:id="n670.021455" url="master/W1_000246_600.tif" height="5882px"/>
+<graphic width="1970px" xml:id="n670.021456" url="300/W1_000246_300.tif" height="2941px"/>
+<graphic width="1206px" xml:id="n670.021457" url="sap/W1_000246_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021458" url="thumb/W1_000246_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 120r" xml:id="n670.021459"><graphic width="5216px" xml:id="n670.021460" url="master/W1_000247_600.tif" height="5844px"/>
+<graphic width="2011px" xml:id="n670.021461" url="300/W1_000247_300.tif" height="2922px"/>
+<graphic width="1239px" xml:id="n670.021462" url="sap/W1_000247_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021463" url="thumb/W1_000247_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 120v" xml:id="n670.021464"><graphic width="5139px" xml:id="n670.021465" url="master/W1_000248_600.tif" height="5905px"/>
+<graphic width="1939px" xml:id="n670.021466" url="300/W1_000248_300.tif" height="2950px"/>
+<graphic width="1183px" xml:id="n670.021467" url="sap/W1_000248_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021468" url="thumb/W1_000248_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 121r" xml:id="n670.021469"><graphic width="5145px" xml:id="n670.021470" url="master/W1_000249_600.tif" height="5808px"/>
+<graphic width="1964px" xml:id="n670.021471" url="300/W1_000249_300.tif" height="2901px"/>
+<graphic width="1219px" xml:id="n670.021472" url="sap/W1_000249_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021473" url="thumb/W1_000249_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 121v" xml:id="n670.021474"><graphic width="5134px" xml:id="n670.021475" url="master/W1_000250_600.tif" height="5894px"/>
+<graphic width="1947px" xml:id="n670.021476" url="300/W1_000250_300.tif" height="2939px"/>
+<graphic width="1193px" xml:id="n670.021477" url="sap/W1_000250_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021478" url="thumb/W1_000250_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 122r" xml:id="n670.021479"><graphic width="5318px" xml:id="n670.021480" url="master/W1_000251_600.tif" height="5839px"/>
+<graphic width="2004px" xml:id="n670.021481" url="300/W1_000251_300.tif" height="2916px"/>
+<graphic width="1237px" xml:id="n670.021482" url="sap/W1_000251_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021483" url="thumb/W1_000251_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 122v" xml:id="n670.021484"><graphic width="5163px" xml:id="n670.021485" url="master/W1_000252_600.tif" height="5893px"/>
+<graphic width="1956px" xml:id="n670.021486" url="300/W1_000252_300.tif" height="2944px"/>
+<graphic width="1196px" xml:id="n670.021487" url="sap/W1_000252_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021488" url="thumb/W1_000252_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 123r" xml:id="n670.021489"><graphic width="5099px" xml:id="n670.021490" url="master/W1_000253_600.tif" height="5842px"/>
+<graphic width="1944px" xml:id="n670.021491" url="300/W1_000253_300.tif" height="2921px"/>
+<graphic width="1198px" xml:id="n670.021492" url="sap/W1_000253_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021493" url="thumb/W1_000253_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 123v" xml:id="n670.021494"><graphic width="5157px" xml:id="n670.021495" url="master/W1_000254_600.tif" height="5911px"/>
+<graphic width="1942px" xml:id="n670.021496" url="300/W1_000254_300.tif" height="2950px"/>
+<graphic width="1185px" xml:id="n670.021497" url="sap/W1_000254_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021498" url="thumb/W1_000254_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 124r" xml:id="n670.021499"><graphic width="5088px" xml:id="n670.021500" url="master/W1_000255_600.tif" height="5882px"/>
+<graphic width="1947px" xml:id="n670.021501" url="300/W1_000255_300.tif" height="2936px"/>
+<graphic width="1194px" xml:id="n670.021502" url="sap/W1_000255_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021503" url="thumb/W1_000255_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 124v" xml:id="n670.021504"><graphic width="9648px" xml:id="n670.021505" url="master/W1_000256_1100.tif" height="10831px"/>
+<graphic width="1988px" xml:id="n670.021506" url="300/W1_000256_300.tif" height="2951px"/>
+<graphic width="1213px" xml:id="n670.021507" url="sap/W1_000256_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021508" url="thumb/W1_000256_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 125r" xml:id="n670.021509"><graphic width="9471px" xml:id="n670.021510" url="master/W1_000257_1100.tif" height="10811px"/>
+<graphic width="1985px" xml:id="n670.021511" url="300/W1_000257_300.tif" height="2939px"/>
+<graphic width="1216px" xml:id="n670.021512" url="sap/W1_000257_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021513" url="thumb/W1_000257_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 125v" xml:id="n670.021514"><graphic width="5174px" xml:id="n670.021515" url="master/W1_000258_600.tif" height="5910px"/>
+<graphic width="1945px" xml:id="n670.021516" url="300/W1_000258_300.tif" height="2947px"/>
+<graphic width="1188px" xml:id="n670.021517" url="sap/W1_000258_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021518" url="thumb/W1_000258_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 126r" xml:id="n670.021519"><graphic width="5111px" xml:id="n670.021520" url="master/W1_000259_600.tif" height="5853px"/>
+<graphic width="1953px" xml:id="n670.021521" url="300/W1_000259_300.tif" height="2918px"/>
+<graphic width="1205px" xml:id="n670.021522" url="sap/W1_000259_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021523" url="thumb/W1_000259_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 126v" xml:id="n670.021524"><graphic width="5174px" xml:id="n670.021525" url="master/W1_000260_600.tif" height="5905px"/>
+<graphic width="1962px" xml:id="n670.021526" url="300/W1_000260_300.tif" height="2947px"/>
+<graphic width="1198px" xml:id="n670.021527" url="sap/W1_000260_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021528" url="thumb/W1_000260_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 127r" xml:id="n670.021529"><graphic width="5054px" xml:id="n670.021530" url="master/W1_000261_600.tif" height="5848px"/>
+<graphic width="1913px" xml:id="n670.021531" url="300/W1_000261_300.tif" height="2924px"/>
+<graphic width="1178px" xml:id="n670.021532" url="sap/W1_000261_sap.jpg" height="1800px"/>
+<graphic width="124px" xml:id="n670.021533" url="thumb/W1_000261_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 127v" xml:id="n670.021534"><graphic width="5111px" xml:id="n670.021535" url="master/W1_000262_600.tif" height="5945px"/>
+<graphic width="1933px" xml:id="n670.021536" url="300/W1_000262_300.tif" height="2973px"/>
+<graphic width="1171px" xml:id="n670.021537" url="sap/W1_000262_sap.jpg" height="1800px"/>
+<graphic width="124px" xml:id="n670.021538" url="thumb/W1_000262_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 128r" xml:id="n670.021539"><graphic width="5296px" xml:id="n670.021540" url="master/W1_000263_600.tif" height="5843px"/>
+<graphic width="2008px" xml:id="n670.021541" url="300/W1_000263_300.tif" height="2919px"/>
+<graphic width="1238px" xml:id="n670.021542" url="sap/W1_000263_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021543" url="thumb/W1_000263_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 128v" xml:id="n670.021544"><graphic width="5094px" xml:id="n670.021545" url="master/W1_000264_600.tif" height="5945px"/>
+<graphic width="1908px" xml:id="n670.021546" url="300/W1_000264_300.tif" height="2964px"/>
+<graphic width="1158px" xml:id="n670.021547" url="sap/W1_000264_sap.jpg" height="1800px"/>
+<graphic width="122px" xml:id="n670.021548" url="thumb/W1_000264_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 129r" xml:id="n670.021549"><graphic width="5100px" xml:id="n670.021550" url="master/W1_000265_600.tif" height="5893px"/>
+<graphic width="1953px" xml:id="n670.021551" url="300/W1_000265_300.tif" height="2944px"/>
+<graphic width="1194px" xml:id="n670.021552" url="sap/W1_000265_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021553" url="thumb/W1_000265_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 129v" xml:id="n670.021554"><graphic width="5134px" xml:id="n670.021555" url="master/W1_000266_600.tif" height="5979px"/>
+<graphic width="1942px" xml:id="n670.021556" url="300/W1_000266_300.tif" height="2981px"/>
+<graphic width="1172px" xml:id="n670.021557" url="sap/W1_000266_sap.jpg" height="1800px"/>
+<graphic width="124px" xml:id="n670.021558" url="thumb/W1_000266_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 130r" xml:id="n670.021559"><graphic width="5238px" xml:id="n670.021560" url="master/W1_000267_600.tif" height="5844px"/>
+<graphic width="1988px" xml:id="n670.021561" url="300/W1_000267_300.tif" height="2919px"/>
+<graphic width="1226px" xml:id="n670.021562" url="sap/W1_000267_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021563" url="thumb/W1_000267_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 130v" xml:id="n670.021564"><graphic width="4963px" xml:id="n670.021565" url="master/W1_000268_600.tif" height="5933px"/>
+<graphic width="1845px" xml:id="n670.021566" url="300/W1_000268_300.tif" height="2964px"/>
+<graphic width="1120px" xml:id="n670.021567" url="sap/W1_000268_sap.jpg" height="1800px"/>
+<graphic width="118px" xml:id="n670.021568" url="thumb/W1_000268_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 131r" xml:id="n670.021569"><graphic width="5249px" xml:id="n670.021570" url="master/W1_000269_600.tif" height="5838px"/>
+<graphic width="1999px" xml:id="n670.021571" url="300/W1_000269_300.tif" height="2916px"/>
+<graphic width="1234px" xml:id="n670.021572" url="sap/W1_000269_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021573" url="thumb/W1_000269_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 131v" xml:id="n670.021574"><graphic width="5020px" xml:id="n670.021575" url="master/W1_000270_600.tif" height="5910px"/>
+<graphic width="1896px" xml:id="n670.021576" url="300/W1_000270_300.tif" height="2955px"/>
+<graphic width="1155px" xml:id="n670.021577" url="sap/W1_000270_sap.jpg" height="1800px"/>
+<graphic width="122px" xml:id="n670.021578" url="thumb/W1_000270_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 132r" xml:id="n670.021579"><graphic width="5244px" xml:id="n670.021580" url="master/W1_000271_600.tif" height="5833px"/>
+<graphic width="1982px" xml:id="n670.021581" url="300/W1_000271_300.tif" height="2911px"/>
+<graphic width="1226px" xml:id="n670.021582" url="sap/W1_000271_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021583" url="thumb/W1_000271_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 132v" xml:id="n670.021584"><graphic width="4997px" xml:id="n670.021585" url="master/W1_000272_600.tif" height="5910px"/>
+<graphic width="1891px" xml:id="n670.021586" url="300/W1_000272_300.tif" height="2950px"/>
+<graphic width="1154px" xml:id="n670.021587" url="sap/W1_000272_sap.jpg" height="1800px"/>
+<graphic width="122px" xml:id="n670.021588" url="thumb/W1_000272_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 133r" xml:id="n670.021589"><graphic width="5255px" xml:id="n670.021590" url="master/W1_000273_600.tif" height="5895px"/>
+<graphic width="1991px" xml:id="n670.021591" url="300/W1_000273_300.tif" height="2945px"/>
+<graphic width="1217px" xml:id="n670.021592" url="sap/W1_000273_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021593" url="thumb/W1_000273_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 133v" xml:id="n670.021594"><graphic width="4998px" xml:id="n670.021595" url="master/W1_000274_600.tif" height="5894px"/>
+<graphic width="1871px" xml:id="n670.021596" url="300/W1_000274_300.tif" height="2947px"/>
+<graphic width="1142px" xml:id="n670.021597" url="sap/W1_000274_sap.jpg" height="1800px"/>
+<graphic width="121px" xml:id="n670.021598" url="thumb/W1_000274_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 134r" xml:id="n670.021599"><graphic width="5290px" xml:id="n670.021600" url="master/W1_000275_600.tif" height="5890px"/>
+<graphic width="1993px" xml:id="n670.021601" url="300/W1_000275_300.tif" height="2938px"/>
+<graphic width="1221px" xml:id="n670.021602" url="sap/W1_000275_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021603" url="thumb/W1_000275_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 134v" xml:id="n670.021604"><graphic width="5111px" xml:id="n670.021605" url="master/W1_000276_600.tif" height="5904px"/>
+<graphic width="1930px" xml:id="n670.021606" url="300/W1_000276_300.tif" height="2952px"/>
+<graphic width="1177px" xml:id="n670.021607" url="sap/W1_000276_sap.jpg" height="1800px"/>
+<graphic width="124px" xml:id="n670.021608" url="thumb/W1_000276_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 135r" xml:id="n670.021609"><graphic width="5174px" xml:id="n670.021610" url="master/W1_000277_600.tif" height="5854px"/>
+<graphic width="1981px" xml:id="n670.021611" url="300/W1_000277_300.tif" height="2922px"/>
+<graphic width="1221px" xml:id="n670.021612" url="sap/W1_000277_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021613" url="thumb/W1_000277_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 135v" xml:id="n670.021614"><graphic width="5072px" xml:id="n670.021615" url="master/W1_000278_600.tif" height="5928px"/>
+<graphic width="1911px" xml:id="n670.021616" url="300/W1_000278_300.tif" height="2958px"/>
+<graphic width="1163px" xml:id="n670.021617" url="sap/W1_000278_sap.jpg" height="1800px"/>
+<graphic width="123px" xml:id="n670.021618" url="thumb/W1_000278_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 136r" xml:id="n670.021619"><graphic width="5278px" xml:id="n670.021620" url="master/W1_000279_600.tif" height="5839px"/>
+<graphic width="1985px" xml:id="n670.021621" url="300/W1_000279_300.tif" height="2914px"/>
+<graphic width="1226px" xml:id="n670.021622" url="sap/W1_000279_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021623" url="thumb/W1_000279_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 136v" xml:id="n670.021624"><graphic width="5140px" xml:id="n670.021625" url="master/W1_000280_600.tif" height="5876px"/>
+<graphic width="1953px" xml:id="n670.021626" url="300/W1_000280_300.tif" height="2938px"/>
+<graphic width="1197px" xml:id="n670.021627" url="sap/W1_000280_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021628" url="thumb/W1_000280_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 137r" xml:id="n670.021629"><graphic width="5175px" xml:id="n670.021630" url="master/W1_000281_600.tif" height="5873px"/>
+<graphic width="1968px" xml:id="n670.021631" url="300/W1_000281_300.tif" height="2937px"/>
+<graphic width="1206px" xml:id="n670.021632" url="sap/W1_000281_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021633" url="thumb/W1_000281_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 137v" xml:id="n670.021634"><graphic width="5100px" xml:id="n670.021635" url="master/W1_000282_600.tif" height="5921px"/>
+<graphic width="1922px" xml:id="n670.021636" url="300/W1_000282_300.tif" height="2955px"/>
+<graphic width="1170px" xml:id="n670.021637" url="sap/W1_000282_sap.jpg" height="1800px"/>
+<graphic width="124px" xml:id="n670.021638" url="thumb/W1_000282_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 138r" xml:id="n670.021639"><graphic width="5181px" xml:id="n670.021640" url="master/W1_000283_600.tif" height="5878px"/>
+<graphic width="1993px" xml:id="n670.021641" url="300/W1_000283_300.tif" height="2936px"/>
+<graphic width="1222px" xml:id="n670.021642" url="sap/W1_000283_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021643" url="thumb/W1_000283_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 138v" xml:id="n670.021644"><graphic width="5060px" xml:id="n670.021645" url="master/W1_000284_600.tif" height="5939px"/>
+<graphic width="1907px" xml:id="n670.021646" url="300/W1_000284_300.tif" height="2967px"/>
+<graphic width="1157px" xml:id="n670.021647" url="sap/W1_000284_sap.jpg" height="1800px"/>
+<graphic width="122px" xml:id="n670.021648" url="thumb/W1_000284_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 139r" xml:id="n670.021649"><graphic width="5192px" xml:id="n670.021650" url="master/W1_000285_600.tif" height="5685px"/>
+<graphic width="2011px" xml:id="n670.021651" url="300/W1_000285_300.tif" height="2837px"/>
+<graphic width="1276px" xml:id="n670.021652" url="sap/W1_000285_sap.jpg" height="1800px"/>
+<graphic width="135px" xml:id="n670.021653" url="thumb/W1_000285_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 139v" xml:id="n670.021654"><graphic width="4997px" xml:id="n670.021655" url="master/W1_000286_600.tif" height="5740px"/>
+<graphic width="1896px" xml:id="n670.021656" url="300/W1_000286_300.tif" height="2859px"/>
+<graphic width="1194px" xml:id="n670.021657" url="sap/W1_000286_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021658" url="thumb/W1_000286_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 140r" xml:id="n670.021659"><graphic width="5175px" xml:id="n670.021660" url="master/W1_000287_600.tif" height="5895px"/>
+<graphic width="1999px" xml:id="n670.021661" url="300/W1_000287_300.tif" height="2942px"/>
+<graphic width="1223px" xml:id="n670.021662" url="sap/W1_000287_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021663" url="thumb/W1_000287_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 140v" xml:id="n670.021664"><graphic width="4992px" xml:id="n670.021665" url="master/W1_000288_600.tif" height="5888px"/>
+<graphic width="1882px" xml:id="n670.021666" url="300/W1_000288_300.tif" height="2944px"/>
+<graphic width="1151px" xml:id="n670.021667" url="sap/W1_000288_sap.jpg" height="1800px"/>
+<graphic width="121px" xml:id="n670.021668" url="thumb/W1_000288_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 141r" xml:id="n670.021669"><graphic width="5187px" xml:id="n670.021670" url="master/W1_000289_600.tif" height="5884px"/>
+<graphic width="1999px" xml:id="n670.021671" url="300/W1_000289_300.tif" height="2936px"/>
+<graphic width="1226px" xml:id="n670.021672" url="sap/W1_000289_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021673" url="thumb/W1_000289_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 141v" xml:id="n670.021674"><graphic width="5043px" xml:id="n670.021675" url="master/W1_000290_600.tif" height="5865px"/>
+<graphic width="1911px" xml:id="n670.021676" url="300/W1_000290_300.tif" height="2927px"/>
+<graphic width="1175px" xml:id="n670.021677" url="sap/W1_000290_sap.jpg" height="1800px"/>
+<graphic width="124px" xml:id="n670.021678" url="thumb/W1_000290_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 142r" xml:id="n670.021679"><graphic width="5193px" xml:id="n670.021680" url="master/W1_000291_600.tif" height="5861px"/>
+<graphic width="1980px" xml:id="n670.021681" url="300/W1_000291_300.tif" height="2928px"/>
+<graphic width="1217px" xml:id="n670.021682" url="sap/W1_000291_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021683" url="thumb/W1_000291_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 142v" xml:id="n670.021684"><graphic width="5090px" xml:id="n670.021685" url="master/W1_000292_600.tif" height="5941px"/>
+<graphic width="1911px" xml:id="n670.021686" url="300/W1_000292_300.tif" height="2962px"/>
+<graphic width="1161px" xml:id="n670.021687" url="sap/W1_000292_sap.jpg" height="1800px"/>
+<graphic width="123px" xml:id="n670.021688" url="thumb/W1_000292_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 143r" xml:id="n670.021689"><graphic width="5176px" xml:id="n670.021690" url="master/W1_000293_600.tif" height="5929px"/>
+<graphic width="1971px" xml:id="n670.021691" url="300/W1_000293_300.tif" height="2962px"/>
+<graphic width="1197px" xml:id="n670.021692" url="sap/W1_000293_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021693" url="thumb/W1_000293_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 143v" xml:id="n670.021694"><graphic width="5113px" xml:id="n670.021695" url="master/W1_000294_600.tif" height="5924px"/>
+<graphic width="1925px" xml:id="n670.021696" url="300/W1_000294_300.tif" height="2962px"/>
+<graphic width="1170px" xml:id="n670.021697" url="sap/W1_000294_sap.jpg" height="1800px"/>
+<graphic width="123px" xml:id="n670.021698" url="thumb/W1_000294_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 144r" xml:id="n670.021699"><graphic width="5193px" xml:id="n670.021700" url="master/W1_000295_600.tif" height="5924px"/>
+<graphic width="1968px" xml:id="n670.021701" url="300/W1_000295_300.tif" height="2956px"/>
+<graphic width="1198px" xml:id="n670.021702" url="sap/W1_000295_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021703" url="thumb/W1_000295_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 144v" xml:id="n670.021704"><graphic width="5056px" xml:id="n670.021705" url="master/W1_000296_600.tif" height="5963px"/>
+<graphic width="1883px" xml:id="n670.021706" url="300/W1_000296_300.tif" height="2979px"/>
+<graphic width="1138px" xml:id="n670.021707" url="sap/W1_000296_sap.jpg" height="1800px"/>
+<graphic width="120px" xml:id="n670.021708" url="thumb/W1_000296_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 145r" xml:id="n670.021709"><graphic width="5187px" xml:id="n670.021710" url="master/W1_000297_600.tif" height="5952px"/>
+<graphic width="1960px" xml:id="n670.021711" url="300/W1_000297_300.tif" height="2973px"/>
+<graphic width="1186px" xml:id="n670.021712" url="sap/W1_000297_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021713" url="thumb/W1_000297_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 145v" xml:id="n670.021714"><graphic width="5056px" xml:id="n670.021715" url="master/W1_000298_600.tif" height="5964px"/>
+<graphic width="1900px" xml:id="n670.021716" url="300/W1_000298_300.tif" height="2982px"/>
+<graphic width="1147px" xml:id="n670.021717" url="sap/W1_000298_sap.jpg" height="1800px"/>
+<graphic width="121px" xml:id="n670.021718" url="thumb/W1_000298_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 146r" xml:id="n670.021719"><graphic width="5136px" xml:id="n670.021720" url="master/W1_000299_600.tif" height="5924px"/>
+<graphic width="1960px" xml:id="n670.021721" url="300/W1_000299_300.tif" height="2962px"/>
+<graphic width="1191px" xml:id="n670.021722" url="sap/W1_000299_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021723" url="thumb/W1_000299_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 146v" xml:id="n670.021724"><graphic width="5062px" xml:id="n670.021725" url="master/W1_000300_600.tif" height="5895px"/>
+<graphic width="1909px" xml:id="n670.021726" url="300/W1_000300_300.tif" height="2942px"/>
+<graphic width="1168px" xml:id="n670.021727" url="sap/W1_000300_sap.jpg" height="1800px"/>
+<graphic width="123px" xml:id="n670.021728" url="thumb/W1_000300_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 147r" xml:id="n670.021729"><graphic width="5142px" xml:id="n670.021730" url="master/W1_000301_600.tif" height="5907px"/>
+<graphic width="1962px" xml:id="n670.021731" url="300/W1_000301_300.tif" height="2954px"/>
+<graphic width="1196px" xml:id="n670.021732" url="sap/W1_000301_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021733" url="thumb/W1_000301_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 147v" xml:id="n670.021734"><graphic width="5028px" xml:id="n670.021735" url="master/W1_000302_600.tif" height="5946px"/>
+<graphic width="1923px" xml:id="n670.021736" url="300/W1_000302_300.tif" height="2970px"/>
+<graphic width="1165px" xml:id="n670.021737" url="sap/W1_000302_sap.jpg" height="1800px"/>
+<graphic width="123px" xml:id="n670.021738" url="thumb/W1_000302_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 148r" xml:id="n670.021739"><graphic width="5153px" xml:id="n670.021740" url="master/W1_000303_600.tif" height="5947px"/>
+<graphic width="1982px" xml:id="n670.021741" url="300/W1_000303_300.tif" height="2971px"/>
+<graphic width="1201px" xml:id="n670.021742" url="sap/W1_000303_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021743" url="thumb/W1_000303_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 148v" xml:id="n670.021744"><graphic width="4976px" xml:id="n670.021745" url="master/W1_000304_600.tif" height="5997px"/>
+<graphic width="1905px" xml:id="n670.021746" url="300/W1_000304_300.tif" height="2988px"/>
+<graphic width="1148px" xml:id="n670.021747" url="sap/W1_000304_sap.jpg" height="1800px"/>
+<graphic width="121px" xml:id="n670.021748" url="thumb/W1_000304_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 149r" xml:id="n670.021749"><graphic width="5136px" xml:id="n670.021750" url="master/W1_000305_600.tif" height="5895px"/>
+<graphic width="1974px" xml:id="n670.021751" url="300/W1_000305_300.tif" height="2945px"/>
+<graphic width="1206px" xml:id="n670.021752" url="sap/W1_000305_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021753" url="thumb/W1_000305_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 149v" xml:id="n670.021754"><graphic width="4960px" xml:id="n670.021755" url="master/W1_000306_600.tif" height="5957px"/>
+<graphic width="1900px" xml:id="n670.021756" url="300/W1_000306_300.tif" height="2973px"/>
+<graphic width="1150px" xml:id="n670.021757" url="sap/W1_000306_sap.jpg" height="1800px"/>
+<graphic width="121px" xml:id="n670.021758" url="thumb/W1_000306_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 150r" xml:id="n670.021759"><graphic width="5142px" xml:id="n670.021760" url="master/W1_000307_600.tif" height="5935px"/>
+<graphic width="1968px" xml:id="n670.021761" url="300/W1_000307_300.tif" height="2931px"/>
+<graphic width="1208px" xml:id="n670.021762" url="sap/W1_000307_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021763" url="thumb/W1_000307_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 150v" xml:id="n670.021764"><graphic width="5079px" xml:id="n670.021765" url="master/W1_000308_600.tif" height="5895px"/>
+<graphic width="1942px" xml:id="n670.021766" url="300/W1_000308_300.tif" height="2948px"/>
+<graphic width="1186px" xml:id="n670.021767" url="sap/W1_000308_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021768" url="thumb/W1_000308_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 151r" xml:id="n670.021769"><graphic width="5153px" xml:id="n670.021770" url="master/W1_000309_600.tif" height="5901px"/>
+<graphic width="1974px" xml:id="n670.021771" url="300/W1_000309_300.tif" height="2951px"/>
+<graphic width="1204px" xml:id="n670.021772" url="sap/W1_000309_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021773" url="thumb/W1_000309_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 151v" xml:id="n670.021774"><graphic width="5016px" xml:id="n670.021775" url="master/W1_000310_600.tif" height="5941px"/>
+<graphic width="1894px" xml:id="n670.021776" url="300/W1_000310_300.tif" height="2971px"/>
+<graphic width="1148px" xml:id="n670.021777" url="sap/W1_000310_sap.jpg" height="1800px"/>
+<graphic width="121px" xml:id="n670.021778" url="thumb/W1_000310_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 152r" xml:id="n670.021779"><graphic width="5147px" xml:id="n670.021780" url="master/W1_000311_600.tif" height="5889px"/>
+<graphic width="1976px" xml:id="n670.021781" url="300/W1_000311_300.tif" height="2944px"/>
+<graphic width="1208px" xml:id="n670.021782" url="sap/W1_000311_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021783" url="thumb/W1_000311_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 152v" xml:id="n670.021784"><graphic width="5068px" xml:id="n670.021785" url="master/W1_000312_600.tif" height="5901px"/>
+<graphic width="1937px" xml:id="n670.021786" url="300/W1_000312_300.tif" height="2948px"/>
+<graphic width="1183px" xml:id="n670.021787" url="sap/W1_000312_sap.jpg" height="1800px"/>
+<graphic width="125px" xml:id="n670.021788" url="thumb/W1_000312_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 153r" xml:id="n670.021789"><graphic width="5142px" xml:id="n670.021790" url="master/W1_000313_600.tif" height="5901px"/>
+<graphic width="1988px" xml:id="n670.021791" url="300/W1_000313_300.tif" height="2945px"/>
+<graphic width="1215px" xml:id="n670.021792" url="sap/W1_000313_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021793" url="thumb/W1_000313_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 153v" xml:id="n670.021794"><graphic width="5288px" xml:id="n670.021795" url="master/W1_000314_600.tif" height="5893px"/>
+<graphic width="1973px" xml:id="n670.021796" url="300/W1_000314_300.tif" height="2947px"/>
+<graphic width="1205px" xml:id="n670.021797" url="sap/W1_000314_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021798" url="thumb/W1_000314_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 154r" xml:id="n670.021799"><graphic width="5147px" xml:id="n670.021800" url="master/W1_000315_600.tif" height="5963px"/>
+<graphic width="1993px" xml:id="n670.021801" url="300/W1_000315_300.tif" height="2975px"/>
+<graphic width="1206px" xml:id="n670.021802" url="sap/W1_000315_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021803" url="thumb/W1_000315_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 154v" xml:id="n670.021804"><graphic width="5271px" xml:id="n670.021805" url="master/W1_000316_600.tif" height="5956px"/>
+<graphic width="1967px" xml:id="n670.021806" url="300/W1_000316_300.tif" height="2973px"/>
+<graphic width="1191px" xml:id="n670.021807" url="sap/W1_000316_sap.jpg" height="1800px"/>
+<graphic width="126px" xml:id="n670.021808" url="thumb/W1_000316_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 155r" xml:id="n670.021809"><graphic width="5119px" xml:id="n670.021810" url="master/W1_000317_600.tif" height="5906px"/>
+<graphic width="1976px" xml:id="n670.021811" url="300/W1_000317_300.tif" height="2951px"/>
+<graphic width="1205px" xml:id="n670.021812" url="sap/W1_000317_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021813" url="thumb/W1_000317_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 155v" xml:id="n670.021814"><graphic width="5333px" xml:id="n670.021815" url="master/W1_000318_600.tif" height="5905px"/>
+<graphic width="1987px" xml:id="n670.021816" url="300/W1_000318_300.tif" height="2947px"/>
+<graphic width="1214px" xml:id="n670.021817" url="sap/W1_000318_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021818" url="thumb/W1_000318_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 156r" xml:id="n670.021819"><graphic width="5124px" xml:id="n670.021820" url="master/W1_000319_600.tif" height="5929px"/>
+<graphic width="1973px" xml:id="n670.021821" url="300/W1_000319_300.tif" height="2959px"/>
+<graphic width="1200px" xml:id="n670.021822" url="sap/W1_000319_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021823" url="thumb/W1_000319_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 156v" xml:id="n670.021824"><graphic width="5299px" xml:id="n670.021825" url="master/W1_000320_600.tif" height="5956px"/>
+<graphic width="1985px" xml:id="n670.021826" url="300/W1_000320_300.tif" height="2978px"/>
+<graphic width="1199px" xml:id="n670.021827" url="sap/W1_000320_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021828" url="thumb/W1_000320_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 157r" xml:id="n670.021829"><graphic width="5130px" xml:id="n670.021830" url="master/W1_000321_600.tif" height="5975px"/>
+<graphic width="1991px" xml:id="n670.021831" url="300/W1_000321_300.tif" height="2985px"/>
+<graphic width="1201px" xml:id="n670.021832" url="sap/W1_000321_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021833" url="thumb/W1_000321_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 157v" xml:id="n670.021834"><graphic width="5299px" xml:id="n670.021835" url="master/W1_000322_600.tif" height="5933px"/>
+<graphic width="1979px" xml:id="n670.021836" url="300/W1_000322_300.tif" height="2967px"/>
+<graphic width="1201px" xml:id="n670.021837" url="sap/W1_000322_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021838" url="thumb/W1_000322_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 158r" xml:id="n670.021839"><graphic width="5130px" xml:id="n670.021840" url="master/W1_000323_600.tif" height="5900px"/>
+<graphic width="1996px" xml:id="n670.021841" url="300/W1_000323_300.tif" height="2950px"/>
+<graphic width="1218px" xml:id="n670.021842" url="sap/W1_000323_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021843" url="thumb/W1_000323_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 158v" xml:id="n670.021844"><graphic width="5282px" xml:id="n670.021845" url="master/W1_000324_600.tif" height="5910px"/>
+<graphic width="1973px" xml:id="n670.021846" url="300/W1_000324_300.tif" height="2955px"/>
+<graphic width="1202px" xml:id="n670.021847" url="sap/W1_000324_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021848" url="thumb/W1_000324_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 159r" xml:id="n670.021849"><graphic width="5233px" xml:id="n670.021850" url="master/W1_000325_600.tif" height="5901px"/>
+<graphic width="2002px" xml:id="n670.021851" url="300/W1_000325_300.tif" height="2948px"/>
+<graphic width="1223px" xml:id="n670.021852" url="sap/W1_000325_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021853" url="thumb/W1_000325_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 159v" xml:id="n670.021854"><graphic width="5321px" xml:id="n670.021855" url="master/W1_000326_600.tif" height="5950px"/>
+<graphic width="1984px" xml:id="n670.021856" url="300/W1_000326_300.tif" height="2970px"/>
+<graphic width="1203px" xml:id="n670.021857" url="sap/W1_000326_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021858" url="thumb/W1_000326_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 160r" xml:id="n670.021859"><graphic width="5221px" xml:id="n670.021860" url="master/W1_000327_600.tif" height="5924px"/>
+<graphic width="1985px" xml:id="n670.021861" url="300/W1_000327_300.tif" height="2962px"/>
+<graphic width="1206px" xml:id="n670.021862" url="sap/W1_000327_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021863" url="thumb/W1_000327_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 160v" xml:id="n670.021864"><graphic width="5242px" xml:id="n670.021865" url="master/W1_000328_600.tif" height="5956px"/>
+<graphic width="1987px" xml:id="n670.021866" url="300/W1_000328_300.tif" height="2967px"/>
+<graphic width="1205px" xml:id="n670.021867" url="sap/W1_000328_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021868" url="thumb/W1_000328_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 161r" xml:id="n670.021869"><graphic width="5227px" xml:id="n670.021870" url="master/W1_000329_600.tif" height="5929px"/>
+<graphic width="2010px" xml:id="n670.021871" url="300/W1_000329_300.tif" height="2962px"/>
+<graphic width="1221px" xml:id="n670.021872" url="sap/W1_000329_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021873" url="thumb/W1_000329_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 161v" xml:id="n670.021874"><graphic width="5259px" xml:id="n670.021875" url="master/W1_000330_600.tif" height="5933px"/>
+<graphic width="1976px" xml:id="n670.021876" url="300/W1_000330_300.tif" height="2967px"/>
+<graphic width="1199px" xml:id="n670.021877" url="sap/W1_000330_sap.jpg" height="1800px"/>
+<graphic width="127px" xml:id="n670.021878" url="thumb/W1_000330_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 162r" xml:id="n670.021879"><graphic width="5227px" xml:id="n670.021880" url="master/W1_000331_600.tif" height="5912px"/>
+<graphic width="2013px" xml:id="n670.021881" url="300/W1_000331_300.tif" height="2956px"/>
+<graphic width="1226px" xml:id="n670.021882" url="sap/W1_000331_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021883" url="thumb/W1_000331_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 162v" xml:id="n670.021884"><graphic width="5288px" xml:id="n670.021885" url="master/W1_000332_600.tif" height="5894px"/>
+<graphic width="2007px" xml:id="n670.021886" url="300/W1_000332_300.tif" height="2944px"/>
+<graphic width="1227px" xml:id="n670.021887" url="sap/W1_000332_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021888" url="thumb/W1_000332_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 163r" xml:id="n670.021889"><graphic width="5193px" xml:id="n670.021890" url="master/W1_000333_600.tif" height="5935px"/>
+<graphic width="1999px" xml:id="n670.021891" url="300/W1_000333_300.tif" height="2965px"/>
+<graphic width="1214px" xml:id="n670.021892" url="sap/W1_000333_sap.jpg" height="1800px"/>
+<graphic width="128px" xml:id="n670.021893" url="thumb/W1_000333_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 163v" xml:id="n670.021894"><graphic width="5344px" xml:id="n670.021895" url="master/W1_000334_600.tif" height="5933px"/>
+<graphic width="2016px" xml:id="n670.021896" url="300/W1_000334_300.tif" height="2967px"/>
+<graphic width="1223px" xml:id="n670.021897" url="sap/W1_000334_sap.jpg" height="1800px"/>
+<graphic width="129px" xml:id="n670.021898" url="thumb/W1_000334_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 164r" xml:id="n670.021899"><graphic width="5233px" xml:id="n670.021900" url="master/W1_000335_600.tif" height="5930px"/>
+<graphic width="2028px" xml:id="n670.021901" url="300/W1_000335_300.tif" height="2965px"/>
+<graphic width="1231px" xml:id="n670.021902" url="sap/W1_000335_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021903" url="thumb/W1_000335_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 164v" xml:id="n670.021904"><graphic width="5356px" xml:id="n670.021905" url="master/W1_000336_600.tif" height="5911px"/>
+<graphic width="2036px" xml:id="n670.021906" url="300/W1_000336_300.tif" height="2956px"/>
+<graphic width="1240px" xml:id="n670.021907" url="sap/W1_000336_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021908" url="thumb/W1_000336_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 165r" xml:id="n670.021909"><graphic width="5187px" xml:id="n670.021910" url="master/W1_000337_600.tif" height="5896px"/>
+<graphic width="2017px" xml:id="n670.021911" url="300/W1_000337_300.tif" height="2945px"/>
+<graphic width="1232px" xml:id="n670.021912" url="sap/W1_000337_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021913" url="thumb/W1_000337_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 165v" xml:id="n670.021914"><graphic width="5345px" xml:id="n670.021915" url="master/W1_000338_600.tif" height="5916px"/>
+<graphic width="2036px" xml:id="n670.021916" url="300/W1_000338_300.tif" height="2953px"/>
+<graphic width="1241px" xml:id="n670.021917" url="sap/W1_000338_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021918" url="thumb/W1_000338_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 166r" xml:id="n670.021919"><graphic width="5250px" xml:id="n670.021920" url="master/W1_000339_600.tif" height="5929px"/>
+<graphic width="2048px" xml:id="n670.021921" url="300/W1_000339_300.tif" height="2956px"/>
+<graphic width="1247px" xml:id="n670.021922" url="sap/W1_000339_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.021923" url="thumb/W1_000339_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 166v" xml:id="n670.021924"><graphic width="5339px" xml:id="n670.021925" url="master/W1_000340_600.tif" height="5967px"/>
+<graphic width="2033px" xml:id="n670.021926" url="300/W1_000340_300.tif" height="2981px"/>
+<graphic width="1227px" xml:id="n670.021927" url="sap/W1_000340_sap.jpg" height="1800px"/>
+<graphic width="130px" xml:id="n670.021928" url="thumb/W1_000340_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 167r" xml:id="n670.021929"><graphic width="5256px" xml:id="n670.021930" url="master/W1_000341_600.tif" height="5940px"/>
+<graphic width="2042px" xml:id="n670.021931" url="300/W1_000341_300.tif" height="2934px"/>
+<graphic width="1253px" xml:id="n670.021932" url="sap/W1_000341_sap.jpg" height="1800px"/>
+<graphic width="132px" xml:id="n670.021933" url="thumb/W1_000341_thumb.jpg" height="190px"/>
+</surface>
+<surface n="fol. 167v" xml:id="n670.021934"><graphic width="5378px" xml:id="n670.021935" url="master/W1_000342_600.tif" height="5945px"/>
+<graphic width="2041px" xml:id="n670.021936" url="300/W1_000342_300.tif" height="2970px"/>
+<graphic width="1237px" xml:id="n670.021937" url="sap/W1_000342_sap.jpg" height="1800px"/>
+<graphic width="131px" xml:id="n670.021938" url="thumb/W1_000342_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Back flyleaf i, r" xml:id="n670.021939"><graphic width="5295px" xml:id="n670.021940" url="master/W1_000343_600.tif" height="5861px"/>
+<graphic width="2073px" xml:id="n670.021941" url="300/W1_000343_300.tif" height="2925px"/>
+<graphic width="1276px" xml:id="n670.021942" url="sap/W1_000343_sap.jpg" height="1800px"/>
+<graphic width="135px" xml:id="n670.021943" url="thumb/W1_000343_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Back flyleaf i, v" xml:id="n670.021944"><graphic width="5385px" xml:id="n670.021945" url="master/W1_000344_600.tif" height="5928px"/>
+<graphic width="2070px" xml:id="n670.021946" url="300/W1_000344_300.tif" height="2959px"/>
+<graphic width="1259px" xml:id="n670.021947" url="sap/W1_000344_sap.jpg" height="1800px"/>
+<graphic width="133px" xml:id="n670.021948" url="thumb/W1_000344_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Lower board inside" xml:id="n670.021949"><graphic width="5509px" xml:id="n670.021950" url="master/W1_000345_600.tif" height="6084px"/>
+<graphic width="2180px" xml:id="n670.021951" url="300/W1_000345_300.tif" height="3042px"/>
+<graphic width="1290px" xml:id="n670.021952" url="sap/W1_000345_sap.jpg" height="1800px"/>
+<graphic width="136px" xml:id="n670.021953" url="thumb/W1_000345_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Lower board outside" xml:id="n670.021954"><graphic width="9763px" xml:id="n670.021955" url="master/W1_000346_1000.tif" height="10311px"/>
+<graphic width="2306px" xml:id="n670.021956" url="300/W1_000346_300.tif" height="3084px"/>
+<graphic width="1346px" xml:id="n670.021957" url="sap/W1_000346_sap.jpg" height="1800px"/>
+<graphic width="142px" xml:id="n670.021958" url="thumb/W1_000346_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Spine" xml:id="n670.021959"><graphic width="5820px" xml:id="n670.021960" url="master/W1_000347_1200.tif" height="12458px"/>
+<graphic width="986px" xml:id="n670.021961" url="300/W1_000347_300.tif" height="3824px"/>
+<graphic width="464px" xml:id="n670.021962" url="sap/W1_000347_sap.jpg" height="1800px"/>
+<graphic width="49px" xml:id="n670.021963" url="thumb/W1_000347_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Fore-edge" xml:id="n670.021964"><graphic width="6195px" xml:id="n670.021965" url="master/W1_000348_1200.tif" height="12135px"/>
+<graphic width="1218px" xml:id="n670.021966" url="300/W1_000348_300.tif" height="3848px"/>
+<graphic width="570px" xml:id="n670.021967" url="sap/W1_000348_sap.jpg" height="1800px"/>
+<graphic width="60px" xml:id="n670.021968" url="thumb/W1_000348_thumb.jpg" height="190px"/>
+</surface>
+<surface n="Head" xml:id="n670.021969"><graphic width="9216px" xml:id="n670.021970" url="master/W1_000349_1200.tif" height="6039px"/>
+<graphic width="3092px" xml:id="n670.021971" url="300/W1_000349_300.tif" height="1215px"/>
+<graphic width="1800px" xml:id="n670.021972" url="sap/W1_000349_sap.jpg" height="707px"/>
+<graphic width="190px" xml:id="n670.021973" url="thumb/W1_000349_thumb.jpg" height="75px"/>
+</surface>
+<surface n="Tail" xml:id="n670.021974"><graphic width="9726px" xml:id="n670.021975" url="master/W1_000350_1200.tif" height="5767px"/>
+<graphic width="3142px" xml:id="n670.021976" url="300/W1_000350_300.tif" height="1148px"/>
+<graphic width="1800px" xml:id="n670.021977" url="sap/W1_000350_sap.jpg" height="657px"/>
+<graphic width="190px" xml:id="n670.021978" url="thumb/W1_000350_thumb.jpg" height="69px"/>
+</surface>
+</facsimile>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2658: Jānakīkavaca</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2658: Jānakīkavaca are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 3r); alternate title Sītākavaca from incipit.</note>
+        <note>Written in 9 lines per leaf.</note>
+        <note>3 leaves foliated 1-2, [3], upper left and lower right verso.</note>
+        <note>Mistakes blacked out.</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2658</idno>
+            <altIdentifier type="bibid">
+              <idno>9957581523503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/794378476</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5758152</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Text employed in personal prayer using mantras for protection, a kind of Hindu amulet, offered to the Hindu goddess Sītā (also referred to as Jānakī) where the devotee symbolically evokes protective armor (kavaca) over parts of the body. Text claims to remove sins, disease, and fear. Presented as a dialogue between the mythical figures Dharaṇī and Śeṣa.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Jānakīkavaca</title>
+              <title type="vernacular">जानकीकवच</title>
+              <colophon>Colophon: iti śrībrahmāṃḍapurāṇe [dharaṇī]śeṣasaṃvāde jānakīkavacaṃ saṃpūrṇaṃ samāptaṃ // śrīrāmarāma (f. 3r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (3 leaves) : 13 x 21 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Sītā (Hindu deity)</term>
+          <term>Hindu goddesses</term>
+          <term>Hindu mythology</term>
+          <term>Rites and ceremonies--India</term>
+          <term>Hindu mantras</term>
+          <term>Amulets (Hinduism)</term>
+          <term>Dialogues</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Poems</term>
+          <term>Prayers</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-2658-1">
+      <graphic height="3319px" url="master/3427_0000.tif" width="5169px"/>
+      <graphic height="121px" url="thumb/3427_0000_thumb.jpg" width="190px"/>
+      <graphic height="1155px" url="web/3427_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-2658-2">
+      <graphic height="6295px" url="master/3427_0001.tif" width="5169px"/>
+      <graphic height="190px" url="thumb/3427_0001_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/3427_0001_web.jpg" width="1478px"/>
+    </surface>
+    <surface n="2v-3r" xml:id="surface-ms-coll-390-item-2658-3">
+      <graphic height="6270px" url="master/3427_0002.tif" width="5149px"/>
+      <graphic height="190px" url="thumb/3427_0002_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/3427_0002_web.jpg" width="1478px"/>
+    </surface>
+    <surface n="3v" xml:id="surface-ms-coll-390-item-2658-4">
+      <graphic height="3319px" url="master/3427_0003.tif" width="5169px"/>
+      <graphic height="121px" url="thumb/3427_0003_thumb.jpg" width="190px"/>
+      <graphic height="1155px" url="web/3427_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

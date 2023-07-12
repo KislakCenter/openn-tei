@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 750 Folder 139: Gondi credit records</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 750 Folder 139: Gondi credit records are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 750 Folder 139</idno>
+            <altIdentifier type="bibid">
+              <idno>9949572833503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/707638937</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4957283</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two credit records, one dated 1618 and the other 1626, of unidentified members of the Gondi family showing debts and credits with the Monte di pietà of Florence, as well as with various individuals.</summary>
+            <textLang mainLang="ita">In Italian</textLang>
+            <msItem>
+              <title>Gondi credit records</title>
+              <author>
+                <persName type="authority">Gondi family</persName>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>2 items (2 leaves)</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Monte di pietà (Florence, Italy)</term>
+          <term>Accounting--Italy--17th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Accounts</term>
+          <term>Credit records</term>
+          <term>Manuscripts, Italian--17th century</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-750-folder-139-1">
+      <graphic height="5781px" url="master/3100_0000.tif" width="4477px"/>
+      <graphic height="190px" url="thumb/3100_0000_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/3100_0000_web.jpg" width="1394px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ms-coll-750-folder-139-2">
+      <graphic height="5781px" url="master/3100_0001.tif" width="4477px"/>
+      <graphic height="190px" url="thumb/3100_0001_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/3100_0001_web.jpg" width="1394px"/>
+    </surface>
+    <surface n="2r" xml:id="surface-ms-coll-750-folder-139-3">
+      <graphic height="5767px" url="master/3100_0002.tif" width="4503px"/>
+      <graphic height="190px" url="thumb/3100_0002_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/3100_0002_web.jpg" width="1405px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-750-folder-139-4">
+      <graphic height="5767px" url="master/3100_0003.tif" width="4503px"/>
+      <graphic height="190px" url="thumb/3100_0003_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/3100_0003_web.jpg" width="1405px"/>
+    </surface>
+  </facsimile>
+</TEI>

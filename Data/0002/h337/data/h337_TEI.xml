@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 337: Court document</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 337: Court document are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Published with introduction and Hebrew translation by Elinoar Bareke: Yehude Mitsrayim / Elinoar Bareket. Yerushalayim : Makhon Ben-Tsevi, 1995, p. 150-153, no. 86; The hand of the scribe who wrote this document is recognized as that of Ephraim ben Shemaryah, one of the judges here. A list of his documents was assembled by E. Bareket: Shafrir Mitsraim / Elinoar Bareket. 1995, p. 257-259. See also, below no. 354; A litigant named Moses, has claimed that his loan to Ṣedaka was guaranteed by Ḥesed the Elder'(possibly Abu Natsr Tustari), and refuses to have a decision ratified in the Gentile courts. Ṣedaka has brought witnesses &amp; ben Isaiah; 'Atiyah ben Moses; Ḥayim ben Moses; The judges are Joseph ben Solomon ha-Kohen (see Bareket, ibid. p. 251) and Ephraim (Ze'īra) ben Shemaryah, who served as the head of the Erets Israeli community of Fustat, in documents between 1020-1047 (see above 336, Bareqet, ibid., pp. 100-121); The latter is signed lengthwise in the margin of the verso, along with Japheth ('the Ḥazzan') ben David, the reader and scribe of the same community, who appears on documents of this same time-span. These two are co-signers on 16 documents, listed by Bareket, ibid, pp. 260-261. Ephraim and Joseph appear together in Cambridge T-S AS 145.308.</note>
+        <note>Condition: damaged, along all edges save right; marginalia or marginal continuenda.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 337</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420153503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb">Judeo-Arabic</textLang>
+            <msItem>
+              <title>Court document</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Yefet ben Daṿid, d. 1057.</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17.4 X 16.4 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 18 (recto), 20 (verso).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink (thick reed)</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1020" notAfter="1047"/>
+              <p>ca. 1020-1047?</p>
+              <origPlace>Fustat</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Court records</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4424px" url="master/4704_0000.tif" width="4224px"/>
+      <graphic height="190px" url="thumb/4704_0000_thumb.jpg" width="182px"/>
+      <graphic height="1800px" url="web/4704_0000_web.jpg" width="1718px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4424px" url="master/4704_0001.tif" width="4224px"/>
+      <graphic height="190px" url="thumb/4704_0001_thumb.jpg" width="182px"/>
+      <graphic height="1800px" url="web/4704_0001_web.jpg" width="1718px"/>
+    </surface>
+  </facsimile>
+</TEI>

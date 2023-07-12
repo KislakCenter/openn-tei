@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 21: 1st Kings 1:29-2:13; 1st Kings 7:24-8:10, with Masorah parva (partial)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 21: 1st Kings 1:29-2:13; 1st Kings 7:24-8:10, with Masorah parva (partial) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Left margin is justified with filler carats &gt;; marginalia in various hands;; Fol. 1 contains I Kings I 29 מכל צרה - II 13 [ויאמ[ר ש]ל[ום ; fol. 2 contains ibid. VII 24 א]תו [ע]שר] (the last legible words) - VIII 10 [בצא[ת; most of the text breaks in Aleppo Codex are recorded here, except for I 31, II 1 and 10, VII 39 which are missing; Masorah Parva here is only a small fraction of the complete list.</note>
+        <note>Condition: non-consecutive; marginalia; damage on all edges, and to edges of written area.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 21</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417193503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>1st Kings 1:29-2:13; 1st Kings 7:24-8:10, with Masorah parva (partial)</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>27 X 27.6 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 3; lines: 25-27.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental square vocalization (partial) and cantillation (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>11th century-12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Friedenwald.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Masorah</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6900px" url="master/4397_0000.tif" width="7074px"/>
+      <graphic height="185px" url="thumb/4397_0000_thumb.jpg" width="190px"/>
+      <graphic height="1755px" url="web/4397_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6900px" url="master/4397_0001.tif" width="7074px"/>
+      <graphic height="185px" url="thumb/4397_0001_thumb.jpg" width="190px"/>
+      <graphic height="1755px" url="web/4397_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6503px" url="master/4397_0002.tif" width="6900px"/>
+      <graphic height="179px" url="thumb/4397_0002_thumb.jpg" width="190px"/>
+      <graphic height="1696px" url="web/4397_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6503px" url="master/4397_0003.tif" width="6900px"/>
+      <graphic height="179px" url="thumb/4397_0003_thumb.jpg" width="190px"/>
+      <graphic height="1696px" url="web/4397_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Oversize 43: Anne Passmore writing sheet</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Oversize 43</idno>
+            <altIdentifier type="bibid">
+              <idno>5008388</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5008388</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>This leaf, with an engraved border, consists of four medallions depicting the biblical story of Jonah in the corners; two framed images of young students, a boy and girl, wearing charity-school attire, appearing on the sides; and an elevation of a school building at the bottom. This sheet was used for students, like Anne Passmore, to practice writing while learning a specific subject. A handwritten poem of the life of Jonah fills the center of the sheet; the first four lines are from Francis Quarles' Argument that begins his poem "A Feast for Worms." Passmore has decorated the borders of the poem with calligraphic flourishes, some in the form of birds.</summary>
+            <msItem>
+              <title>Anne Passmore writing sheet</title>
+              <author>Passmore, Anne</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Samuel Gedge Ltd. (Mundesley, England), cat. 10 (2011), no. 31.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Charity-schools--England--Early works to 1800</term>
+          <term>Penmanship--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Engravings</term>
+          <term>Calligraphy (visual works)</term>
+          <term>Manuscripts, English--18th century</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="6960px" url="master/1742_0000.tif" width="5383px"/>
+      <graphic height="190px" url="thumb/1742_0000_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/1742_0000_web.jpg" width="1392px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="6961px" url="master/1742_0001.tif" width="5383px"/>
+      <graphic height="190px" url="thumb/1742_0001_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/1742_0001_web.jpg" width="1392px"/>
+    </surface>
+  </facsimile>
+</TEI>

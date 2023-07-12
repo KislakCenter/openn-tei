@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 468: Lists of beneficiaries for the poll tax</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 468: Lists of beneficiaries for the poll tax are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>2 lists of people needing aid in paying the polltax. The first list, in a well-ruled semi-cursive hand, consists of 51 names, often providing additional information about the beneficiaries, including places of origin and professions. Three of these descriptions, verso col. 1, are in Arabic characters. After 11 lines on verso col. 1, hand changes to a primitive, unprofessional square hand, poorly ruled, with many spelling errors, often cramping more than one name per line, particularly towards the end. In this list only the names (about 55 of them) are provided; Some of the names also appear in similar lists in Cambridge T-S K15.93 and 96, and T-S 13J 6.20, which are probably from the mid-11th century; Much of the contents of the list were described by Goitein, Mediterranean Society, vol. II Appendix B no. 107 (p. 467).</note>
+        <note>Condition: complete; faded; different hands.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 468</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421443503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb">Judeo-Arabic</textLang>
+            <msItem>
+              <title>Lists of beneficiaries for the poll tax</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>26.6 X 17.4 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Ruling method: folded into 2 columns.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Arabic Oriental square semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1040" notAfter="1060"/>
+              <p>mid-11th century</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Poll tax , Lists</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6848px" url="master/4831_0000.tif" width="2565px"/>
+      <graphic height="190px" url="thumb/4831_0000_thumb.jpg" width="71px"/>
+      <graphic height="1800px" url="web/4831_0000_web.jpg" width="674px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7168px" url="master/4831_0001.tif" width="2762px"/>
+      <graphic height="190px" url="thumb/4831_0001_thumb.jpg" width="73px"/>
+      <graphic height="1800px" url="web/4831_0001_web.jpg" width="693px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6380px" url="master/4831_0002.tif" width="2618px"/>
+      <graphic height="190px" url="thumb/4831_0002_thumb.jpg" width="77px"/>
+      <graphic height="1800px" url="web/4831_0002_web.jpg" width="738px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6764px" url="master/4831_0003.tif" width="2400px"/>
+      <graphic height="190px" url="thumb/4831_0003_thumb.jpg" width="67px"/>
+      <graphic height="1800px" url="web/4831_0003_web.jpg" width="638px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 486: Bāvaṁnākṣarī</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 486: Bāvaṁnākṣarī are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon. The manuscript's original acquisition label renders the title in Sanskrit as Vāmanākṣarī, under which title Poleman catalogs the ms.</note>
+        <note>Written 9-11 lines per leaf.</note>
+        <note>Good condition. Mistakes covered over with yellow or written over.</note>
+        <note>Begins (f. 1r): śrīkāre jaya kāryāṇīvidyām aiśvaryaṁ eva ca ārogyaṁ kṣemamāmotī labhate nātra saṁśaya (verse 1). akāre śokasaṁtāpaṁ vyavādaṁ saṁgam eva ca avyāhasakalāścaiva arkalābhaśca eva ca (verse 2).</note>
+        <note>Ends: jakāre yaśalābhaṁ ca dhaṁna prāmotīmānasāṁ [-]labhate tānna sandeho dhanam aiśvaryam eva ca (verse 51).</note>
+        <note>Colophon (f. 4v): ītī śrībāvaṁnākṣarī.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 486</idno>
+            <altIdentifier type="bibid">
+              <idno>9934319763503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/122526782</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/3431976</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Text in poor Sanskrit enumerating in 51 verses the mantric powers of the Sanskrit alphabet.</summary>
+            <textLang mainLang="san" otherLangs="">In Sanskrit</textLang>
+            <msItem>
+              <title>Bāvaṁnākṣarī</title>
+              <colophon>Colophon (f. 4v): ītī śrībāvaṁnākṣarī.</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (4 leaves) : 11 x 17 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Alphabet--Religious aspects--Hinduism</term>
+          <term>Tantrism</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2424px" url="master/6391_0000.tif" width="3540px"/>
+      <graphic height="130px" url="thumb/6391_0000_thumb.jpg" width="190px"/>
+      <graphic height="1232px" url="web/6391_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="4548px" url="master/6391_0001.tif" width="3660px"/>
+      <graphic height="190px" url="thumb/6391_0001_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/6391_0001_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="2v-4r =3r">
+      <graphic height="4548px" url="master/6391_0002.tif" width="3660px"/>
+      <graphic height="190px" url="thumb/6391_0002_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/6391_0002_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="4v =3v-32r =4r">
+      <graphic height="4548px" url="master/6391_0003.tif" width="3660px"/>
+      <graphic height="190px" url="thumb/6391_0003_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/6391_0003_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="32v =4v">
+      <graphic height="2424px" url="master/6391_0004.tif" width="3540px"/>
+      <graphic height="130px" url="thumb/6391_0004_thumb.jpg" width="190px"/>
+      <graphic height="1232px" url="web/6391_0004_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

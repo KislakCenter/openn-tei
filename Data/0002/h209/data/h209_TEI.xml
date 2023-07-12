@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 209: Maḥazor, Erets Yiśreʾeli rite, Passover</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 209: Maḥazor, Erets Yiśreʾeli rite, Passover are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Text breaks denoted by a punctus or sof pasuḳ, plus a space; the divine name is signified by a triangle of three dots above a ḳamats; From an instructive Maḥazor, as the prayer texts appear in short, narrated by detailed instructions for the synagogue service. Piyyut supplements are mentioned, such as the Ma'ariv [ליל אומץ [לזרע תמימים; The fragment is from the Evening service, including the rites for Passover Eve on Sabbath, some of which are uncommon; After the 'Amidah, the leader is instructed וירד מן הבמה ויאמר של שבת, followed by Kiddush, where he is instructed וישתה וישקה נער, Mishnah Sabbath chapter II, to the end of the service: וילכו לבתיהם; There is no mention of Hallel. The next paragraph is the Evening Service for Passover Eve if it is the night after Sabbath. The service starts with preliminary Psalms CV and CXXXV (only the latter appears in the common Erets Israel rite, see E. Fleischer, Tefillah u-minhage tefillah Erets-Yiśreʾeliyim, 1988, p. 167), supplementary piyyutim are mentioned. The complete text of the special Havdalah supplement in the fourth blessing of the 'Amidah. Afterwards the leader is instructed ויעלה לבמה for the recitation of Hallel, followed by the complete text of the synagogue Havdalah.</note>
+        <note>Condition: damaged, losses at lower interior corner.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 209</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418903503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="jrb">Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Maḥazor, Erets Yiśreʾeli rite, Passover</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>34.3 X 26 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 32.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1399"/>
+              <p>12th century-14th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Passover</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="8432px" url="master/4577_0000.tif" width="6464px"/>
+      <graphic height="190px" url="thumb/4577_0000_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/4577_0000_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="8432px" url="master/4577_0001.tif" width="6464px"/>
+      <graphic height="190px" url="thumb/4577_0001_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/4577_0001_web.jpg" width="1379px"/>
+    </surface>
+  </facsimile>
+</TEI>

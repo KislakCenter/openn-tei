@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 177: Prayer book, morning Psalms</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 177: Prayer book, morning Psalms are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Text breaks denoted by a punctus, plus spaces of varying width; Fol. 1 contains a fragment from Pesuḳe de-zimrah, the common sequence as found in the Oriental siddurim (Saʹadia, Solomon of Sujulmassa), including the end of the preliminary blessing האל המהולל, followed by the assembled Psalm excerpts יהי כבוד, (the last verse is missing, but added in the margin in a different hand), and Psalms CXLV and CXLVI (the fragment reaches verse 9); Fol. 2 is a fragment from the recitation of the Shemaʹ sequence, including Deut. XI 18-21, Numbers XV 37-41, and the subsequent אמת ויציב which connects it to the ʹAmidah; The last line in the fragment is מפי עוללים ויונקים שירה שמעת על הים יחד כולם, as in the Siddurim of both Saʹadia and Solomon.</note>
+        <note>Condition: non-consecutive; losses from text block and upper internal corner.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 177</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418613503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Prayer book, morning Psalms</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>23.1 X 16.8 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 24.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1199"/>
+              <p>12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Siddurim , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6380px" url="master/4547_0000.tif" width="8608px"/>
+      <graphic height="140px" url="thumb/4547_0000_thumb.jpg" width="190px"/>
+      <graphic height="1334px" url="web/4547_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6380px" url="master/4547_0001.tif" width="8608px"/>
+      <graphic height="140px" url="thumb/4547_0001_thumb.jpg" width="190px"/>
+      <graphic height="1334px" url="web/4547_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6380px" url="master/4547_0002.tif" width="4436px"/>
+      <graphic height="190px" url="thumb/4547_0002_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/4547_0002_web.jpg" width="1251px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6380px" url="master/4547_0003.tif" width="4484px"/>
+      <graphic height="190px" url="thumb/4547_0003_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/4547_0003_web.jpg" width="1265px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="6380px" url="master/4547_0004.tif" width="4544px"/>
+      <graphic height="190px" url="thumb/4547_0004_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4547_0004_web.jpg" width="1282px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="6380px" url="master/4547_0005.tif" width="4616px"/>
+      <graphic height="190px" url="thumb/4547_0005_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4547_0005_web.jpg" width="1302px"/>
+    </surface>
+  </facsimile>
+</TEI>

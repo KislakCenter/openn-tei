@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 3046: Agnisūkta</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 3046: Agnisūkta are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title supplied by cataloger</note>
+        <note>Written in 11 lines per leaf.</note>
+        <note>1 leaf, foliated 35.</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins in black or red; verse numbers highlighted in red throughout; vertical margins marked with double black line.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 3046</idno>
+            <altIdentifier type="bibid">
+              <idno>9969134533503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/945982164</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6913453</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is a fragment from the tenth book of the Ṛgveda and is a hymn to the Vedic god of fire, Agni, to be recited during the performance of Vedic fire sacrifice. There are red accents written above the text to help with the proper recitation of the text. Manuscript was previously housed as a fragment with Ms. Coll. 390, Item 416.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Agnisūkta</title>
+              <title type="vernacular">अग्निसूक्त</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (1 leaf) : 20 x 10 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Rites and ceremonies--India</term>
+          <term>Agni (Hindu deity)</term>
+          <term>Vedic language--Accents and accentuation</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Prayers</term>
+          <term>Hymns</term>
+          <term>Poems</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-3046-1">
+      <graphic height="2538px" url="master/3149_0000.tif" width="4840px"/>
+      <graphic height="99px" url="thumb/3149_0000_thumb.jpg" width="190px"/>
+      <graphic height="943px" url="web/3149_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ms-coll-390-item-3046-2">
+      <graphic height="2538px" url="master/3149_0001.tif" width="4840px"/>
+      <graphic height="99px" url="thumb/3149_0001_thumb.jpg" width="190px"/>
+      <graphic height="943px" url="web/3149_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

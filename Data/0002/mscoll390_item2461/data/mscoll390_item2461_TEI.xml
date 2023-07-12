@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2461: Dakṣiṇāmūrtipañjara</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2461: Dakṣiṇāmūrtipañjara are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2v).</note>
+        <note>Written in 17-18 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, lower right verso.</note>
+        <note>Mistakes crossed or blacked out; one addition in margin. Title written in second hand at end of manuscript (f. 2v).</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2461</idno>
+            <altIdentifier type="bibid">
+              <idno>9958225353503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/809631679</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5822535</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Small manuscript for personal use, recitation, prayer, and observances (vrata), dedicated to the veneration and worship (pūjā) of Dakṣiṇāmūrti, a form of the Hindu deity Śiva. Benefits such as the removal of debt and ignorance as well as the propagation of one's family are named. Presented as a dialogue between Skanda (named Guha) and the legendary sage Nārada. Text ends after colophon with a short praise of Śiva Dakṣiṇāmūrti in three verses.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Dakṣiṇāmūrtipañjara</title>
+              <title type="vernacular">दक्षिणामूर्तिपञ्जर</title>
+              <colophon>Colophon: iti śrīskaṃde mahāpurāṇe guhanāradasaṃvāde dakṣiṇāmūrti paṃjaraṃ aṣṭāṣītimodhyāyaḥ // (f. 2v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 10 x 15 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Siva (Hindu deity)</term>
+          <term>Vratas</term>
+          <term>Devotional literature, Sanskrit</term>
+          <term>Rites and ceremonies--India</term>
+          <term>Debt--India--Religious aspects</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuals (instructional materials)</term>
+          <term>Prayers</term>
+          <term>Hymns</term>
+          <term>Dialogues</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-2461-1">
+      <graphic height="2436px" url="master/2602_0000.tif" width="3524px"/>
+      <graphic height="131px" url="thumb/2602_0000_thumb.jpg" width="190px"/>
+      <graphic height="1244px" url="web/2602_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-2461-2">
+      <graphic height="4604px" url="master/2602_0001.tif" width="3524px"/>
+      <graphic height="190px" url="thumb/2602_0001_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/2602_0001_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-2461-3">
+      <graphic height="2436px" url="master/2602_0002.tif" width="3524px"/>
+      <graphic height="131px" url="thumb/2602_0002_thumb.jpg" width="190px"/>
+      <graphic height="1244px" url="web/2602_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 6360: Mafteaḥ Shelomoh (מפתח שלמה)</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <date type="create-date" when="2023-02-14">2023-02-14</date>
+        <date type="mod-date" when="2023-02-14">2023-02-14</date>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 6360: Mafteaḥ Shelomoh (מפתח שלמה) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 6360: Mafteaḥ Shelomoh (מפתח שלמה). This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Water damage, all repaired/infilled before rebinding.</note>
+        <note>Tidemark at head throughout.</note>
+        <note>Ink burn-through, also flaked off in some heavily inked areas.</note>
+        <note>A series of diagrams, folio 15v.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 6360</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_6360</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A collection of astrological, kabbalistic and magical fragments.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>Mafteaḥ Shelomoh (מפתח שלמה)</title>
+            </msItem>
+            <msItem n="1v">
+              <locus target="#surface-or-6360-">1v</locus>
+              <title>Sefer ha-levanah  ספר הלבנה</title>
+            </msItem>
+            <msItem n="7r">
+              <locus target="#surface-or-6360-">7r</locus>
+              <title>Sefer ma῾alot ha-mazalot  ספר מעלות המזלות</title>
+            </msItem>
+            <msItem n="12r">
+              <locus target="#surface-or-6360-">12r</locus>
+              <title>Sefer Mafteaḥ Shelomoh ספר מפתח שלמה</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>15 folios; 15 folios </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1 ; ruled lines: 23 35; written lines: 23 35; Uniform layout. Vertical plummet ruling visible. Initial words and section titles in larger square characters. Catchwords on every verso. Graphic fillers at the end of the line. Marginal notes.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Oriental semi-cursive and square script of the 17th to 18th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Spine: 'Sepher Hal-Lebanah. Hebr. Brit. Mus. Oriental 6360.'</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1600" notAfter="1799"/>
+              <p>Between 1600 and 1799</p>
+            </origin>
+            <provenance>Acquisition: Raffalovich &amp; Lifkin: purchased by the British Museum on 15 April 1902: inscribed, folio [20v].</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="7331px" url="master/13543_0000.jpg" width="4828px"/>
+      <graphic height="190px" url="thumb/13543_0000_thumb.jpg" width="125px"/>
+      <graphic height="1800px" url="web/13543_0000_web.jpg" width="1185px"/>
+    </surface>
+    <surface n="front-i">
+      <graphic height="6993px" url="master/13543_0001.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0001_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/13543_0001_web.jpg" width="1201px"/>
+    </surface>
+    <surface n="i-r">
+      <graphic height="7097px" url="master/13543_0002.jpg" width="4536px"/>
+      <graphic height="190px" url="thumb/13543_0002_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13543_0002_web.jpg" width="1150px"/>
+    </surface>
+    <surface n="i-v">
+      <graphic height="6993px" url="master/13543_0003.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0003_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/13543_0003_web.jpg" width="1201px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="7097px" url="master/13543_0004.jpg" width="4536px"/>
+      <graphic height="190px" url="thumb/13543_0004_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13543_0004_web.jpg" width="1150px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6993px" url="master/13543_0005.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0005_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/13543_0005_web.jpg" width="1201px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="7077px" url="master/13543_0006.jpg" width="4536px"/>
+      <graphic height="190px" url="thumb/13543_0006_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13543_0006_web.jpg" width="1153px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="7024px" url="master/13543_0007.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0007_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/13543_0007_web.jpg" width="1196px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="7163px" url="master/13543_0008.jpg" width="4504px"/>
+      <graphic height="190px" url="thumb/13543_0008_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/13543_0008_web.jpg" width="1132px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="7024px" url="master/13543_0009.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0009_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/13543_0009_web.jpg" width="1196px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="7163px" url="master/13543_0010.jpg" width="4504px"/>
+      <graphic height="190px" url="thumb/13543_0010_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/13543_0010_web.jpg" width="1132px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="7024px" url="master/13543_0011.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0011_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/13543_0011_web.jpg" width="1196px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="7208px" url="master/13543_0012.jpg" width="4461px"/>
+      <graphic height="190px" url="thumb/13543_0012_thumb.jpg" width="117px"/>
+      <graphic height="1800px" url="web/13543_0012_web.jpg" width="1114px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="7024px" url="master/13543_0013.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0013_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/13543_0013_web.jpg" width="1196px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="7208px" url="master/13543_0014.jpg" width="4461px"/>
+      <graphic height="190px" url="thumb/13543_0014_thumb.jpg" width="117px"/>
+      <graphic height="1800px" url="web/13543_0014_web.jpg" width="1114px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="7024px" url="master/13543_0015.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0015_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/13543_0015_web.jpg" width="1196px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="7208px" url="master/13543_0016.jpg" width="4461px"/>
+      <graphic height="190px" url="thumb/13543_0016_thumb.jpg" width="117px"/>
+      <graphic height="1800px" url="web/13543_0016_web.jpg" width="1114px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="7024px" url="master/13543_0017.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0017_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/13543_0017_web.jpg" width="1196px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="7208px" url="master/13543_0018.jpg" width="4461px"/>
+      <graphic height="190px" url="thumb/13543_0018_thumb.jpg" width="117px"/>
+      <graphic height="1800px" url="web/13543_0018_web.jpg" width="1114px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="7024px" url="master/13543_0019.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0019_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/13543_0019_web.jpg" width="1196px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="7208px" url="master/13543_0020.jpg" width="4534px"/>
+      <graphic height="190px" url="thumb/13543_0020_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/13543_0020_web.jpg" width="1132px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="7024px" url="master/13543_0021.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0021_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/13543_0021_web.jpg" width="1196px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="7208px" url="master/13543_0022.jpg" width="4534px"/>
+      <graphic height="190px" url="thumb/13543_0022_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/13543_0022_web.jpg" width="1132px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="7024px" url="master/13543_0023.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0023_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/13543_0023_web.jpg" width="1196px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="7208px" url="master/13543_0024.jpg" width="4534px"/>
+      <graphic height="190px" url="thumb/13543_0024_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/13543_0024_web.jpg" width="1132px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="7258px" url="master/13543_0025.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0025_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/13543_0025_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="7208px" url="master/13543_0026.jpg" width="4534px"/>
+      <graphic height="190px" url="thumb/13543_0026_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/13543_0026_web.jpg" width="1132px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="7258px" url="master/13543_0027.jpg" width="4667px"/>
+      <graphic height="190px" url="thumb/13543_0027_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/13543_0027_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="7208px" url="master/13543_0028.jpg" width="4534px"/>
+      <graphic height="190px" url="thumb/13543_0028_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/13543_0028_web.jpg" width="1132px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="7258px" url="master/13543_0029.jpg" width="4617px"/>
+      <graphic height="190px" url="thumb/13543_0029_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13543_0029_web.jpg" width="1145px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="7208px" url="master/13543_0030.jpg" width="4585px"/>
+      <graphic height="190px" url="thumb/13543_0030_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13543_0030_web.jpg" width="1145px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="7258px" url="master/13543_0031.jpg" width="4617px"/>
+      <graphic height="190px" url="thumb/13543_0031_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13543_0031_web.jpg" width="1145px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="7208px" url="master/13543_0032.jpg" width="4585px"/>
+      <graphic height="190px" url="thumb/13543_0032_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13543_0032_web.jpg" width="1145px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="7258px" url="master/13543_0033.jpg" width="4550px"/>
+      <graphic height="190px" url="thumb/13543_0033_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/13543_0033_web.jpg" width="1128px"/>
+    </surface>
+    <surface n="ii-r">
+      <graphic height="7208px" url="master/13543_0034.jpg" width="4585px"/>
+      <graphic height="190px" url="thumb/13543_0034_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13543_0034_web.jpg" width="1145px"/>
+    </surface>
+    <surface n="ii-v">
+      <graphic height="7303px" url="master/13543_0035.jpg" width="4550px"/>
+      <graphic height="190px" url="thumb/13543_0035_thumb.jpg" width="118px"/>
+      <graphic height="1800px" url="web/13543_0035_web.jpg" width="1121px"/>
+    </surface>
+    <surface n="iii-r">
+      <graphic height="7208px" url="master/13543_0036.jpg" width="4585px"/>
+      <graphic height="190px" url="thumb/13543_0036_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13543_0036_web.jpg" width="1145px"/>
+    </surface>
+    <surface n="iii-v">
+      <graphic height="7408px" url="master/13543_0037.jpg" width="4550px"/>
+      <graphic height="190px" url="thumb/13543_0037_thumb.jpg" width="116px"/>
+      <graphic height="1800px" url="web/13543_0037_web.jpg" width="1105px"/>
+    </surface>
+    <surface n="iv-r">
+      <graphic height="7208px" url="master/13543_0038.jpg" width="4585px"/>
+      <graphic height="190px" url="thumb/13543_0038_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13543_0038_web.jpg" width="1145px"/>
+    </surface>
+    <surface n="iv-v">
+      <graphic height="7408px" url="master/13543_0039.jpg" width="4550px"/>
+      <graphic height="190px" url="thumb/13543_0039_thumb.jpg" width="116px"/>
+      <graphic height="1800px" url="web/13543_0039_web.jpg" width="1105px"/>
+    </surface>
+    <surface n="v-r">
+      <graphic height="7208px" url="master/13543_0040.jpg" width="4585px"/>
+      <graphic height="190px" url="thumb/13543_0040_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13543_0040_web.jpg" width="1145px"/>
+    </surface>
+    <surface n="v-v">
+      <graphic height="7408px" url="master/13543_0041.jpg" width="4550px"/>
+      <graphic height="190px" url="thumb/13543_0041_thumb.jpg" width="116px"/>
+      <graphic height="1800px" url="web/13543_0041_web.jpg" width="1105px"/>
+    </surface>
+    <surface n="vi-r">
+      <graphic height="7208px" url="master/13543_0042.jpg" width="4585px"/>
+      <graphic height="190px" url="thumb/13543_0042_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13543_0042_web.jpg" width="1145px"/>
+    </surface>
+    <surface n="vi-v">
+      <graphic height="7144px" url="master/13543_0043.jpg" width="4644px"/>
+      <graphic height="190px" url="thumb/13543_0043_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/13543_0043_web.jpg" width="1170px"/>
+    </surface>
+    <surface n="back-i">
+      <graphic height="7208px" url="master/13543_0044.jpg" width="4585px"/>
+      <graphic height="190px" url="thumb/13543_0044_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13543_0044_web.jpg" width="1145px"/>
+    </surface>
+    <surface n="back">
+      <graphic height="7192px" url="master/13543_0045.jpg" width="4828px"/>
+      <graphic height="190px" url="thumb/13543_0045_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/13543_0045_web.jpg" width="1208px"/>
+    </surface>
+    <surface n="spine">
+      <graphic height="7667px" url="master/13543_0046.jpg" width="522px"/>
+      <graphic height="190px" url="thumb/13543_0046_thumb.jpg" width="12px"/>
+      <graphic height="1800px" url="web/13543_0046_web.jpg" width="122px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<marc:records xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:record>
+    <marc:leader>01859ntm a2200337 a 4500</marc:leader>
+    <marc:controlfield tag="001">9977250953303681</marc:controlfield>
+    <marc:controlfield tag="005">20201206235306.0</marc:controlfield>
+    <marc:controlfield tag="008">180226s1584    it            000 0 ita d</marc:controlfield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(OCoLC)on1225613855</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(OCoLC)1225613855</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(PUVoyagerBIBID)9977250953303681</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="040">
+  <marc:subfield code="a">PAU</marc:subfield>
+  <marc:subfield code="b">eng</marc:subfield>
+  <marc:subfield code="e">dacs</marc:subfield>
+  <marc:subfield code="c">PAU</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="9" tag="099">
+  <marc:subfield code="a">Misc Mss Box 24 Folder 22</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="100">
+  <marc:subfield code="a">Tornieri, Giacomo.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2="0" tag="245">
+  <marc:subfield code="a">Giacomo Tornieri letter to Bernardo Giunta,</marc:subfield>
+  <marc:subfield code="f">1584.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="300">
+  <marc:subfield code="a">1</marc:subfield>
+  <marc:subfield code="f">item (1 leaf) :</marc:subfield>
+  <marc:subfield code="b">paper ;</marc:subfield>
+  <marc:subfield code="c">17 x 21 cm.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="520">
+  <marc:subfield code="a">Signed letter to bookseller and printer Bernardo Giunta of Venice, dated 1 January 1584 in Rome, requesting a missing bifolium from Flemish botanist Rembert Dodoens's herbal Stirpium historiae pemptades sex, sive libri XXX (Antwerp, 1583), to allow Tornieri to fulfill an order for the book.  Remnants of wax seal on recto, address on verso, folds remain from mailing.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2=" " tag="545">
+  <marc:subfield code="a">Publisher and bookseller in 16th-century Rome.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="546">
+  <marc:subfield code="a">In Italian.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="561">
+  <marc:subfield code="a">Sold by Samuel Gedge Ltd. (Hanworth, England), 2018</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="590">
+  <marc:subfield code="a">Acquired for the Penn Libraries with assistance from the Zachs-Adam Rare Book Fund.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2="0" tag="600">
+  <marc:subfield code="a">Dodoens, Rembert,</marc:subfield>
+  <marc:subfield code="d">1517-1585.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="650">
+  <marc:subfield code="a">Booksellers and bookselling</marc:subfield>
+  <marc:subfield code="z">Italy.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="650">
+  <marc:subfield code="a">Herbals</marc:subfield>
+  <marc:subfield code="z">Europe</marc:subfield>
+  <marc:subfield code="x">History</marc:subfield>
+  <marc:subfield code="v">Sources.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="7" tag="655">
+  <marc:subfield code="a">Manuscripts, Italian</marc:subfield>
+  <marc:subfield code="y">16th  century.</marc:subfield>
+  <marc:subfield code="2">local</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="0" tag="655">
+  <marc:subfield code="a">Manuscripts, Renaissance.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="700">
+  <marc:subfield code="a">Giunta, Bernardo,</marc:subfield>
+  <marc:subfield code="d">active 1567-1627,</marc:subfield>
+  <marc:subfield code="e">recipient.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="2" ind2=" " tag="710">
+  <marc:subfield code="a">Zachs-Adam Rare Book Fund.</marc:subfield>
+  <marc:subfield code="5">PU</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2=" " tag="773">
+  <marc:subfield code="t">Miscellaneous Manuscripts.</marc:subfield>
+  <marc:subfield code="g">Box 24 Folder 22</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2="0" tag="773">
+  <marc:subfield code="t">Zachs-Adam Rare Book Fund.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="852">
+  <marc:subfield code="b">Kislak Center for Special Collections, Rare Books and Manuscripts</marc:subfield>
+  <marc:subfield code="a">University of Pennsylvania</marc:subfield>
+  <marc:subfield code="e">3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</marc:subfield>
+  <marc:subfield code="j">Misc Mss Box 24 Folder 22</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="4" ind2="2" tag="856">
+  <marc:subfield code="3">The Zachs-Adam Rare Book Fund Home Page</marc:subfield>
+  <marc:subfield code="u">http://hdl.library.upenn.edu/1017.12/554708</marc:subfield>
+</marc:datafield>
+    <marc:holdings>
+      <marc:holding>
+        <marc:holding_id>22533719590003681</marc:holding_id>
+        <marc:call_number>Misc Mss Box 24 Folder 22</marc:call_number>
+        <marc:library>KislakCntr</marc:library>
+        <marc:location>scmss</marc:location>
+      </marc:holding>
+    </marc:holdings>
+  </marc:record>
+</marc:records>

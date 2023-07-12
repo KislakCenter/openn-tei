@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 189: Fragment from a supplicatory prayer</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 189: Fragment from a supplicatory prayer are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Two fragments from the upper edge of their fols; Halper 188 is from the internal fold of a bifolium; Halper 189 is from the upper exterior corner. In both, no more than 12 lines are extant, preserving no more than three words per line; The fragments appear to be from a prayer of the baḳashah type, in which emphasis is put on the limitations and timeliness of man contrasted to the infinity of God. Comparable in content to Sa'adia's second Baḳashah. Biblical phrases are used, including Job XXXIV 15 and XIV 20.</note>
+        <note>Condition: 2 fragments, non-consecutive(?).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 189</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418723503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Fragment from a supplicatory prayer</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>12 X 6.3 cm; 14.9 X 8.2 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 10 extant (Halper 188), 12 extant (Halper 189).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1299"/>
+              <p>12th century-13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Siddurim , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3506px" url="master/4559_0000.tif" width="2352px"/>
+      <graphic height="190px" url="thumb/4559_0000_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/4559_0000_web.jpg" width="1207px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3506px" url="master/4559_0001.tif" width="2352px"/>
+      <graphic height="190px" url="thumb/4559_0001_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/4559_0001_web.jpg" width="1207px"/>
+    </surface>
+  </facsimile>
+</TEI>

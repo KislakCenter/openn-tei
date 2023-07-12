@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 371: Court document</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 371: Court document are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Text breaks denoted by a two hyphens; Under the heading בעהד״י; R. Judah Kohen ben R. Maimon agrees to serve as the trustee of the property of R. Khalifa ben Samuel, for the fee of 2,000 pieces of silver. If he breaks the agreement he will be paid only for the time he served. If Khalifa dismisses him he will be paid the full amount; R. Moses Alashqar appears as a guarantor. The witnesses (who probably are also serving as a court) autographs: Isaiah Mas'oud 'Amram, and Solomon "the Younger"; Written by the same court scribe that wrote Halper 370 (dated 1609, on a folio of nearly identical size) and Halper 362 (1626).</note>
+        <note>Condition: torn, lacking first two lines; verso is blank, losses in right edge.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 371</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420493503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="arc" otherLangs="heb jrb">Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE); Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Court document</title>
+              <author>Mosheh Alshakar, 17th cent.</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>21.2 X 15.3 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 18, signatures; ruling method: folded widthwise into two equal halves; unevenly ruled, covering most of recto; left rule justified by stretching last character.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Yemenite semi-square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate/>
+              <p>Wed. Dec. 26, 1624</p>
+              <origPlace>Cairo</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Court records</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5290px" url="master/4736_0000.tif" width="3776px"/>
+      <graphic height="190px" url="thumb/4736_0000_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4736_0000_web.jpg" width="1285px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5290px" url="master/4736_0001.tif" width="3776px"/>
+      <graphic height="190px" url="thumb/4736_0001_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4736_0001_web.jpg" width="1285px"/>
+    </surface>
+  </facsimile>
+</TEI>

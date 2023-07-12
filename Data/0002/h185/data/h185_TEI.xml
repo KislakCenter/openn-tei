@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 185: Prayer book, Morning service with instructions in Judeo-Arabic</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 185: Prayer book, Morning service with instructions in Judeo-Arabic are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>The fragment starts in the middle of Ḳaddish, presumably the one between Pesuḳe de-zimrah and the beginning of the Blessings of the Recitation of the Shemaʹ sequence. This is an expanded version, closer to the Kaddish that blesses the Rabbis; Here the object of the Kaddish appears by name, שר שלום הנשיא הגדול ראש גליות ישראל (Śar Shalom ha-nasiʾ ha-gadol rosh galuyot Yiśraʾel). This text covers the recto and the first word of the verso, including interspersed instructions in Arabic on how this is to be recited and answered by the congregation; Mention of an Exilarch named Śar Shalom ben Pinḥas appears in Baghdad in 1341 (See: Moshe Gil, Be-malkut Yishmaʾel bi-teḳufat ha-geʾonim. Tel Aviv : University of Tel Aviv, 1997, vol 1, p. 444). His complete genealogy appears on p. 768 of the Keter Shem Tov Bible (Ms. Sassoon 82, Ohel David, 1932 p. 3); The verso continues with Arabic instructions, without text, on the continuation of the Morning service, including the 'Amidah, followed by a text of the Ḳedushah, including interspersed instructions in Arabic on how this is to be recited and answered by the congregation.</note>
+        <note>Condition: nearly complete.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 185</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418693503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="jrb">Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Prayer book, Morning service with instructions in Judeo-Arabic</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17.1 X 12.4 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 15.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1300" notAfter="1399"/>
+              <p>14th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Judaism , Liturgy , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4296px" url="master/4555_0000.tif" width="3264px"/>
+      <graphic height="190px" url="thumb/4555_0000_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/4555_0000_web.jpg" width="1367px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4296px" url="master/4555_0001.tif" width="3264px"/>
+      <graphic height="190px" url="thumb/4555_0001_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/4555_0001_web.jpg" width="1367px"/>
+    </surface>
+  </facsimile>
+</TEI>

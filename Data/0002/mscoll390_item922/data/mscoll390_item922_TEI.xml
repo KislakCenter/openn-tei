@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 922: Maitreyopaniṣad</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 922: Maitreyopaniṣad are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2r).</note>
+        <note>Written in 9 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Mistakes blacked out; some folios treated with yellow turmeric powder to protect manuscript from insects.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 922</idno>
+            <altIdentifier type="bibid">
+              <idno>9962528963503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/888036132</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6252896</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is used for contemplation, study and recitation, and is a Hindu or post-Vedic philosophical treatise discussing the nature of the deity Śiva and his status in relationship to the Self (ātman) and the ultimate reality (the brahman), and different rites and practices associated with this realization, especially the rudrakṣa, a kind of prayer bead associated with Śiva.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Maitreyopaniṣad</title>
+              <title type="vernacular">मैत्रेयोपनिषद्</title>
+              <colophon>Colophon: maitreyopaniṣad // (f. 2r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 10 x 25 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Śaivism</term>
+          <term>Siva (Hindu deity)</term>
+          <term>Ātman</term>
+          <term>Brahman</term>
+          <term>Rites and ceremonies--India</term>
+          <term>Self (Philosophy)</term>
+          <term>Hindu philosophy</term>
+          <term>Philosophy, Indic</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2568px" url="master/6192_0000.tif" width="5865px"/>
+      <graphic height="83px" url="thumb/6192_0000_thumb.jpg" width="190px"/>
+      <graphic height="788px" url="web/6192_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="4742px" url="master/6192_0001.tif" width="5854px"/>
+      <graphic height="153px" url="thumb/6192_0001_thumb.jpg" width="190px"/>
+      <graphic height="1458px" url="web/6192_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="2568px" url="master/6192_0002.tif" width="5865px"/>
+      <graphic height="83px" url="thumb/6192_0002_thumb.jpg" width="190px"/>
+      <graphic height="788px" url="web/6192_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Add MS 27156: The directions for Seder teḳi῾at ha-shofar.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <date type="create-date" when="2023-02-14">2023-02-14</date>
+        <date type="mod-date" when="2023-02-14">2023-02-14</date>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Add MS 27156: The directions for Seder teḳi῾at ha-shofar. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Add MS 27156: The directions for Seder teḳi῾at ha-shofar.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A poem in Italian cursive script is pasted on folio 17r.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Add MS 27156</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27156</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The directions for Seder teḳi῾at ha-shofar.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The directions for Seder teḳi῾at ha-shofar.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17 folios; 17 folios </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1 ; ruled lines: 14 17; written lines: 14 17; Uniform layout. Visible hard-point ruling and, occasionally, pricking. Running title.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Italian semi-cursive script of the 18th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM/BL in-house. Spine: 'Azharoth Ve-Kavvanoth Lat-Tokea', Etc. Hebrew. Brit. Mus. Additional 27,156.'</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1700" notAfter="1799"/>
+              <p>Between 1700 and 1799</p>
+              <origPlace>Italy</origPlace>
+            </origin>
+            <provenance>Acquisition: Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 267: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153: inscribed, folio [21v].</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="6115px" url="master/13519_0000.jpg" width="4672px"/>
+      <graphic height="190px" url="thumb/13519_0000_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/13519_0000_web.jpg" width="1375px"/>
+    </surface>
+    <surface n="front-i">
+      <graphic height="6173px" url="master/13519_0001.jpg" width="4636px"/>
+      <graphic height="190px" url="thumb/13519_0001_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13519_0001_web.jpg" width="1352px"/>
+    </surface>
+    <surface n="i-r">
+      <graphic height="6024px" url="master/13519_0002.jpg" width="4488px"/>
+      <graphic height="190px" url="thumb/13519_0002_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0002_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="i-v">
+      <graphic height="6036px" url="master/13519_0003.jpg" width="4492px"/>
+      <graphic height="190px" url="thumb/13519_0003_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0003_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="ii-r">
+      <graphic height="6024px" url="master/13519_0004.jpg" width="4480px"/>
+      <graphic height="190px" url="thumb/13519_0004_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0004_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="ii-v">
+      <graphic height="6004px" url="master/13519_0005.jpg" width="4467px"/>
+      <graphic height="190px" url="thumb/13519_0005_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0005_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="iii-r">
+      <graphic height="6016px" url="master/13519_0006.jpg" width="4448px"/>
+      <graphic height="190px" url="thumb/13519_0006_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0006_web.jpg" width="1331px"/>
+    </surface>
+    <surface n="iii-v">
+      <graphic height="6067px" url="master/13519_0007.jpg" width="4451px"/>
+      <graphic height="190px" url="thumb/13519_0007_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/13519_0007_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="6008px" url="master/13519_0008.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0008_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0008_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6059px" url="master/13519_0009.jpg" width="4450px"/>
+      <graphic height="190px" url="thumb/13519_0009_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/13519_0009_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6008px" url="master/13519_0010.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0010_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0010_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6059px" url="master/13519_0011.jpg" width="4450px"/>
+      <graphic height="190px" url="thumb/13519_0011_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/13519_0011_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="6008px" url="master/13519_0012.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0012_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0012_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="6059px" url="master/13519_0013.jpg" width="4450px"/>
+      <graphic height="190px" url="thumb/13519_0013_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/13519_0013_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="6008px" url="master/13519_0014.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0014_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0014_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="6059px" url="master/13519_0015.jpg" width="4450px"/>
+      <graphic height="190px" url="thumb/13519_0015_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/13519_0015_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="6008px" url="master/13519_0016.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0016_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0016_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="6059px" url="master/13519_0017.jpg" width="4450px"/>
+      <graphic height="190px" url="thumb/13519_0017_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/13519_0017_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="6008px" url="master/13519_0018.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0018_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0018_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="6059px" url="master/13519_0019.jpg" width="4474px"/>
+      <graphic height="190px" url="thumb/13519_0019_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13519_0019_web.jpg" width="1329px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="6008px" url="master/13519_0020.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0020_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0020_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="6059px" url="master/13519_0021.jpg" width="4475px"/>
+      <graphic height="190px" url="thumb/13519_0021_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13519_0021_web.jpg" width="1329px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="6008px" url="master/13519_0022.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0022_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0022_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="6059px" url="master/13519_0023.jpg" width="4475px"/>
+      <graphic height="190px" url="thumb/13519_0023_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13519_0023_web.jpg" width="1329px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="6008px" url="master/13519_0024.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0024_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0024_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="6059px" url="master/13519_0025.jpg" width="4468px"/>
+      <graphic height="190px" url="thumb/13519_0025_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13519_0025_web.jpg" width="1327px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="6008px" url="master/13519_0026.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0026_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0026_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="6059px" url="master/13519_0027.jpg" width="4476px"/>
+      <graphic height="190px" url="thumb/13519_0027_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13519_0027_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="6008px" url="master/13519_0028.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0028_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0028_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="6059px" url="master/13519_0029.jpg" width="4485px"/>
+      <graphic height="190px" url="thumb/13519_0029_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0029_web.jpg" width="1332px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="6008px" url="master/13519_0030.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0030_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0030_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="6059px" url="master/13519_0031.jpg" width="4477px"/>
+      <graphic height="190px" url="thumb/13519_0031_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13519_0031_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="6008px" url="master/13519_0032.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0032_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0032_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="6059px" url="master/13519_0033.jpg" width="4478px"/>
+      <graphic height="190px" url="thumb/13519_0033_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13519_0033_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="6008px" url="master/13519_0034.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0034_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0034_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="6059px" url="master/13519_0035.jpg" width="4494px"/>
+      <graphic height="190px" url="thumb/13519_0035_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0035_web.jpg" width="1335px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="6008px" url="master/13519_0036.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0036_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0036_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="6059px" url="master/13519_0037.jpg" width="4487px"/>
+      <graphic height="190px" url="thumb/13519_0037_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0037_web.jpg" width="1333px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="6008px" url="master/13519_0038.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0038_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0038_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="6059px" url="master/13519_0039.jpg" width="4495px"/>
+      <graphic height="190px" url="thumb/13519_0039_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0039_web.jpg" width="1335px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="6008px" url="master/13519_0040.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0040_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0040_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="6059px" url="master/13519_0041.jpg" width="4536px"/>
+      <graphic height="190px" url="thumb/13519_0041_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13519_0041_web.jpg" width="1347px"/>
+    </surface>
+    <surface n="iv-r">
+      <graphic height="6008px" url="master/13519_0042.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0042_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0042_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="iv-v">
+      <graphic height="6059px" url="master/13519_0043.jpg" width="4504px"/>
+      <graphic height="190px" url="thumb/13519_0043_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0043_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="v-r">
+      <graphic height="6008px" url="master/13519_0044.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0044_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0044_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="v-v">
+      <graphic height="6059px" url="master/13519_0045.jpg" width="4481px"/>
+      <graphic height="190px" url="thumb/13519_0045_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0045_web.jpg" width="1331px"/>
+    </surface>
+    <surface n="vi-r">
+      <graphic height="6008px" url="master/13519_0046.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0046_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0046_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="vi-v">
+      <graphic height="6059px" url="master/13519_0047.jpg" width="4497px"/>
+      <graphic height="190px" url="thumb/13519_0047_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0047_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="vii-r">
+      <graphic height="6008px" url="master/13519_0048.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0048_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0048_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="vii-v">
+      <graphic height="6059px" url="master/13519_0049.jpg" width="4481px"/>
+      <graphic height="190px" url="thumb/13519_0049_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0049_web.jpg" width="1331px"/>
+    </surface>
+    <surface n="viii-r">
+      <graphic height="6008px" url="master/13519_0050.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0050_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0050_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="viii-v">
+      <graphic height="6059px" url="master/13519_0051.jpg" width="4514px"/>
+      <graphic height="190px" url="thumb/13519_0051_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0051_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="ix-r">
+      <graphic height="6008px" url="master/13519_0052.jpg" width="4472px"/>
+      <graphic height="190px" url="thumb/13519_0052_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/13519_0052_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="ix-v">
+      <graphic height="6059px" url="master/13519_0053.jpg" width="4530px"/>
+      <graphic height="190px" url="thumb/13519_0053_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/13519_0053_web.jpg" width="1346px"/>
+    </surface>
+    <surface n="back-i">
+      <graphic height="6157px" url="master/13519_0054.jpg" width="4629px"/>
+      <graphic height="190px" url="thumb/13519_0054_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/13519_0054_web.jpg" width="1353px"/>
+    </surface>
+    <surface n="back">
+      <graphic height="6088px" url="master/13519_0055.jpg" width="4632px"/>
+      <graphic height="190px" url="thumb/13519_0055_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/13519_0055_web.jpg" width="1369px"/>
+    </surface>
+    <surface n="spine">
+      <graphic height="6096px" url="master/13519_0056.jpg" width="552px"/>
+      <graphic height="190px" url="thumb/13519_0056_thumb.jpg" width="17px"/>
+      <graphic height="1800px" url="web/13519_0056_web.jpg" width="162px"/>
+    </surface>
+  </facsimile>
+</TEI>

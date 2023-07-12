@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Penn CAJS: RAR MS 85.126.22: Mishnah, Neziḳin, Avot 5:5-11</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Images are  ©2020 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2020 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Mishnah endings denoted by a colon. There are also text divisions with no number, denoted by a space. The text is divided into numbered units (mishnayot). The first number in the fragment is 5, which starts עשרה דברים נבראו, and ends at 12, which follows the Mishnah that ends וקשה לרצות רשע (here: קשה לרשות, probably errant copy).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Penn CAJS: RAR MS 85.126.22</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Mishnah, Neziḳin, Avot 5:5-11</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew; Oriental; semi-square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>11th-12th century</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylania. Center for Advanced Judaic Studies. Library). Cairo Genizah Collection (Dropsie College. Library).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5193px" url="master/9743_0000.tif" width="4576px"/>
+      <graphic height="190px" url="thumb/9743_0000_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/9743_0000_web.jpg" width="1586px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5193px" url="master/9743_0001.tif" width="4576px"/>
+      <graphic height="190px" url="thumb/9743_0001_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/9743_0001_web.jpg" width="1586px"/>
+    </surface>
+  </facsimile>
+</TEI>

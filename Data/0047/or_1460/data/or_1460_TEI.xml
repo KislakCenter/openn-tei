@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 1460: The Pentateuch scroll.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 1460: The Pentateuch scroll. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 1460: The Pentateuch scroll.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Surface delamination.</note>
+        <note>Losses and tears.</note>
+        <note>Edge damage, abrasion.</note>
+        <note>Old patch repairs sewn on or glued.</note>
+        <note>Patches of mould/salt accretions. Damp darkening.</note>
+        <note>Usage stains.</note>
+        <note>Worming; surface damage suggestive of silverfish.</note>
+        <note>Pleats and folds.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 1460</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1460</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Pentateuch scroll.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Pentateuch scroll.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="leather">
+                <support>
+                  <p>Leather</p>
+                </support>
+                <extent>48 membranes, 187 columns.; 48 membranes, 187 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 187; ruled lines: 48 49; written lines: 48 49; Uniform layout. Ruling by hard point. Visible stiching. 187 columns in total, three to five columns per membrane. Three tagin on שעטנזגץ, and one on בדהיחק. Several majuscular and minuscular letters. Special shape of the letter ו occurs in Num. 25:12, and inverted נ is placed before and after Num. 10:35-36. The "puncta extraordinaria" placed on the words fixed by masorah.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Oriental square script of the 16th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Boxed.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1500" notAfter="1599"/>
+              <p>Between 1500 and 1599</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="6397px" url="master/13016_0000.jpg" width="2371px"/>
+      <graphic height="190px" url="thumb/13016_0000_thumb.jpg" width="70px"/>
+      <graphic height="1800px" url="web/13016_0000_web.jpg" width="667px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="2755px" url="master/13016_0001.jpg" width="19247px"/>
+      <graphic height="27px" url="thumb/13016_0001_thumb.jpg" width="190px"/>
+      <graphic height="257px" url="web/13016_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="2755px" url="master/13016_0002.jpg" width="20218px"/>
+      <graphic height="25px" url="thumb/13016_0002_thumb.jpg" width="190px"/>
+      <graphic height="245px" url="web/13016_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="2755px" url="master/13016_0003.jpg" width="20275px"/>
+      <graphic height="25px" url="thumb/13016_0003_thumb.jpg" width="190px"/>
+      <graphic height="244px" url="web/13016_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="2755px" url="master/13016_0004.jpg" width="18534px"/>
+      <graphic height="28px" url="thumb/13016_0004_thumb.jpg" width="190px"/>
+      <graphic height="267px" url="web/13016_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="2755px" url="master/13016_0005.jpg" width="30000px"/>
+      <graphic height="17px" url="thumb/13016_0005_thumb.jpg" width="190px"/>
+      <graphic height="165px" url="web/13016_0005_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

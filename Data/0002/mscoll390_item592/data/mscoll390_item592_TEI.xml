@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 592: Tattvaśodhana</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 592: Tattvaśodhana are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 1v).</note>
+        <note>Written in 194 lines total.</note>
+        <note>1 leaf [1r-1v].</note>
+        <note>Begins (f. 1v): śrīgaṇeśāya namaḥ // atha tattvaśodhatatrapaṇalikhyate // (f. 1r).</note>
+        <note>Mistakes blacked out; some corrections and additions in margins; verse divisions in purple throughout; vertical margins marked with double purple line.</note>
+        <note>Written on three long folios glued together and folded accordion style, making a single long, scroll-sized manuscript with writing on both sides. The entire manuscript was torn completely through along the folds and is currently in seven parts. The beginning of the text starts about one third of the way down the length of the manuscript (if whole), leaving the first part of the paper entirely blank.</note>
+        <note>Dated śaka 1797 (1875) (f. 1v).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 592</idno>
+            <altIdentifier type="bibid">
+              <idno>9960015643503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/402597197</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6001564</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript used for private or public recitation and contemplation and is translated as, the Purification of the principle or essential elements (tattva), and is employed for rites intending to purify perceived mental imbalances which are thought to be the root of physical infirmity; employed as part of broader medical treatment in Ayurvedic medicine as part of general concern for health and spiritual well being.</summary>
+            <textLang mainLang="san">In Sanskrit (Devanāgarī)</textLang>
+            <msItem>
+              <title>Tattvaśodhana</title>
+              <title type="vernacular">तत्त्वशोधन</title>
+              <colophon>Colophon: iti tattva śodhana smāptaṃ // aśvin śukla 15 guru 1932 śake 1997 lakhī [//] (f. 1v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (1 leaf) : 16 x 145 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Medicine, Ayurvedic</term>
+          <term>Purity, Ritual</term>
+          <term>Healing--Religious aspects--Hinduism</term>
+          <term>Medicine--India</term>
+          <term>Rites and ceremonies--India</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-592-1">
+      <graphic height="32983px" url="master/5833_0000.tif" width="4352px"/>
+      <graphic height="190px" url="thumb/5833_0000_thumb.jpg" width="25px"/>
+      <graphic height="1800px" url="web/5833_0000_web.jpg" width="237px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ms-coll-390-item-592-2">
+      <graphic height="32983px" url="master/5833_0001.tif" width="4352px"/>
+      <graphic height="190px" url="thumb/5833_0001_thumb.jpg" width="25px"/>
+      <graphic height="1800px" url="web/5833_0001_web.jpg" width="237px"/>
+    </surface>
+  </facsimile>
+</TEI>

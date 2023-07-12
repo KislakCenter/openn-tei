@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 63: Judeo-Arabic commentary on the Haftarot (Shabat Shuvah / Seventh day of Passover)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 63: Judeo-Arabic commentary on the Haftarot (Shabat Shuvah / Seventh day of Passover) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Fol. 1 is from Hosea XIV 10 and Micah VII 18, which comprise the conclusion of the Haftarah reading for Sabbath Shuva; fol. 2 is on II Samuel XXII 1-2, the beginning of the Haftarah for the Seventh day of Passover; Hebrew verses beginning each article are in enlarged squared characters, with vocalization and cantillation.</note>
+        <note>Condition: non-consecutive; losses in upper edge, fol. 1 lacking most of the upper exterior corner (3-4 lines).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 63</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417593503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb" otherLangs="heb">Judeo-Arabic; Hebrew</textLang>
+            <msItem>
+              <title>Judeo-Arabic commentary on the Haftarot (Shabat Shuvah / Seventh day of Passover)</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>25.4 X 18.4 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 24; ruling method: left rule justified a downward slant of exceeding word.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive vocalization and cantillation (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1299"/>
+              <p>12th century-13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Shabbat shubah , Early works to 1800</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6267px" url="master/4435_0000.tif" width="8976px"/>
+      <graphic height="132px" url="thumb/4435_0000_thumb.jpg" width="190px"/>
+      <graphic height="1256px" url="web/4435_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6267px" url="master/4435_0001.tif" width="8976px"/>
+      <graphic height="132px" url="thumb/4435_0001_thumb.jpg" width="190px"/>
+      <graphic height="1256px" url="web/4435_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

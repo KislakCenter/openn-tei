@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 9882: Tana"kh (תנ"ך)</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <date type="create-date" when="2023-01-31">2023-01-31</date>
+        <date type="mod-date" when="2023-01-31">2023-01-31</date>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 9882: Tana"kh (תנ"ך) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 9882: Tana"kh (תנ"ך). This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Damaged by damp and mould.</note>
+        <note>Some accretions.</note>
+        <note>Slight usage stains.</note>
+        <note>All repaired and inlaid before rebinding.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 9882</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_9882</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Biblical fragments.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>Tana"kh (תנ"ך)</title>
+            </msItem>
+            <msItem n="1r">
+              <locus target="#surface-or-9882-">1r</locus>
+              <title>Nevi᾿im  נביאים</title>
+            </msItem>
+            <msItem n="5r">
+              <locus target="#surface-or-9882-">5r</locus>
+              <title>Hafṭarot (Yitro-Terumah)  הפטרות (יתרו-תרומה)</title>
+            </msItem>
+            <msItem n="6r">
+              <locus target="#surface-or-9882-">6r</locus>
+              <title>Nevi᾿im  נביאים</title>
+            </msItem>
+            <msItem n="7r">
+              <locus target="#surface-or-9882-">7r</locus>
+              <title>Hafṭarot (Ḥaye Sarah-Ṿa-yetse) הפטרות (חיי שרה-ויצא)</title>
+            </msItem>
+            <msItem n="8r">
+              <locus target="#surface-or-9882-">8r</locus>
+              <title>Ketuvim כתובים</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>8 folios; 8 folios </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 3; ruled lines: 18 31; written lines: 18 31; Non-uniform layout. Complete ruling by hard-point visible. Traces of pricking on the outer margins only. Masorah magna and parva variously executed.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Ashkenazi square, Sefardi square and Byzantine square script. Punctuated, accentuated, with masorah magna and parva.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Spine: 'Biblical Fragments. Hebrew. Brit. Mus. Or. 9882.'</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1499"/>
+              <p>Between 1000 and 1499</p>
+            </origin>
+            <provenance>Acquisition: Moses Gaster (b. 1856, d. 1939), scholar and rabbi: his manuscript, Cod. G. 152; purchased by the British Museum from him on 12 April, 1924: inscribed, [9v].</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="6095px" url="master/13397_0000.jpg" width="5106px"/>
+      <graphic height="190px" url="thumb/13397_0000_thumb.jpg" width="159px"/>
+      <graphic height="1800px" url="web/13397_0000_web.jpg" width="1508px"/>
+    </surface>
+    <surface n="front-i">
+      <graphic height="5971px" url="master/13397_0001.jpg" width="5106px"/>
+      <graphic height="190px" url="thumb/13397_0001_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/13397_0001_web.jpg" width="1539px"/>
+    </surface>
+    <surface n="i-r">
+      <graphic height="5971px" url="master/13397_0002.jpg" width="5106px"/>
+      <graphic height="190px" url="thumb/13397_0002_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/13397_0002_web.jpg" width="1539px"/>
+    </surface>
+    <surface n="i-v">
+      <graphic height="6034px" url="master/13397_0003.jpg" width="5166px"/>
+      <graphic height="190px" url="thumb/13397_0003_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/13397_0003_web.jpg" width="1541px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5971px" url="master/13397_0004.jpg" width="5106px"/>
+      <graphic height="190px" url="thumb/13397_0004_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/13397_0004_web.jpg" width="1539px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6009px" url="master/13397_0005.jpg" width="5166px"/>
+      <graphic height="190px" url="thumb/13397_0005_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/13397_0005_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5971px" url="master/13397_0006.jpg" width="5106px"/>
+      <graphic height="190px" url="thumb/13397_0006_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/13397_0006_web.jpg" width="1539px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6009px" url="master/13397_0007.jpg" width="5166px"/>
+      <graphic height="190px" url="thumb/13397_0007_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/13397_0007_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5971px" url="master/13397_0008.jpg" width="5106px"/>
+      <graphic height="190px" url="thumb/13397_0008_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/13397_0008_web.jpg" width="1539px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="6009px" url="master/13397_0009.jpg" width="5166px"/>
+      <graphic height="190px" url="thumb/13397_0009_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/13397_0009_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5971px" url="master/13397_0010.jpg" width="5106px"/>
+      <graphic height="190px" url="thumb/13397_0010_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/13397_0010_web.jpg" width="1539px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="6009px" url="master/13397_0011.jpg" width="5166px"/>
+      <graphic height="190px" url="thumb/13397_0011_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/13397_0011_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5971px" url="master/13397_0012.jpg" width="5106px"/>
+      <graphic height="190px" url="thumb/13397_0012_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/13397_0012_web.jpg" width="1539px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="6009px" url="master/13397_0013.jpg" width="5166px"/>
+      <graphic height="190px" url="thumb/13397_0013_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/13397_0013_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5971px" url="master/13397_0014.jpg" width="5106px"/>
+      <graphic height="190px" url="thumb/13397_0014_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/13397_0014_web.jpg" width="1539px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="6009px" url="master/13397_0015.jpg" width="5166px"/>
+      <graphic height="190px" url="thumb/13397_0015_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/13397_0015_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5971px" url="master/13397_0016.jpg" width="5106px"/>
+      <graphic height="190px" url="thumb/13397_0016_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/13397_0016_web.jpg" width="1539px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="6009px" url="master/13397_0017.jpg" width="5166px"/>
+      <graphic height="190px" url="thumb/13397_0017_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/13397_0017_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5971px" url="master/13397_0018.jpg" width="5106px"/>
+      <graphic height="190px" url="thumb/13397_0018_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/13397_0018_web.jpg" width="1539px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="6034px" url="master/13397_0019.jpg" width="5166px"/>
+      <graphic height="190px" url="thumb/13397_0019_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/13397_0019_web.jpg" width="1541px"/>
+    </surface>
+    <surface n="ii-r">
+      <graphic height="5971px" url="master/13397_0020.jpg" width="5106px"/>
+      <graphic height="190px" url="thumb/13397_0020_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/13397_0020_web.jpg" width="1539px"/>
+    </surface>
+    <surface n="ii-v">
+      <graphic height="6034px" url="master/13397_0021.jpg" width="5166px"/>
+      <graphic height="190px" url="thumb/13397_0021_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/13397_0021_web.jpg" width="1541px"/>
+    </surface>
+    <surface n="back-i">
+      <graphic height="5971px" url="master/13397_0022.jpg" width="5106px"/>
+      <graphic height="190px" url="thumb/13397_0022_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/13397_0022_web.jpg" width="1539px"/>
+    </surface>
+    <surface n="back">
+      <graphic height="6122px" url="master/13397_0023.jpg" width="5041px"/>
+      <graphic height="190px" url="thumb/13397_0023_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/13397_0023_web.jpg" width="1482px"/>
+    </surface>
+    <surface n="spine">
+      <graphic height="7108px" url="master/13397_0024.jpg" width="529px"/>
+      <graphic height="190px" url="thumb/13397_0024_thumb.jpg" width="14px"/>
+      <graphic height="1800px" url="web/13397_0024_web.jpg" width="133px"/>
+    </surface>
+  </facsimile>
+</TEI>

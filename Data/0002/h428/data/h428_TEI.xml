@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 428: Commentary on Ghazzālīs Maqāṣid al-falāsifah and Hebrew translation.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 428: Commentary on Ghazzālīs Maqāṣid al-falāsifah and Hebrew translation. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Incipits enlarged square characters, above a space; A folio from a Hebrew commentary on Ghazzālīs Maqāṣid al-falāsifah (Intentions of the Philosophers), in which paragraphs from Ghazzālī's text, starting with אמר אבוחמד, are interspersed with his comments, starting with אמר המעתיק; Fragment contains the two articles parallel to, in the published edition (Georges Vajda. Sefer Tiḳun ha-deʻot le-Yitsḥaḳ Albalag / hehedir ʻal-pi kitve-yad ṿe-tsiref mavo, marʾe-meḳomot u-mafteḥot, Yehudah Aryeh Ṿaidah. Yerushalayim : ha-Aḳademyah ha-leʾumit ha-Yiśraʾelit la-madaʻim. 733 [1973]) p. 20 l. 21-p. 22 l. 4 (comment nos. 19, 20).</note>
+        <note>Condition: nearly complete; damaged, folded.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 428</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421073503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Commentary on Ghazzālīs Maqāṣid al-falāsifah and Hebrew translation.</title>
+              <author>Albalag, Isaac,13th cent.</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>25.7 X 18.4 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 30; ruling method: left rule justified by stretching last character.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1200" notAfter="1399"/>
+              <p>13th century-14th century?</p>
+              <origPlace>Byzantium</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Philosophy , Early works to 1800 , Introductions</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6476px" url="master/4793_0000.tif" width="4832px"/>
+      <graphic height="190px" url="thumb/4793_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4793_0000_web.jpg" width="1343px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6476px" url="master/4793_0001.tif" width="4832px"/>
+      <graphic height="190px" url="thumb/4793_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4793_0001_web.jpg" width="1343px"/>
+    </surface>
+  </facsimile>
+</TEI>

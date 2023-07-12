@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 144: Ṭur Yoreh de'ah, Hilkhot ḳeriʾiah, simanim 340 ; Hilkhot ḳevurah siman 356-361</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 144: Ṭur Yoreh de'ah, Hilkhot ḳeriʾiah, simanim 340 ; Hilkhot ḳevurah siman 356-361 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Halper 143: Yoreh de'ah, the laws of ḳeri'ah, 340 חכם שמת – והרמב״ם כתב כל שלשים יום; Halper 144: Yoreh de'ah, the laws of burial, the last words of 356 דברים to 361.</note>
+        <note>Condition: non-consecutive(?); cropped, losses in lower and external edges; stained, faded.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 144</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418313503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Ṭur Yoreh de'ah, Hilkhot ḳeriʾiah, simanim 340 ; Hilkhot ḳevurah siman 356-361</title>
+              <author>Jacob ben Asher,ca. 1269-ca. 1340.</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>19.2 X 14.6 cm (Halper 143); 20 X 14.4 cm (Halper 144) </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 28.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Sephardic semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1300" notAfter="1499"/>
+              <p>14th century-15th century?</p>
+              <origPlace>Spain</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Burial laws (Jewish law)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5193px" url="master/4516_0000.tif" width="3712px"/>
+      <graphic height="190px" url="thumb/4516_0000_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/4516_0000_web.jpg" width="1286px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5193px" url="master/4516_0001.tif" width="3712px"/>
+      <graphic height="190px" url="thumb/4516_0001_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/4516_0001_web.jpg" width="1286px"/>
+    </surface>
+  </facsimile>
+</TEI>

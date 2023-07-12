@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Add MS 11829: The Pentateuch scroll.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Add MS 11829: The Pentateuch scroll. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Add MS 11829: The Pentateuch scroll.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ink offset to verso.</note>
+        <note>Damaged roller.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Add MS 11829</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_11829</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Pentateuch scroll.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Pentateuch scroll.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>31 membranes, 116 columns.; 31 membranes, 116 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 116; ruled lines: 42; written lines: 42; Uniform layout. Ruling by hard point. Visible pricking and stiching. 116 columns in total, three to five columns per membrane. Three tagin on שעטנזגץ, and one on בדהיק. Several instances of majuscular and minuscular letters. The "puncta extraordinaria" placed on the words fixed by masorah, with a few exceptions.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Sefardi square script of the 16th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Boxed.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1500" notAfter="1599"/>
+              <p>Between 1500 and 1599</p>
+              <origPlace>Unknown</origPlace>
+            </origin>
+            <provenance>Acquisition: Presented to the British Museum by Rev. Thomas Butler on 5 July 1841.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="6012px" url="master/9942_0000.jpg" width="2928px"/>
+      <graphic height="190px" url="thumb/9942_0000_thumb.jpg" width="92px"/>
+      <graphic height="1800px" url="web/9942_0000_web.jpg" width="876px"/>
+    </surface>
+    <surface n="i-r">
+      <graphic height="8135px" url="master/9942_0001.jpg" width="5420px"/>
+      <graphic height="190px" url="thumb/9942_0001_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/9942_0001_web.jpg" width="1199px"/>
+    </surface>
+    <surface n="ii-r">
+      <graphic height="8135px" url="master/9942_0002.jpg" width="5420px"/>
+      <graphic height="190px" url="thumb/9942_0002_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/9942_0002_web.jpg" width="1199px"/>
+    </surface>
+    <surface n="iii-r">
+      <graphic height="8135px" url="master/9942_0003.jpg" width="5420px"/>
+      <graphic height="190px" url="thumb/9942_0003_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/9942_0003_web.jpg" width="1199px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="2859px" url="master/9942_0004.jpg" width="29792px"/>
+      <graphic height="18px" url="thumb/9942_0004_thumb.jpg" width="190px"/>
+      <graphic height="172px" url="web/9942_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="2426px" url="master/9942_0005.jpg" width="30000px"/>
+      <graphic height="15px" url="thumb/9942_0005_thumb.jpg" width="190px"/>
+      <graphic height="145px" url="web/9942_0005_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

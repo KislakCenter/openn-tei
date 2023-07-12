@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 764 Item 238: Pope Clement XII brief</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 764 Item 238: Pope Clement XII brief are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 764 Item 238</idno>
+            <altIdentifier type="bibid">
+              <idno>9949981483503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/728108217</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4998148</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Copy of a brief from Pope Clement XII dated 20 August 1732 granting Florentine aristocrat Teresa Antinori permission to eat meat, eggs, and milk all year round following a request made by her physician.</summary>
+            <textLang mainLang="lat">In Latin</textLang>
+            <msItem>
+              <title>Pope Clement XII brief</title>
+              <author>
+                <persName type="authority">Clement XII, Pope, 1652-1740</persName>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>1 item (1 leaf) :</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Renzo Rizzi (Milan).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Discipline</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Notarial documents</term>
+          <term>Legal documents</term>
+          <term>Papal briefs</term>
+          <term>Manuscripts, Latin--18th century</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1" xml:id="surface-ms-coll-764-item-238-1">
+      <graphic height="3740px" url="master/1236_0000.tif" width="6886px"/>
+      <graphic height="103px" url="thumb/1236_0000_thumb.jpg" width="190px"/>
+      <graphic height="977px" url="web/1236_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 2" xml:id="surface-ms-coll-764-item-238-2">
+      <graphic height="3740px" url="master/1236_0001.tif" width="6886px"/>
+      <graphic height="103px" url="thumb/1236_0001_thumb.jpg" width="190px"/>
+      <graphic height="977px" url="web/1236_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

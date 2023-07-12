@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 336: Court document</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 336: Court document are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A record in Judeo-Arabic regarding a compound in the Qatsr al-Sham quarter of Fustat, one sixth of which has been dedicated (waqf) to the two Rabbanite Synagogues of Fustat, the Babylonian and the Erets Israeli. Issued by Sa'adia ben R. Ephraim he-ḥaver; The lower half of the document is the court validation of the above, in legal Aramaic, written by a different hand. Here, in addition to Sa'adia, more witnesses are listed, Joseph ben Jacob ('Awkal?); Baqa' ha-kohen ben Mukhtar; Yeshuah ha-Levi ben Solomon; The validation is signed with the autographs of representatives of both synagogues, Sahlan ben Abraham (Babylonian, see the list of judges, Goitein: A Mediterranean Society / S.D Goitein. Berkeley : Univ Calif Press, 1967-1993, vol. 2 Appendix D, no. 6; E. Bareket: Shafrir Mitsraim / Elinoar Bareḳet. Tel Aviv : University of Tel Aviv, 1995, p. 172-188 = Fustat on the Nile, Leiden, 1999, pp. 233-255) and Ephraim (Ze'iara) ben Shemarya (Erets Israeli, Goitein, ibid., no. 4; Bareket, ibid. pp. 100-121, idem. pp. 129-160).</note>
+        <note>Condition: damaged, losses in left edge and lower left corner, faded; verso is blank.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 336</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420143503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb" otherLangs="arc">Judeo-Arabic; Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textLang>
+            <msItem>
+              <title>Court document</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>23 X 22 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 18 (recto).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate/>
+              <p>May 2, 1047</p>
+              <origPlace>Fustat</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Court records</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5450px" url="master/4703_0000.tif" width="5344px"/>
+      <graphic height="190px" url="thumb/4703_0000_thumb.jpg" width="187px"/>
+      <graphic height="1800px" url="web/4703_0000_web.jpg" width="1765px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5450px" url="master/4703_0001.tif" width="5344px"/>
+      <graphic height="190px" url="thumb/4703_0001_thumb.jpg" width="187px"/>
+      <graphic height="1800px" url="web/4703_0001_web.jpg" width="1765px"/>
+    </surface>
+  </facsimile>
+</TEI>

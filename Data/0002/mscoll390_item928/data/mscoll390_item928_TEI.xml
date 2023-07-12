@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 928: Amṛtabiṇḍūpaniṣad</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 928: Amṛtabiṇḍūpaniṣad are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 4r).</note>
+        <note>Written in 21-23 lines per leaf.</note>
+        <note>4 leaves foliated 1-4, upper left and lower right verso.</note>
+        <note>Mistakes blacked out; some corrections and additions in margins.</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 928</idno>
+            <altIdentifier type="bibid">
+              <idno>9958497633503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/816116938</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5849763</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript used for study and consultation and inquires into theories of knowledge about the self (ātman), its place in the cycle of life and death (saṃsāra), and its place in relationship to the Hindu deity Śiva, envisioned as the highest Lord of the universe. Contains discussion of mantras and sound. Text is often named as one of the so-called Yoga upaniṣads, which were likely composed in the fourteenth century or later.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Amṛtabiṇḍūpaniṣad</title>
+              <title type="vernacular">अमृतबिण्डूपनिषद्</title>
+              <colophon>Colophon: ity amṛtabiṃdūpaniṣatsamāptam // śrīsāṃbasadāśivārpaṇam astu // (f. 4r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (4 leaves) : 11 x 33 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Yoga</term>
+          <term>Salvation--Hinduism</term>
+          <term>Knowledge, Theory of (Hinduism)</term>
+          <term>Siva (Hindu deity)</term>
+          <term>Self (Philosophy)</term>
+          <term>Hindu mantras</term>
+          <term>Sound--Religious aspects--Hinduism</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Treatises</term>
+          <term>Prayers</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2800px" url="master/6197_0000.tif" width="7223px"/>
+      <graphic height="73px" url="thumb/6197_0000_thumb.jpg" width="190px"/>
+      <graphic height="697px" url="web/6197_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="5313px" url="master/6197_0001.tif" width="7262px"/>
+      <graphic height="139px" url="thumb/6197_0001_thumb.jpg" width="190px"/>
+      <graphic height="1316px" url="web/6197_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v-3r">
+      <graphic height="5313px" url="master/6197_0002.tif" width="7262px"/>
+      <graphic height="139px" url="thumb/6197_0002_thumb.jpg" width="190px"/>
+      <graphic height="1316px" url="web/6197_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v-4r">
+      <graphic height="5313px" url="master/6197_0003.tif" width="7262px"/>
+      <graphic height="139px" url="thumb/6197_0003_thumb.jpg" width="190px"/>
+      <graphic height="1316px" url="web/6197_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="2800px" url="master/6197_0004.tif" width="7223px"/>
+      <graphic height="73px" url="thumb/6197_0004_thumb.jpg" width="190px"/>
+      <graphic height="697px" url="web/6197_0004_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

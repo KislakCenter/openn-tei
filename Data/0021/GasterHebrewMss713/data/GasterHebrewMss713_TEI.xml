@@ -1,0 +1,2655 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Manchester Library, Gaster Hebrew MS 713: Meirat Enayim</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Silvestri, Stefania</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Carol Burrows</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Manchester Library</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Images are  ©2018 University of Manchester Library, Special Collections and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Manchester Library, Special Collections and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Certificate of Issue of a Money Order dated 07 July 1928 payable in Würzburg, Germany; two small paper fragments with texts in Hebrew</note>
+        <note>Corrections and additions are mostly in a late Byzantine semi-cursive script and darker ink.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>Manchester</settlement>
+            <institution>University of Manchester</institution>
+            <repository>University of Manchester Library</repository>
+            <collection>Hebrew Manuscripts</collection>
+            <idno type="call-number">Gaster Hebrew MS 713</idno>
+            <altIdentifier type="Former">
+              <idno>Gaster 713</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Meirat Enayim by Isaac ben Samuel of Acre. Kabbalistic supercommentary on Nahmanides' Commentary on the Torah copied by a certain Rabbi David in Revere in the Po Valley near Mantua. The title of the work most likely refers to the last words of Psalm 19.9 ("enlightening the eyes"): "The precepts of the Lord are right, rejoicing the heart; the commandment of the Lord is pure, enlightening the eyes." Two brief deeds of sale on folio 174b dated 1515 and 1537 and several ownership notes on folio 1a in the manuscript confirm that it was sold multiple times, among which at least once or twice locally in view of references to Revere and (probably) Casalmaggiore. Censor Domenico Ierosolomitano signed the manuscript in 1598. Additions: Folios Flyeaf 1b-Flyleaf 2a: additions in different hands, including pen and ink drawing of the sefirot.</summary>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Meirat Enayim</title>
+              <author ref="http://viaf.org/viaf/299004461">Isaac ben Samuel, of Acre</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="http://viaf.org/viaf/12428346">Gaster, Moses, 1856-1939</persName>
+              </respStmt>
+              <colophon>נשלם בריווירי לנבון ונכבד / ר׳ דוד יצ"ו ה׳ יזכהו להגות בו וליוצאי ירכו אמן ואמן ?הסופר לא יוזק עד שיעלה / חמור בסולם שיעקב אבינו חלם אודה לה׳ ש[...] להשלימו כן [...] לעשות / ספרים לאין קץ לעבודתו אמן</colophon>
+            </msItem>
+            <msItem n="1a">
+              <locus target="#surface-gaster-hebrew-ms-713-7">1a</locus>
+              <title>Meirat Enayim</title>
+            </msItem>
+            <msItem n="174b">
+              <locus target="#surface-gaster-hebrew-ms-713-354">174b</locus>
+              <title>Colophon</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>ii+174+vi; 327 x 232 mm </extent>
+                <foliation>Modern pencil foliation in Arabic numerals every 5 pages at the top outer corner</foliation>
+                <collation>
+                  <p>1I (ii) + 4VIII (64) + 1VII (78) + 6VIII (174) + 1III (viii)</p>
+                  <p>
+                    <catchwords>Often a Hebrew catchword on side b of the folios; catchword and text do not match up from folios 33 to 34, 46 to 47 and 150 to 151</catchwords>
+                  </p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Single column of 29 lines</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Sephardi semi-cursive hand</scriptNote>
+              <scriptNote>Byzantine semi-cursive script</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Folio 107a: Manicula in ink</decoNote>
+              <decoNote n="[Flyleaf 1b]"><locus target="#surface-gaster-hebrew-ms-713-4">[Flyleaf 1b]</locus>Pen and ink drawing</decoNote>
+              <decoNote n="[Flyleaf 2a]"><locus target="#surface-gaster-hebrew-ms-713-5">[Flyleaf 2a]</locus>Pen and ink drawing of the sefirot</decoNote>
+              <decoNote n="59a"><locus target="#surface-gaster-hebrew-ms-713-123">59a</locus>Pen and ink drawing</decoNote>
+              <decoNote n="78b"><locus target="#surface-gaster-hebrew-ms-713-162">78b</locus>Pen and ink drawing</decoNote>
+              <decoNote n="80a"><locus target="#surface-gaster-hebrew-ms-713-165">80a</locus>Pen and ink drawing</decoNote>
+              <decoNote n="91a"><locus target="#surface-gaster-hebrew-ms-713-187">91a</locus>Manicule</decoNote>
+              <decoNote n="107a"><locus target="#surface-gaster-hebrew-ms-713-219">107a</locus>Manicule</decoNote>
+              <decoNote n="126a"><locus target="#surface-gaster-hebrew-ms-713-257">126a</locus>Pen and ink drawing</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Wooden boards originally partly covered with leather attached with nails, now missing; carving and holes for locks now missing; sewn on three slit-double tapes; binding damaged; spine exposed; sewing fragile towards the sides of the text block; some stains</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1401" notAfter="1600"/>
+              <p>Fifteenth or sixteenth century</p>
+              <origPlace>Revere, Italy</origPlace>
+            </origin>
+            <provenance>Acquired by The John Rylands Library from the heirs of Moses Gaster in 1954; several ownership notes in Hebrew, some of which have been erased; if deciphered correctly, one includes the name of former owner רפאל עזריאל כהן Rafael Azriel Kohen; folio 174b: Two ownership notes in Hebrew; the first one mentions the name of the widow of ?Zachariah of Revere? ביאציוינוטה [...] אלמנת [...] זכרי' איש ריויר' who sold the manuscript of her late husband most likely on Thursday 19 August 1515 to Isaac Lovanso? Israel יצחק לוונשו ישראל; two witnesses sign this deed: גבריאל איש בכ"ר משלם קפמן ז"ל מקסאל ?מאור Gabriel son of Meshullam [...] of Casalmaggiore? and משה יצ"ו בכ"ר מנחם מריוירי זצ"ל Moses son of Menahem of Revere; the second one mentions the name of משה ביטון Moses Biton? who bought the manuscript from a certain Abraham אברהם ?מגאגואראנא on 4 October 1537; this deed was signed by the witness ?ברכיה אהרן [...] Berakhia? Aaron; folio 174b censor's signature: Domenico Hierosolimitano c. 1552-1622 Domenico Ierosolomitano for the year 1598</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="keywords">
+          <category xml:id="keyword_1">
+            <catDesc>Book Type</catDesc>
+            <category xml:id="keyword_1.2">
+              <catDesc>Accounts</catDesc>
+            </category>
+            <category xml:id="keyword_1.3">
+              <catDesc>Antiphonary</catDesc>
+            </category>
+            <category xml:id="keyword_1.4">
+              <catDesc>Armorial</catDesc>
+            </category>
+            <category xml:id="keyword_1.5">
+              <catDesc>Bible</catDesc>
+            </category>
+            <category xml:id="keyword_1.6">
+              <catDesc>Biography</catDesc>
+            </category>
+            <category xml:id="keyword_1.7">
+              <catDesc>Book of Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.8">
+              <catDesc>Breviary</catDesc>
+            </category>
+            <category xml:id="keyword_1.9">
+              <catDesc>Chronicle</catDesc>
+            </category>
+            <category xml:id="keyword_1.10">
+              <catDesc>Collection of Sermons</catDesc>
+            </category>
+            <category xml:id="keyword_1.11">
+              <catDesc>Commentary</catDesc>
+            </category>
+            <category xml:id="keyword_1.12">
+              <catDesc>Document</catDesc>
+            </category>
+            <category xml:id="keyword_1.13">
+              <catDesc>Dogale</catDesc>
+            </category>
+            <category xml:id="keyword_1.14">
+              <catDesc>Friendship book</catDesc>
+            </category>
+            <category xml:id="keyword_1.15">
+              <catDesc>Genealogy</catDesc>
+            </category>
+            <category xml:id="keyword_1.16">
+              <catDesc>Glossary</catDesc>
+            </category>
+            <category xml:id="keyword_1.17">
+              <catDesc>Gospel Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.18">
+              <catDesc>Gospels</catDesc>
+            </category>
+            <category xml:id="keyword_1.19">
+              <catDesc>Gradual</catDesc>
+            </category>
+            <category xml:id="keyword_1.21">
+              <catDesc>Haggadah</catDesc>
+            </category>
+            <category xml:id="keyword_1.22">
+              <catDesc>Homilary</catDesc>
+            </category>
+            <category xml:id="keyword_1.23">
+              <catDesc>Horologion</catDesc>
+            </category>
+            <category xml:id="keyword_1.24">
+              <catDesc>Hymnal</catDesc>
+            </category>
+            <category xml:id="keyword_1.25">
+              <catDesc>Koran</catDesc>
+            </category>
+            <category xml:id="keyword_1.26">
+              <catDesc>Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.27">
+              <catDesc>Mass book</catDesc>
+            </category>
+            <category xml:id="keyword_1.28">
+              <catDesc>Miscellany</catDesc>
+            </category>
+            <category xml:id="keyword_1.29">
+              <catDesc>Missal</catDesc>
+            </category>
+            <category xml:id="keyword_1.30">
+              <catDesc>Pontifical</catDesc>
+            </category>
+            <category xml:id="keyword_1.31">
+              <catDesc>Portolan chart</catDesc>
+            </category>
+            <category xml:id="keyword_1.32">
+              <catDesc>Prayer book</catDesc>
+            </category>
+            <category xml:id="keyword_1.33">
+              <catDesc>Private devotional text</catDesc>
+            </category>
+            <category xml:id="keyword_1.34">
+              <catDesc>Processional</catDesc>
+            </category>
+            <category xml:id="keyword_1.35">
+              <catDesc>Protective scroll</catDesc>
+            </category>
+            <category xml:id="keyword_1.36">
+              <catDesc>Psalter</catDesc>
+            </category>
+            <category xml:id="keyword_1.37">
+              <catDesc>Psalter-Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.38">
+              <catDesc>Qur`an</catDesc>
+            </category>
+            <category xml:id="keyword_1.39">
+              <catDesc>Recipe book</catDesc>
+            </category>
+            <category xml:id="keyword_1.40">
+              <catDesc>Saint's Life</catDesc>
+            </category>
+            <category xml:id="keyword_1.41">
+              <catDesc>Scribal manual</catDesc>
+            </category>
+            <category xml:id="keyword_1.42">
+              <catDesc>Torah</catDesc>
+            </category>
+            <category xml:id="keyword_1.43">
+              <catDesc>Treatise</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_2">
+            <catDesc>Century</catDesc>
+            <category xml:id="keyword_2.2">
+              <catDesc>6th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.3">
+              <catDesc>7th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.4">
+              <catDesc>8th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.5">
+              <catDesc>9th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.6">
+              <catDesc>10th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.7">
+              <catDesc>11th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.8">
+              <catDesc>12th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.9">
+              <catDesc>13th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.10">
+              <catDesc>14th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.11">
+              <catDesc>15th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.12">
+              <catDesc>16th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.13">
+              <catDesc>17th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.14">
+              <catDesc>18th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.15">
+              <catDesc>19th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.16">
+              <catDesc>20th century</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_3">
+            <catDesc>Culture</catDesc>
+            <category xml:id="keyword_3.2">
+              <catDesc>Abbasid</catDesc>
+            </category>
+            <category xml:id="keyword_3.3">
+              <catDesc>Arabic</catDesc>
+            </category>
+            <category xml:id="keyword_3.4">
+              <catDesc>Armenian</catDesc>
+            </category>
+            <category xml:id="keyword_3.5">
+              <catDesc>Ashkenazi</catDesc>
+            </category>
+            <category xml:id="keyword_3.6">
+              <catDesc>Austrian</catDesc>
+            </category>
+            <category xml:id="keyword_3.7">
+              <catDesc>Byzantine</catDesc>
+            </category>
+            <category xml:id="keyword_3.8">
+              <catDesc>Carolingian</catDesc>
+            </category>
+            <category xml:id="keyword_3.9">
+              <catDesc>Chinese</catDesc>
+            </category>
+            <category xml:id="keyword_3.10">
+              <catDesc>Christian</catDesc>
+            </category>
+            <category xml:id="keyword_3.11">
+              <catDesc>Coptic</catDesc>
+            </category>
+            <category xml:id="keyword_3.12">
+              <catDesc>Dutch</catDesc>
+            </category>
+            <category xml:id="keyword_3.13">
+              <catDesc>Egyptian</catDesc>
+            </category>
+            <category xml:id="keyword_3.14">
+              <catDesc>English</catDesc>
+            </category>
+            <category xml:id="keyword_3.15">
+              <catDesc>Ethiopian</catDesc>
+            </category>
+            <category xml:id="keyword_3.16">
+              <catDesc>Fatimid</catDesc>
+            </category>
+            <category xml:id="keyword_3.17">
+              <catDesc>Flemish</catDesc>
+            </category>
+            <category xml:id="keyword_3.18">
+              <catDesc>French</catDesc>
+            </category>
+            <category xml:id="keyword_3.19">
+              <catDesc>German</catDesc>
+            </category>
+            <category xml:id="keyword_3.20">
+              <catDesc>Indian</catDesc>
+            </category>
+            <category xml:id="keyword_3.21">
+              <catDesc>Islamic</catDesc>
+            </category>
+            <category xml:id="keyword_3.22">
+              <catDesc>Italian</catDesc>
+            </category>
+            <category xml:id="keyword_3.23">
+              <catDesc>Jewish</catDesc>
+            </category>
+            <category xml:id="keyword_3.25">
+              <catDesc>Mamluk</catDesc>
+            </category>
+            <category xml:id="keyword_3.26">
+              <catDesc>Mughal</catDesc>
+            </category>
+            <category xml:id="keyword_3.27">
+              <catDesc>Ottoman</catDesc>
+            </category>
+            <category xml:id="keyword_3.28">
+              <catDesc>Ottonian</catDesc>
+            </category>
+            <category xml:id="keyword_3.29">
+              <catDesc>Persian</catDesc>
+            </category>
+            <category xml:id="keyword_3.30">
+              <catDesc>Portuguese</catDesc>
+            </category>
+            <category xml:id="keyword_3.31">
+              <catDesc>Qajar</catDesc>
+            </category>
+            <category xml:id="keyword_3.32">
+              <catDesc>Rajput</catDesc>
+            </category>
+            <category xml:id="keyword_3.33">
+              <catDesc>Russian</catDesc>
+            </category>
+            <category xml:id="keyword_3.34">
+              <catDesc>Safavid</catDesc>
+            </category>
+            <category xml:id="keyword_3.35">
+              <catDesc>Sephardi</catDesc>
+            </category>
+            <category xml:id="keyword_3.36">
+              <catDesc>Spanish</catDesc>
+            </category>
+            <category xml:id="keyword_3.37">
+              <catDesc>Timurid</catDesc>
+            </category>
+            <category xml:id="keyword_3.38">
+              <catDesc>Turkish</catDesc>
+            </category>
+            <category xml:id="keyword_3.39">
+              <catDesc>Yemenite</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_4">
+            <catDesc>Descriptive term</catDesc>
+            <category xml:id="keyword_4.2">
+              <catDesc>Accordion book</catDesc>
+            </category>
+            <category xml:id="keyword_4.3">
+              <catDesc>Album</catDesc>
+            </category>
+            <category xml:id="keyword_4.4">
+              <catDesc>Annotated</catDesc>
+            </category>
+            <category xml:id="keyword_4.5">
+              <catDesc>Binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.6">
+              <catDesc>Calligraphy</catDesc>
+            </category>
+            <category xml:id="keyword_4.7">
+              <catDesc>Caroline minuscule</catDesc>
+            </category>
+            <category xml:id="keyword_4.8">
+              <catDesc>Chart</catDesc>
+            </category>
+            <category xml:id="keyword_4.9">
+              <catDesc>Charter</catDesc>
+            </category>
+            <category xml:id="keyword_4.10">
+              <catDesc>Colophon</catDesc>
+            </category>
+            <category xml:id="keyword_4.11">
+              <catDesc>Damage</catDesc>
+            </category>
+            <category xml:id="keyword_4.12">
+              <catDesc>Diagrams</catDesc>
+            </category>
+            <category xml:id="keyword_4.13">
+              <catDesc>Drawing</catDesc>
+            </category>
+            <category xml:id="keyword_4.14">
+              <catDesc>Early Abbasid script</catDesc>
+            </category>
+            <category xml:id="keyword_4.15">
+              <catDesc>Fragment</catDesc>
+            </category>
+            <category xml:id="keyword_4.16">
+              <catDesc>Gloss</catDesc>
+            </category>
+            <category xml:id="keyword_4.17">
+              <catDesc>Gothic</catDesc>
+            </category>
+            <category xml:id="keyword_4.18">
+              <catDesc>Gothic book hand</catDesc>
+            </category>
+            <category xml:id="keyword_4.19">
+              <catDesc>Grisaille</catDesc>
+            </category>
+            <category xml:id="keyword_4.20">
+              <catDesc>Grotesques</catDesc>
+            </category>
+            <category xml:id="keyword_4.21">
+              <catDesc>Headpiece</catDesc>
+            </category>
+            <category xml:id="keyword_4.22">
+              <catDesc>Heraldry</catDesc>
+            </category>
+            <category xml:id="keyword_4.23">
+              <catDesc>Historiated initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.24">
+              <catDesc>Humanistic</catDesc>
+            </category>
+            <category xml:id="keyword_4.25">
+              <catDesc>Illumination</catDesc>
+            </category>
+            <category xml:id="keyword_4.26">
+              <catDesc>Illustration</catDesc>
+            </category>
+            <category xml:id="keyword_4.27">
+              <catDesc>Inhabited initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.28">
+              <catDesc>Kufic</catDesc>
+            </category>
+            <category xml:id="keyword_4.29">
+              <catDesc>Manicules</catDesc>
+            </category>
+            <category xml:id="keyword_4.30">
+              <catDesc>Medallion</catDesc>
+            </category>
+            <category xml:id="keyword_4.31">
+              <catDesc>Micrography</catDesc>
+            </category>
+            <category xml:id="keyword_4.32">
+              <catDesc>Miniature</catDesc>
+            </category>
+            <category xml:id="keyword_4.33">
+              <catDesc>Missing leaves</catDesc>
+            </category>
+            <category xml:id="keyword_4.34">
+              <catDesc>Musical notation</catDesc>
+            </category>
+            <category xml:id="keyword_4.35">
+              <catDesc>New Abbasid style</catDesc>
+            </category>
+            <category xml:id="keyword_4.36">
+              <catDesc>Notable binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.37">
+              <catDesc>Original binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.38">
+              <catDesc>Ornament</catDesc>
+            </category>
+            <category xml:id="keyword_4.39">
+              <catDesc>Painting</catDesc>
+            </category>
+            <category xml:id="keyword_4.40">
+              <catDesc>Palimpsest</catDesc>
+            </category>
+            <category xml:id="keyword_4.41">
+              <catDesc>Paper</catDesc>
+            </category>
+            <category xml:id="keyword_4.42">
+              <catDesc>Penwork initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.43">
+              <catDesc>Puzzle initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.44">
+              <catDesc>Ragini</catDesc>
+            </category>
+            <category xml:id="keyword_4.45">
+              <catDesc>Romanesque</catDesc>
+            </category>
+            <category xml:id="keyword_4.46">
+              <catDesc>Scrapbook</catDesc>
+            </category>
+            <category xml:id="keyword_4.47">
+              <catDesc>Scroll</catDesc>
+            </category>
+            <category xml:id="keyword_4.48">
+              <catDesc>Scroll-work initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.49">
+              <catDesc>Seals</catDesc>
+            </category>
+            <category xml:id="keyword_4.50">
+              <catDesc>Tables</catDesc>
+            </category>
+            <category xml:id="keyword_4.51">
+              <catDesc>Textura</catDesc>
+            </category>
+            <category xml:id="keyword_4.52">
+              <catDesc>Treasure binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.53">
+              <catDesc>Watermark</catDesc>
+            </category>
+            <category xml:id="keyword_4.54">
+              <catDesc>White-vine lettering</catDesc>
+            </category>
+            <category xml:id="keyword_4.55">
+              <catDesc>Woodcuts</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_5">
+            <catDesc>Geography</catDesc>
+            <category xml:id="keyword_5.2">
+              <catDesc>Afghanistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.3">
+              <catDesc>Armenia</catDesc>
+            </category>
+            <category xml:id="keyword_5.4">
+              <catDesc>Austria</catDesc>
+            </category>
+            <category xml:id="keyword_5.5">
+              <catDesc>Belgium</catDesc>
+            </category>
+            <category xml:id="keyword_5.6">
+              <catDesc>Central Arab lands (Near East)</catDesc>
+            </category>
+            <category xml:id="keyword_5.7">
+              <catDesc>Central Asia</catDesc>
+            </category>
+            <category xml:id="keyword_5.8">
+              <catDesc>China</catDesc>
+            </category>
+            <category xml:id="keyword_5.9">
+              <catDesc>Egypt</catDesc>
+            </category>
+            <category xml:id="keyword_5.10">
+              <catDesc>England</catDesc>
+            </category>
+            <category xml:id="keyword_5.11">
+              <catDesc>Ethiopia</catDesc>
+            </category>
+            <category xml:id="keyword_5.12">
+              <catDesc>Flanders</catDesc>
+            </category>
+            <category xml:id="keyword_5.13">
+              <catDesc>France</catDesc>
+            </category>
+            <category xml:id="keyword_5.14">
+              <catDesc>Germany</catDesc>
+            </category>
+            <category xml:id="keyword_5.15">
+              <catDesc>Greece</catDesc>
+            </category>
+            <category xml:id="keyword_5.16">
+              <catDesc>India</catDesc>
+            </category>
+            <category xml:id="keyword_5.17">
+              <catDesc>Iran</catDesc>
+            </category>
+            <category xml:id="keyword_5.18">
+              <catDesc>Iraq</catDesc>
+            </category>
+            <category xml:id="keyword_5.19">
+              <catDesc>Israel</catDesc>
+            </category>
+            <category xml:id="keyword_5.20">
+              <catDesc>Italy</catDesc>
+            </category>
+            <category xml:id="keyword_5.21">
+              <catDesc>Maghreb</catDesc>
+            </category>
+            <category xml:id="keyword_5.22">
+              <catDesc>Morocco</catDesc>
+            </category>
+            <category xml:id="keyword_5.23">
+              <catDesc>Netherlands</catDesc>
+            </category>
+            <category xml:id="keyword_5.24">
+              <catDesc>Pakistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.25">
+              <catDesc>Portugal</catDesc>
+            </category>
+            <category xml:id="keyword_5.26">
+              <catDesc>Romania</catDesc>
+            </category>
+            <category xml:id="keyword_5.27">
+              <catDesc>Russia</catDesc>
+            </category>
+            <category xml:id="keyword_5.28">
+              <catDesc>Spain</catDesc>
+            </category>
+            <category xml:id="keyword_5.29">
+              <catDesc>Sub-Saharan (West) Africa</catDesc>
+            </category>
+            <category xml:id="keyword_5.30">
+              <catDesc>Turkey</catDesc>
+            </category>
+            <category xml:id="keyword_5.31">
+              <catDesc>Yemen</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_6">
+            <catDesc>Other</catDesc>
+            <category xml:id="keyword_6.2">
+              <catDesc>Alchemy</catDesc>
+            </category>
+            <category xml:id="keyword_6.3">
+              <catDesc>Allegory</catDesc>
+            </category>
+            <category xml:id="keyword_6.4">
+              <catDesc>Astrology</catDesc>
+            </category>
+            <category xml:id="keyword_6.5">
+              <catDesc>Astronomy</catDesc>
+            </category>
+            <category xml:id="keyword_6.6">
+              <catDesc>Biblical</catDesc>
+            </category>
+            <category xml:id="keyword_6.7">
+              <catDesc>Binding waste</catDesc>
+            </category>
+            <category xml:id="keyword_6.8">
+              <catDesc>Cartography</catDesc>
+            </category>
+            <category xml:id="keyword_6.9">
+              <catDesc>Church Fathers</catDesc>
+            </category>
+            <category xml:id="keyword_6.10">
+              <catDesc>Cosmology</catDesc>
+            </category>
+            <category xml:id="keyword_6.11">
+              <catDesc>Devotion</catDesc>
+            </category>
+            <category xml:id="keyword_6.12">
+              <catDesc>Financial records</catDesc>
+            </category>
+            <category xml:id="keyword_6.13">
+              <catDesc>Fortune-telling</catDesc>
+            </category>
+            <category xml:id="keyword_6.14">
+              <catDesc>Friendship</catDesc>
+            </category>
+            <category xml:id="keyword_6.15">
+              <catDesc>Games</catDesc>
+            </category>
+            <category xml:id="keyword_6.16">
+              <catDesc>Geography</catDesc>
+            </category>
+            <category xml:id="keyword_6.17">
+              <catDesc>Geomancy</catDesc>
+            </category>
+            <category xml:id="keyword_6.18">
+              <catDesc>Grammar</catDesc>
+            </category>
+            <category xml:id="keyword_6.19">
+              <catDesc>History</catDesc>
+            </category>
+            <category xml:id="keyword_6.20">
+              <catDesc>Kabbalah</catDesc>
+            </category>
+            <category xml:id="keyword_6.21">
+              <catDesc>Legal</catDesc>
+            </category>
+            <category xml:id="keyword_6.22">
+              <catDesc>Literature -- Poetry</catDesc>
+            </category>
+            <category xml:id="keyword_6.23">
+              <catDesc>Literature -- Prose</catDesc>
+            </category>
+            <category xml:id="keyword_6.24">
+              <catDesc>Liturgy</catDesc>
+            </category>
+            <category xml:id="keyword_6.25">
+              <catDesc>Logic</catDesc>
+            </category>
+            <category xml:id="keyword_6.26">
+              <catDesc>Magic</catDesc>
+            </category>
+            <category xml:id="keyword_6.27">
+              <catDesc>Maritime</catDesc>
+            </category>
+            <category xml:id="keyword_6.28">
+              <catDesc>Mathematics</catDesc>
+            </category>
+            <category xml:id="keyword_6.29">
+              <catDesc>Mineralogy</catDesc>
+            </category>
+            <category xml:id="keyword_6.30">
+              <catDesc>Philosophy</catDesc>
+            </category>
+            <category xml:id="keyword_6.31">
+              <catDesc>Piyutim</catDesc>
+            </category>
+            <category xml:id="keyword_6.32">
+              <catDesc>Responsa</catDesc>
+            </category>
+            <category xml:id="keyword_6.33">
+              <catDesc>Science</catDesc>
+            </category>
+            <category xml:id="keyword_6.34">
+              <catDesc>Science -- Medicine</catDesc>
+            </category>
+            <category xml:id="keyword_6.35">
+              <catDesc>Scripture</catDesc>
+            </category>
+            <category xml:id="keyword_6.36">
+              <catDesc>Sufism</catDesc>
+            </category>
+            <category xml:id="keyword_6.37">
+              <catDesc>Theology</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_7">
+            <catDesc/>
+            <category xml:id="keyword_7.1">
+              <catDesc> </catDesc>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>15th century</term>
+          <term>16th century</term>
+          <term>Commentary</term>
+          <term>Jewish</term>
+          <term>Italian</term>
+          <term>Colophon</term>
+          <term>Italy</term>
+          <term>Biblical</term>
+          <term>Kabbalah</term>
+        </keywords>
+        <keywords n="subjects">
+          <term target="http://id.loc.gov/authorities/sh85018546">Cabala</term>
+          <term target="http://id.loc.gov/authorities/sh85089355">Mysticism--Judaism</term>
+          <term target="http://lccn.loc.gov/sh85013597">Bible--Commentaries</term>
+          <term target="http://lccn.loc.gov/n50008543">Naḥmanides, approximately 1195-approximately 1270</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface-gaster-hebrew-ms-713-1">
+      <graphic height="6500px" url="master/6758_0000.tif" width="5062px"/>
+      <graphic height="190px" url="thumb/6758_0000_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/6758_0000_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface-gaster-hebrew-ms-713-2">
+      <graphic height="6500px" url="master/6758_0001.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0001_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 1a" xml:id="surface-gaster-hebrew-ms-713-3">
+      <graphic height="6500px" url="master/6758_0002.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0002_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0002_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 1b" xml:id="surface-gaster-hebrew-ms-713-4">
+      <graphic height="6500px" url="master/6758_0003.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0003_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0003_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 2a" xml:id="surface-gaster-hebrew-ms-713-5">
+      <graphic height="6500px" url="master/6758_0004.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0004_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0004_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 2b" xml:id="surface-gaster-hebrew-ms-713-6">
+      <graphic height="6500px" url="master/6758_0005.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0005_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0005_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="1a" xml:id="surface-gaster-hebrew-ms-713-7">
+      <graphic height="6500px" url="master/6758_0006.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0006_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0006_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="1b" xml:id="surface-gaster-hebrew-ms-713-8">
+      <graphic height="6500px" url="master/6758_0007.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0007_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0007_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="2a" xml:id="surface-gaster-hebrew-ms-713-9">
+      <graphic height="6500px" url="master/6758_0008.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0008_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0008_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="2b" xml:id="surface-gaster-hebrew-ms-713-10">
+      <graphic height="6500px" url="master/6758_0009.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0009_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0009_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="3a" xml:id="surface-gaster-hebrew-ms-713-11">
+      <graphic height="6500px" url="master/6758_0010.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0010_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0010_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="3b" xml:id="surface-gaster-hebrew-ms-713-12">
+      <graphic height="6500px" url="master/6758_0011.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0011_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0011_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="4a" xml:id="surface-gaster-hebrew-ms-713-13">
+      <graphic height="6500px" url="master/6758_0012.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0012_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0012_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="4b" xml:id="surface-gaster-hebrew-ms-713-14">
+      <graphic height="6500px" url="master/6758_0013.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0013_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0013_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="5a" xml:id="surface-gaster-hebrew-ms-713-15">
+      <graphic height="6500px" url="master/6758_0014.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0014_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0014_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="5b" xml:id="surface-gaster-hebrew-ms-713-16">
+      <graphic height="6500px" url="master/6758_0015.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0015_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0015_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="6a" xml:id="surface-gaster-hebrew-ms-713-17">
+      <graphic height="6500px" url="master/6758_0016.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0016_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0016_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="6b" xml:id="surface-gaster-hebrew-ms-713-18">
+      <graphic height="6500px" url="master/6758_0017.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0017_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0017_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="7a" xml:id="surface-gaster-hebrew-ms-713-19">
+      <graphic height="6500px" url="master/6758_0018.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0018_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0018_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="7b" xml:id="surface-gaster-hebrew-ms-713-20">
+      <graphic height="6500px" url="master/6758_0019.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0019_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0019_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="8a" xml:id="surface-gaster-hebrew-ms-713-21">
+      <graphic height="6500px" url="master/6758_0020.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0020_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0020_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="8b" xml:id="surface-gaster-hebrew-ms-713-22">
+      <graphic height="6500px" url="master/6758_0021.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0021_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0021_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="9a" xml:id="surface-gaster-hebrew-ms-713-23">
+      <graphic height="6500px" url="master/6758_0022.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0022_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0022_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="9b" xml:id="surface-gaster-hebrew-ms-713-24">
+      <graphic height="6500px" url="master/6758_0023.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0023_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0023_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="10a" xml:id="surface-gaster-hebrew-ms-713-25">
+      <graphic height="6500px" url="master/6758_0024.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0024_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0024_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="10b" xml:id="surface-gaster-hebrew-ms-713-26">
+      <graphic height="6500px" url="master/6758_0025.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0025_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0025_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="11a" xml:id="surface-gaster-hebrew-ms-713-27">
+      <graphic height="6500px" url="master/6758_0026.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0026_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0026_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="11b" xml:id="surface-gaster-hebrew-ms-713-28">
+      <graphic height="6500px" url="master/6758_0027.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0027_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0027_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="12a" xml:id="surface-gaster-hebrew-ms-713-29">
+      <graphic height="6500px" url="master/6758_0028.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0028_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0028_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="12b" xml:id="surface-gaster-hebrew-ms-713-30">
+      <graphic height="6500px" url="master/6758_0029.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0029_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0029_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="13a" xml:id="surface-gaster-hebrew-ms-713-31">
+      <graphic height="6500px" url="master/6758_0030.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0030_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0030_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="13b" xml:id="surface-gaster-hebrew-ms-713-32">
+      <graphic height="6500px" url="master/6758_0031.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0031_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0031_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="14a" xml:id="surface-gaster-hebrew-ms-713-33">
+      <graphic height="6500px" url="master/6758_0032.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0032_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0032_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="14b" xml:id="surface-gaster-hebrew-ms-713-34">
+      <graphic height="6500px" url="master/6758_0033.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0033_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0033_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="15a" xml:id="surface-gaster-hebrew-ms-713-35">
+      <graphic height="6500px" url="master/6758_0034.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0034_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0034_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="15b" xml:id="surface-gaster-hebrew-ms-713-36">
+      <graphic height="6500px" url="master/6758_0035.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0035_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0035_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="16a" xml:id="surface-gaster-hebrew-ms-713-37">
+      <graphic height="6500px" url="master/6758_0036.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0036_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0036_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="16b" xml:id="surface-gaster-hebrew-ms-713-38">
+      <graphic height="6500px" url="master/6758_0037.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0037_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0037_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="17a" xml:id="surface-gaster-hebrew-ms-713-39">
+      <graphic height="6500px" url="master/6758_0038.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0038_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0038_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="17b" xml:id="surface-gaster-hebrew-ms-713-40">
+      <graphic height="6500px" url="master/6758_0039.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0039_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0039_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="18a" xml:id="surface-gaster-hebrew-ms-713-41">
+      <graphic height="6500px" url="master/6758_0040.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0040_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0040_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="18b" xml:id="surface-gaster-hebrew-ms-713-42">
+      <graphic height="6500px" url="master/6758_0041.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0041_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0041_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="19a" xml:id="surface-gaster-hebrew-ms-713-43">
+      <graphic height="6500px" url="master/6758_0042.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0042_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0042_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="19b" xml:id="surface-gaster-hebrew-ms-713-44">
+      <graphic height="6500px" url="master/6758_0043.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0043_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0043_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="20a" xml:id="surface-gaster-hebrew-ms-713-45">
+      <graphic height="6500px" url="master/6758_0044.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0044_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0044_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="20b" xml:id="surface-gaster-hebrew-ms-713-46">
+      <graphic height="6500px" url="master/6758_0045.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0045_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0045_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="21a" xml:id="surface-gaster-hebrew-ms-713-47">
+      <graphic height="6500px" url="master/6758_0046.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0046_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0046_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="21b" xml:id="surface-gaster-hebrew-ms-713-48">
+      <graphic height="6500px" url="master/6758_0047.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0047_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0047_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="22a" xml:id="surface-gaster-hebrew-ms-713-49">
+      <graphic height="6500px" url="master/6758_0048.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0048_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0048_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="22b" xml:id="surface-gaster-hebrew-ms-713-50">
+      <graphic height="6500px" url="master/6758_0049.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0049_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0049_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="23a" xml:id="surface-gaster-hebrew-ms-713-51">
+      <graphic height="6500px" url="master/6758_0050.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0050_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0050_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="23b" xml:id="surface-gaster-hebrew-ms-713-52">
+      <graphic height="6500px" url="master/6758_0051.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0051_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0051_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="24a" xml:id="surface-gaster-hebrew-ms-713-53">
+      <graphic height="6500px" url="master/6758_0052.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0052_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0052_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="24b" xml:id="surface-gaster-hebrew-ms-713-54">
+      <graphic height="6500px" url="master/6758_0053.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0053_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0053_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="25a" xml:id="surface-gaster-hebrew-ms-713-55">
+      <graphic height="6500px" url="master/6758_0054.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0054_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0054_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="25b" xml:id="surface-gaster-hebrew-ms-713-56">
+      <graphic height="6500px" url="master/6758_0055.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0055_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0055_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="26a" xml:id="surface-gaster-hebrew-ms-713-57">
+      <graphic height="6500px" url="master/6758_0056.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0056_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0056_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="26b" xml:id="surface-gaster-hebrew-ms-713-58">
+      <graphic height="6500px" url="master/6758_0057.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0057_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0057_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="27a" xml:id="surface-gaster-hebrew-ms-713-59">
+      <graphic height="6500px" url="master/6758_0058.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0058_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0058_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="27b" xml:id="surface-gaster-hebrew-ms-713-60">
+      <graphic height="6500px" url="master/6758_0059.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0059_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0059_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="28a" xml:id="surface-gaster-hebrew-ms-713-61">
+      <graphic height="6500px" url="master/6758_0060.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0060_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0060_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="28b" xml:id="surface-gaster-hebrew-ms-713-62">
+      <graphic height="6500px" url="master/6758_0061.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0061_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0061_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="29a" xml:id="surface-gaster-hebrew-ms-713-63">
+      <graphic height="6500px" url="master/6758_0062.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0062_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0062_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="29b" xml:id="surface-gaster-hebrew-ms-713-64">
+      <graphic height="6500px" url="master/6758_0063.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0063_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0063_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="30a" xml:id="surface-gaster-hebrew-ms-713-65">
+      <graphic height="6500px" url="master/6758_0064.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0064_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0064_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="30b" xml:id="surface-gaster-hebrew-ms-713-66">
+      <graphic height="6500px" url="master/6758_0065.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0065_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0065_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="31a" xml:id="surface-gaster-hebrew-ms-713-67">
+      <graphic height="6500px" url="master/6758_0066.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0066_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0066_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="31b" xml:id="surface-gaster-hebrew-ms-713-68">
+      <graphic height="6500px" url="master/6758_0067.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0067_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0067_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="32a" xml:id="surface-gaster-hebrew-ms-713-69">
+      <graphic height="6500px" url="master/6758_0068.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0068_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0068_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="32b" xml:id="surface-gaster-hebrew-ms-713-70">
+      <graphic height="6500px" url="master/6758_0069.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0069_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0069_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="33a" xml:id="surface-gaster-hebrew-ms-713-71">
+      <graphic height="6500px" url="master/6758_0070.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0070_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0070_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="33b" xml:id="surface-gaster-hebrew-ms-713-72">
+      <graphic height="6500px" url="master/6758_0071.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0071_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0071_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="34a" xml:id="surface-gaster-hebrew-ms-713-73">
+      <graphic height="6500px" url="master/6758_0072.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0072_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0072_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="34b" xml:id="surface-gaster-hebrew-ms-713-74">
+      <graphic height="6500px" url="master/6758_0073.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0073_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0073_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="35a" xml:id="surface-gaster-hebrew-ms-713-75">
+      <graphic height="6500px" url="master/6758_0074.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0074_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0074_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="35b" xml:id="surface-gaster-hebrew-ms-713-76">
+      <graphic height="6500px" url="master/6758_0075.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0075_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0075_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="36a" xml:id="surface-gaster-hebrew-ms-713-77">
+      <graphic height="6500px" url="master/6758_0076.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0076_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0076_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="36b" xml:id="surface-gaster-hebrew-ms-713-78">
+      <graphic height="6500px" url="master/6758_0077.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0077_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0077_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="37a" xml:id="surface-gaster-hebrew-ms-713-79">
+      <graphic height="6500px" url="master/6758_0078.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0078_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0078_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="37b" xml:id="surface-gaster-hebrew-ms-713-80">
+      <graphic height="6500px" url="master/6758_0079.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0079_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0079_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="38a" xml:id="surface-gaster-hebrew-ms-713-81">
+      <graphic height="6500px" url="master/6758_0080.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0080_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0080_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="38b" xml:id="surface-gaster-hebrew-ms-713-82">
+      <graphic height="6500px" url="master/6758_0081.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0081_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0081_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="39a" xml:id="surface-gaster-hebrew-ms-713-83">
+      <graphic height="6500px" url="master/6758_0082.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0082_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0082_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="39b" xml:id="surface-gaster-hebrew-ms-713-84">
+      <graphic height="6500px" url="master/6758_0083.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0083_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0083_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="40a" xml:id="surface-gaster-hebrew-ms-713-85">
+      <graphic height="6500px" url="master/6758_0084.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0084_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0084_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="40b" xml:id="surface-gaster-hebrew-ms-713-86">
+      <graphic height="6500px" url="master/6758_0085.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0085_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0085_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="41a" xml:id="surface-gaster-hebrew-ms-713-87">
+      <graphic height="6500px" url="master/6758_0086.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0086_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0086_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="41b" xml:id="surface-gaster-hebrew-ms-713-88">
+      <graphic height="6500px" url="master/6758_0087.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0087_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0087_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="42a" xml:id="surface-gaster-hebrew-ms-713-89">
+      <graphic height="6500px" url="master/6758_0088.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0088_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0088_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="42b" xml:id="surface-gaster-hebrew-ms-713-90">
+      <graphic height="6500px" url="master/6758_0089.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0089_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0089_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="43a" xml:id="surface-gaster-hebrew-ms-713-91">
+      <graphic height="6500px" url="master/6758_0090.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0090_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0090_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="43b" xml:id="surface-gaster-hebrew-ms-713-92">
+      <graphic height="6500px" url="master/6758_0091.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0091_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0091_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="44a" xml:id="surface-gaster-hebrew-ms-713-93">
+      <graphic height="6500px" url="master/6758_0092.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0092_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0092_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="44b" xml:id="surface-gaster-hebrew-ms-713-94">
+      <graphic height="6500px" url="master/6758_0093.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0093_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0093_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="45a" xml:id="surface-gaster-hebrew-ms-713-95">
+      <graphic height="6500px" url="master/6758_0094.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0094_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0094_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="45b" xml:id="surface-gaster-hebrew-ms-713-96">
+      <graphic height="6500px" url="master/6758_0095.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0095_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0095_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="46a" xml:id="surface-gaster-hebrew-ms-713-97">
+      <graphic height="6500px" url="master/6758_0096.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0096_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0096_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="46b" xml:id="surface-gaster-hebrew-ms-713-98">
+      <graphic height="6500px" url="master/6758_0097.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0097_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0097_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="47a" xml:id="surface-gaster-hebrew-ms-713-99">
+      <graphic height="6500px" url="master/6758_0098.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0098_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0098_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="47b" xml:id="surface-gaster-hebrew-ms-713-100">
+      <graphic height="6500px" url="master/6758_0099.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0099_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0099_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="48a" xml:id="surface-gaster-hebrew-ms-713-101">
+      <graphic height="6500px" url="master/6758_0100.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0100_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0100_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="48b" xml:id="surface-gaster-hebrew-ms-713-102">
+      <graphic height="6500px" url="master/6758_0101.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0101_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0101_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="49a" xml:id="surface-gaster-hebrew-ms-713-103">
+      <graphic height="6500px" url="master/6758_0102.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0102_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0102_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="49b" xml:id="surface-gaster-hebrew-ms-713-104">
+      <graphic height="6500px" url="master/6758_0103.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0103_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0103_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="50a" xml:id="surface-gaster-hebrew-ms-713-105">
+      <graphic height="6500px" url="master/6758_0104.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0104_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0104_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="50b" xml:id="surface-gaster-hebrew-ms-713-106">
+      <graphic height="6500px" url="master/6758_0105.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0105_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0105_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="51a" xml:id="surface-gaster-hebrew-ms-713-107">
+      <graphic height="6500px" url="master/6758_0106.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0106_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0106_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="51b" xml:id="surface-gaster-hebrew-ms-713-108">
+      <graphic height="6500px" url="master/6758_0107.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0107_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0107_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="52a" xml:id="surface-gaster-hebrew-ms-713-109">
+      <graphic height="6500px" url="master/6758_0108.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0108_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0108_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="52b" xml:id="surface-gaster-hebrew-ms-713-110">
+      <graphic height="6500px" url="master/6758_0109.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0109_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0109_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="53a" xml:id="surface-gaster-hebrew-ms-713-111">
+      <graphic height="6500px" url="master/6758_0110.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0110_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0110_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="53b" xml:id="surface-gaster-hebrew-ms-713-112">
+      <graphic height="6500px" url="master/6758_0111.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0111_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0111_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="54a" xml:id="surface-gaster-hebrew-ms-713-113">
+      <graphic height="6500px" url="master/6758_0112.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0112_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0112_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="54b" xml:id="surface-gaster-hebrew-ms-713-114">
+      <graphic height="6500px" url="master/6758_0113.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0113_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0113_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="55a" xml:id="surface-gaster-hebrew-ms-713-115">
+      <graphic height="6500px" url="master/6758_0114.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0114_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0114_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="55b" xml:id="surface-gaster-hebrew-ms-713-116">
+      <graphic height="6500px" url="master/6758_0115.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0115_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0115_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="56a" xml:id="surface-gaster-hebrew-ms-713-117">
+      <graphic height="6500px" url="master/6758_0116.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0116_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0116_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="56b" xml:id="surface-gaster-hebrew-ms-713-118">
+      <graphic height="6500px" url="master/6758_0117.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0117_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0117_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="57a" xml:id="surface-gaster-hebrew-ms-713-119">
+      <graphic height="6500px" url="master/6758_0118.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0118_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0118_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="57b" xml:id="surface-gaster-hebrew-ms-713-120">
+      <graphic height="6500px" url="master/6758_0119.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0119_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0119_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="58a" xml:id="surface-gaster-hebrew-ms-713-121">
+      <graphic height="6500px" url="master/6758_0120.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0120_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0120_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="58b" xml:id="surface-gaster-hebrew-ms-713-122">
+      <graphic height="6500px" url="master/6758_0121.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0121_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0121_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="59a" xml:id="surface-gaster-hebrew-ms-713-123">
+      <graphic height="6500px" url="master/6758_0122.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0122_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0122_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="59b" xml:id="surface-gaster-hebrew-ms-713-124">
+      <graphic height="6500px" url="master/6758_0123.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0123_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0123_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="60a" xml:id="surface-gaster-hebrew-ms-713-125">
+      <graphic height="6500px" url="master/6758_0124.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0124_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0124_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="60b" xml:id="surface-gaster-hebrew-ms-713-126">
+      <graphic height="6500px" url="master/6758_0125.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0125_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0125_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="61a" xml:id="surface-gaster-hebrew-ms-713-127">
+      <graphic height="6500px" url="master/6758_0126.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0126_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0126_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="61b" xml:id="surface-gaster-hebrew-ms-713-128">
+      <graphic height="6500px" url="master/6758_0127.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0127_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0127_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="62a" xml:id="surface-gaster-hebrew-ms-713-129">
+      <graphic height="6500px" url="master/6758_0128.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0128_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0128_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="62b" xml:id="surface-gaster-hebrew-ms-713-130">
+      <graphic height="6500px" url="master/6758_0129.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0129_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0129_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="63a" xml:id="surface-gaster-hebrew-ms-713-131">
+      <graphic height="6500px" url="master/6758_0130.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0130_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0130_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="63b" xml:id="surface-gaster-hebrew-ms-713-132">
+      <graphic height="6500px" url="master/6758_0131.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0131_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0131_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="64a" xml:id="surface-gaster-hebrew-ms-713-133">
+      <graphic height="6500px" url="master/6758_0132.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0132_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0132_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="64b" xml:id="surface-gaster-hebrew-ms-713-134">
+      <graphic height="6500px" url="master/6758_0133.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0133_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0133_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="65a" xml:id="surface-gaster-hebrew-ms-713-135">
+      <graphic height="6500px" url="master/6758_0134.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0134_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0134_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="65b" xml:id="surface-gaster-hebrew-ms-713-136">
+      <graphic height="6500px" url="master/6758_0135.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0135_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0135_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="66a" xml:id="surface-gaster-hebrew-ms-713-137">
+      <graphic height="6500px" url="master/6758_0136.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0136_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0136_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="66b" xml:id="surface-gaster-hebrew-ms-713-138">
+      <graphic height="6500px" url="master/6758_0137.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0137_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0137_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="67a" xml:id="surface-gaster-hebrew-ms-713-139">
+      <graphic height="6500px" url="master/6758_0138.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0138_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0138_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="67b" xml:id="surface-gaster-hebrew-ms-713-140">
+      <graphic height="6500px" url="master/6758_0139.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0139_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0139_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="68a" xml:id="surface-gaster-hebrew-ms-713-141">
+      <graphic height="6500px" url="master/6758_0140.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0140_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0140_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="68b" xml:id="surface-gaster-hebrew-ms-713-142">
+      <graphic height="6500px" url="master/6758_0141.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0141_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0141_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="69a" xml:id="surface-gaster-hebrew-ms-713-143">
+      <graphic height="6500px" url="master/6758_0142.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0142_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0142_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="69b" xml:id="surface-gaster-hebrew-ms-713-144">
+      <graphic height="6500px" url="master/6758_0143.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0143_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0143_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="70a" xml:id="surface-gaster-hebrew-ms-713-145">
+      <graphic height="6500px" url="master/6758_0144.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0144_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0144_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="70b" xml:id="surface-gaster-hebrew-ms-713-146">
+      <graphic height="6500px" url="master/6758_0145.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0145_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0145_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="71a" xml:id="surface-gaster-hebrew-ms-713-147">
+      <graphic height="6500px" url="master/6758_0146.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0146_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0146_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="71b" xml:id="surface-gaster-hebrew-ms-713-148">
+      <graphic height="6500px" url="master/6758_0147.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0147_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0147_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="72a" xml:id="surface-gaster-hebrew-ms-713-149">
+      <graphic height="6500px" url="master/6758_0148.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0148_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0148_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="72b" xml:id="surface-gaster-hebrew-ms-713-150">
+      <graphic height="6500px" url="master/6758_0149.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0149_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0149_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="73a" xml:id="surface-gaster-hebrew-ms-713-151">
+      <graphic height="6500px" url="master/6758_0150.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0150_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0150_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="73b" xml:id="surface-gaster-hebrew-ms-713-152">
+      <graphic height="6500px" url="master/6758_0151.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0151_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0151_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="74a" xml:id="surface-gaster-hebrew-ms-713-153">
+      <graphic height="6500px" url="master/6758_0152.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0152_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0152_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="74b" xml:id="surface-gaster-hebrew-ms-713-154">
+      <graphic height="6500px" url="master/6758_0153.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0153_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0153_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="75a" xml:id="surface-gaster-hebrew-ms-713-155">
+      <graphic height="6500px" url="master/6758_0154.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0154_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0154_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="75b" xml:id="surface-gaster-hebrew-ms-713-156">
+      <graphic height="6500px" url="master/6758_0155.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0155_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0155_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="76a" xml:id="surface-gaster-hebrew-ms-713-157">
+      <graphic height="6500px" url="master/6758_0156.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0156_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0156_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="76b" xml:id="surface-gaster-hebrew-ms-713-158">
+      <graphic height="6500px" url="master/6758_0157.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0157_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0157_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="77a" xml:id="surface-gaster-hebrew-ms-713-159">
+      <graphic height="6500px" url="master/6758_0158.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0158_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0158_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="77b" xml:id="surface-gaster-hebrew-ms-713-160">
+      <graphic height="6500px" url="master/6758_0159.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0159_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0159_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="78a" xml:id="surface-gaster-hebrew-ms-713-161">
+      <graphic height="6500px" url="master/6758_0160.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0160_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0160_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="78b" xml:id="surface-gaster-hebrew-ms-713-162">
+      <graphic height="6500px" url="master/6758_0161.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0161_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0161_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="79a" xml:id="surface-gaster-hebrew-ms-713-163">
+      <graphic height="6500px" url="master/6758_0162.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0162_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0162_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="79b" xml:id="surface-gaster-hebrew-ms-713-164">
+      <graphic height="6500px" url="master/6758_0163.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0163_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0163_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="80a" xml:id="surface-gaster-hebrew-ms-713-165">
+      <graphic height="6500px" url="master/6758_0164.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0164_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0164_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="80b" xml:id="surface-gaster-hebrew-ms-713-166">
+      <graphic height="6500px" url="master/6758_0165.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0165_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0165_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="81a" xml:id="surface-gaster-hebrew-ms-713-167">
+      <graphic height="6500px" url="master/6758_0166.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0166_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0166_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="81b" xml:id="surface-gaster-hebrew-ms-713-168">
+      <graphic height="6500px" url="master/6758_0167.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0167_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0167_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="82a" xml:id="surface-gaster-hebrew-ms-713-169">
+      <graphic height="6500px" url="master/6758_0168.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0168_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0168_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="82b" xml:id="surface-gaster-hebrew-ms-713-170">
+      <graphic height="6500px" url="master/6758_0169.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0169_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0169_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="83a" xml:id="surface-gaster-hebrew-ms-713-171">
+      <graphic height="6500px" url="master/6758_0170.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0170_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0170_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="83b" xml:id="surface-gaster-hebrew-ms-713-172">
+      <graphic height="6500px" url="master/6758_0171.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0171_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0171_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="84a" xml:id="surface-gaster-hebrew-ms-713-173">
+      <graphic height="6500px" url="master/6758_0172.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0172_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0172_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="84b" xml:id="surface-gaster-hebrew-ms-713-174">
+      <graphic height="6500px" url="master/6758_0173.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0173_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0173_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="85a" xml:id="surface-gaster-hebrew-ms-713-175">
+      <graphic height="6500px" url="master/6758_0174.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0174_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0174_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="85b" xml:id="surface-gaster-hebrew-ms-713-176">
+      <graphic height="6500px" url="master/6758_0175.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0175_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0175_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="86a" xml:id="surface-gaster-hebrew-ms-713-177">
+      <graphic height="6500px" url="master/6758_0176.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0176_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0176_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="86b" xml:id="surface-gaster-hebrew-ms-713-178">
+      <graphic height="6500px" url="master/6758_0177.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0177_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0177_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="87a" xml:id="surface-gaster-hebrew-ms-713-179">
+      <graphic height="6500px" url="master/6758_0178.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0178_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0178_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="87b" xml:id="surface-gaster-hebrew-ms-713-180">
+      <graphic height="6500px" url="master/6758_0179.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0179_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0179_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="88a" xml:id="surface-gaster-hebrew-ms-713-181">
+      <graphic height="6500px" url="master/6758_0180.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0180_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0180_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="88b" xml:id="surface-gaster-hebrew-ms-713-182">
+      <graphic height="6500px" url="master/6758_0181.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0181_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0181_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="89a" xml:id="surface-gaster-hebrew-ms-713-183">
+      <graphic height="6500px" url="master/6758_0182.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0182_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0182_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="89b" xml:id="surface-gaster-hebrew-ms-713-184">
+      <graphic height="6500px" url="master/6758_0183.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0183_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0183_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="90a" xml:id="surface-gaster-hebrew-ms-713-185">
+      <graphic height="6500px" url="master/6758_0184.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0184_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0184_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="90b" xml:id="surface-gaster-hebrew-ms-713-186">
+      <graphic height="6500px" url="master/6758_0185.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0185_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0185_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="91a" xml:id="surface-gaster-hebrew-ms-713-187">
+      <graphic height="6500px" url="master/6758_0186.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0186_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0186_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="91b" xml:id="surface-gaster-hebrew-ms-713-188">
+      <graphic height="6500px" url="master/6758_0187.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0187_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0187_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="92a" xml:id="surface-gaster-hebrew-ms-713-189">
+      <graphic height="6500px" url="master/6758_0188.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0188_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0188_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="92b" xml:id="surface-gaster-hebrew-ms-713-190">
+      <graphic height="6500px" url="master/6758_0189.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0189_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0189_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="93a" xml:id="surface-gaster-hebrew-ms-713-191">
+      <graphic height="6500px" url="master/6758_0190.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0190_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0190_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="93b" xml:id="surface-gaster-hebrew-ms-713-192">
+      <graphic height="6500px" url="master/6758_0191.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0191_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0191_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="94a" xml:id="surface-gaster-hebrew-ms-713-193">
+      <graphic height="6500px" url="master/6758_0192.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0192_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0192_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="94b" xml:id="surface-gaster-hebrew-ms-713-194">
+      <graphic height="6500px" url="master/6758_0193.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0193_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0193_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="95a" xml:id="surface-gaster-hebrew-ms-713-195">
+      <graphic height="6500px" url="master/6758_0194.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0194_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0194_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="95b" xml:id="surface-gaster-hebrew-ms-713-196">
+      <graphic height="6500px" url="master/6758_0195.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0195_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0195_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="96a" xml:id="surface-gaster-hebrew-ms-713-197">
+      <graphic height="6500px" url="master/6758_0196.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0196_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0196_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="96b" xml:id="surface-gaster-hebrew-ms-713-198">
+      <graphic height="6500px" url="master/6758_0197.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0197_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0197_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="97a" xml:id="surface-gaster-hebrew-ms-713-199">
+      <graphic height="6500px" url="master/6758_0198.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0198_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0198_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="97b" xml:id="surface-gaster-hebrew-ms-713-200">
+      <graphic height="6500px" url="master/6758_0199.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0199_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0199_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="98a" xml:id="surface-gaster-hebrew-ms-713-201">
+      <graphic height="6500px" url="master/6758_0200.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0200_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0200_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="98b" xml:id="surface-gaster-hebrew-ms-713-202">
+      <graphic height="6500px" url="master/6758_0201.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0201_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0201_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="99a" xml:id="surface-gaster-hebrew-ms-713-203">
+      <graphic height="6500px" url="master/6758_0202.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0202_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0202_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="99b" xml:id="surface-gaster-hebrew-ms-713-204">
+      <graphic height="6500px" url="master/6758_0203.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0203_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0203_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="100a" xml:id="surface-gaster-hebrew-ms-713-205">
+      <graphic height="6500px" url="master/6758_0204.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0204_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0204_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="100b" xml:id="surface-gaster-hebrew-ms-713-206">
+      <graphic height="6500px" url="master/6758_0205.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0205_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0205_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="101a" xml:id="surface-gaster-hebrew-ms-713-207">
+      <graphic height="6500px" url="master/6758_0206.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0206_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0206_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="101b" xml:id="surface-gaster-hebrew-ms-713-208">
+      <graphic height="6500px" url="master/6758_0207.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0207_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0207_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="102a" xml:id="surface-gaster-hebrew-ms-713-209">
+      <graphic height="6500px" url="master/6758_0208.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0208_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0208_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="102b" xml:id="surface-gaster-hebrew-ms-713-210">
+      <graphic height="6500px" url="master/6758_0209.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0209_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0209_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="103a" xml:id="surface-gaster-hebrew-ms-713-211">
+      <graphic height="6500px" url="master/6758_0210.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0210_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0210_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="103b" xml:id="surface-gaster-hebrew-ms-713-212">
+      <graphic height="6500px" url="master/6758_0211.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0211_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0211_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="104a" xml:id="surface-gaster-hebrew-ms-713-213">
+      <graphic height="6500px" url="master/6758_0212.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0212_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0212_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="104b" xml:id="surface-gaster-hebrew-ms-713-214">
+      <graphic height="6500px" url="master/6758_0213.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0213_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0213_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="105a" xml:id="surface-gaster-hebrew-ms-713-215">
+      <graphic height="6500px" url="master/6758_0214.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0214_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0214_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="105b" xml:id="surface-gaster-hebrew-ms-713-216">
+      <graphic height="6500px" url="master/6758_0215.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0215_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0215_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="106a" xml:id="surface-gaster-hebrew-ms-713-217">
+      <graphic height="6500px" url="master/6758_0216.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0216_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0216_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="106b" xml:id="surface-gaster-hebrew-ms-713-218">
+      <graphic height="6500px" url="master/6758_0217.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0217_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0217_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="107a" xml:id="surface-gaster-hebrew-ms-713-219">
+      <graphic height="6500px" url="master/6758_0218.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0218_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0218_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="107b" xml:id="surface-gaster-hebrew-ms-713-220">
+      <graphic height="6500px" url="master/6758_0219.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0219_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0219_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="108a" xml:id="surface-gaster-hebrew-ms-713-221">
+      <graphic height="6500px" url="master/6758_0220.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0220_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0220_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="108b" xml:id="surface-gaster-hebrew-ms-713-222">
+      <graphic height="6500px" url="master/6758_0221.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0221_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0221_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="109a" xml:id="surface-gaster-hebrew-ms-713-223">
+      <graphic height="6500px" url="master/6758_0222.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0222_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0222_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="109b" xml:id="surface-gaster-hebrew-ms-713-224">
+      <graphic height="6500px" url="master/6758_0223.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0223_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0223_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="110a" xml:id="surface-gaster-hebrew-ms-713-225">
+      <graphic height="6500px" url="master/6758_0224.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0224_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0224_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="110b" xml:id="surface-gaster-hebrew-ms-713-226">
+      <graphic height="6500px" url="master/6758_0225.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0225_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0225_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="111a" xml:id="surface-gaster-hebrew-ms-713-227">
+      <graphic height="6500px" url="master/6758_0226.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0226_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0226_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="111b" xml:id="surface-gaster-hebrew-ms-713-228">
+      <graphic height="6500px" url="master/6758_0227.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0227_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0227_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="112a" xml:id="surface-gaster-hebrew-ms-713-229">
+      <graphic height="6500px" url="master/6758_0228.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0228_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0228_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="112b" xml:id="surface-gaster-hebrew-ms-713-230">
+      <graphic height="6500px" url="master/6758_0229.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0229_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0229_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="113a" xml:id="surface-gaster-hebrew-ms-713-231">
+      <graphic height="6500px" url="master/6758_0230.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0230_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0230_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="113b" xml:id="surface-gaster-hebrew-ms-713-232">
+      <graphic height="6500px" url="master/6758_0231.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0231_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0231_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="114a" xml:id="surface-gaster-hebrew-ms-713-233">
+      <graphic height="6500px" url="master/6758_0232.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0232_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0232_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="114b" xml:id="surface-gaster-hebrew-ms-713-234">
+      <graphic height="6500px" url="master/6758_0233.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0233_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0233_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="115a" xml:id="surface-gaster-hebrew-ms-713-235">
+      <graphic height="6500px" url="master/6758_0234.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0234_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0234_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="115b" xml:id="surface-gaster-hebrew-ms-713-236">
+      <graphic height="6500px" url="master/6758_0235.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0235_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0235_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="116a" xml:id="surface-gaster-hebrew-ms-713-237">
+      <graphic height="6500px" url="master/6758_0236.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0236_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0236_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="116b" xml:id="surface-gaster-hebrew-ms-713-238">
+      <graphic height="6500px" url="master/6758_0237.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0237_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0237_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="117a" xml:id="surface-gaster-hebrew-ms-713-239">
+      <graphic height="6500px" url="master/6758_0238.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0238_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0238_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="117b" xml:id="surface-gaster-hebrew-ms-713-240">
+      <graphic height="6500px" url="master/6758_0239.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0239_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0239_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="118a" xml:id="surface-gaster-hebrew-ms-713-241">
+      <graphic height="6500px" url="master/6758_0240.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0240_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0240_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="118b" xml:id="surface-gaster-hebrew-ms-713-242">
+      <graphic height="6500px" url="master/6758_0241.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0241_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0241_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="119a" xml:id="surface-gaster-hebrew-ms-713-243">
+      <graphic height="6500px" url="master/6758_0242.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0242_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0242_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="119b" xml:id="surface-gaster-hebrew-ms-713-244">
+      <graphic height="6500px" url="master/6758_0243.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0243_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0243_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="120a" xml:id="surface-gaster-hebrew-ms-713-245">
+      <graphic height="6500px" url="master/6758_0244.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0244_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0244_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="120b" xml:id="surface-gaster-hebrew-ms-713-246">
+      <graphic height="6500px" url="master/6758_0245.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0245_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0245_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="121a" xml:id="surface-gaster-hebrew-ms-713-247">
+      <graphic height="6500px" url="master/6758_0246.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0246_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0246_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="121b" xml:id="surface-gaster-hebrew-ms-713-248">
+      <graphic height="6500px" url="master/6758_0247.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0247_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0247_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="122a" xml:id="surface-gaster-hebrew-ms-713-249">
+      <graphic height="6500px" url="master/6758_0248.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0248_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0248_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="122b" xml:id="surface-gaster-hebrew-ms-713-250">
+      <graphic height="6500px" url="master/6758_0249.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0249_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0249_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="123a" xml:id="surface-gaster-hebrew-ms-713-251">
+      <graphic height="6500px" url="master/6758_0250.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0250_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0250_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="123b" xml:id="surface-gaster-hebrew-ms-713-252">
+      <graphic height="6500px" url="master/6758_0251.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0251_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0251_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="124a" xml:id="surface-gaster-hebrew-ms-713-253">
+      <graphic height="6500px" url="master/6758_0252.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0252_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0252_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="124b" xml:id="surface-gaster-hebrew-ms-713-254">
+      <graphic height="6500px" url="master/6758_0253.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0253_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0253_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="125a" xml:id="surface-gaster-hebrew-ms-713-255">
+      <graphic height="6500px" url="master/6758_0254.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0254_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0254_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="125b" xml:id="surface-gaster-hebrew-ms-713-256">
+      <graphic height="6500px" url="master/6758_0255.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0255_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0255_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="126a" xml:id="surface-gaster-hebrew-ms-713-257">
+      <graphic height="6500px" url="master/6758_0256.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0256_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0256_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="126b" xml:id="surface-gaster-hebrew-ms-713-258">
+      <graphic height="6500px" url="master/6758_0257.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0257_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0257_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="127a" xml:id="surface-gaster-hebrew-ms-713-259">
+      <graphic height="6500px" url="master/6758_0258.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0258_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0258_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="127b" xml:id="surface-gaster-hebrew-ms-713-260">
+      <graphic height="6500px" url="master/6758_0259.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0259_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0259_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="128a" xml:id="surface-gaster-hebrew-ms-713-261">
+      <graphic height="6500px" url="master/6758_0260.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0260_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0260_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="128b" xml:id="surface-gaster-hebrew-ms-713-262">
+      <graphic height="6500px" url="master/6758_0261.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0261_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0261_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="129a" xml:id="surface-gaster-hebrew-ms-713-263">
+      <graphic height="6500px" url="master/6758_0262.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0262_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0262_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="129b" xml:id="surface-gaster-hebrew-ms-713-264">
+      <graphic height="6500px" url="master/6758_0263.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0263_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0263_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="130a" xml:id="surface-gaster-hebrew-ms-713-265">
+      <graphic height="6500px" url="master/6758_0264.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0264_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0264_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="130b" xml:id="surface-gaster-hebrew-ms-713-266">
+      <graphic height="6500px" url="master/6758_0265.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0265_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0265_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="131a" xml:id="surface-gaster-hebrew-ms-713-267">
+      <graphic height="6500px" url="master/6758_0266.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0266_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0266_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="131b" xml:id="surface-gaster-hebrew-ms-713-268">
+      <graphic height="6500px" url="master/6758_0267.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0267_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0267_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="132a" xml:id="surface-gaster-hebrew-ms-713-269">
+      <graphic height="6500px" url="master/6758_0268.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0268_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0268_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="132b" xml:id="surface-gaster-hebrew-ms-713-270">
+      <graphic height="6500px" url="master/6758_0269.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0269_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0269_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="133a" xml:id="surface-gaster-hebrew-ms-713-271">
+      <graphic height="6500px" url="master/6758_0270.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0270_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0270_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="133b" xml:id="surface-gaster-hebrew-ms-713-272">
+      <graphic height="6500px" url="master/6758_0271.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0271_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0271_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="134a" xml:id="surface-gaster-hebrew-ms-713-273">
+      <graphic height="6500px" url="master/6758_0272.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0272_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0272_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="134b" xml:id="surface-gaster-hebrew-ms-713-274">
+      <graphic height="6500px" url="master/6758_0273.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0273_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0273_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="135a" xml:id="surface-gaster-hebrew-ms-713-275">
+      <graphic height="6500px" url="master/6758_0274.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0274_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0274_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="135b" xml:id="surface-gaster-hebrew-ms-713-276">
+      <graphic height="6500px" url="master/6758_0275.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0275_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0275_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="136a" xml:id="surface-gaster-hebrew-ms-713-277">
+      <graphic height="6500px" url="master/6758_0276.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0276_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0276_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="136b" xml:id="surface-gaster-hebrew-ms-713-278">
+      <graphic height="6500px" url="master/6758_0277.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0277_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0277_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="137a" xml:id="surface-gaster-hebrew-ms-713-279">
+      <graphic height="6500px" url="master/6758_0278.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0278_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0278_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="137b" xml:id="surface-gaster-hebrew-ms-713-280">
+      <graphic height="6500px" url="master/6758_0279.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0279_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0279_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="138a" xml:id="surface-gaster-hebrew-ms-713-281">
+      <graphic height="6500px" url="master/6758_0280.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0280_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0280_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="138b" xml:id="surface-gaster-hebrew-ms-713-282">
+      <graphic height="6500px" url="master/6758_0281.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0281_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0281_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="139a" xml:id="surface-gaster-hebrew-ms-713-283">
+      <graphic height="6500px" url="master/6758_0282.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0282_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0282_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="139b" xml:id="surface-gaster-hebrew-ms-713-284">
+      <graphic height="6500px" url="master/6758_0283.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0283_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0283_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="140a" xml:id="surface-gaster-hebrew-ms-713-285">
+      <graphic height="6500px" url="master/6758_0284.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0284_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0284_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="140b" xml:id="surface-gaster-hebrew-ms-713-286">
+      <graphic height="6500px" url="master/6758_0285.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0285_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0285_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="141a" xml:id="surface-gaster-hebrew-ms-713-287">
+      <graphic height="6500px" url="master/6758_0286.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0286_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0286_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="141b" xml:id="surface-gaster-hebrew-ms-713-288">
+      <graphic height="6500px" url="master/6758_0287.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0287_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0287_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="142a" xml:id="surface-gaster-hebrew-ms-713-289">
+      <graphic height="6500px" url="master/6758_0288.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0288_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0288_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="142b" xml:id="surface-gaster-hebrew-ms-713-290">
+      <graphic height="6500px" url="master/6758_0289.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0289_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0289_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="143a" xml:id="surface-gaster-hebrew-ms-713-291">
+      <graphic height="6500px" url="master/6758_0290.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0290_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0290_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="143b" xml:id="surface-gaster-hebrew-ms-713-292">
+      <graphic height="6500px" url="master/6758_0291.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0291_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0291_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="144a" xml:id="surface-gaster-hebrew-ms-713-293">
+      <graphic height="6500px" url="master/6758_0292.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0292_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0292_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="144b" xml:id="surface-gaster-hebrew-ms-713-294">
+      <graphic height="6500px" url="master/6758_0293.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0293_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0293_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="145a" xml:id="surface-gaster-hebrew-ms-713-295">
+      <graphic height="6500px" url="master/6758_0294.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0294_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0294_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="145b" xml:id="surface-gaster-hebrew-ms-713-296">
+      <graphic height="6500px" url="master/6758_0295.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0295_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0295_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="146a" xml:id="surface-gaster-hebrew-ms-713-297">
+      <graphic height="6500px" url="master/6758_0296.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0296_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0296_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="146b" xml:id="surface-gaster-hebrew-ms-713-298">
+      <graphic height="6500px" url="master/6758_0297.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0297_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0297_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="147a" xml:id="surface-gaster-hebrew-ms-713-299">
+      <graphic height="6500px" url="master/6758_0298.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0298_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0298_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="147b" xml:id="surface-gaster-hebrew-ms-713-300">
+      <graphic height="6500px" url="master/6758_0299.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0299_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0299_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="148a" xml:id="surface-gaster-hebrew-ms-713-301">
+      <graphic height="6500px" url="master/6758_0300.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0300_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0300_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="148b" xml:id="surface-gaster-hebrew-ms-713-302">
+      <graphic height="6500px" url="master/6758_0301.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0301_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0301_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="149a" xml:id="surface-gaster-hebrew-ms-713-303">
+      <graphic height="6500px" url="master/6758_0302.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0302_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0302_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="149b" xml:id="surface-gaster-hebrew-ms-713-304">
+      <graphic height="6500px" url="master/6758_0303.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0303_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0303_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="150a" xml:id="surface-gaster-hebrew-ms-713-305">
+      <graphic height="6500px" url="master/6758_0304.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0304_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0304_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="150b" xml:id="surface-gaster-hebrew-ms-713-306">
+      <graphic height="6500px" url="master/6758_0305.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0305_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0305_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="151a" xml:id="surface-gaster-hebrew-ms-713-307">
+      <graphic height="6500px" url="master/6758_0306.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0306_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0306_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="151b" xml:id="surface-gaster-hebrew-ms-713-308">
+      <graphic height="6500px" url="master/6758_0307.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0307_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0307_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="152a" xml:id="surface-gaster-hebrew-ms-713-309">
+      <graphic height="6500px" url="master/6758_0308.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0308_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0308_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="152b" xml:id="surface-gaster-hebrew-ms-713-310">
+      <graphic height="6500px" url="master/6758_0309.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0309_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0309_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="153a" xml:id="surface-gaster-hebrew-ms-713-311">
+      <graphic height="6500px" url="master/6758_0310.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0310_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0310_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="153b" xml:id="surface-gaster-hebrew-ms-713-312">
+      <graphic height="6500px" url="master/6758_0311.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0311_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0311_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="154a" xml:id="surface-gaster-hebrew-ms-713-313">
+      <graphic height="6500px" url="master/6758_0312.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0312_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0312_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="154b" xml:id="surface-gaster-hebrew-ms-713-314">
+      <graphic height="6500px" url="master/6758_0313.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0313_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0313_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="155a" xml:id="surface-gaster-hebrew-ms-713-315">
+      <graphic height="6500px" url="master/6758_0314.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0314_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0314_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="155b" xml:id="surface-gaster-hebrew-ms-713-316">
+      <graphic height="6500px" url="master/6758_0315.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0315_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0315_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="156a" xml:id="surface-gaster-hebrew-ms-713-317">
+      <graphic height="6500px" url="master/6758_0316.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0316_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0316_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="156b" xml:id="surface-gaster-hebrew-ms-713-318">
+      <graphic height="6500px" url="master/6758_0317.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0317_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0317_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="157a" xml:id="surface-gaster-hebrew-ms-713-319">
+      <graphic height="6500px" url="master/6758_0318.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0318_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0318_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="157b" xml:id="surface-gaster-hebrew-ms-713-320">
+      <graphic height="6500px" url="master/6758_0319.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0319_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0319_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="158a" xml:id="surface-gaster-hebrew-ms-713-321">
+      <graphic height="6500px" url="master/6758_0320.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0320_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0320_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="158b" xml:id="surface-gaster-hebrew-ms-713-322">
+      <graphic height="6500px" url="master/6758_0321.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0321_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0321_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="159a" xml:id="surface-gaster-hebrew-ms-713-323">
+      <graphic height="6500px" url="master/6758_0322.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0322_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0322_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="159b" xml:id="surface-gaster-hebrew-ms-713-324">
+      <graphic height="6500px" url="master/6758_0323.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0323_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0323_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="160a" xml:id="surface-gaster-hebrew-ms-713-325">
+      <graphic height="6500px" url="master/6758_0324.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0324_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0324_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="160b" xml:id="surface-gaster-hebrew-ms-713-326">
+      <graphic height="6500px" url="master/6758_0325.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0325_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0325_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="161a" xml:id="surface-gaster-hebrew-ms-713-327">
+      <graphic height="6500px" url="master/6758_0326.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0326_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0326_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="161b" xml:id="surface-gaster-hebrew-ms-713-328">
+      <graphic height="6500px" url="master/6758_0327.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0327_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0327_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="162a" xml:id="surface-gaster-hebrew-ms-713-329">
+      <graphic height="6500px" url="master/6758_0328.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0328_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0328_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="162b" xml:id="surface-gaster-hebrew-ms-713-330">
+      <graphic height="6500px" url="master/6758_0329.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0329_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0329_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="163a" xml:id="surface-gaster-hebrew-ms-713-331">
+      <graphic height="6500px" url="master/6758_0330.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0330_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0330_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="163b" xml:id="surface-gaster-hebrew-ms-713-332">
+      <graphic height="6500px" url="master/6758_0331.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0331_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0331_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="164a" xml:id="surface-gaster-hebrew-ms-713-333">
+      <graphic height="6500px" url="master/6758_0332.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0332_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0332_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="164b" xml:id="surface-gaster-hebrew-ms-713-334">
+      <graphic height="6500px" url="master/6758_0333.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0333_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0333_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="165a" xml:id="surface-gaster-hebrew-ms-713-335">
+      <graphic height="6500px" url="master/6758_0334.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0334_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0334_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="165b" xml:id="surface-gaster-hebrew-ms-713-336">
+      <graphic height="6500px" url="master/6758_0335.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0335_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0335_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="166a" xml:id="surface-gaster-hebrew-ms-713-337">
+      <graphic height="6500px" url="master/6758_0336.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0336_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0336_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="166b" xml:id="surface-gaster-hebrew-ms-713-338">
+      <graphic height="6500px" url="master/6758_0337.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0337_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0337_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="167a" xml:id="surface-gaster-hebrew-ms-713-339">
+      <graphic height="6500px" url="master/6758_0338.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0338_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0338_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="167b" xml:id="surface-gaster-hebrew-ms-713-340">
+      <graphic height="6500px" url="master/6758_0339.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0339_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0339_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="168a" xml:id="surface-gaster-hebrew-ms-713-341">
+      <graphic height="6500px" url="master/6758_0340.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0340_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0340_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="168b" xml:id="surface-gaster-hebrew-ms-713-342">
+      <graphic height="6500px" url="master/6758_0341.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0341_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0341_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="169a" xml:id="surface-gaster-hebrew-ms-713-343">
+      <graphic height="6500px" url="master/6758_0342.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0342_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0342_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="169b" xml:id="surface-gaster-hebrew-ms-713-344">
+      <graphic height="6500px" url="master/6758_0343.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0343_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0343_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="170a" xml:id="surface-gaster-hebrew-ms-713-345">
+      <graphic height="6500px" url="master/6758_0344.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0344_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0344_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="170b" xml:id="surface-gaster-hebrew-ms-713-346">
+      <graphic height="6500px" url="master/6758_0345.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0345_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0345_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="171a" xml:id="surface-gaster-hebrew-ms-713-347">
+      <graphic height="6500px" url="master/6758_0346.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0346_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0346_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="171b" xml:id="surface-gaster-hebrew-ms-713-348">
+      <graphic height="6500px" url="master/6758_0347.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0347_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0347_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="172a" xml:id="surface-gaster-hebrew-ms-713-349">
+      <graphic height="6500px" url="master/6758_0348.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0348_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0348_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="172b" xml:id="surface-gaster-hebrew-ms-713-350">
+      <graphic height="6500px" url="master/6758_0349.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0349_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0349_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="173a" xml:id="surface-gaster-hebrew-ms-713-351">
+      <graphic height="6500px" url="master/6758_0350.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0350_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0350_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="173b" xml:id="surface-gaster-hebrew-ms-713-352">
+      <graphic height="6500px" url="master/6758_0351.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0351_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0351_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="174a" xml:id="surface-gaster-hebrew-ms-713-353">
+      <graphic height="6500px" url="master/6758_0352.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0352_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0352_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="174b" xml:id="surface-gaster-hebrew-ms-713-354">
+      <graphic height="6500px" url="master/6758_0353.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0353_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0353_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 1a" xml:id="surface-gaster-hebrew-ms-713-355">
+      <graphic height="6500px" url="master/6758_0354.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0354_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0354_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 1b" xml:id="surface-gaster-hebrew-ms-713-356">
+      <graphic height="6500px" url="master/6758_0355.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0355_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0355_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 2a" xml:id="surface-gaster-hebrew-ms-713-357">
+      <graphic height="6500px" url="master/6758_0356.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0356_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0356_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 2b" xml:id="surface-gaster-hebrew-ms-713-358">
+      <graphic height="6500px" url="master/6758_0357.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0357_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0357_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 3a" xml:id="surface-gaster-hebrew-ms-713-359">
+      <graphic height="6500px" url="master/6758_0358.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0358_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0358_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 3b" xml:id="surface-gaster-hebrew-ms-713-360">
+      <graphic height="6500px" url="master/6758_0359.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0359_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0359_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 4a" xml:id="surface-gaster-hebrew-ms-713-361">
+      <graphic height="6500px" url="master/6758_0360.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0360_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0360_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 4b" xml:id="surface-gaster-hebrew-ms-713-362">
+      <graphic height="6500px" url="master/6758_0361.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0361_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0361_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 5a" xml:id="surface-gaster-hebrew-ms-713-363">
+      <graphic height="6500px" url="master/6758_0362.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0362_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0362_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Flyleaf 5b" xml:id="surface-gaster-hebrew-ms-713-364">
+      <graphic height="6500px" url="master/6758_0363.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0363_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0363_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface-gaster-hebrew-ms-713-365">
+      <graphic height="6500px" url="master/6758_0364.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0364_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0364_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface-gaster-hebrew-ms-713-366">
+      <graphic height="6500px" url="master/6758_0365.tif" width="4875px"/>
+      <graphic height="190px" url="thumb/6758_0365_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/6758_0365_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Top edge" xml:id="surface-gaster-hebrew-ms-713-367">
+      <graphic height="6500px" url="master/6758_0366.tif" width="2363px"/>
+      <graphic height="190px" url="thumb/6758_0366_thumb.jpg" width="69px"/>
+      <graphic height="1800px" url="web/6758_0366_web.jpg" width="654px"/>
+    </surface>
+    <surface n="Bottom edge" xml:id="surface-gaster-hebrew-ms-713-368">
+      <graphic height="6500px" url="master/6758_0367.tif" width="2652px"/>
+      <graphic height="190px" url="thumb/6758_0367_thumb.jpg" width="77px"/>
+      <graphic height="1800px" url="web/6758_0367_web.jpg" width="734px"/>
+    </surface>
+    <surface n="Foredge" xml:id="surface-gaster-hebrew-ms-713-369">
+      <graphic height="6500px" url="master/6758_0368.tif" width="1465px"/>
+      <graphic height="190px" url="thumb/6758_0368_thumb.jpg" width="42px"/>
+      <graphic height="1800px" url="web/6758_0368_web.jpg" width="405px"/>
+    </surface>
+    <surface n="Spine" xml:id="surface-gaster-hebrew-ms-713-370">
+      <graphic height="6500px" url="master/6758_0369.tif" width="1861px"/>
+      <graphic height="190px" url="thumb/6758_0369_thumb.jpg" width="54px"/>
+      <graphic height="1800px" url="web/6758_0369_web.jpg" width="515px"/>
+    </surface>
+  </facsimile>
+</TEI>

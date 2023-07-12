@@ -1,0 +1,2902 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Oversize Ms. Codex 1703: Secrets relative to arts and trades.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 1703: Secrets relative to arts and trades. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from title page (p. i).</note>
+        <note>Ms. codex.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Oversize Ms. Codex 1703</idno>
+            <altIdentifier type="bibid">
+              <idno>9962935883503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/919003949</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://colenda.library.upenn.edu/catalog/81431-p39p2w82r https://repository.upenn.edu/uniqueatpenn/23/</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Instructional manual with the first section discussing the transmutation of metals such as turning silver into gold (p. 7) and making iron brittle like glass (p. 28) as well as notes on perpetual motion (p. 42) and secret fire (p. 42-43). The second section includes many recipes for different types of varnish including one for tinting windows to prevent the sun from shining through them (p. 49) and one for sealing wax (p. 52). Subsequent sections include recipes for making pigments such as carmine (p. 53) and Prussian blue (p. 54, 69) and for making large pearls from small ones (p. 74). Also includes an alphabetical index (p. ii-xxvi).</summary>
+            <textLang mainLang="eng" otherLangs="fre">English, with several leaves laid into the manuscript in French</textLang>
+            <msItem>
+              <title>Secrets relative to arts and trades.</title>
+              <author>
+                <name type="authority">Charles Rainsford Collection of Alchemical and Occult Manuscripts (University of Pennsylvania)</name>
+              </author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Rainsford, Charles, 1728-1809</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority" ref="http://id.loc.gov/authorities/names/nr93028960">Northumberland, Hugh Percy, Duke of, 1742-1817</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="ii">
+              <locus>[ii]</locus>
+              <title>Index, p. ii</title>
+            </msItem>
+            <msItem n="76">
+              <locus>76</locus>
+              <title>Blank leaves start</title>
+            </msItem>
+            <msItem n="350">
+              <locus>350</locus>
+              <title>Blank leaves end</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>187 leaves : 233 x 190 mm bound to 240 x 205 mm +</extent>
+                <foliation>Paper, 187 leaves; [xxvi], 1-75, [76-348]; contemporary pagination in ink, modern pagination in pencil, upper outer corners.</foliation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a cursive script in the hand of Charles Rainsford, with several leaves laid into the manuscript in a second hand.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>Contemporary parchment.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in England in the second half of the 18th century.</p>
+              <origDate>between 1750 and 1799</origDate>
+              <origPlace>England?</origPlace>
+            </origin>
+            <provenance>Formerly owned by Charles Rainsford (British army officer, fellow of the Royal Society, and alchemist); bequeathed by Rainsford to Hugh Percy, Second Duke of Northumberland.</provenance>
+            <provenance>Sold at auction at Sotheby's (London), 15 July 2014, as part of Lot 411.</provenance>
+            <provenance>Owned by the 2nd through 12th Dukes of Northumberland, ms. 620, Alnwick Castle, Northumberland, 1809-2014 (bookplate, inside upper cover; stamps throughout).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="keywords">
+          <category xml:id="keyword_1">
+            <catDesc>Book Type</catDesc>
+            <category xml:id="keyword_1.2">
+              <catDesc>Accounts</catDesc>
+            </category>
+            <category xml:id="keyword_1.3">
+              <catDesc>Almanac</catDesc>
+            </category>
+            <category xml:id="keyword_1.4">
+              <catDesc>Anthology</catDesc>
+            </category>
+            <category xml:id="keyword_1.5">
+              <catDesc>Antiphonary</catDesc>
+            </category>
+            <category xml:id="keyword_1.6">
+              <catDesc>Armorial</catDesc>
+            </category>
+            <category xml:id="keyword_1.7">
+              <catDesc>Bible</catDesc>
+            </category>
+            <category xml:id="keyword_1.8">
+              <catDesc>Biography</catDesc>
+            </category>
+            <category xml:id="keyword_1.9">
+              <catDesc>Book of Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.10">
+              <catDesc>Breviary</catDesc>
+            </category>
+            <category xml:id="keyword_1.11">
+              <catDesc>Catalog</catDesc>
+            </category>
+            <category xml:id="keyword_1.12">
+              <catDesc>Chronicle</catDesc>
+            </category>
+            <category xml:id="keyword_1.13">
+              <catDesc>Collection of Sermons</catDesc>
+            </category>
+            <category xml:id="keyword_1.14">
+              <catDesc>Commentary</catDesc>
+            </category>
+            <category xml:id="keyword_1.15">
+              <catDesc>Compendium</catDesc>
+            </category>
+            <category xml:id="keyword_1.16">
+              <catDesc>Contract</catDesc>
+            </category>
+            <category xml:id="keyword_1.17">
+              <catDesc>Court records</catDesc>
+            </category>
+            <category xml:id="keyword_1.18">
+              <catDesc>Dictionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.19">
+              <catDesc>Document</catDesc>
+            </category>
+            <category xml:id="keyword_1.20">
+              <catDesc>Dogale</catDesc>
+            </category>
+            <category xml:id="keyword_1.21">
+              <catDesc>Drama</catDesc>
+            </category>
+            <category xml:id="keyword_1.22">
+              <catDesc>Encyclopedia</catDesc>
+            </category>
+            <category xml:id="keyword_1.23">
+              <catDesc>Epic</catDesc>
+            </category>
+            <category xml:id="keyword_1.24">
+              <catDesc>Estate inventory</catDesc>
+            </category>
+            <category xml:id="keyword_1.25">
+              <catDesc>Friendship book</catDesc>
+            </category>
+            <category xml:id="keyword_1.26">
+              <catDesc>Genealogy</catDesc>
+            </category>
+            <category xml:id="keyword_1.27">
+              <catDesc>Glossary</catDesc>
+            </category>
+            <category xml:id="keyword_1.28">
+              <catDesc>Gospel Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.29">
+              <catDesc>Gospels</catDesc>
+            </category>
+            <category xml:id="keyword_1.30">
+              <catDesc>Government records</catDesc>
+            </category>
+            <category xml:id="keyword_1.31">
+              <catDesc>Gradual</catDesc>
+            </category>
+            <category xml:id="keyword_1.32">
+              <catDesc>Halakhah</catDesc>
+            </category>
+            <category xml:id="keyword_1.33">
+              <catDesc>Haggadah</catDesc>
+            </category>
+            <category xml:id="keyword_1.34">
+              <catDesc>Homilary</catDesc>
+            </category>
+            <category xml:id="keyword_1.35">
+              <catDesc>Horologion</catDesc>
+            </category>
+            <category xml:id="keyword_1.36">
+              <catDesc>Hybrid book</catDesc>
+            </category>
+            <category xml:id="keyword_1.37">
+              <catDesc>Hymnal</catDesc>
+            </category>
+            <category xml:id="keyword_1.38">
+              <catDesc>Inventory</catDesc>
+            </category>
+            <category xml:id="keyword_1.39">
+              <catDesc>Koran</catDesc>
+            </category>
+            <category xml:id="keyword_1.40">
+              <catDesc>Land survey</catDesc>
+            </category>
+            <category xml:id="keyword_1.41">
+              <catDesc>Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.42">
+              <catDesc>Lecture notes</catDesc>
+            </category>
+            <category xml:id="keyword_1.43">
+              <catDesc>Mass book</catDesc>
+            </category>
+            <category xml:id="keyword_1.44">
+              <catDesc>Miscellany</catDesc>
+            </category>
+            <category xml:id="keyword_1.45">
+              <catDesc>Missal</catDesc>
+            </category>
+            <category xml:id="keyword_1.46">
+              <catDesc>Passion play</catDesc>
+            </category>
+            <category xml:id="keyword_1.47">
+              <catDesc>Pontifical</catDesc>
+            </category>
+            <category xml:id="keyword_1.48">
+              <catDesc>Portolan chart</catDesc>
+            </category>
+            <category xml:id="keyword_1.49">
+              <catDesc>Prayer book</catDesc>
+            </category>
+            <category xml:id="keyword_1.50">
+              <catDesc>Private devotional text</catDesc>
+            </category>
+            <category xml:id="keyword_1.51">
+              <catDesc>Processional</catDesc>
+            </category>
+            <category xml:id="keyword_1.52">
+              <catDesc>Protective scroll</catDesc>
+            </category>
+            <category xml:id="keyword_1.53">
+              <catDesc>Psalter</catDesc>
+            </category>
+            <category xml:id="keyword_1.54">
+              <catDesc>Psalter-Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.55">
+              <catDesc>Qur`an</catDesc>
+            </category>
+            <category xml:id="keyword_1.56">
+              <catDesc>Recipe book</catDesc>
+            </category>
+            <category xml:id="keyword_1.57">
+              <catDesc>Register</catDesc>
+            </category>
+            <category xml:id="keyword_1.58">
+              <catDesc>Saint's Life</catDesc>
+            </category>
+            <category xml:id="keyword_1.59">
+              <catDesc>Scribal manual</catDesc>
+            </category>
+            <category xml:id="keyword_1.60">
+              <catDesc>Song book</catDesc>
+            </category>
+            <category xml:id="keyword_1.61">
+              <catDesc>Speech or address</catDesc>
+            </category>
+            <category xml:id="keyword_1.62">
+              <catDesc>Torah</catDesc>
+            </category>
+            <category xml:id="keyword_1.63">
+              <catDesc>Treatise</catDesc>
+            </category>
+            <category xml:id="keyword_1.64">
+              <catDesc>Will</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_2">
+            <catDesc>Century</catDesc>
+            <category xml:id="keyword_2.2">
+              <catDesc>6th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.3">
+              <catDesc>7th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.4">
+              <catDesc>8th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.5">
+              <catDesc>9th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.6">
+              <catDesc>10th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.7">
+              <catDesc>11th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.8">
+              <catDesc>12th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.9">
+              <catDesc>13th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.10">
+              <catDesc>14th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.11">
+              <catDesc>15th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.12">
+              <catDesc>16th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.13">
+              <catDesc>17th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.14">
+              <catDesc>18th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.15">
+              <catDesc>19th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.16">
+              <catDesc>20th century</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_3">
+            <catDesc>Culture</catDesc>
+            <category xml:id="keyword_3.2">
+              <catDesc>Abbasid</catDesc>
+            </category>
+            <category xml:id="keyword_3.3">
+              <catDesc>Arabic</catDesc>
+            </category>
+            <category xml:id="keyword_3.4">
+              <catDesc>Armenian</catDesc>
+            </category>
+            <category xml:id="keyword_3.5">
+              <catDesc>Ashkenazi</catDesc>
+            </category>
+            <category xml:id="keyword_3.6">
+              <catDesc>Austrian</catDesc>
+            </category>
+            <category xml:id="keyword_3.7">
+              <catDesc>Bohemian</catDesc>
+            </category>
+            <category xml:id="keyword_3.8">
+              <catDesc>Byzantine</catDesc>
+            </category>
+            <category xml:id="keyword_3.9">
+              <catDesc>Carolingian</catDesc>
+            </category>
+            <category xml:id="keyword_3.10">
+              <catDesc>Catalan</catDesc>
+            </category>
+            <category xml:id="keyword_3.11">
+              <catDesc>Chinese</catDesc>
+            </category>
+            <category xml:id="keyword_3.12">
+              <catDesc>Christian</catDesc>
+            </category>
+            <category xml:id="keyword_3.13">
+              <catDesc>Coptic</catDesc>
+            </category>
+            <category xml:id="keyword_3.14">
+              <catDesc>Dutch</catDesc>
+            </category>
+            <category xml:id="keyword_3.15">
+              <catDesc>Egyptian</catDesc>
+            </category>
+            <category xml:id="keyword_3.16">
+              <catDesc>English</catDesc>
+            </category>
+            <category xml:id="keyword_3.17">
+              <catDesc>Ethiopian</catDesc>
+            </category>
+            <category xml:id="keyword_3.18">
+              <catDesc>Fatimid</catDesc>
+            </category>
+            <category xml:id="keyword_3.19">
+              <catDesc>Filipino</catDesc>
+            </category>
+            <category xml:id="keyword_3.20">
+              <catDesc>Flemish</catDesc>
+            </category>
+            <category xml:id="keyword_3.21">
+              <catDesc>French</catDesc>
+            </category>
+            <category xml:id="keyword_3.22">
+              <catDesc>German</catDesc>
+            </category>
+            <category xml:id="keyword_3.23">
+              <catDesc>Greek</catDesc>
+            </category>
+            <category xml:id="keyword_3.24">
+              <catDesc>Hungarian</catDesc>
+            </category>
+            <category xml:id="keyword_3.25">
+              <catDesc>Indian</catDesc>
+            </category>
+            <category xml:id="keyword_3.26">
+              <catDesc>Islamic</catDesc>
+            </category>
+            <category xml:id="keyword_3.27">
+              <catDesc>Italian</catDesc>
+            </category>
+            <category xml:id="keyword_3.28">
+              <catDesc>Jewish</catDesc>
+            </category>
+            <category xml:id="keyword_3.29">
+              <catDesc>Karaite</catDesc>
+            </category>
+            <category xml:id="keyword_3.30">
+              <catDesc>Mamluk</catDesc>
+            </category>
+            <category xml:id="keyword_3.31">
+              <catDesc>Mexican</catDesc>
+            </category>
+            <category xml:id="keyword_3.32">
+              <catDesc>Mughal</catDesc>
+            </category>
+            <category xml:id="keyword_3.33">
+              <catDesc>Ottoman</catDesc>
+            </category>
+            <category xml:id="keyword_3.34">
+              <catDesc>Ottonian</catDesc>
+            </category>
+            <category xml:id="keyword_3.35">
+              <catDesc>Persian</catDesc>
+            </category>
+            <category xml:id="keyword_3.36">
+              <catDesc>Portuguese</catDesc>
+            </category>
+            <category xml:id="keyword_3.37">
+              <catDesc>Qajar</catDesc>
+            </category>
+            <category xml:id="keyword_3.38">
+              <catDesc>Rajput</catDesc>
+            </category>
+            <category xml:id="keyword_3.39">
+              <catDesc>Russian</catDesc>
+            </category>
+            <category xml:id="keyword_3.40">
+              <catDesc>Safavid</catDesc>
+            </category>
+            <category xml:id="keyword_3.41">
+              <catDesc>Sephardi</catDesc>
+            </category>
+            <category xml:id="keyword_3.42">
+              <catDesc>Spanish</catDesc>
+            </category>
+            <category xml:id="keyword_3.43">
+              <catDesc>Swiss</catDesc>
+            </category>
+            <category xml:id="keyword_3.44">
+              <catDesc>Timurid</catDesc>
+            </category>
+            <category xml:id="keyword_3.45">
+              <catDesc>Turkish</catDesc>
+            </category>
+            <category xml:id="keyword_3.46">
+              <catDesc>Yemenite</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_4">
+            <catDesc>Descriptive term</catDesc>
+            <category xml:id="keyword_4.2">
+              <catDesc>Accordion book</catDesc>
+            </category>
+            <category xml:id="keyword_4.3">
+              <catDesc>Album</catDesc>
+            </category>
+            <category xml:id="keyword_4.4">
+              <catDesc>Annotated</catDesc>
+            </category>
+            <category xml:id="keyword_4.5">
+              <catDesc>Binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.6">
+              <catDesc>Calendar</catDesc>
+            </category>
+            <category xml:id="keyword_4.7">
+              <catDesc>Calligraphy</catDesc>
+            </category>
+            <category xml:id="keyword_4.8">
+              <catDesc>Caroline minuscule</catDesc>
+            </category>
+            <category xml:id="keyword_4.9">
+              <catDesc>Chart</catDesc>
+            </category>
+            <category xml:id="keyword_4.10">
+              <catDesc>Charter</catDesc>
+            </category>
+            <category xml:id="keyword_4.11">
+              <catDesc>Colophon</catDesc>
+            </category>
+            <category xml:id="keyword_4.12">
+              <catDesc>Damage</catDesc>
+            </category>
+            <category xml:id="keyword_4.13">
+              <catDesc>Diagrams</catDesc>
+            </category>
+            <category xml:id="keyword_4.14">
+              <catDesc>Drawing</catDesc>
+            </category>
+            <category xml:id="keyword_4.15">
+              <catDesc>Early Abbasid script</catDesc>
+            </category>
+            <category xml:id="keyword_4.16">
+              <catDesc>Engraving</catDesc>
+            </category>
+            <category xml:id="keyword_4.17">
+              <catDesc>Forgery</catDesc>
+            </category>
+            <category xml:id="keyword_4.18">
+              <catDesc>Fragment</catDesc>
+            </category>
+            <category xml:id="keyword_4.19">
+              <catDesc>Gloss</catDesc>
+            </category>
+            <category xml:id="keyword_4.20">
+              <catDesc>Gothic</catDesc>
+            </category>
+            <category xml:id="keyword_4.21">
+              <catDesc>Gothic book hand</catDesc>
+            </category>
+            <category xml:id="keyword_4.22">
+              <catDesc>Grisaille</catDesc>
+            </category>
+            <category xml:id="keyword_4.23">
+              <catDesc>Grotesques</catDesc>
+            </category>
+            <category xml:id="keyword_4.24">
+              <catDesc>Headpiece</catDesc>
+            </category>
+            <category xml:id="keyword_4.25">
+              <catDesc>Heraldry</catDesc>
+            </category>
+            <category xml:id="keyword_4.26">
+              <catDesc>Historiated initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.27">
+              <catDesc>Humanistic</catDesc>
+            </category>
+            <category xml:id="keyword_4.28">
+              <catDesc>Illumination</catDesc>
+            </category>
+            <category xml:id="keyword_4.29">
+              <catDesc>Illustration</catDesc>
+            </category>
+            <category xml:id="keyword_4.30">
+              <catDesc>Inhabited initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.31">
+              <catDesc>Kufic</catDesc>
+            </category>
+            <category xml:id="keyword_4.32">
+              <catDesc>Manicules</catDesc>
+            </category>
+            <category xml:id="keyword_4.33">
+              <catDesc>Medallion</catDesc>
+            </category>
+            <category xml:id="keyword_4.34">
+              <catDesc>Micrography</catDesc>
+            </category>
+            <category xml:id="keyword_4.35">
+              <catDesc>Miniature</catDesc>
+            </category>
+            <category xml:id="keyword_4.36">
+              <catDesc>Missing leaves</catDesc>
+            </category>
+            <category xml:id="keyword_4.37">
+              <catDesc>Musical notation</catDesc>
+            </category>
+            <category xml:id="keyword_4.38">
+              <catDesc>New Abbasid style</catDesc>
+            </category>
+            <category xml:id="keyword_4.39">
+              <catDesc>Notable binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.40">
+              <catDesc>Original binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.41">
+              <catDesc>Ornament</catDesc>
+            </category>
+            <category xml:id="keyword_4.42">
+              <catDesc>Painting</catDesc>
+            </category>
+            <category xml:id="keyword_4.43">
+              <catDesc>Palimpsest</catDesc>
+            </category>
+            <category xml:id="keyword_4.44">
+              <catDesc>Paper</catDesc>
+            </category>
+            <category xml:id="keyword_4.45">
+              <catDesc>Penwork initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.46">
+              <catDesc>Puzzle initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.47">
+              <catDesc>Ragini</catDesc>
+            </category>
+            <category xml:id="keyword_4.48">
+              <catDesc>Romanesque</catDesc>
+            </category>
+            <category xml:id="keyword_4.49">
+              <catDesc>Scrapbook</catDesc>
+            </category>
+            <category xml:id="keyword_4.50">
+              <catDesc>Scroll</catDesc>
+            </category>
+            <category xml:id="keyword_4.51">
+              <catDesc>Scroll-work initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.52">
+              <catDesc>Seals</catDesc>
+            </category>
+            <category xml:id="keyword_4.53">
+              <catDesc>Tables</catDesc>
+            </category>
+            <category xml:id="keyword_4.54">
+              <catDesc>Textura</catDesc>
+            </category>
+            <category xml:id="keyword_4.55">
+              <catDesc>Treasure binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.56">
+              <catDesc>Watermark</catDesc>
+            </category>
+            <category xml:id="keyword_4.57">
+              <catDesc>White-vine lettering</catDesc>
+            </category>
+            <category xml:id="keyword_4.58">
+              <catDesc>Woodcuts</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_5">
+            <catDesc>Geography</catDesc>
+            <category xml:id="keyword_5.2">
+              <catDesc>Afghanistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.3">
+              <catDesc>Armenia</catDesc>
+            </category>
+            <category xml:id="keyword_5.4">
+              <catDesc>Austria</catDesc>
+            </category>
+            <category xml:id="keyword_5.5">
+              <catDesc>Belgium</catDesc>
+            </category>
+            <category xml:id="keyword_5.6">
+              <catDesc>Central Arab lands (Near East)</catDesc>
+            </category>
+            <category xml:id="keyword_5.7">
+              <catDesc>Central Asia</catDesc>
+            </category>
+            <category xml:id="keyword_5.8">
+              <catDesc>China</catDesc>
+            </category>
+            <category xml:id="keyword_5.9">
+              <catDesc>Croatia</catDesc>
+            </category>
+            <category xml:id="keyword_5.10">
+              <catDesc>Czech Republic</catDesc>
+            </category>
+            <category xml:id="keyword_5.11">
+              <catDesc>Egypt</catDesc>
+            </category>
+            <category xml:id="keyword_5.12">
+              <catDesc>England</catDesc>
+            </category>
+            <category xml:id="keyword_5.13">
+              <catDesc>Ethiopia</catDesc>
+            </category>
+            <category xml:id="keyword_5.14">
+              <catDesc>Flanders</catDesc>
+            </category>
+            <category xml:id="keyword_5.15">
+              <catDesc>France</catDesc>
+            </category>
+            <category xml:id="keyword_5.16">
+              <catDesc>Germany</catDesc>
+            </category>
+            <category xml:id="keyword_5.17">
+              <catDesc>Greece</catDesc>
+            </category>
+            <category xml:id="keyword_5.18">
+              <catDesc>Hungary</catDesc>
+            </category>
+            <category xml:id="keyword_5.19">
+              <catDesc>India</catDesc>
+            </category>
+            <category xml:id="keyword_5.20">
+              <catDesc>Iran</catDesc>
+            </category>
+            <category xml:id="keyword_5.21">
+              <catDesc>Iraq</catDesc>
+            </category>
+            <category xml:id="keyword_5.22">
+              <catDesc>Israel</catDesc>
+            </category>
+            <category xml:id="keyword_5.23">
+              <catDesc>Italy</catDesc>
+            </category>
+            <category xml:id="keyword_5.24">
+              <catDesc>Maghreb</catDesc>
+            </category>
+            <category xml:id="keyword_5.25">
+              <catDesc>Mexico</catDesc>
+            </category>
+            <category xml:id="keyword_5.26">
+              <catDesc>Morocco</catDesc>
+            </category>
+            <category xml:id="keyword_5.27">
+              <catDesc>Netherlands</catDesc>
+            </category>
+            <category xml:id="keyword_5.28">
+              <catDesc>Pakistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.29">
+              <catDesc>Philippines</catDesc>
+            </category>
+            <category xml:id="keyword_5.30">
+              <catDesc>Poland</catDesc>
+            </category>
+            <category xml:id="keyword_5.31">
+              <catDesc>Portugal</catDesc>
+            </category>
+            <category xml:id="keyword_5.32">
+              <catDesc>Romania</catDesc>
+            </category>
+            <category xml:id="keyword_5.33">
+              <catDesc>Russia</catDesc>
+            </category>
+            <category xml:id="keyword_5.34">
+              <catDesc>Spain</catDesc>
+            </category>
+            <category xml:id="keyword_5.35">
+              <catDesc>Sub-Saharan (West) Africa</catDesc>
+            </category>
+            <category xml:id="keyword_5.36">
+              <catDesc>Switzerland</catDesc>
+            </category>
+            <category xml:id="keyword_5.37">
+              <catDesc>Turkey</catDesc>
+            </category>
+            <category xml:id="keyword_5.38">
+              <catDesc>United States</catDesc>
+            </category>
+            <category xml:id="keyword_5.39">
+              <catDesc>Wales</catDesc>
+            </category>
+            <category xml:id="keyword_5.40">
+              <catDesc>Yemen</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_6">
+            <catDesc>Other</catDesc>
+            <category xml:id="keyword_6.2">
+              <catDesc>Alchemy</catDesc>
+            </category>
+            <category xml:id="keyword_6.3">
+              <catDesc>Allegory</catDesc>
+            </category>
+            <category xml:id="keyword_6.4">
+              <catDesc>Animal culture</catDesc>
+            </category>
+            <category xml:id="keyword_6.5">
+              <catDesc>Aphorisms</catDesc>
+            </category>
+            <category xml:id="keyword_6.6">
+              <catDesc>Astrology</catDesc>
+            </category>
+            <category xml:id="keyword_6.7">
+              <catDesc>Astronomy</catDesc>
+            </category>
+            <category xml:id="keyword_6.8">
+              <catDesc>Biblical</catDesc>
+            </category>
+            <category xml:id="keyword_6.9">
+              <catDesc>Binding waste</catDesc>
+            </category>
+            <category xml:id="keyword_6.10">
+              <catDesc>Cartography</catDesc>
+            </category>
+            <category xml:id="keyword_6.11">
+              <catDesc>Catholic church</catDesc>
+            </category>
+            <category xml:id="keyword_6.12">
+              <catDesc>Chemistry</catDesc>
+            </category>
+            <category xml:id="keyword_6.13">
+              <catDesc>Church Fathers</catDesc>
+            </category>
+            <category xml:id="keyword_6.14">
+              <catDesc>City planning</catDesc>
+            </category>
+            <category xml:id="keyword_6.15">
+              <catDesc>Cosmology</catDesc>
+            </category>
+            <category xml:id="keyword_6.16">
+              <catDesc>Cryptography</catDesc>
+            </category>
+            <category xml:id="keyword_6.17">
+              <catDesc>Devotion</catDesc>
+            </category>
+            <category xml:id="keyword_6.18">
+              <catDesc>Dialogue</catDesc>
+            </category>
+            <category xml:id="keyword_6.19">
+              <catDesc>Ethics</catDesc>
+            </category>
+            <category xml:id="keyword_6.20">
+              <catDesc>Financial records</catDesc>
+            </category>
+            <category xml:id="keyword_6.21">
+              <catDesc>Fortune-telling</catDesc>
+            </category>
+            <category xml:id="keyword_6.22">
+              <catDesc>Franciscans</catDesc>
+            </category>
+            <category xml:id="keyword_6.23">
+              <catDesc>Friendship</catDesc>
+            </category>
+            <category xml:id="keyword_6.24">
+              <catDesc>Games</catDesc>
+            </category>
+            <category xml:id="keyword_6.25">
+              <catDesc>Geography</catDesc>
+            </category>
+            <category xml:id="keyword_6.26">
+              <catDesc>Geomancy</catDesc>
+            </category>
+            <category xml:id="keyword_6.27">
+              <catDesc>Grammar</catDesc>
+            </category>
+            <category xml:id="keyword_6.28">
+              <catDesc>History</catDesc>
+            </category>
+            <category xml:id="keyword_6.29">
+              <catDesc>Index</catDesc>
+            </category>
+            <category xml:id="keyword_6.30">
+              <catDesc>Instructional materials</catDesc>
+            </category>
+            <category xml:id="keyword_6.31">
+              <catDesc>Kabbalah</catDesc>
+            </category>
+            <category xml:id="keyword_6.32">
+              <catDesc>Legal</catDesc>
+            </category>
+            <category xml:id="keyword_6.33">
+              <catDesc>Lists</catDesc>
+            </category>
+            <category xml:id="keyword_6.34">
+              <catDesc>Literature -- Poetry</catDesc>
+            </category>
+            <category xml:id="keyword_6.35">
+              <catDesc>Literature -- Prose</catDesc>
+            </category>
+            <category xml:id="keyword_6.36">
+              <catDesc>Liturgy</catDesc>
+            </category>
+            <category xml:id="keyword_6.37">
+              <catDesc>Logic</catDesc>
+            </category>
+            <category xml:id="keyword_6.38">
+              <catDesc>Magic</catDesc>
+            </category>
+            <category xml:id="keyword_6.39">
+              <catDesc>Maps</catDesc>
+            </category>
+            <category xml:id="keyword_6.40">
+              <catDesc>Maritime</catDesc>
+            </category>
+            <category xml:id="keyword_6.41">
+              <catDesc>Mathematics</catDesc>
+            </category>
+            <category xml:id="keyword_6.42">
+              <catDesc>Medieval romance</catDesc>
+            </category>
+            <category xml:id="keyword_6.43">
+              <catDesc>Metaphysics</catDesc>
+            </category>
+            <category xml:id="keyword_6.44">
+              <catDesc>Meteorology</catDesc>
+            </category>
+            <category xml:id="keyword_6.45">
+              <catDesc>Military art and science</catDesc>
+            </category>
+            <category xml:id="keyword_6.46">
+              <catDesc>Mineralogy</catDesc>
+            </category>
+            <category xml:id="keyword_6.47">
+              <catDesc>Mysticism</catDesc>
+            </category>
+            <category xml:id="keyword_6.48">
+              <catDesc>Penitential</catDesc>
+            </category>
+            <category xml:id="keyword_6.49">
+              <catDesc>Philosophy</catDesc>
+            </category>
+            <category xml:id="keyword_6.50">
+              <catDesc>Piyutim</catDesc>
+            </category>
+            <category xml:id="keyword_6.51">
+              <catDesc>Polemic</catDesc>
+            </category>
+            <category xml:id="keyword_6.52">
+              <catDesc>Responsa</catDesc>
+            </category>
+            <category xml:id="keyword_6.53">
+              <catDesc>Rhetoric</catDesc>
+            </category>
+            <category xml:id="keyword_6.54">
+              <catDesc>Schedule</catDesc>
+            </category>
+            <category xml:id="keyword_6.55">
+              <catDesc>Science</catDesc>
+            </category>
+            <category xml:id="keyword_6.56">
+              <catDesc>Science -- Medicine</catDesc>
+            </category>
+            <category xml:id="keyword_6.57">
+              <catDesc>Scripture</catDesc>
+            </category>
+            <category xml:id="keyword_6.58">
+              <catDesc>Shipbuilding</catDesc>
+            </category>
+            <category xml:id="keyword_6.59">
+              <catDesc>Statutes</catDesc>
+            </category>
+            <category xml:id="keyword_6.60">
+              <catDesc>Storytelling</catDesc>
+            </category>
+            <category xml:id="keyword_6.61">
+              <catDesc>Sufism</catDesc>
+            </category>
+            <category xml:id="keyword_6.62">
+              <catDesc>Theology</catDesc>
+            </category>
+            <category xml:id="keyword_6.63">
+              <catDesc>Wine and winemaking</catDesc>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term ref="http://id.loc.gov/authorities/subjects/sh2007100968">Alchemy--Early works to 1800</term>
+          <term ref="http://id.worldcat.org/fast/804245">Alchemy</term>
+          <term ref="http://id.worldcat.org/fast/1063994">Pigments</term>
+          <term>Occultism--Early works to 1800</term>
+          <term ref="http://id.worldcat.org/fast/1043123">Occultism</term>
+          <term>Pigments--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Manuscripts, European</term>
+          <term>Prescriptions</term>
+          <term>Manuscripts, English--18th century</term>
+          <term>Manuscripts, French--18th century</term>
+          <term>Manuals (instructional materials)</term>
+        </keywords>
+        <keywords n="keywords">
+          <term>18th century</term>
+          <term>English</term>
+          <term>French</term>
+          <term>Paper</term>
+          <term>England</term>
+          <term>Alchemy</term>
+          <term>Instructional materials</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface-oversize-ms-codex-1703-1">
+      <graphic height="6585px" url="master/5223_0000.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0000_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0000_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface-oversize-ms-codex-1703-2">
+      <graphic height="6585px" url="master/5223_0001.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0001_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0001_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="i" xml:id="surface-oversize-ms-codex-1703-3">
+      <graphic height="6585px" url="master/5223_0002.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0002_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0002_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="ii" xml:id="surface-oversize-ms-codex-1703-4">
+      <graphic height="6585px" url="master/5223_0003.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0003_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0003_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="iii" xml:id="surface-oversize-ms-codex-1703-5">
+      <graphic height="6585px" url="master/5223_0004.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0004_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0004_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="iv" xml:id="surface-oversize-ms-codex-1703-6">
+      <graphic height="6585px" url="master/5223_0005.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0005_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0005_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="v" xml:id="surface-oversize-ms-codex-1703-7">
+      <graphic height="6585px" url="master/5223_0006.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0006_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0006_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="vi" xml:id="surface-oversize-ms-codex-1703-8">
+      <graphic height="6585px" url="master/5223_0007.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0007_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0007_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="vii" xml:id="surface-oversize-ms-codex-1703-9">
+      <graphic height="6585px" url="master/5223_0008.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0008_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0008_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="viii" xml:id="surface-oversize-ms-codex-1703-10">
+      <graphic height="6585px" url="master/5223_0009.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0009_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0009_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="ix" xml:id="surface-oversize-ms-codex-1703-11">
+      <graphic height="6585px" url="master/5223_0010.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0010_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0010_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="x" xml:id="surface-oversize-ms-codex-1703-12">
+      <graphic height="6585px" url="master/5223_0011.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0011_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0011_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xi" xml:id="surface-oversize-ms-codex-1703-13">
+      <graphic height="6585px" url="master/5223_0012.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0012_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0012_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xii" xml:id="surface-oversize-ms-codex-1703-14">
+      <graphic height="6585px" url="master/5223_0013.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0013_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0013_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xiii" xml:id="surface-oversize-ms-codex-1703-15">
+      <graphic height="6585px" url="master/5223_0014.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0014_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0014_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xiv" xml:id="surface-oversize-ms-codex-1703-16">
+      <graphic height="6585px" url="master/5223_0015.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0015_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0015_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xv" xml:id="surface-oversize-ms-codex-1703-17">
+      <graphic height="6585px" url="master/5223_0016.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0016_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0016_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xvi" xml:id="surface-oversize-ms-codex-1703-18">
+      <graphic height="6585px" url="master/5223_0017.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0017_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0017_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xvii" xml:id="surface-oversize-ms-codex-1703-19">
+      <graphic height="6585px" url="master/5223_0018.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0018_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0018_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xviii" xml:id="surface-oversize-ms-codex-1703-20">
+      <graphic height="6585px" url="master/5223_0019.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0019_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0019_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xix" xml:id="surface-oversize-ms-codex-1703-21">
+      <graphic height="6585px" url="master/5223_0020.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0020_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0020_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xx" xml:id="surface-oversize-ms-codex-1703-22">
+      <graphic height="6585px" url="master/5223_0021.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0021_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0021_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xxi" xml:id="surface-oversize-ms-codex-1703-23">
+      <graphic height="6585px" url="master/5223_0022.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0022_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0022_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xxii" xml:id="surface-oversize-ms-codex-1703-24">
+      <graphic height="6585px" url="master/5223_0023.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0023_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0023_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xxiii" xml:id="surface-oversize-ms-codex-1703-25">
+      <graphic height="6585px" url="master/5223_0024.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0024_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0024_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xxiv" xml:id="surface-oversize-ms-codex-1703-26">
+      <graphic height="6585px" url="master/5223_0025.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0025_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0025_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xxv" xml:id="surface-oversize-ms-codex-1703-27">
+      <graphic height="6585px" url="master/5223_0026.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0026_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0026_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="xxvi" xml:id="surface-oversize-ms-codex-1703-28">
+      <graphic height="6585px" url="master/5223_0027.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0027_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0027_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="1" xml:id="surface-oversize-ms-codex-1703-29">
+      <graphic height="6585px" url="master/5223_0028.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0028_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0028_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="2" xml:id="surface-oversize-ms-codex-1703-30">
+      <graphic height="6585px" url="master/5223_0029.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0029_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0029_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="3" xml:id="surface-oversize-ms-codex-1703-31">
+      <graphic height="6585px" url="master/5223_0030.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0030_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0030_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="4" xml:id="surface-oversize-ms-codex-1703-32">
+      <graphic height="6585px" url="master/5223_0031.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0031_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0031_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="5" xml:id="surface-oversize-ms-codex-1703-33">
+      <graphic height="6585px" url="master/5223_0032.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0032_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0032_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="6" xml:id="surface-oversize-ms-codex-1703-34">
+      <graphic height="6585px" url="master/5223_0033.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0033_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0033_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="7" xml:id="surface-oversize-ms-codex-1703-35">
+      <graphic height="6585px" url="master/5223_0034.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0034_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0034_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="8" xml:id="surface-oversize-ms-codex-1703-36">
+      <graphic height="6585px" url="master/5223_0035.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0035_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0035_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="9" xml:id="surface-oversize-ms-codex-1703-37">
+      <graphic height="6585px" url="master/5223_0036.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0036_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0036_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="10" xml:id="surface-oversize-ms-codex-1703-38">
+      <graphic height="6585px" url="master/5223_0037.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0037_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0037_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="11" xml:id="surface-oversize-ms-codex-1703-39">
+      <graphic height="6585px" url="master/5223_0038.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0038_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0038_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="12" xml:id="surface-oversize-ms-codex-1703-40">
+      <graphic height="6585px" url="master/5223_0039.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0039_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0039_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="13" xml:id="surface-oversize-ms-codex-1703-41">
+      <graphic height="6585px" url="master/5223_0040.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0040_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0040_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="14" xml:id="surface-oversize-ms-codex-1703-42">
+      <graphic height="6585px" url="master/5223_0041.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0041_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0041_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="15" xml:id="surface-oversize-ms-codex-1703-43">
+      <graphic height="6585px" url="master/5223_0042.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0042_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0042_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="16" xml:id="surface-oversize-ms-codex-1703-44">
+      <graphic height="6585px" url="master/5223_0043.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0043_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0043_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="17" xml:id="surface-oversize-ms-codex-1703-45">
+      <graphic height="6585px" url="master/5223_0044.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0044_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0044_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="18" xml:id="surface-oversize-ms-codex-1703-46">
+      <graphic height="6585px" url="master/5223_0045.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0045_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0045_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="19" xml:id="surface-oversize-ms-codex-1703-47">
+      <graphic height="6585px" url="master/5223_0046.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0046_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0046_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="20" xml:id="surface-oversize-ms-codex-1703-48">
+      <graphic height="6585px" url="master/5223_0047.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0047_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0047_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="21" xml:id="surface-oversize-ms-codex-1703-49">
+      <graphic height="6585px" url="master/5223_0048.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0048_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0048_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="22" xml:id="surface-oversize-ms-codex-1703-50">
+      <graphic height="6585px" url="master/5223_0049.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0049_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0049_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="23" xml:id="surface-oversize-ms-codex-1703-51">
+      <graphic height="6585px" url="master/5223_0050.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0050_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0050_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="24" xml:id="surface-oversize-ms-codex-1703-52">
+      <graphic height="6585px" url="master/5223_0051.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0051_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0051_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="25" xml:id="surface-oversize-ms-codex-1703-53">
+      <graphic height="6585px" url="master/5223_0052.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0052_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0052_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="26" xml:id="surface-oversize-ms-codex-1703-54">
+      <graphic height="6585px" url="master/5223_0053.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0053_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0053_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="27" xml:id="surface-oversize-ms-codex-1703-55">
+      <graphic height="6585px" url="master/5223_0054.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0054_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0054_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="28" xml:id="surface-oversize-ms-codex-1703-56">
+      <graphic height="6585px" url="master/5223_0055.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0055_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0055_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="29" xml:id="surface-oversize-ms-codex-1703-57">
+      <graphic height="6585px" url="master/5223_0056.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0056_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0056_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="30" xml:id="surface-oversize-ms-codex-1703-58">
+      <graphic height="6585px" url="master/5223_0057.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0057_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0057_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="31" xml:id="surface-oversize-ms-codex-1703-59">
+      <graphic height="6585px" url="master/5223_0058.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0058_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0058_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="32" xml:id="surface-oversize-ms-codex-1703-60">
+      <graphic height="6585px" url="master/5223_0059.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0059_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0059_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="33" xml:id="surface-oversize-ms-codex-1703-61">
+      <graphic height="6585px" url="master/5223_0060.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0060_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0060_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="34" xml:id="surface-oversize-ms-codex-1703-62">
+      <graphic height="6585px" url="master/5223_0061.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0061_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0061_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="35" xml:id="surface-oversize-ms-codex-1703-63">
+      <graphic height="6585px" url="master/5223_0062.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0062_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0062_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="36" xml:id="surface-oversize-ms-codex-1703-64">
+      <graphic height="6585px" url="master/5223_0063.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0063_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0063_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="37" xml:id="surface-oversize-ms-codex-1703-65">
+      <graphic height="6585px" url="master/5223_0064.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0064_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0064_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="38" xml:id="surface-oversize-ms-codex-1703-66">
+      <graphic height="6585px" url="master/5223_0065.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0065_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0065_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="39" xml:id="surface-oversize-ms-codex-1703-67">
+      <graphic height="6585px" url="master/5223_0066.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0066_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0066_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="40" xml:id="surface-oversize-ms-codex-1703-68">
+      <graphic height="6585px" url="master/5223_0067.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0067_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0067_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="41" xml:id="surface-oversize-ms-codex-1703-69">
+      <graphic height="6585px" url="master/5223_0068.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0068_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0068_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="42" xml:id="surface-oversize-ms-codex-1703-70">
+      <graphic height="6585px" url="master/5223_0069.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0069_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0069_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="43" xml:id="surface-oversize-ms-codex-1703-71">
+      <graphic height="6585px" url="master/5223_0070.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0070_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0070_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="44" xml:id="surface-oversize-ms-codex-1703-72">
+      <graphic height="6585px" url="master/5223_0071.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0071_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0071_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="45" xml:id="surface-oversize-ms-codex-1703-73">
+      <graphic height="6585px" url="master/5223_0072.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0072_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0072_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="46" xml:id="surface-oversize-ms-codex-1703-74">
+      <graphic height="6585px" url="master/5223_0073.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0073_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0073_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="47" xml:id="surface-oversize-ms-codex-1703-75">
+      <graphic height="6585px" url="master/5223_0074.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0074_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0074_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="48" xml:id="surface-oversize-ms-codex-1703-76">
+      <graphic height="6585px" url="master/5223_0075.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0075_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0075_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="49" xml:id="surface-oversize-ms-codex-1703-77">
+      <graphic height="6585px" url="master/5223_0076.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0076_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0076_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="50" xml:id="surface-oversize-ms-codex-1703-78">
+      <graphic height="6585px" url="master/5223_0077.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0077_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0077_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="51" xml:id="surface-oversize-ms-codex-1703-79">
+      <graphic height="6585px" url="master/5223_0078.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0078_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0078_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="52" xml:id="surface-oversize-ms-codex-1703-80">
+      <graphic height="6585px" url="master/5223_0079.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0079_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0079_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="53" xml:id="surface-oversize-ms-codex-1703-81">
+      <graphic height="6585px" url="master/5223_0080.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0080_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0080_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="54" xml:id="surface-oversize-ms-codex-1703-82">
+      <graphic height="6585px" url="master/5223_0081.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0081_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0081_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="55" xml:id="surface-oversize-ms-codex-1703-83">
+      <graphic height="6585px" url="master/5223_0082.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0082_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0082_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="56" xml:id="surface-oversize-ms-codex-1703-84">
+      <graphic height="6585px" url="master/5223_0083.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0083_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0083_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="57" xml:id="surface-oversize-ms-codex-1703-85">
+      <graphic height="6585px" url="master/5223_0084.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0084_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0084_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="58" xml:id="surface-oversize-ms-codex-1703-86">
+      <graphic height="6585px" url="master/5223_0085.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0085_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0085_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="59" xml:id="surface-oversize-ms-codex-1703-87">
+      <graphic height="6585px" url="master/5223_0086.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0086_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0086_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="60" xml:id="surface-oversize-ms-codex-1703-88">
+      <graphic height="6585px" url="master/5223_0087.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0087_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0087_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="61" xml:id="surface-oversize-ms-codex-1703-89">
+      <graphic height="6585px" url="master/5223_0088.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0088_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0088_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="62" xml:id="surface-oversize-ms-codex-1703-90">
+      <graphic height="6585px" url="master/5223_0089.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0089_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0089_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="63" xml:id="surface-oversize-ms-codex-1703-91">
+      <graphic height="6585px" url="master/5223_0090.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0090_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0090_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="64" xml:id="surface-oversize-ms-codex-1703-92">
+      <graphic height="6585px" url="master/5223_0091.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0091_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0091_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="65" xml:id="surface-oversize-ms-codex-1703-93">
+      <graphic height="6585px" url="master/5223_0092.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0092_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0092_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="66" xml:id="surface-oversize-ms-codex-1703-94">
+      <graphic height="6585px" url="master/5223_0093.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0093_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0093_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="67" xml:id="surface-oversize-ms-codex-1703-95">
+      <graphic height="6585px" url="master/5223_0094.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0094_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0094_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="68" xml:id="surface-oversize-ms-codex-1703-96">
+      <graphic height="6585px" url="master/5223_0095.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0095_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0095_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="69" xml:id="surface-oversize-ms-codex-1703-97">
+      <graphic height="6585px" url="master/5223_0096.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0096_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0096_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="70" xml:id="surface-oversize-ms-codex-1703-98">
+      <graphic height="6585px" url="master/5223_0097.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0097_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0097_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="71" xml:id="surface-oversize-ms-codex-1703-99">
+      <graphic height="6585px" url="master/5223_0098.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0098_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0098_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="72" xml:id="surface-oversize-ms-codex-1703-100">
+      <graphic height="6585px" url="master/5223_0099.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0099_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0099_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="73" xml:id="surface-oversize-ms-codex-1703-101">
+      <graphic height="6585px" url="master/5223_0100.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0100_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0100_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="74" xml:id="surface-oversize-ms-codex-1703-102">
+      <graphic height="6585px" url="master/5223_0101.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0101_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0101_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="75" xml:id="surface-oversize-ms-codex-1703-103">
+      <graphic height="6585px" url="master/5223_0102.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0102_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0102_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="76" xml:id="surface-oversize-ms-codex-1703-104">
+      <graphic height="6585px" url="master/5223_0103.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0103_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0103_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="77" xml:id="surface-oversize-ms-codex-1703-105">
+      <graphic height="6585px" url="master/5223_0104.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0104_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0104_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="78" xml:id="surface-oversize-ms-codex-1703-106">
+      <graphic height="6585px" url="master/5223_0105.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0105_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0105_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="79" xml:id="surface-oversize-ms-codex-1703-107">
+      <graphic height="6585px" url="master/5223_0106.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0106_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0106_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="80" xml:id="surface-oversize-ms-codex-1703-108">
+      <graphic height="6585px" url="master/5223_0107.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0107_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0107_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="81" xml:id="surface-oversize-ms-codex-1703-109">
+      <graphic height="6585px" url="master/5223_0108.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0108_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0108_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="82" xml:id="surface-oversize-ms-codex-1703-110">
+      <graphic height="6585px" url="master/5223_0109.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0109_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0109_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="83" xml:id="surface-oversize-ms-codex-1703-111">
+      <graphic height="6585px" url="master/5223_0110.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0110_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0110_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="84" xml:id="surface-oversize-ms-codex-1703-112">
+      <graphic height="6585px" url="master/5223_0111.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0111_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0111_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="85" xml:id="surface-oversize-ms-codex-1703-113">
+      <graphic height="6585px" url="master/5223_0112.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0112_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0112_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="86" xml:id="surface-oversize-ms-codex-1703-114">
+      <graphic height="6585px" url="master/5223_0113.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0113_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0113_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="87" xml:id="surface-oversize-ms-codex-1703-115">
+      <graphic height="6585px" url="master/5223_0114.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0114_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0114_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="88" xml:id="surface-oversize-ms-codex-1703-116">
+      <graphic height="6585px" url="master/5223_0115.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0115_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0115_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="89" xml:id="surface-oversize-ms-codex-1703-117">
+      <graphic height="6585px" url="master/5223_0116.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0116_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0116_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="90" xml:id="surface-oversize-ms-codex-1703-118">
+      <graphic height="6585px" url="master/5223_0117.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0117_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0117_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="91" xml:id="surface-oversize-ms-codex-1703-119">
+      <graphic height="6585px" url="master/5223_0118.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0118_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0118_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="92" xml:id="surface-oversize-ms-codex-1703-120">
+      <graphic height="6585px" url="master/5223_0119.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0119_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0119_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="93" xml:id="surface-oversize-ms-codex-1703-121">
+      <graphic height="6585px" url="master/5223_0120.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0120_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0120_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="94" xml:id="surface-oversize-ms-codex-1703-122">
+      <graphic height="6585px" url="master/5223_0121.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0121_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0121_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="95" xml:id="surface-oversize-ms-codex-1703-123">
+      <graphic height="6585px" url="master/5223_0122.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0122_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0122_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="96" xml:id="surface-oversize-ms-codex-1703-124">
+      <graphic height="6585px" url="master/5223_0123.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0123_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0123_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="97" xml:id="surface-oversize-ms-codex-1703-125">
+      <graphic height="6585px" url="master/5223_0124.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0124_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0124_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="98" xml:id="surface-oversize-ms-codex-1703-126">
+      <graphic height="6585px" url="master/5223_0125.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0125_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0125_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="99" xml:id="surface-oversize-ms-codex-1703-127">
+      <graphic height="6585px" url="master/5223_0126.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0126_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0126_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="100" xml:id="surface-oversize-ms-codex-1703-128">
+      <graphic height="6585px" url="master/5223_0127.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0127_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0127_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="101" xml:id="surface-oversize-ms-codex-1703-129">
+      <graphic height="6585px" url="master/5223_0128.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0128_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0128_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="102" xml:id="surface-oversize-ms-codex-1703-130">
+      <graphic height="6585px" url="master/5223_0129.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0129_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0129_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="103" xml:id="surface-oversize-ms-codex-1703-131">
+      <graphic height="6585px" url="master/5223_0130.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0130_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0130_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="104" xml:id="surface-oversize-ms-codex-1703-132">
+      <graphic height="6585px" url="master/5223_0131.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0131_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0131_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="105" xml:id="surface-oversize-ms-codex-1703-133">
+      <graphic height="6585px" url="master/5223_0132.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0132_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0132_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="106" xml:id="surface-oversize-ms-codex-1703-134">
+      <graphic height="6585px" url="master/5223_0133.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0133_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0133_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="107" xml:id="surface-oversize-ms-codex-1703-135">
+      <graphic height="6585px" url="master/5223_0134.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0134_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0134_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="108" xml:id="surface-oversize-ms-codex-1703-136">
+      <graphic height="6585px" url="master/5223_0135.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0135_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0135_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="109" xml:id="surface-oversize-ms-codex-1703-137">
+      <graphic height="6585px" url="master/5223_0136.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0136_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0136_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="110" xml:id="surface-oversize-ms-codex-1703-138">
+      <graphic height="6585px" url="master/5223_0137.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0137_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0137_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="111" xml:id="surface-oversize-ms-codex-1703-139">
+      <graphic height="6585px" url="master/5223_0138.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0138_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0138_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="112" xml:id="surface-oversize-ms-codex-1703-140">
+      <graphic height="6585px" url="master/5223_0139.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0139_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0139_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="113" xml:id="surface-oversize-ms-codex-1703-141">
+      <graphic height="6585px" url="master/5223_0140.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0140_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0140_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="114" xml:id="surface-oversize-ms-codex-1703-142">
+      <graphic height="6585px" url="master/5223_0141.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0141_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0141_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="115" xml:id="surface-oversize-ms-codex-1703-143">
+      <graphic height="6585px" url="master/5223_0142.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0142_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0142_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="116" xml:id="surface-oversize-ms-codex-1703-144">
+      <graphic height="6585px" url="master/5223_0143.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0143_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0143_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="117" xml:id="surface-oversize-ms-codex-1703-145">
+      <graphic height="6585px" url="master/5223_0144.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0144_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0144_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="118" xml:id="surface-oversize-ms-codex-1703-146">
+      <graphic height="6585px" url="master/5223_0145.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0145_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0145_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="119" xml:id="surface-oversize-ms-codex-1703-147">
+      <graphic height="6585px" url="master/5223_0146.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0146_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0146_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="120" xml:id="surface-oversize-ms-codex-1703-148">
+      <graphic height="6585px" url="master/5223_0147.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0147_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0147_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="121" xml:id="surface-oversize-ms-codex-1703-149">
+      <graphic height="6585px" url="master/5223_0148.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0148_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0148_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="122" xml:id="surface-oversize-ms-codex-1703-150">
+      <graphic height="6585px" url="master/5223_0149.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0149_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0149_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="123" xml:id="surface-oversize-ms-codex-1703-151">
+      <graphic height="6585px" url="master/5223_0150.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0150_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0150_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="124" xml:id="surface-oversize-ms-codex-1703-152">
+      <graphic height="6585px" url="master/5223_0151.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0151_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0151_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="125" xml:id="surface-oversize-ms-codex-1703-153">
+      <graphic height="6585px" url="master/5223_0152.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0152_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0152_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="126" xml:id="surface-oversize-ms-codex-1703-154">
+      <graphic height="6585px" url="master/5223_0153.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0153_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0153_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="127" xml:id="surface-oversize-ms-codex-1703-155">
+      <graphic height="6585px" url="master/5223_0154.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0154_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0154_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="128" xml:id="surface-oversize-ms-codex-1703-156">
+      <graphic height="6585px" url="master/5223_0155.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0155_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0155_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="129" xml:id="surface-oversize-ms-codex-1703-157">
+      <graphic height="6585px" url="master/5223_0156.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0156_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0156_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="130" xml:id="surface-oversize-ms-codex-1703-158">
+      <graphic height="6585px" url="master/5223_0157.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0157_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0157_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="131" xml:id="surface-oversize-ms-codex-1703-159">
+      <graphic height="6585px" url="master/5223_0158.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0158_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0158_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="132" xml:id="surface-oversize-ms-codex-1703-160">
+      <graphic height="6585px" url="master/5223_0159.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0159_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0159_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="133" xml:id="surface-oversize-ms-codex-1703-161">
+      <graphic height="6585px" url="master/5223_0160.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0160_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0160_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="134" xml:id="surface-oversize-ms-codex-1703-162">
+      <graphic height="6585px" url="master/5223_0161.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0161_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0161_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="135" xml:id="surface-oversize-ms-codex-1703-163">
+      <graphic height="6585px" url="master/5223_0162.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0162_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0162_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="136" xml:id="surface-oversize-ms-codex-1703-164">
+      <graphic height="6585px" url="master/5223_0163.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0163_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0163_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="137" xml:id="surface-oversize-ms-codex-1703-165">
+      <graphic height="6585px" url="master/5223_0164.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0164_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0164_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="138" xml:id="surface-oversize-ms-codex-1703-166">
+      <graphic height="6585px" url="master/5223_0165.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0165_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0165_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="139" xml:id="surface-oversize-ms-codex-1703-167">
+      <graphic height="6585px" url="master/5223_0166.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0166_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0166_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="140" xml:id="surface-oversize-ms-codex-1703-168">
+      <graphic height="6585px" url="master/5223_0167.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0167_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0167_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="141" xml:id="surface-oversize-ms-codex-1703-169">
+      <graphic height="6585px" url="master/5223_0168.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0168_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0168_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="142" xml:id="surface-oversize-ms-codex-1703-170">
+      <graphic height="6585px" url="master/5223_0169.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0169_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0169_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="143" xml:id="surface-oversize-ms-codex-1703-171">
+      <graphic height="6585px" url="master/5223_0170.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0170_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0170_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="144" xml:id="surface-oversize-ms-codex-1703-172">
+      <graphic height="6585px" url="master/5223_0171.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0171_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0171_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="145" xml:id="surface-oversize-ms-codex-1703-173">
+      <graphic height="6585px" url="master/5223_0172.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0172_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0172_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="146" xml:id="surface-oversize-ms-codex-1703-174">
+      <graphic height="6585px" url="master/5223_0173.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0173_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0173_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="147" xml:id="surface-oversize-ms-codex-1703-175">
+      <graphic height="6585px" url="master/5223_0174.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0174_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0174_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="148" xml:id="surface-oversize-ms-codex-1703-176">
+      <graphic height="6585px" url="master/5223_0175.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0175_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0175_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="149" xml:id="surface-oversize-ms-codex-1703-177">
+      <graphic height="6585px" url="master/5223_0176.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0176_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0176_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="150" xml:id="surface-oversize-ms-codex-1703-178">
+      <graphic height="6585px" url="master/5223_0177.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0177_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0177_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="151" xml:id="surface-oversize-ms-codex-1703-179">
+      <graphic height="6585px" url="master/5223_0178.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0178_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0178_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="152" xml:id="surface-oversize-ms-codex-1703-180">
+      <graphic height="6585px" url="master/5223_0179.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0179_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0179_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="153" xml:id="surface-oversize-ms-codex-1703-181">
+      <graphic height="6585px" url="master/5223_0180.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0180_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0180_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="154" xml:id="surface-oversize-ms-codex-1703-182">
+      <graphic height="6585px" url="master/5223_0181.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0181_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0181_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="155" xml:id="surface-oversize-ms-codex-1703-183">
+      <graphic height="6585px" url="master/5223_0182.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0182_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0182_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="156" xml:id="surface-oversize-ms-codex-1703-184">
+      <graphic height="6585px" url="master/5223_0183.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0183_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0183_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="157" xml:id="surface-oversize-ms-codex-1703-185">
+      <graphic height="6585px" url="master/5223_0184.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0184_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0184_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="158" xml:id="surface-oversize-ms-codex-1703-186">
+      <graphic height="6585px" url="master/5223_0185.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0185_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0185_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="159" xml:id="surface-oversize-ms-codex-1703-187">
+      <graphic height="6585px" url="master/5223_0186.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0186_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0186_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="160" xml:id="surface-oversize-ms-codex-1703-188">
+      <graphic height="6585px" url="master/5223_0187.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0187_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0187_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="161" xml:id="surface-oversize-ms-codex-1703-189">
+      <graphic height="6585px" url="master/5223_0188.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0188_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0188_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="162" xml:id="surface-oversize-ms-codex-1703-190">
+      <graphic height="6585px" url="master/5223_0189.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0189_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0189_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="163" xml:id="surface-oversize-ms-codex-1703-191">
+      <graphic height="6585px" url="master/5223_0190.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0190_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0190_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="164" xml:id="surface-oversize-ms-codex-1703-192">
+      <graphic height="6585px" url="master/5223_0191.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0191_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0191_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="165" xml:id="surface-oversize-ms-codex-1703-193">
+      <graphic height="6585px" url="master/5223_0192.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0192_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0192_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="166" xml:id="surface-oversize-ms-codex-1703-194">
+      <graphic height="6585px" url="master/5223_0193.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0193_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0193_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="167" xml:id="surface-oversize-ms-codex-1703-195">
+      <graphic height="6585px" url="master/5223_0194.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0194_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0194_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="168" xml:id="surface-oversize-ms-codex-1703-196">
+      <graphic height="6585px" url="master/5223_0195.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0195_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0195_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="169" xml:id="surface-oversize-ms-codex-1703-197">
+      <graphic height="6585px" url="master/5223_0196.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0196_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0196_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="170" xml:id="surface-oversize-ms-codex-1703-198">
+      <graphic height="6585px" url="master/5223_0197.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0197_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0197_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="171" xml:id="surface-oversize-ms-codex-1703-199">
+      <graphic height="6585px" url="master/5223_0198.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0198_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0198_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="172" xml:id="surface-oversize-ms-codex-1703-200">
+      <graphic height="6585px" url="master/5223_0199.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0199_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0199_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="173" xml:id="surface-oversize-ms-codex-1703-201">
+      <graphic height="6585px" url="master/5223_0200.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0200_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0200_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="174" xml:id="surface-oversize-ms-codex-1703-202">
+      <graphic height="6585px" url="master/5223_0201.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0201_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0201_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="175" xml:id="surface-oversize-ms-codex-1703-203">
+      <graphic height="6585px" url="master/5223_0202.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0202_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0202_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="176" xml:id="surface-oversize-ms-codex-1703-204">
+      <graphic height="6585px" url="master/5223_0203.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0203_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0203_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="177" xml:id="surface-oversize-ms-codex-1703-205">
+      <graphic height="6585px" url="master/5223_0204.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0204_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0204_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="178" xml:id="surface-oversize-ms-codex-1703-206">
+      <graphic height="6585px" url="master/5223_0205.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0205_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0205_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="179" xml:id="surface-oversize-ms-codex-1703-207">
+      <graphic height="6585px" url="master/5223_0206.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0206_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0206_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="180" xml:id="surface-oversize-ms-codex-1703-208">
+      <graphic height="6585px" url="master/5223_0207.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0207_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0207_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="181" xml:id="surface-oversize-ms-codex-1703-209">
+      <graphic height="6585px" url="master/5223_0208.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0208_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0208_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="182" xml:id="surface-oversize-ms-codex-1703-210">
+      <graphic height="6585px" url="master/5223_0209.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0209_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0209_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="183" xml:id="surface-oversize-ms-codex-1703-211">
+      <graphic height="6585px" url="master/5223_0210.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0210_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0210_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="184" xml:id="surface-oversize-ms-codex-1703-212">
+      <graphic height="6585px" url="master/5223_0211.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0211_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0211_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="185" xml:id="surface-oversize-ms-codex-1703-213">
+      <graphic height="6585px" url="master/5223_0212.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0212_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0212_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="186" xml:id="surface-oversize-ms-codex-1703-214">
+      <graphic height="6585px" url="master/5223_0213.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0213_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0213_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="187" xml:id="surface-oversize-ms-codex-1703-215">
+      <graphic height="6585px" url="master/5223_0214.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0214_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0214_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="188" xml:id="surface-oversize-ms-codex-1703-216">
+      <graphic height="6585px" url="master/5223_0215.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0215_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0215_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="189" xml:id="surface-oversize-ms-codex-1703-217">
+      <graphic height="6585px" url="master/5223_0216.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0216_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0216_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="190" xml:id="surface-oversize-ms-codex-1703-218">
+      <graphic height="6585px" url="master/5223_0217.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0217_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0217_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="191" xml:id="surface-oversize-ms-codex-1703-219">
+      <graphic height="6585px" url="master/5223_0218.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0218_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0218_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="192" xml:id="surface-oversize-ms-codex-1703-220">
+      <graphic height="6585px" url="master/5223_0219.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0219_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0219_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="193" xml:id="surface-oversize-ms-codex-1703-221">
+      <graphic height="6585px" url="master/5223_0220.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0220_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0220_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="194" xml:id="surface-oversize-ms-codex-1703-222">
+      <graphic height="6585px" url="master/5223_0221.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0221_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0221_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="195" xml:id="surface-oversize-ms-codex-1703-223">
+      <graphic height="6585px" url="master/5223_0222.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0222_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0222_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="196" xml:id="surface-oversize-ms-codex-1703-224">
+      <graphic height="6585px" url="master/5223_0223.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0223_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0223_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="197" xml:id="surface-oversize-ms-codex-1703-225">
+      <graphic height="6585px" url="master/5223_0224.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0224_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0224_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="198" xml:id="surface-oversize-ms-codex-1703-226">
+      <graphic height="6585px" url="master/5223_0225.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0225_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0225_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="199" xml:id="surface-oversize-ms-codex-1703-227">
+      <graphic height="6585px" url="master/5223_0226.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0226_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0226_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="200" xml:id="surface-oversize-ms-codex-1703-228">
+      <graphic height="6585px" url="master/5223_0227.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0227_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0227_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="201" xml:id="surface-oversize-ms-codex-1703-229">
+      <graphic height="6585px" url="master/5223_0228.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0228_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0228_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="202" xml:id="surface-oversize-ms-codex-1703-230">
+      <graphic height="6585px" url="master/5223_0229.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0229_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0229_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="203" xml:id="surface-oversize-ms-codex-1703-231">
+      <graphic height="6585px" url="master/5223_0230.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0230_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0230_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="204" xml:id="surface-oversize-ms-codex-1703-232">
+      <graphic height="6585px" url="master/5223_0231.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0231_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0231_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="205" xml:id="surface-oversize-ms-codex-1703-233">
+      <graphic height="6585px" url="master/5223_0232.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0232_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0232_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="206" xml:id="surface-oversize-ms-codex-1703-234">
+      <graphic height="6585px" url="master/5223_0233.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0233_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0233_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="207" xml:id="surface-oversize-ms-codex-1703-235">
+      <graphic height="6585px" url="master/5223_0234.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0234_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0234_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="208" xml:id="surface-oversize-ms-codex-1703-236">
+      <graphic height="6585px" url="master/5223_0235.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0235_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0235_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="209" xml:id="surface-oversize-ms-codex-1703-237">
+      <graphic height="6585px" url="master/5223_0236.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0236_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0236_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="210" xml:id="surface-oversize-ms-codex-1703-238">
+      <graphic height="6585px" url="master/5223_0237.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0237_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0237_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="211" xml:id="surface-oversize-ms-codex-1703-239">
+      <graphic height="6585px" url="master/5223_0238.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0238_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0238_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="212" xml:id="surface-oversize-ms-codex-1703-240">
+      <graphic height="6585px" url="master/5223_0239.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0239_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0239_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="213" xml:id="surface-oversize-ms-codex-1703-241">
+      <graphic height="6585px" url="master/5223_0240.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0240_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0240_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="214" xml:id="surface-oversize-ms-codex-1703-242">
+      <graphic height="6585px" url="master/5223_0241.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0241_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0241_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="215" xml:id="surface-oversize-ms-codex-1703-243">
+      <graphic height="6585px" url="master/5223_0242.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0242_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0242_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="216" xml:id="surface-oversize-ms-codex-1703-244">
+      <graphic height="6585px" url="master/5223_0243.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0243_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0243_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="217" xml:id="surface-oversize-ms-codex-1703-245">
+      <graphic height="6585px" url="master/5223_0244.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0244_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0244_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="218" xml:id="surface-oversize-ms-codex-1703-246">
+      <graphic height="6585px" url="master/5223_0245.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0245_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0245_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="219" xml:id="surface-oversize-ms-codex-1703-247">
+      <graphic height="6585px" url="master/5223_0246.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0246_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0246_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="220" xml:id="surface-oversize-ms-codex-1703-248">
+      <graphic height="6585px" url="master/5223_0247.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0247_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0247_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="221" xml:id="surface-oversize-ms-codex-1703-249">
+      <graphic height="6585px" url="master/5223_0248.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0248_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0248_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="222" xml:id="surface-oversize-ms-codex-1703-250">
+      <graphic height="6585px" url="master/5223_0249.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0249_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0249_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="223" xml:id="surface-oversize-ms-codex-1703-251">
+      <graphic height="6585px" url="master/5223_0250.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0250_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0250_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="224" xml:id="surface-oversize-ms-codex-1703-252">
+      <graphic height="6585px" url="master/5223_0251.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0251_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0251_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="225" xml:id="surface-oversize-ms-codex-1703-253">
+      <graphic height="6585px" url="master/5223_0252.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0252_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0252_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="226" xml:id="surface-oversize-ms-codex-1703-254">
+      <graphic height="6585px" url="master/5223_0253.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0253_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0253_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="227" xml:id="surface-oversize-ms-codex-1703-255">
+      <graphic height="6585px" url="master/5223_0254.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0254_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0254_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="228" xml:id="surface-oversize-ms-codex-1703-256">
+      <graphic height="6585px" url="master/5223_0255.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0255_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0255_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="229" xml:id="surface-oversize-ms-codex-1703-257">
+      <graphic height="6585px" url="master/5223_0256.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0256_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0256_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="230" xml:id="surface-oversize-ms-codex-1703-258">
+      <graphic height="6585px" url="master/5223_0257.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0257_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0257_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="231" xml:id="surface-oversize-ms-codex-1703-259">
+      <graphic height="6585px" url="master/5223_0258.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0258_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0258_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="232" xml:id="surface-oversize-ms-codex-1703-260">
+      <graphic height="6585px" url="master/5223_0259.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0259_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0259_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="233" xml:id="surface-oversize-ms-codex-1703-261">
+      <graphic height="6585px" url="master/5223_0260.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0260_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0260_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="234" xml:id="surface-oversize-ms-codex-1703-262">
+      <graphic height="6585px" url="master/5223_0261.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0261_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0261_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="235" xml:id="surface-oversize-ms-codex-1703-263">
+      <graphic height="6585px" url="master/5223_0262.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0262_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0262_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="236" xml:id="surface-oversize-ms-codex-1703-264">
+      <graphic height="6585px" url="master/5223_0263.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0263_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0263_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="237" xml:id="surface-oversize-ms-codex-1703-265">
+      <graphic height="6585px" url="master/5223_0264.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0264_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0264_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="238" xml:id="surface-oversize-ms-codex-1703-266">
+      <graphic height="6585px" url="master/5223_0265.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0265_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0265_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="239" xml:id="surface-oversize-ms-codex-1703-267">
+      <graphic height="6585px" url="master/5223_0266.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0266_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0266_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="240" xml:id="surface-oversize-ms-codex-1703-268">
+      <graphic height="6585px" url="master/5223_0267.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0267_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0267_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="241" xml:id="surface-oversize-ms-codex-1703-269">
+      <graphic height="6585px" url="master/5223_0268.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0268_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0268_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="242" xml:id="surface-oversize-ms-codex-1703-270">
+      <graphic height="6585px" url="master/5223_0269.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0269_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0269_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="243" xml:id="surface-oversize-ms-codex-1703-271">
+      <graphic height="6585px" url="master/5223_0270.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0270_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0270_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="244" xml:id="surface-oversize-ms-codex-1703-272">
+      <graphic height="6585px" url="master/5223_0271.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0271_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0271_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="245" xml:id="surface-oversize-ms-codex-1703-273">
+      <graphic height="6585px" url="master/5223_0272.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0272_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0272_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="246" xml:id="surface-oversize-ms-codex-1703-274">
+      <graphic height="6585px" url="master/5223_0273.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0273_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0273_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="247" xml:id="surface-oversize-ms-codex-1703-275">
+      <graphic height="6585px" url="master/5223_0274.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0274_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0274_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="248" xml:id="surface-oversize-ms-codex-1703-276">
+      <graphic height="6585px" url="master/5223_0275.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0275_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0275_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="249" xml:id="surface-oversize-ms-codex-1703-277">
+      <graphic height="6585px" url="master/5223_0276.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0276_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0276_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="250" xml:id="surface-oversize-ms-codex-1703-278">
+      <graphic height="6585px" url="master/5223_0277.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0277_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0277_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="251" xml:id="surface-oversize-ms-codex-1703-279">
+      <graphic height="6585px" url="master/5223_0278.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0278_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0278_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="252" xml:id="surface-oversize-ms-codex-1703-280">
+      <graphic height="6585px" url="master/5223_0279.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0279_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0279_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="253" xml:id="surface-oversize-ms-codex-1703-281">
+      <graphic height="6585px" url="master/5223_0280.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0280_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0280_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="254" xml:id="surface-oversize-ms-codex-1703-282">
+      <graphic height="6585px" url="master/5223_0281.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0281_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0281_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="255" xml:id="surface-oversize-ms-codex-1703-283">
+      <graphic height="6585px" url="master/5223_0282.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0282_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0282_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="256" xml:id="surface-oversize-ms-codex-1703-284">
+      <graphic height="6585px" url="master/5223_0283.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0283_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0283_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="257" xml:id="surface-oversize-ms-codex-1703-285">
+      <graphic height="6585px" url="master/5223_0284.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0284_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0284_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="258" xml:id="surface-oversize-ms-codex-1703-286">
+      <graphic height="6585px" url="master/5223_0285.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0285_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0285_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="259" xml:id="surface-oversize-ms-codex-1703-287">
+      <graphic height="6585px" url="master/5223_0286.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0286_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0286_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="260" xml:id="surface-oversize-ms-codex-1703-288">
+      <graphic height="6585px" url="master/5223_0287.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0287_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0287_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="261" xml:id="surface-oversize-ms-codex-1703-289">
+      <graphic height="6585px" url="master/5223_0288.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0288_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0288_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="262" xml:id="surface-oversize-ms-codex-1703-290">
+      <graphic height="6585px" url="master/5223_0289.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0289_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0289_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="263" xml:id="surface-oversize-ms-codex-1703-291">
+      <graphic height="6585px" url="master/5223_0290.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0290_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0290_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="264" xml:id="surface-oversize-ms-codex-1703-292">
+      <graphic height="6585px" url="master/5223_0291.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0291_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0291_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="265" xml:id="surface-oversize-ms-codex-1703-293">
+      <graphic height="6585px" url="master/5223_0292.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0292_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0292_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="266" xml:id="surface-oversize-ms-codex-1703-294">
+      <graphic height="6585px" url="master/5223_0293.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0293_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0293_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="267" xml:id="surface-oversize-ms-codex-1703-295">
+      <graphic height="6585px" url="master/5223_0294.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0294_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0294_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="268" xml:id="surface-oversize-ms-codex-1703-296">
+      <graphic height="6585px" url="master/5223_0295.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0295_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0295_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="269" xml:id="surface-oversize-ms-codex-1703-297">
+      <graphic height="6585px" url="master/5223_0296.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0296_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0296_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="270" xml:id="surface-oversize-ms-codex-1703-298">
+      <graphic height="6585px" url="master/5223_0297.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0297_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0297_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="271" xml:id="surface-oversize-ms-codex-1703-299">
+      <graphic height="6585px" url="master/5223_0298.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0298_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0298_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="272" xml:id="surface-oversize-ms-codex-1703-300">
+      <graphic height="6585px" url="master/5223_0299.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0299_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0299_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="273" xml:id="surface-oversize-ms-codex-1703-301">
+      <graphic height="6585px" url="master/5223_0300.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0300_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0300_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="274" xml:id="surface-oversize-ms-codex-1703-302">
+      <graphic height="6585px" url="master/5223_0301.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0301_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0301_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="275" xml:id="surface-oversize-ms-codex-1703-303">
+      <graphic height="6585px" url="master/5223_0302.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0302_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0302_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="276" xml:id="surface-oversize-ms-codex-1703-304">
+      <graphic height="6585px" url="master/5223_0303.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0303_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0303_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="277" xml:id="surface-oversize-ms-codex-1703-305">
+      <graphic height="6585px" url="master/5223_0304.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0304_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0304_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="278" xml:id="surface-oversize-ms-codex-1703-306">
+      <graphic height="6585px" url="master/5223_0305.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0305_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0305_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="279" xml:id="surface-oversize-ms-codex-1703-307">
+      <graphic height="6585px" url="master/5223_0306.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0306_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0306_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="280" xml:id="surface-oversize-ms-codex-1703-308">
+      <graphic height="6585px" url="master/5223_0307.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0307_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0307_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="281" xml:id="surface-oversize-ms-codex-1703-309">
+      <graphic height="6585px" url="master/5223_0308.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0308_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0308_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="282" xml:id="surface-oversize-ms-codex-1703-310">
+      <graphic height="6585px" url="master/5223_0309.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0309_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0309_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="283" xml:id="surface-oversize-ms-codex-1703-311">
+      <graphic height="6585px" url="master/5223_0310.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0310_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0310_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="284" xml:id="surface-oversize-ms-codex-1703-312">
+      <graphic height="6585px" url="master/5223_0311.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0311_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0311_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="285" xml:id="surface-oversize-ms-codex-1703-313">
+      <graphic height="6585px" url="master/5223_0312.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0312_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0312_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="286" xml:id="surface-oversize-ms-codex-1703-314">
+      <graphic height="6585px" url="master/5223_0313.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0313_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0313_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="287" xml:id="surface-oversize-ms-codex-1703-315">
+      <graphic height="6585px" url="master/5223_0314.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0314_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0314_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="288" xml:id="surface-oversize-ms-codex-1703-316">
+      <graphic height="6585px" url="master/5223_0315.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0315_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0315_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="289" xml:id="surface-oversize-ms-codex-1703-317">
+      <graphic height="6585px" url="master/5223_0316.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0316_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0316_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="290" xml:id="surface-oversize-ms-codex-1703-318">
+      <graphic height="6585px" url="master/5223_0317.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0317_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0317_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="291" xml:id="surface-oversize-ms-codex-1703-319">
+      <graphic height="6585px" url="master/5223_0318.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0318_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0318_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="292" xml:id="surface-oversize-ms-codex-1703-320">
+      <graphic height="6585px" url="master/5223_0319.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0319_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0319_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="293" xml:id="surface-oversize-ms-codex-1703-321">
+      <graphic height="6585px" url="master/5223_0320.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0320_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0320_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="294" xml:id="surface-oversize-ms-codex-1703-322">
+      <graphic height="6585px" url="master/5223_0321.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0321_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0321_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="295" xml:id="surface-oversize-ms-codex-1703-323">
+      <graphic height="6585px" url="master/5223_0322.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0322_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0322_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="296" xml:id="surface-oversize-ms-codex-1703-324">
+      <graphic height="6585px" url="master/5223_0323.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0323_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0323_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="297" xml:id="surface-oversize-ms-codex-1703-325">
+      <graphic height="6585px" url="master/5223_0324.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0324_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0324_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="298" xml:id="surface-oversize-ms-codex-1703-326">
+      <graphic height="6585px" url="master/5223_0325.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0325_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0325_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="299" xml:id="surface-oversize-ms-codex-1703-327">
+      <graphic height="6585px" url="master/5223_0326.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0326_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0326_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="300" xml:id="surface-oversize-ms-codex-1703-328">
+      <graphic height="6585px" url="master/5223_0327.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0327_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0327_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="301" xml:id="surface-oversize-ms-codex-1703-329">
+      <graphic height="6585px" url="master/5223_0328.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0328_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0328_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="302" xml:id="surface-oversize-ms-codex-1703-330">
+      <graphic height="6585px" url="master/5223_0329.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0329_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0329_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="303" xml:id="surface-oversize-ms-codex-1703-331">
+      <graphic height="6585px" url="master/5223_0330.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0330_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0330_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="304" xml:id="surface-oversize-ms-codex-1703-332">
+      <graphic height="6585px" url="master/5223_0331.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0331_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0331_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="305" xml:id="surface-oversize-ms-codex-1703-333">
+      <graphic height="6585px" url="master/5223_0332.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0332_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0332_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="306" xml:id="surface-oversize-ms-codex-1703-334">
+      <graphic height="6585px" url="master/5223_0333.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0333_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0333_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="307" xml:id="surface-oversize-ms-codex-1703-335">
+      <graphic height="6585px" url="master/5223_0334.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0334_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0334_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="308" xml:id="surface-oversize-ms-codex-1703-336">
+      <graphic height="6585px" url="master/5223_0335.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0335_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0335_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="309" xml:id="surface-oversize-ms-codex-1703-337">
+      <graphic height="6585px" url="master/5223_0336.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0336_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0336_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="310" xml:id="surface-oversize-ms-codex-1703-338">
+      <graphic height="6585px" url="master/5223_0337.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0337_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0337_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="311" xml:id="surface-oversize-ms-codex-1703-339">
+      <graphic height="6585px" url="master/5223_0338.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0338_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0338_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="312" xml:id="surface-oversize-ms-codex-1703-340">
+      <graphic height="6585px" url="master/5223_0339.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0339_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0339_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="313" xml:id="surface-oversize-ms-codex-1703-341">
+      <graphic height="6585px" url="master/5223_0340.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0340_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0340_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="314" xml:id="surface-oversize-ms-codex-1703-342">
+      <graphic height="6585px" url="master/5223_0341.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0341_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0341_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="315" xml:id="surface-oversize-ms-codex-1703-343">
+      <graphic height="6585px" url="master/5223_0342.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0342_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0342_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="316" xml:id="surface-oversize-ms-codex-1703-344">
+      <graphic height="6585px" url="master/5223_0343.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0343_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0343_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="317" xml:id="surface-oversize-ms-codex-1703-345">
+      <graphic height="6585px" url="master/5223_0344.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0344_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0344_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="318" xml:id="surface-oversize-ms-codex-1703-346">
+      <graphic height="6585px" url="master/5223_0345.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0345_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0345_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="319" xml:id="surface-oversize-ms-codex-1703-347">
+      <graphic height="6585px" url="master/5223_0346.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0346_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0346_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="320" xml:id="surface-oversize-ms-codex-1703-348">
+      <graphic height="6585px" url="master/5223_0347.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0347_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0347_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="321" xml:id="surface-oversize-ms-codex-1703-349">
+      <graphic height="6585px" url="master/5223_0348.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0348_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0348_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="322" xml:id="surface-oversize-ms-codex-1703-350">
+      <graphic height="6585px" url="master/5223_0349.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0349_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0349_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="323" xml:id="surface-oversize-ms-codex-1703-351">
+      <graphic height="6585px" url="master/5223_0350.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0350_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0350_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="324" xml:id="surface-oversize-ms-codex-1703-352">
+      <graphic height="6585px" url="master/5223_0351.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0351_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0351_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="325" xml:id="surface-oversize-ms-codex-1703-353">
+      <graphic height="6585px" url="master/5223_0352.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0352_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0352_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="326" xml:id="surface-oversize-ms-codex-1703-354">
+      <graphic height="6585px" url="master/5223_0353.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0353_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0353_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="327" xml:id="surface-oversize-ms-codex-1703-355">
+      <graphic height="6585px" url="master/5223_0354.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0354_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0354_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="328" xml:id="surface-oversize-ms-codex-1703-356">
+      <graphic height="6585px" url="master/5223_0355.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0355_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0355_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="329" xml:id="surface-oversize-ms-codex-1703-357">
+      <graphic height="6585px" url="master/5223_0356.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0356_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0356_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="330" xml:id="surface-oversize-ms-codex-1703-358">
+      <graphic height="6585px" url="master/5223_0357.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0357_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0357_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="331" xml:id="surface-oversize-ms-codex-1703-359">
+      <graphic height="6585px" url="master/5223_0358.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0358_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0358_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="332" xml:id="surface-oversize-ms-codex-1703-360">
+      <graphic height="6585px" url="master/5223_0359.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0359_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0359_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="333" xml:id="surface-oversize-ms-codex-1703-361">
+      <graphic height="6585px" url="master/5223_0360.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0360_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0360_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="334" xml:id="surface-oversize-ms-codex-1703-362">
+      <graphic height="6585px" url="master/5223_0361.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0361_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0361_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="335" xml:id="surface-oversize-ms-codex-1703-363">
+      <graphic height="6585px" url="master/5223_0362.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0362_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0362_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="336" xml:id="surface-oversize-ms-codex-1703-364">
+      <graphic height="6585px" url="master/5223_0363.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0363_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0363_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="337" xml:id="surface-oversize-ms-codex-1703-365">
+      <graphic height="6585px" url="master/5223_0364.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0364_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0364_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="338" xml:id="surface-oversize-ms-codex-1703-366">
+      <graphic height="6585px" url="master/5223_0365.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0365_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0365_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="339" xml:id="surface-oversize-ms-codex-1703-367">
+      <graphic height="6585px" url="master/5223_0366.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0366_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0366_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="340" xml:id="surface-oversize-ms-codex-1703-368">
+      <graphic height="6585px" url="master/5223_0367.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0367_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0367_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="341" xml:id="surface-oversize-ms-codex-1703-369">
+      <graphic height="6585px" url="master/5223_0368.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0368_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0368_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="342" xml:id="surface-oversize-ms-codex-1703-370">
+      <graphic height="6585px" url="master/5223_0369.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0369_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0369_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="343" xml:id="surface-oversize-ms-codex-1703-371">
+      <graphic height="6585px" url="master/5223_0370.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0370_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0370_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="344" xml:id="surface-oversize-ms-codex-1703-372">
+      <graphic height="6585px" url="master/5223_0371.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0371_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0371_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="345" xml:id="surface-oversize-ms-codex-1703-373">
+      <graphic height="6585px" url="master/5223_0372.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0372_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0372_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="346" xml:id="surface-oversize-ms-codex-1703-374">
+      <graphic height="6585px" url="master/5223_0373.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0373_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0373_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="347" xml:id="surface-oversize-ms-codex-1703-375">
+      <graphic height="6585px" url="master/5223_0374.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0374_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0374_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="348" xml:id="surface-oversize-ms-codex-1703-376">
+      <graphic height="6585px" url="master/5223_0375.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0375_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0375_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="349" xml:id="surface-oversize-ms-codex-1703-377">
+      <graphic height="6585px" url="master/5223_0376.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0376_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0376_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="350" xml:id="surface-oversize-ms-codex-1703-378">
+      <graphic height="6585px" url="master/5223_0377.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0377_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0377_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface-oversize-ms-codex-1703-379">
+      <graphic height="6585px" url="master/5223_0378.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0378_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0378_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface-oversize-ms-codex-1703-380">
+      <graphic height="6585px" url="master/5223_0379.tif" width="5808px"/>
+      <graphic height="190px" url="thumb/5223_0379_thumb.jpg" width="167px"/>
+      <graphic height="1800px" url="web/5223_0379_web.jpg" width="1588px"/>
+    </surface>
+    <surface n="Spine" xml:id="surface-oversize-ms-codex-1703-381">
+      <graphic height="6332px" url="master/5223_0380.tif" width="1632px"/>
+      <graphic height="190px" url="thumb/5223_0380_thumb.jpg" width="48px"/>
+      <graphic height="1800px" url="web/5223_0380_web.jpg" width="463px"/>
+    </surface>
+  </facsimile>
+</TEI>

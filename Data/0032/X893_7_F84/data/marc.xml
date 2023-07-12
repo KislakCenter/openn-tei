@@ -1,0 +1,115 @@
+<collection xmlns='http://www.loc.gov/MARC21/slim' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd'>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000ntm a2200000Ia 4500</leader>
+    <controlfield tag="001">on1238127847</controlfield>
+    <controlfield tag="008">210223q18301899xx            000 0 ara d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">ZCU</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="e">amremm</subfield>
+      <subfield code="c">ZCU</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NNC)15321941</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">n-us-ny</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">ZCUA</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Fragment of an Arabic grammar]</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="0">
+      <subfield code="c">[1830?-1899?]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">ii, 10, xii foliated leaves :</subfield>
+      <subfield code="b">paper ;</subfield>
+      <subfield code="c">235 x 164 (150 x 108) mm, bound to 245 x 172 x 9 mm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="340" ind1=" " ind2=" ">
+      <subfield code="d">manuscript</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Manuscript codex.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">Arabic.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Fragmentary copy of a work on Arabic grammar in the form of question and answer; begins and ends abruptly. Possibly part of a commentary on the Ajrūmīyah.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Title supplied by cataloger.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Layout: Written in 15 long lines.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Script: Written in naskh in black ink; pointed.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Origin: The item is undated; probably 19th century.</subfield>
+    </datafield>
+    <datafield tag="563" ind1=" " ind2=" ">
+      <subfield code="a">Modern cloth binding.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Shelfmark: X893.7 F84</subfield>
+    </datafield>
+    <datafield tag="530" ind1=" " ind2=" ">
+      <subfield code="a">Also available as a digital facsimile.</subfield>
+    </datafield>
+    <datafield tag="588" ind1="0" ind2=" ">
+      <subfield code="a">Item cataloged from digital facsimile and existing description.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Arabic language</subfield>
+      <subfield code="x">Grammar.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Manuscripts, Arabic</subfield>
+      <subfield code="z">New York (State)</subfield>
+      <subfield code="z">New York.</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Codices (bound manuscripts)</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Manuscripts (documents)</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Muslim World Manuscripts (Columbia University. Rare Book and Manuscript Library)</subfield>
+      <subfield code="5">NNC</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="z">Digital facsimile in OPenn</subfield>
+      <subfield code="u">http://openn.library.upenn.edu/Data/0032/html/X893_7_F84.html</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+      <subfield code="a">Columbia University.</subfield>
+      <subfield code="b">Rare Book and Manuscript Library</subfield>
+      <subfield code="e">New York, NY. 10027</subfield>
+      <subfield code="n">nyu</subfield>
+      <subfield code="u">https://clio.columbia.edu/catalog/15321941</subfield>
+    </datafield>
+  </record></collection>

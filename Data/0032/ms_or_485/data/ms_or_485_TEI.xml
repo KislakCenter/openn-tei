@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Columbia University MS Or 485: Leaf from Khusraw va Shīrīn.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Columbia University</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 485: Leaf from Khusraw va Shīrīn. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 485: Leaf from Khusraw va Shīrīn.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Manuscript leaf.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>New York, NY. 10027</settlement>
+            <institution>Columbia University</institution>
+            <repository>Rare Book and Manuscript Library</repository>
+            <idno type="call-number">MS Or 485</idno>
+            <altIdentifier type="bibid">
+              <idno>14345912</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1123203140</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0032/html/ms_or_485.html</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://clio.columbia.edu/catalog/14345912</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>One leaf from Khusraw va Shīrīn containing section 76 and the beginning of section 77.</summary>
+            <textLang mainLang="per">Persian</textLang>
+            <msItem>
+              <title>Leaf from Khusraw va Shīrīn.</title>
+              <author>
+                <persName type="authority">Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203</persName>
+                <persName type="vernacular">نظامى گنجوى،</persName>
+              </author>
+            </msItem>
+            <msItem n="1r">
+              <locus>[1]r</locus>
+              <title>[Leaf from Khusraw va Shīrīn].</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 leaf : 280 x 170 (190 x 105) mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>25 lines in four columns; border and column-ruled.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in nastaʻlīq in black ink; pointed.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Illuminated text dividers in white on gold with blue and yellow surrounds each section covered in polychrome flowers; intercolumnar fill in two styles, black flowers and stems on gold with green rules for the outside columns and red and green geometric pattern on gold with orange rules for the center column; border-rules in gold, brown and three shades of blue.</decoNote>
+              <decoNote n="1r">Illuminated text divider</decoNote>
+              <decoNote n="1v">Illuminated text divider</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>The item is undated; perhaps copied in the 16th or 17th century.</p>
+              <origDate>15--?-16--?</origDate>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Persian poetry--747-1500</term>
+          <term>Manuscripts, Persian</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Early works to 1800</term>
+          <term>Illuminations (painting)</term>
+          <term>Detached leaves</term>
+          <term>Early works</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7203px" url="master/9530_0000.tif" width="4451px"/>
+      <graphic height="190px" url="thumb/9530_0000_thumb.jpg" width="117px"/>
+      <graphic height="1800px" url="web/9530_0000_web.jpg" width="1112px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7198px" url="master/9530_0001.tif" width="4441px"/>
+      <graphic height="190px" url="thumb/9530_0001_thumb.jpg" width="117px"/>
+      <graphic height="1800px" url="web/9530_0001_web.jpg" width="1110px"/>
+    </surface>
+  </facsimile>
+</TEI>

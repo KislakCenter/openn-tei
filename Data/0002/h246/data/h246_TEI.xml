@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 246: Part of a collection of Seliḥot</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 246: Part of a collection of Seliḥot are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Written in a rough cursive hand with dull reed; text breaks signified by a punctus; The fragment contains the end of the prayer text, as the writing ends in the middle of fol. 2v; The text is a variant of the standard Gaonic Seliḥot that appear in Kitāb jāmiʾ aṣ-ṣalawāt wat-tāsābīh for Yom Kippur (Sidur Rav Seʹadyah Rav Gaon / Israel Davidson ... [et al., ed.]. Yerushalayim : Meḳitse nirdamim, 1963, p. 307 l. 17- p. 309 l. 2) based heavily on biblical phrases and paraphrases; Unlike Saadia, here the prayer ends with the Blessing : ברוך אתה י'י חנון ומרב[ה] לסלוח, as it may be a supplement to the regular, weekday 'Amidah.</note>
+        <note>Condition: consecutive, complete.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 246</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419263503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Part of a collection of Seliḥot</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17.1 X 12.7 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 13-14; ruling method: left rule justified by downward slant of last word.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1200" notAfter="1299"/>
+              <p>13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Libraries).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Judaism , Liturgy , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4296px" url="master/4613_0000.tif" width="3264px"/>
+      <graphic height="190px" url="thumb/4613_0000_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/4613_0000_web.jpg" width="1367px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4296px" url="master/4613_0001.tif" width="3264px"/>
+      <graphic height="190px" url="thumb/4613_0001_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/4613_0001_web.jpg" width="1367px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4296px" url="master/4613_0002.tif" width="2912px"/>
+      <graphic height="190px" url="thumb/4613_0002_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/4613_0002_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4296px" url="master/4613_0003.tif" width="3136px"/>
+      <graphic height="190px" url="thumb/4613_0003_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/4613_0003_web.jpg" width="1314px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 146: Commentary on Shulḥan ʹarukh, Oraḥ ḥayim: manuscript.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Laura Eckstein</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 146: Commentary on Shulḥan ʹarukh, Oraḥ ḥayim: manuscript. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Halper's notes: Fol. 1 deals with paragraphs 307, 308. Some leaves are missing between fol. 1b and 2a. Fol. 2 contains notes on paragraphs 282-284. The appearance of the fragment does not allow the changing of the order of the leaves.</note>
+        <note type="relatedResource" target="http://openn.library.upenn.edu/Data/0002/html/h002.html">OPenn</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 146</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418333503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Commentary on Shulḥan ʹarukh, Oraḥ ḥayim: manuscript.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Sephardic semi-cursive square</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1600" notAfter="1799"/>
+              <p>17th-18th century</p>
+              <origPlace>Italy?</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4360px" url="master/4850_0000.tif" width="3008px"/>
+      <graphic height="190px" url="thumb/4850_0000_thumb.jpg" width="131px"/>
+      <graphic height="1800px" url="web/4850_0000_web.jpg" width="1241px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4360px" url="master/4850_0001.tif" width="3008px"/>
+      <graphic height="190px" url="thumb/4850_0001_thumb.jpg" width="131px"/>
+      <graphic height="1800px" url="web/4850_0001_web.jpg" width="1241px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4360px" url="master/4850_0002.tif" width="3008px"/>
+      <graphic height="190px" url="thumb/4850_0002_thumb.jpg" width="131px"/>
+      <graphic height="1800px" url="web/4850_0002_web.jpg" width="1241px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4360px" url="master/4850_0003.tif" width="3008px"/>
+      <graphic height="190px" url="thumb/4850_0003_thumb.jpg" width="131px"/>
+      <graphic height="1800px" url="web/4850_0003_web.jpg" width="1241px"/>
+    </surface>
+  </facsimile>
+</TEI>

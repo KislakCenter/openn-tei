@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 96: Laghunyāsa</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 96: Laghunyāsa are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 4r).</note>
+        <note>Written in 8-9 lines per leaf.</note>
+        <note>4 leaves foliated 1-3, upper left and lower right verso; 4, upper left and lower right recto.</note>
+        <note>Mistakes blacked out; vertical margins marked with double red line; accents in red; floral design on back (f. 4v).</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 96</idno>
+            <altIdentifier type="bibid">
+              <idno>9951818743503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/758974958</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5181874</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Short (laghu) preparatory ritual text for touching parts of the body while reciting mantras to Rudra.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Laghunyāsa</title>
+              <title type="vernacular">लघुन्यास</title>
+              <colophon>Colophon: iti laghunyāsa samāptaṃ // (f. 4r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (4 leaves) : 12 x 22 cm</extent>
+              </supportDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote n="4v">Illuminated border, f. 4v</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hinduism--Rituals--Texts</term>
+          <term>Rites and ceremonies--India</term>
+          <term>Rudra (Hindu deity)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuals (instructional materials)</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-96-1">
+      <graphic height="3173px" url="master/3598_0000.tif" width="5305px"/>
+      <graphic height="113px" url="thumb/3598_0000_thumb.jpg" width="190px"/>
+      <graphic height="1076px" url="web/3598_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-96-2">
+      <graphic height="5925px" url="master/3598_0001.tif" width="5305px"/>
+      <graphic height="190px" url="thumb/3598_0001_thumb.jpg" width="170px"/>
+      <graphic height="1800px" url="web/3598_0001_web.jpg" width="1611px"/>
+    </surface>
+    <surface n="2v-3r" xml:id="surface-ms-coll-390-item-96-3">
+      <graphic height="5925px" url="master/3598_0002.tif" width="5305px"/>
+      <graphic height="190px" url="thumb/3598_0002_thumb.jpg" width="170px"/>
+      <graphic height="1800px" url="web/3598_0002_web.jpg" width="1611px"/>
+    </surface>
+    <surface n="3v-4r" xml:id="surface-ms-coll-390-item-96-4">
+      <graphic height="5925px" url="master/3598_0003.tif" width="5305px"/>
+      <graphic height="190px" url="thumb/3598_0003_thumb.jpg" width="170px"/>
+      <graphic height="1800px" url="web/3598_0003_web.jpg" width="1611px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-ms-coll-390-item-96-5">
+      <graphic height="3173px" url="master/3598_0004.tif" width="5305px"/>
+      <graphic height="113px" url="thumb/3598_0004_thumb.jpg" width="190px"/>
+      <graphic height="1076px" url="web/3598_0004_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

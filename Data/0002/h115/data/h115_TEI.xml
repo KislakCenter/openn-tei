@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 115: Solomon Adret's novellae on the aggadot of the Talmud, Berakhot 35b-44b</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 115: Solomon Adret's novellae on the aggadot of the Talmud, Berakhot 35b-44b are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Chapter headings in slightly enlarged characters above a space; catchword appears at bottom of fol. 1v; fol. 2 is numbered קיח in upper corner of recto (=118). ;Fol. 1 is glued to a decorative cardboard, which indicates that this fragment probably saw secondary usage in a binding of a latter book (Halper: "which was one of the covers of this codex."); contents of the verso are also illegible; Fol. 2 contains a fragment of the Novellae on the Aggadot of Berakhot chapters 6-9. Parallel to, in the printed edition (Weinberger: Ḥidushe ha-Rashba ʻal agadot ha-Shas / Shalom Meshulam Weinberg [ed.]. Jerusalem, 1966, pp. 55-59) text is divided into Talmud chapters, as the article on Berakhot 44b is פרק הרואה.</note>
+        <note>Condition: non-consecutive, complete; fol. 1 glued to decorative cardboard, recto completely covered.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 115</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418043503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Solomon Adret's novellae on the aggadot of the Talmud, Berakhot 35b-44b</title>
+              <author>Adret, Solomon ben Abraham, 1235-1310 אדרת, שלמה בן אברהם אבן (רשב"א), 1235-1310 Aderet, Solomon ben Abraham 1235-1310 rabbi Šělomō ben ʾAderet, ca.1235-ca.1310 Adret, Shelomoh ben Avraham ca. ca. 1235-1310 Adret, Salomon ben Abraham, 1235-1310 Shlomo ben Adret Salomon ben Abraham ibn Adreth Adret, Salomo  ben Abraham, 1235-1310 Adret, Šlomo ben Avraham ibn, 1235-1310 Adret, Solomon ben Abraham, rabbi, 1235-1310 Solomon ben Abraham ibn adret, rabbi, 1235-1310 Rashba, rabbi, 1235-1310 Aderet, Solomon ben Abraham, rabbi, 1235-1310</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>20 X 15.5 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 27; ruling method: left rule is occasionally justified by a graphic filler (semi-aleph).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Sephardic cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1300" notAfter="1499"/>
+              <p>14th century-15th century?</p>
+              <origPlace>Spain</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Adler.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Aggada , Commentaries Early works to 1800</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4650px" url="master/4487_0000.tif" width="6806px"/>
+      <graphic height="129px" url="thumb/4487_0000_thumb.jpg" width="190px"/>
+      <graphic height="1229px" url="web/4487_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4650px" url="master/4487_0001.tif" width="6806px"/>
+      <graphic height="129px" url="thumb/4487_0001_thumb.jpg" width="190px"/>
+      <graphic height="1229px" url="web/4487_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

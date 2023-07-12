@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 4786: The Book of Esther.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 4786: The Book of Esther. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 4786: The Book of Esther.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Parchment slightly inflexible, with creases.</note>
+        <note>Uneven trimming at lower edge and, in part, losses of printing at head.</note>
+        <note>Dark at edges and outer end (dirt and slight damp mottling).</note>
+        <note>Usage and rust stains, a smear of green pigment on verso.</note>
+        <note>One small loss to rodent at outer end.</note>
+        <note>Binyamin Ze᾿ev ben Yehudah Shtoḳfish and Yosef ben Eli῾ezer Mosheh Ferar (?): inscribed at head.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 4786</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_4786</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Book of Esther.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Book of Esther.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>5 membranes, 31 columns.; 5 membranes, 31 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 31; ruled lines: 18; written lines: 18; Uniform layout. Ruling by hard point, membrane by membrane. Visible stiching of membranes. Hair side and flesh side of membranes distinguishable. Three tagin on שעטנזגץ and one on בדהחיפף. A few majuscular or minuscular letters, ח being also arched. The names of the sons of Haman arranged in 11 lines, in accordance with the rule. Wooden roller (155mm high).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Italian square script of the 17th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house (boxed).</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1600" notAfter="1699"/>
+              <p>Between 1600 and 1699</p>
+              <origPlace>Italy</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="2388px" url="master/13299_0000.jpg" width="1128px"/>
+      <graphic height="190px" url="thumb/13299_0000_thumb.jpg" width="89px"/>
+      <graphic height="1800px" url="web/13299_0000_web.jpg" width="850px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="2019px" url="master/13299_0001.jpg" width="22027px"/>
+      <graphic height="17px" url="thumb/13299_0001_thumb.jpg" width="190px"/>
+      <graphic height="164px" url="web/13299_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

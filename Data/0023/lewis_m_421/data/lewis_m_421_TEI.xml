@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis M 421: Oval Portrait of an Unidentified Mughal Nobleman Holding a Book by a Tree</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis M 421: Oval Portrait of an Unidentified Mughal Nobleman Holding a Book by a Tree are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis M 421: Oval Portrait of an Unidentified Mughal Nobleman Holding a Book by a Tree. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis collection of Oriental Manuscripts</collection>
+            <idno type="call-number">Lewis M 421</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="zxx">No linguistic content, Not applicable</textLang>
+            <msItem>
+              <title>Oval Portrait of an Unidentified Mughal Nobleman Holding a Book by a Tree</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="https://viaf.org/viaf/63874811">Lewis, John Frederick, 1860-1932</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>16 x 25 cm </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis M 421 front">
+      <graphic height="7209px" url="master/11056_0000.tif" width="4291px"/>
+      <graphic height="190px" url="thumb/11056_0000_thumb.jpg" width="113px"/>
+      <graphic height="1800px" url="web/11056_0000_web.jpg" width="1071px"/>
+    </surface>
+    <surface n="Lewis M 421 reverse">
+      <graphic height="7225px" url="master/11056_0001.tif" width="4275px"/>
+      <graphic height="190px" url="thumb/11056_0001_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/11056_0001_web.jpg" width="1065px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 223: Sidur Rav Seʹadyah Gaʾon, Selections</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 223: Sidur Rav Seʹadyah Gaʾon, Selections are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>In prose text (fol. 1), text breaks signified by a punctus, plus five spaces; A fragment from Kitāb jāmiʾ aṣ-ṣalawāt wat-tāsābīh including his instructions and liturgy texts for Fast Day Service; Fol. 1is parallel to, in the published edition ('Sidur Rav Seʹadyah Gaʾon / Israel Davidson [ed.] Yerushalyaim, 1963, pp. 317 l. 15 to p. 318 l. 14), which starts with the end of the ענינו supplement to the 'Amidah; This version is similar to that found in Cambridge T-S H14.19 (as listed in the variant readings apparatus, ibid.: טשס); At least four folios are missing between these two. Fol. 2 resumes at Sa'adia's Seli.hot for Ninth of Av, parallel to, in the published edition p. 322 ll. 4-17, including the last 11 verses (פ-ת) of אויה לי כי נלטשו (the last 4 verses are as in Cambridge T-S H14.20, as listed in the variant readings apparatus, ibid.: טשיב), and the first 13 verses (א-ז) of איכה מעביר כפי; In the poetic text (fol. 2) each verse begins a line, and exceeding words are cramped between the lines.</note>
+        <note>Condition: fol. 1 nearly complete; fol. 2 damaged, losses at center of exterior edge.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 223</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419043503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb" otherLangs="heb">Judeo-Arabic; Hebrew</textLang>
+            <msItem>
+              <title>Sidur Rav Seʹadyah Gaʾon, Selections</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>15.3 X 12.4 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 13.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1399"/>
+              <p>12th century-14th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Ninth of Av , Early works to 1800</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3943px" url="master/4590_0000.tif" width="3168px"/>
+      <graphic height="190px" url="thumb/4590_0000_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4590_0000_web.jpg" width="1446px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3943px" url="master/4590_0001.tif" width="3168px"/>
+      <graphic height="190px" url="thumb/4590_0001_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4590_0001_web.jpg" width="1446px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3943px" url="master/4590_0002.tif" width="3168px"/>
+      <graphic height="190px" url="thumb/4590_0002_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4590_0002_web.jpg" width="1446px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3943px" url="master/4590_0003.tif" width="3168px"/>
+      <graphic height="190px" url="thumb/4590_0003_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4590_0003_web.jpg" width="1446px"/>
+    </surface>
+  </facsimile>
+</TEI>

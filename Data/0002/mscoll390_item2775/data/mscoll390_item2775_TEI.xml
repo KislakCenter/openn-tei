@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2775: Caturthaparyāya</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2775: Caturthaparyāya are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from note on final folio (f. 4r).</note>
+        <note>Written in 35-37 lines per leaf.</note>
+        <note>4 leaves.</note>
+        <note>Mistakes blacked out; some corrections and additions in margins.</note>
+        <note>Manuscript oriented vertically and folded in half.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2775</idno>
+            <altIdentifier type="bibid">
+              <idno>9976097983503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/974913855</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Lists of mantras and other words, names, and especially abbreviations, possibly a lexicon (kośa) or table of contents for a manual of rites, laws, or other. Contains four nearly identical lists.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Caturthaparyāya</title>
+              <title type="vernacular">चतुर्थपर्याय</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (4 leaves) : 35 x 12 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hindu mantras</term>
+          <term>Rites and ceremonies--India</term>
+          <term>Sanskrit language--Lexicography</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Table of contents</term>
+          <term>Manuals (instructional materials)</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-2775-1">
+      <graphic height="7900px" url="master/4907_0000.tif" width="3188px"/>
+      <graphic height="190px" url="thumb/4907_0000_thumb.jpg" width="76px"/>
+      <graphic height="1800px" url="web/4907_0000_web.jpg" width="726px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-2775-2">
+      <graphic height="7900px" url="master/4907_0001.tif" width="5901px"/>
+      <graphic height="190px" url="thumb/4907_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4907_0001_web.jpg" width="1344px"/>
+    </surface>
+    <surface n="2v-3r" xml:id="surface-ms-coll-390-item-2775-3">
+      <graphic height="7900px" url="master/4907_0002.tif" width="5901px"/>
+      <graphic height="190px" url="thumb/4907_0002_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4907_0002_web.jpg" width="1344px"/>
+    </surface>
+    <surface n="3v-4r" xml:id="surface-ms-coll-390-item-2775-4">
+      <graphic height="7900px" url="master/4907_0003.tif" width="5901px"/>
+      <graphic height="190px" url="thumb/4907_0003_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4907_0003_web.jpg" width="1344px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-ms-coll-390-item-2775-5">
+      <graphic height="7900px" url="master/4907_0004.tif" width="3188px"/>
+      <graphic height="190px" url="thumb/4907_0004_thumb.jpg" width="76px"/>
+      <graphic height="1800px" url="web/4907_0004_web.jpg" width="726px"/>
+    </surface>
+  </facsimile>
+</TEI>

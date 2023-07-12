@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 448: Talmudic-halakhic anthology on Leviticus 21:17</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 448: Talmudic-halakhic anthology on Leviticus 21:17 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>The text is not subdivided into paragraphs (halakhot), neither graphically nor numerically, rather into small sentences; sentence endings denoted by a punctus; These folios from Mishneh Torah are likely to be a segment from this work, expounding on the laws pertaining to Lev. ibid. 17. This could explain why our fragment is not presented in the common Mishneh Torah format, divided into paragraphs; Compare to a similar midrash in New York ENA 2572, 15C, or Oxford Bodleian Heb. d. 62 fols. 83-93 (Cowely 2850, 33) on Ex. XXI-XXII. British Library Or. 10730 fol. 3. See Ben Levin in Rabenu Mosheh ben Maimon : ḥayaṿ, sefaraṿ, peʻulotaṿ ṿe-deʻotaṿ : ḳovets torani-madaʻi ... / Judah Leib Maimon [ed.]. Yerushalayim : ha-Merkaz ha-ʻolami shel ha-Mizraḥi 1935, pp. 101-145.</note>
+        <note>Condition: damaged, losses in upper exterior corner.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 448</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421253503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Talmudic-halakhic anthology on Leviticus 21:17</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>27.4 X 21.1 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 29; ruling method: left rule justified by a graphic filler.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1200" notAfter="1399"/>
+              <p>13th-14th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Halakhic Midrashim</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6764px" url="master/4812_0000.tif" width="5408px"/>
+      <graphic height="190px" url="thumb/4812_0000_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4812_0000_web.jpg" width="1439px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6764px" url="master/4812_0001.tif" width="5408px"/>
+      <graphic height="190px" url="thumb/4812_0001_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4812_0001_web.jpg" width="1439px"/>
+    </surface>
+  </facsimile>
+</TEI>

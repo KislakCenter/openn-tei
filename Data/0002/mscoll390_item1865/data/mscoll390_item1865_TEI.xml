@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 1865: Vadhūvaraguṇamelanacarka</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 1865: Vadhūvaraguṇamelanacarka are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from note in margin (f. 1r).</note>
+        <note>Written in 11-12 lines per leaf.</note>
+        <note>4 leaves foliated 1-4, upper left and lower right verso.</note>
+        <note>Mistakes blacked out; some corrections and additions in margins; vertical margins marked with double red line; tables drawn with single red line.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 1865</idno>
+            <altIdentifier type="bibid">
+              <idno>9969495473503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/946537624</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6949547</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript consists of tables of abbreviations (representing planets and other astrological phenomena) and numbers based on calculations for predicting the future of a married couple.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Vadhūvaraguṇamelanacarka</title>
+              <title type="vernacular">वधूवरगुणमेलनचर्क</title>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>Tables throughout, f. 1r - f. 4v</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (4 leaves) : 11 x 24 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Rites and ceremonies--India</term>
+          <term>Hindu astrology</term>
+          <term>Hindu astronomy</term>
+          <term>Divination--India</term>
+          <term>Marriage--Religious aspects--Hinduism</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuals (instructional materials)</term>
+          <term>Tables (documents)</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-1865-1">
+      <graphic height="2491px" url="master/3007_0000.tif" width="5179px"/>
+      <graphic height="91px" url="thumb/3007_0000_thumb.jpg" width="190px"/>
+      <graphic height="865px" url="web/3007_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-1865-2">
+      <graphic height="4935px" url="master/3007_0001.tif" width="5179px"/>
+      <graphic height="181px" url="thumb/3007_0001_thumb.jpg" width="190px"/>
+      <graphic height="1715px" url="web/3007_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v-3r" xml:id="surface-ms-coll-390-item-1865-3">
+      <graphic height="4935px" url="master/3007_0002.tif" width="5179px"/>
+      <graphic height="181px" url="thumb/3007_0002_thumb.jpg" width="190px"/>
+      <graphic height="1715px" url="web/3007_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v-4r" xml:id="surface-ms-coll-390-item-1865-4">
+      <graphic height="4935px" url="master/3007_0003.tif" width="5179px"/>
+      <graphic height="181px" url="thumb/3007_0003_thumb.jpg" width="190px"/>
+      <graphic height="1715px" url="web/3007_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-ms-coll-390-item-1865-5">
+      <graphic height="2491px" url="master/3007_0004.tif" width="5179px"/>
+      <graphic height="91px" url="thumb/3007_0004_thumb.jpg" width="190px"/>
+      <graphic height="865px" url="web/3007_0004_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

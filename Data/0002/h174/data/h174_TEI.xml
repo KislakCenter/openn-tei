@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 174: Morning blessings and Psalms</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 174: Morning blessings and Psalms are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Incipits, first word of a new paragraph, in slightly enlarged characters placed above a space; Contains the last lines of the preliminary prayer לעולם יהא אדם (Midrash Tana deṿe Eliyahu 22 as in ʹAmram Gaʾon and Solomon of Sujulmassa), and the beginning Pesuḳe de-zimrah; The latter is precluded by the editor's note, instructing to install here the prayers עלינו, אוחילה לאל, ואל כן נקוה. This matches the complete sequence from the beginning of the Malkhiyot segment of Musaf of Rosh ha-shanah; The Pesuke de-zimrah segment is introduced by a much expanded version (47 lines) of ברוך שאמר, followed by הודו (Psalm CV, the fragment ends in verse 2 ישמח לב).No. 175 continues to the end of this same prayer, followed by the beginning of Psalm XXX (starts here verse 2 ארומימך).</note>
+        <note>Condition: non-consecutive (between 2 and 3), complete.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 174</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418593503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Morning blessings and Psalms</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>14.9 X 10.9 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 17-20; ruling method: left rule justified by filler character, or by placing exceeding character in margin (practice rarely found outside Ashkenaz); line density proportionate.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1200" notAfter="1299"/>
+              <p>13th century?</p>
+              <origPlace>Spain</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Siddurim , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3783px" url="master/4544_0000.tif" width="2880px"/>
+      <graphic height="190px" url="thumb/4544_0000_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/4544_0000_web.jpg" width="1370px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3783px" url="master/4544_0001.tif" width="2880px"/>
+      <graphic height="190px" url="thumb/4544_0001_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/4544_0001_web.jpg" width="1370px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3783px" url="master/4544_0002.tif" width="2880px"/>
+      <graphic height="190px" url="thumb/4544_0002_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/4544_0002_web.jpg" width="1370px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3783px" url="master/4544_0003.tif" width="2880px"/>
+      <graphic height="190px" url="thumb/4544_0003_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/4544_0003_web.jpg" width="1370px"/>
+    </surface>
+  </facsimile>
+</TEI>

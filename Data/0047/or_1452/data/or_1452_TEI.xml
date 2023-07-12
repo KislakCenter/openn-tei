@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 1452: The Pentateuch scroll.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 1452: The Pentateuch scroll. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 1452: The Pentateuch scroll.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A few usage stains, and some spills from long top edge.</note>
+        <note>Patches of surface abrasion.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 1452</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1452</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Pentateuch scroll.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Pentateuch scroll.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="leather">
+                <support>
+                  <p>Leather</p>
+                </support>
+                <extent>63 membranes, 226 columns.; 63 membranes, 226 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 226; ruled lines: 50; written lines: 50; Uniform layout. Ruling by hard point. Visible pricking and stiching. 226 columns in total, three to five columns per membrane. Three tagin on שעטנזגץ, and also on כךמםפף. The letter ח arched throughout. Majuscular and minuscular letter in accordance with the rules. Special shape of the letter פ occurs infrequently. The "puncta extraordinaria" placed on the words fixed by masorah. אתנח indicated by a dry point under the word. An upper dry point distinguishes between כל, את, הוא and כל-, את-, הוא-. Four dry points placed sometimes in the margin at the beginning of a section.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Yemenite square script of the 15th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Boxed.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1400" notAfter="1499"/>
+              <p>Between 1400 and 1499</p>
+              <origPlace>Yemen</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="7127px" url="master/13005_0000.jpg" width="4547px"/>
+      <graphic height="190px" url="thumb/13005_0000_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/13005_0000_web.jpg" width="1148px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="2927px" url="master/13005_0001.jpg" width="30000px"/>
+      <graphic height="18px" url="thumb/13005_0001_thumb.jpg" width="190px"/>
+      <graphic height="175px" url="web/13005_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="2927px" url="master/13005_0002.jpg" width="30000px"/>
+      <graphic height="18px" url="thumb/13005_0002_thumb.jpg" width="190px"/>
+      <graphic height="175px" url="web/13005_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="2927px" url="master/13005_0003.jpg" width="30000px"/>
+      <graphic height="18px" url="thumb/13005_0003_thumb.jpg" width="190px"/>
+      <graphic height="175px" url="web/13005_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="2927px" url="master/13005_0004.jpg" width="30000px"/>
+      <graphic height="18px" url="thumb/13005_0004_thumb.jpg" width="190px"/>
+      <graphic height="175px" url="web/13005_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="2927px" url="master/13005_0005.jpg" width="11615px"/>
+      <graphic height="47px" url="thumb/13005_0005_thumb.jpg" width="190px"/>
+      <graphic height="453px" url="web/13005_0005_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

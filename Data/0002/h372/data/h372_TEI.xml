@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 372: Marriage contract of Esther</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 372: Marriage contract of Esther are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Contains the bottom eight lines, with decorative blessings surrounding the text and eight lines of micography in the remaining empty space at the bottom; These include more details and conditions of the betrothal. The date appears here. The left rule is filled by stretching characters; The bridegroom is Mazal Tov ha-Levi. The document is signed at the bottom of the Ketubah, and again at the bottom of the Additional Conditions: Joshua ben Isaac Menagen. Mazal Tov is a common male name in 17th century Italy; The name R. Joshua Menaghen appears in the index of Italian Rabbis, M. Mortara: Mazkeret ḥakhme Iṭalyah / Marco Mortara. Padua : F. Sacchetto, 1886, p. 39, and is signed as an owner of ms. Berlin Ham. Qu. 687 fol. 183.</note>
+        <note>Condition: cropped, unevenly cut, verso is blank; orn., dev., micrography.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 372</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420503503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="arc" otherLangs="heb">Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE); Hebrew</textLang>
+            <msItem>
+              <title>Marriage contract of Esther</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>31.1 X 46.9 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 8, 8 micrographic.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Italian square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate/>
+              <p>Mon. May 24, 1641</p>
+              <origPlace>Italy</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Ketubah</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7744px" url="master/4737_0000.tif" width="10868px"/>
+      <graphic height="135px" url="thumb/4737_0000_thumb.jpg" width="190px"/>
+      <graphic height="1282px" url="web/4737_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7744px" url="master/4737_0001.tif" width="10868px"/>
+      <graphic height="135px" url="thumb/4737_0001_thumb.jpg" width="190px"/>
+      <graphic height="1282px" url="web/4737_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

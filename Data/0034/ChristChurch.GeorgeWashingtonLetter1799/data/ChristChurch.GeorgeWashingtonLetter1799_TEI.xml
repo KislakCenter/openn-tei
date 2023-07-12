@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Christ Church, Philadelphia, PA, ChristChurch.GeorgeWashingtonLetter1799: George Washington letter, 1799</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Carly Sewell</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Michelle Belden</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Christ Church, Philadelphia, PA</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Christ Church, Philadelphia, PA ChristChurch.GeorgeWashingtonLetter1799: George Washington letter, 1799 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Christ Church Philadelphia has waived all copyright and related or neighboring rights to this metadata about Christ Church, Philadelphia, PA ChristChurch.GeorgeWashingtonLetter1799: George Washington letter, 1799. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="relatedResource" target="https://philadelphiacongregations.org">Philadelphia Congregations Early Records Project</note>
+        <note type="relatedResource" target="https://dl.atla.com/collections/philadelphia-congregations-early-records-project">ATLA Digital Library</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Christ Church, Philadelphia, PA</repository>
+            <idno type="call-number">ChristChurch.GeorgeWashingtonLetter1799</idno>
+            <altIdentifier type="resource">
+              <idno>https://philadelphiacongregations.org/records/item/ChristChurch.GeorgeWashingtonLetter1799</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Letter from George Washington to William White, Bishop of Pennsylvania and long-time reverend of Christ Church, dated May 30, 1799, thanking White for sending a sermon on "the duty of Civil obedience as required in Scripture." White had served as Chaplain of the Continental Congress, and Washington had regularly attended services at Christ Church. Washington died on December 14, 1799.</summary>
+            <textLang mainLang="eng">English</textLang>
+            <msItem>
+              <title>George Washington letter, 1799</title>
+              <author ref="https://viaf.org/viaf/31432428">Washington, George, 1732-1799</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>1 page; </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="1799"/>
+              <p>1799</p>
+              <origPlace>United States</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>18th century</term>
+        </keywords>
+        <keywords n="subjects">
+          <term target="http://id.worldcat.org/fast/1113216">Sermons</term>
+          <term target="http://id.worldcat.org/fast/914304">Episcopalians</term>
+          <term target="http://id.worldcat.org/fast/996779">Letters</term>
+          <term target="http://id.worldcat.org/fast/1204170">Pennsylvania--Philadelphia</term>
+          <term target="http://id.worldcat.org/fast/178100">Washington, George, 1732-1799</term>
+          <term target="http://id.worldcat.org/fast/557988">Christ Church (Philadelphia, Pa.)</term>
+          <term target="http://id.worldcat.org/fast/533119">Episcopal Church</term>
+          <term target="http://id.worldcat.org/fast/177226">White, William, 1748-1836</term>
+          <term target="http://id.worldcat.org/fast/636041">United Churches of Christ-Church and St. Peter's (Philadelphia, Pa.)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term target="http://id.worldcat.org/fast/1424060">Manuscripts</term>
+          <term target="http://id.worldcat.org/fast/2003288">Correspondence</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="p. 1" xml:id="surface-christchurch-georgewashingtonletter1799-1">
+      <graphic height="5844px" url="master/12035_0000.tif" width="4884px"/>
+      <graphic height="190px" url="thumb/12035_0000_thumb.jpg" width="159px"/>
+      <graphic height="1800px" url="web/12035_0000_web.jpg" width="1504px"/>
+    </surface>
+  </facsimile>
+</TEI>

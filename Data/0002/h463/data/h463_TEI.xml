@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 463: Signature of the Exilarch David</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 463: Signature of the Exilarch David are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A signature on an otherwise blank piece of paper, possibly an ex libris inscribed on the first page of a codex. It reads, in rough cursive script: הודו לי'י כי טוב \ מרשות אדוננו \ דוד הנשיא הגדול \ ראש גליות כל ישראל \ יעזרהם אלהים על כלל. Possibly referring to David ben Zakai, who reigned as the Exilarch between 917 and 940, but more likely the later, 12th century Exilarch mentioned by Abraham Maimonides. See Gil, Be-malkhut Yishmaʹel bi-teḳufat ha-geʹonim / Mosheh Gil. Tel Aviv : University of Tel Aviv, 1997, vol. 1, p. 437 n. 255; sporadically vocalized.</note>
+        <note>Condition: nearly complete, torn; verso is blank.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 463</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421393503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Signature of the Exilarch David</title>
+              <author>Daṿid, Naśi, 12th cent.</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>15.2 X 10 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 25.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental cursive vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1140" notAfter="1160"/>
+              <p>mid-12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3975px" url="master/4826_0000.tif" width="2592px"/>
+      <graphic height="190px" url="thumb/4826_0000_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/4826_0000_web.jpg" width="1173px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3975px" url="master/4826_0001.tif" width="2592px"/>
+      <graphic height="190px" url="thumb/4826_0001_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/4826_0001_web.jpg" width="1173px"/>
+    </surface>
+  </facsimile>
+</TEI>

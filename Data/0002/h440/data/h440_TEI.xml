@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 440: ʹAsarah maʾamarot, V-VI</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 440: ʹAsarah maʾamarot, V-VI are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Divided into fascicles of 10, 9, 6 and 10 fols (quires 5, 4.5, 3, 5 bifolia) ; Halper 440 is a loose folio from second quire, originally between fols. 10 and 11 of Halper 439 (now, respectively fols. 10, 11, 12; lacuna of original fol. 20, corresponding to left half of Halper 440?); Incipits are in enlarged characters above a space. Paragraphs are enumerated in the margins; On fol. 31 verso, only the first line of par. 5 is copied, the remainder of the page, as well as the following page (32) are blank. Fol. 32 verso resumes in the last line of par. 6. This area is missing in the published edition; At the top of fol. 1 is the signature upon acquisition, אי״ש ג״ר אנכי בארץ, the ex libris of Abraham Graziano. In the upper right corner of the same page are the details of the acquisition, from the widow of Joseph Ḥaim Aggio Bondi, in Modena, Sunday Feb. 9, 1659; Nine other manuscript codices were bought in the same acquisition (See: Y. Okun: Sifriyat kitve-ha-yad shel Avraham Yosef Shelomoh Gratsiyano (380 le-ʹerekh-445 / Yael Okuhn). Masters dissertation, Jerusalem, 1991, p. 110-111, 191). This may indicate that this codex, is complete, although it contains only Articles V and VI. Such is the case in ms. Mantova, Comunità Israelitica ebr. 111 as well.</note>
+        <note>Condition: consecutive, complete; damaged, ink corrosion; [Halper: "fastened by a string"].</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 440</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421183503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="ita">Hebrew; Italian</textLang>
+            <msItem>
+              <title>ʹAsarah maʾamarot, V-VI</title>
+              <author>Fano, Menahem Azariah da 1548-1620 מנחם עזריה, מפאנו, 1548-1620 Menahem Azariah da Fano 1548-1620 Měnaḥem ʿAzaryah, mi-Fānō, 1548-1620 Menachem Asarja da Fano italienischer Kabbalist Di Fano, Menahem Asarya, 1548-1620</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Graziano, Abraham Joseph Salomon, ca. 1620, ca. 1683</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>20.9 X 15.5 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 17-25.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Italian cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1600" notAfter="1699"/>
+              <p>17th century?</p>
+              <origPlace>Italy</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Cabala</term>
+          <term>Mysticism</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5258px" url="master/4805_0000.tif" width="4384px"/>
+      <graphic height="190px" url="thumb/4805_0000_thumb.jpg" width="159px"/>
+      <graphic height="1800px" url="web/4805_0000_web.jpg" width="1501px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5258px" url="master/4805_0001.tif" width="4384px"/>
+      <graphic height="190px" url="thumb/4805_0001_thumb.jpg" width="159px"/>
+      <graphic height="1800px" url="web/4805_0001_web.jpg" width="1501px"/>
+    </surface>
+  </facsimile>
+</TEI>

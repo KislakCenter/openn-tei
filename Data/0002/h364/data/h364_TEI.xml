@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 364: Marriage contract (draft)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 364: Marriage contract (draft) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>First two lines, biblical citations, denoted by a bar above each letter; A fragment from the upper part of the center of a Ketubah document, given by Abraham ben Ṣedaka to the daughter of Pinḥas ben Levi the Elder. Abraham is a signed as a witness on a bill of appointment issuedḅy the Erets Israeli Gaonate in 1065 (Cambridge T-S 10J 26 fol. 1/ Oxford Bodleian Heb. d.66 fol. 4, in Gil, Erets Israel, 1983 vol. IIIp. 26); The date (l. 3) is in the month of Shevat, in the sixth year of the sabbatical cycle, which could be either 1062 or 1069. In l. 4 is the allusion to Ramle: באחסנת ב]ני יהודה].</note>
+        <note>Condition: fragment (center area), torn, faded; verso is blank.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 364</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420423503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="arc">Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textLang>
+            <msItem>
+              <title>Marriage contract (draft)</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>11.4 X 12 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 8 partially extant (recto).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1062" notAfter="1069"/>
+              <p>1062 or 1069</p>
+              <origPlace>Ramla</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Ketubah</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3045px" url="master/4729_0000.tif" width="3136px"/>
+      <graphic height="184px" url="thumb/4729_0000_thumb.jpg" width="190px"/>
+      <graphic height="1747px" url="web/4729_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3045px" url="master/4729_0001.tif" width="3136px"/>
+      <graphic height="184px" url="thumb/4729_0001_thumb.jpg" width="190px"/>
+      <graphic height="1747px" url="web/4729_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

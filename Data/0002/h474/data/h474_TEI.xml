@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 474: Shopping list</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 474: Shopping list are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Recto is in Judeo-Arabic, 12 items have bars above them, possibly signifying payment. Among the items are fish and saffron. Verso bears similar list in in Arabic characters. This is likely to have been the primary inscription, as it has been cut off at the top.</note>
+        <note>Condition: nearly complete; damaged; folded widthwise into eight equal parts.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 474</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421513503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="jrb ara">Hebrew; Judeo-Arabic; Arabic</textLang>
+            <msItem>
+              <title>Shopping list</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>23.5 X 17.8 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 10 (recto); ruling method: rough, unprofessional hand.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Arabic Oriental semi-square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1299"/>
+              <p>11th century-13th century?</p>
+              <origPlace>Egypt?</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Saffron crocus</term>
+          <term>Fish</term>
+          <term>Shopping</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5738px" url="master/4837_0000.tif" width="4704px"/>
+      <graphic height="190px" url="thumb/4837_0000_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/4837_0000_web.jpg" width="1476px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5738px" url="master/4837_0001.tif" width="4704px"/>
+      <graphic height="190px" url="thumb/4837_0001_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/4837_0001_web.jpg" width="1476px"/>
+    </surface>
+  </facsimile>
+</TEI>

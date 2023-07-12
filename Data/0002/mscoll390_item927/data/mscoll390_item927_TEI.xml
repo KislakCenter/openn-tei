@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 927: Maṭhāmnāyaprakaraṇa</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 927: Maṭhāmnāyaprakaraṇa are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 1v).</note>
+        <note>Written in 26 lines per leaf.</note>
+        <note>1 leaf.</note>
+        <note>Some additions in margins; text organized into four columns.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 927</idno>
+            <altIdentifier type="bibid">
+              <idno>9962533403503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/888078489</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6253340</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is a list of contents and topics within the Maṭhāmnāyaprakaraṇa, a work often ascribed to Śaṅkarācārya dealing with various rules and regulations related to Dharma (Hindu law), especially with respect to various pilgrimage places and centers associated with different Hindu deities.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Maṭhāmnāyaprakaraṇa</title>
+              <title type="vernacular">मठाम्नायप्रकरण</title>
+              <author>
+                <persName type="authority">Śaṅkarācārya</persName>
+              </author>
+              <colophon>Colophon: iti maṭhāmnāyaprakaraṇaṃ sāmaptaṃ (f. 1v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (1 leaves) : 22 x 24 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Pilgrims and pilgrimages--India</term>
+          <term>Hindu law</term>
+          <term>Dharma</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Tables of contents</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5610px" url="master/6196_0000.tif" width="5194px"/>
+      <graphic height="190px" url="thumb/6196_0000_thumb.jpg" width="176px"/>
+      <graphic height="1800px" url="web/6196_0000_web.jpg" width="1666px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5610px" url="master/6196_0001.tif" width="5194px"/>
+      <graphic height="190px" url="thumb/6196_0001_thumb.jpg" width="176px"/>
+      <graphic height="1800px" url="web/6196_0001_web.jpg" width="1666px"/>
+    </surface>
+  </facsimile>
+</TEI>

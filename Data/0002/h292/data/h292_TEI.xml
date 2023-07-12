@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 292: Yotserot for Sabbaths</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 292: Yotserot for Sabbaths are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Verse endings denoted by a punctus; each yotser starts a new paragraph; Yotserot for specific Sabbaths, in which the subject is the Torah reading for that Sabbath, as is specified in the headline. All have the same scheme, three-verse strophes, two alphabetic and the third is phrase from the biblical reading. The acrostic signature שלמה; sporadic vocalization;(fol. 1) The end of a Yotser for the Sabbath of Beha'alotekha (Nu. VIII), which starts אומץ נר מנורת משה; For Shelaḥ (Nu. XIII) אמונים ליטע בהר המור̈; For Koraḥ (Nu. XVI) אנשי לצון הפיחו. The folio ends after three strophes. The following folio is missing; (fol. 2) The end of a Yotser for the Sabbath of Matot (Nu. XXX), ends בוטל מאמרה; For Masaʹe (Nu. XXXIII) אתויי ארץ אדם ולא אל. Seven strophes (א-נ); For Devarim (Deut. I) אומן הנקרא חבר. The fragment ends at verse ל. The fragment ends at verse ל; (Davidson, TMHP 1087).</note>
+        <note>Condition: non-consecutive (Halper: forming outer sheet of a fasc.); damaged, faded, partially illegible.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 292</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419733503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Yotserot for Sabbaths</title>
+              <author>שלמה סולימן, אלסנג'רי Solomon Suliman ben Amar Solomon Suliman Ben-Amar ca. 9./10. Jh. Al-Sanjary, Shelomo Suleiman Al-Sinjari, Shelomo Suleiman</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>13.1 X 8.3 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 17.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-square vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1299"/>
+              <p>11th century-13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Piyutim</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3410px" url="master/4659_0000.tif" width="2128px"/>
+      <graphic height="190px" url="thumb/4659_0000_thumb.jpg" width="118px"/>
+      <graphic height="1800px" url="web/4659_0000_web.jpg" width="1123px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3410px" url="master/4659_0001.tif" width="2128px"/>
+      <graphic height="190px" url="thumb/4659_0001_thumb.jpg" width="118px"/>
+      <graphic height="1800px" url="web/4659_0001_web.jpg" width="1123px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3410px" url="master/4659_0002.tif" width="2128px"/>
+      <graphic height="190px" url="thumb/4659_0002_thumb.jpg" width="118px"/>
+      <graphic height="1800px" url="web/4659_0002_web.jpg" width="1123px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3410px" url="master/4659_0003.tif" width="2128px"/>
+      <graphic height="190px" url="thumb/4659_0003_thumb.jpg" width="118px"/>
+      <graphic height="1800px" url="web/4659_0003_web.jpg" width="1123px"/>
+    </surface>
+  </facsimile>
+</TEI>

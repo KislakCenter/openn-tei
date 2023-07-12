@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Museum of Archaeology and Anthropology, e16512: Ex. 21.35 - 23.16</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania Museum of Archaeology and Anthropology</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/2.0/legalcode">Images are  ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution ShareAlike License version 4.0 (CC-BY-2.0 https://creativecommons.org/licenses/by/2.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/2.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Side margins are 3 cm; 1.5 to 2.0 cm between the columns. Upper margin is 2.5 cm; lower margin is 5 cm. There are no marginal notes, however scoring does appear. Badly wrinkled, distorting the center area on both pages/sides. At bottom of the leaf a rip (on the flesh side, between columns 1 and 2) that was once hand sewn. Not yet fully catalogued. Metadata based on image and Advanced Papyrological Information System (APIS) data. Title based on Prof. Robert A. Kraft's 1990 survey of University Museum Hebrew Manuscripts. Complete, with torn, ragged edges.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>University of Pennsylvania Museum of Archaeology and Anthropology</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">e16512</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <msItem>
+              <title>Ex. 21.35 - 23.16</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>27.0 cm x 30.0 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>3 cols.; 25 lines</layout>
+              </layoutDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <provenance>University of Pennsylvania Museum, Ellen W. Harrison Collection. Purchased from Prof. Moritz of Cairo through W.M. Muller, 1910.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6476px" url="master/11554_0000.tif" width="8288px"/>
+      <graphic height="148px" url="thumb/11554_0000_thumb.jpg" width="190px"/>
+      <graphic height="1406px" url="web/11554_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6476px" url="master/11554_0001.tif" width="8288px"/>
+      <graphic height="148px" url="thumb/11554_0001_thumb.jpg" width="190px"/>
+      <graphic height="1406px" url="web/11554_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

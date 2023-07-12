@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 7950: A marriage contract.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <date type="create-date" when="2023-02-15">2023-02-15</date>
+        <date type="mod-date" when="2023-02-15">2023-02-15</date>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 7950: A marriage contract. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 7950: A marriage contract.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Damp and cockling.</note>
+        <note>One small loss at edge and a small tear.</note>
+        <note>Liquid stains and splashes at foot.</note>
+        <note>A few tiny losses within text area and a few slight abrasions.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 7950</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_7950</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A marriage contract.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>A marriage contract.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>1 folio; 1 folio </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; ruled lines: 25; written lines: 25; Initial words in larger square characters. Ink frame along the borders of the sheet. Signatures in Latin cursive script under the text. Visible hard-point ruling.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Italian semi-cursive and square script of the 18th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="1789"/>
+              <p>1789</p>
+            </origin>
+            <provenance>Acquisition: Sir Charles Hercules Read: presented by him to the British Museum on 14 March 1914: inscribed, folio 1v.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6821px" url="master/13548_0000.jpg" width="5039px"/>
+      <graphic height="190px" url="thumb/13548_0000_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/13548_0000_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6920px" url="master/13548_0001.jpg" width="5089px"/>
+      <graphic height="190px" url="thumb/13548_0001_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/13548_0001_web.jpg" width="1324px"/>
+    </surface>
+  </facsimile>
+</TEI>

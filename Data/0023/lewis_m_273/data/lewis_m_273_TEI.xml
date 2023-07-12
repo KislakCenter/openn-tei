@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis M 273: A Drawing of Sayyid Jalal Bukhari, Seated</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis M 273: A Drawing of Sayyid Jalal Bukhari, Seated are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis M 273: A Drawing of Sayyid Jalal Bukhari, Seated. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Possibly from same album as M 286-295</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis collection of Oriental Manuscripts</collection>
+            <idno type="call-number">Lewis M 273</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="ara">Arabic</textLang>
+            <msItem>
+              <title>A Drawing of Sayyid Jalal Bukhari, Seated</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="https://viaf.org/viaf/63874811">Lewis, John Frederick, 1860-1932</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>10 x 16 cm </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis M 273 front">
+      <graphic height="4950px" url="master/11033_0000.tif" width="3000px"/>
+      <graphic height="190px" url="thumb/11033_0000_thumb.jpg" width="115px"/>
+      <graphic height="1800px" url="web/11033_0000_web.jpg" width="1090px"/>
+    </surface>
+    <surface n="Lewis M 273 reverse">
+      <graphic height="4950px" url="master/11033_0001.tif" width="3000px"/>
+      <graphic height="190px" url="thumb/11033_0001_thumb.jpg" width="115px"/>
+      <graphic height="1800px" url="web/11033_0001_web.jpg" width="1090px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS: RAR MS 82.313.1.6: House of David</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies CAJS: RAR MS 82.313.1.6: House of David are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>420 Walnut Street, Philadelphia, Pennsylvania 19106-3703</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS: RAR MS 82.313.1.6</idno>
+            <altIdentifier type="bibid">
+              <idno>9978120516203681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1306079824</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://colenda.library.upenn.edu/catalog/81431-p3902009w</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Fragment of a document copy of the Davidic lineage (reading backward chronologically), beginning with Hezekiah, King of Judah, moving back until Seth (third son of Adam and Eve), likely as an educational document (perhaps for memorization); loss on most of the recto (with damage at the bottom, possibly a prayer; Arabic palimpsest visible through the lines at recto bottom). The fragment appears to have been torn from a codex, with the original gutter at recto left (the current recto was originally the verso). Written in (at least) nine long lines; paragraph break following end of text (recto); written in an eastern square script, possibly 11th century.</summary>
+            <textLang mainLang="heb" otherLangs="ara">In Hebrew</textLang>
+            <msItem>
+              <title>House of David</title>
+              <title type="vernacular">שלשלת דוד המלך</title>
+              <author>
+                <name type="authority">Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library)</name>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 leaf :</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>11th century?</origDate>
+            </origin>
+            <provenance>Transferred to the Cairo Genizah Collection (Library at the Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania).</provenance>
+            <provenance>Formerly held in the Cairo Genizah Collection (Dropsie College).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>David,--King of Israel--Genealogy</term>
+          <term ref="http://id.worldcat.org/fast/35586">David,--King of Israel</term>
+          <term ref="http://id.worldcat.org/fast/982909">Jewish religious education</term>
+          <term>Jewish religious education--Middle East--11th century</term>
+          <term ref="http://id.worldcat.org/fast/1938802">Manuscript fragments</term>
+          <term>Manuscript fragments--Specimens</term>
+          <term ref="http://id.worldcat.org/fast/1241586">Middle East</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Quotations</term>
+          <term>Quotations</term>
+          <term>Family histories</term>
+          <term>Family histories</term>
+          <term>Specimens</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Hebrew--11th century</term>
+          <term>Manuscripts, Arabic--11th century</term>
+          <term>Palimpsests (manuscripts)</term>
+          <term>Fragments (object portions)</term>
+          <term>Genealogy</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Recto">
+      <graphic height="3719px" url="master/11598_0000.tif" width="3008px"/>
+      <graphic height="190px" url="thumb/11598_0000_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/11598_0000_web.jpg" width="1456px"/>
+    </surface>
+    <surface n="Verso">
+      <graphic height="3751px" url="master/11598_0001.tif" width="3008px"/>
+      <graphic height="190px" url="thumb/11598_0001_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/11598_0001_web.jpg" width="1443px"/>
+    </surface>
+  </facsimile>
+</TEI>

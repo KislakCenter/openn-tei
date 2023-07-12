@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 310: Azharah, strophes 15-19</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 310: Azharah, strophes 15-19 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Some strophe endings denoted by a sof pasuḳ; a few words partially vocalized; first text (l. 1-5) in a different, more cursive hand; The upper end of the folio is the last five lines of an epistle of encouragement and consolation, apparently to a pupil on the death of his master. Followed by a line marking a new text; The published edition, copied from Petersburg RNL B Antonin 182, starts in the 16th strophe (the second ח). Our fragment starts in the 15th (the first ח), and reaches to the end of the 19th strophe (the first of י, ibid. l. 20).</note>
+        <note>Condition: some damage; verso is blank.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 310</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419903503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="jrb">Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Azharah, strophes 15-19</title>
+              <author>Ibn Ghiyyat, Isaac, 1038-1089 אבן גיאת, יצחק בן יהודה, 1038-1089 Ibn Ghayyat, Yizhaq ben Yehuda 1038-1089 Ibn Giat, Isaac, 1038-1089 Ibn Ġiyāṯ, Isḥāq b. Yahūda Ibn-Gayât, Yiṣḥāq Ben-Yehûdā 1038-1089 Isaac ibn Ghiyyat Yishaq Ibn Gayyat de Lucena</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>27.3 X 18.5 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 23 (recto).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1299"/>
+              <p>11th century-13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Piyutim</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6772px" url="master/4677_0000.tif" width="4544px"/>
+      <graphic height="190px" url="thumb/4677_0000_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/4677_0000_web.jpg" width="1208px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6772px" url="master/4677_0001.tif" width="4544px"/>
+      <graphic height="190px" url="thumb/4677_0001_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/4677_0001_web.jpg" width="1208px"/>
+    </surface>
+  </facsimile>
+</TEI>

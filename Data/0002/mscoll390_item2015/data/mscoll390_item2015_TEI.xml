@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2015: Gāyatrībhāṣya</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2015: Gāyatrībhāṣya are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2v).</note>
+        <note>Written in 8-9 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Mistakes blacked out.</note>
+        <note>Partial watermark, possibly part of a large number or letter.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2015</idno>
+            <altIdentifier type="bibid">
+              <idno>9970656613503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/954004034</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/7065661</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Treatise and commentary on the hymn of the Gāyatrī mantra (serving both as deity and type of verse), specifically on its verses from the Ṛgveda. The manuscript, though bearing a title on the first folio (f. 1r), appears to begin in the middle of the text and gives only a partial colophon suggesting that the commentary will help to clear away darkness with respect to the Vedas. The colophon appears to be part of a signature ending to the R̥gvedabhāṣya (or R̥gvedabhāṣyabhūmikā) by the 14th-century author Sāyaṇa, the brother of the Mīmāmsā philosopher Mādhva, to whom the text is dedicated (though not in name).</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Gāyatrībhāṣya</title>
+              <title type="vernacular">गायत्रीभाष्य</title>
+              <author>
+                <persName type="authority">Sāyaṇa, -1387</persName>
+              </author>
+              <colophon>Colophon: iti tṛtīyasya caturthe daśamovargaḥ vedārthasya prakāśena tamohārdanivākhyan pumarthāṃścaturovedānvidyātīrthamaheśvaraḥ 1 śrīkṛṣṇārpaṇam astu (f. 2v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 11 x 21 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Gāyatrī (Hindu deity)</term>
+          <term>Hindu mantras</term>
+          <term>Hindu hymns</term>
+          <term>Devotional literature, Sanskrit</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Commentaries</term>
+          <term>Hymns</term>
+          <term>Watermarks</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-2015-1">
+      <graphic height="2578px" url="master/3227_0000.tif" width="4982px"/>
+      <graphic height="98px" url="thumb/3227_0000_thumb.jpg" width="190px"/>
+      <graphic height="931px" url="web/3227_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-2015-2">
+      <graphic height="5077px" url="master/3227_0001.tif" width="4982px"/>
+      <graphic height="190px" url="thumb/3227_0001_thumb.jpg" width="187px"/>
+      <graphic height="1800px" url="web/3227_0001_web.jpg" width="1766px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-2015-3">
+      <graphic height="2578px" url="master/3227_0002.tif" width="4982px"/>
+      <graphic height="98px" url="thumb/3227_0002_thumb.jpg" width="190px"/>
+      <graphic height="931px" url="web/3227_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Columbia University. MS Or 152c: Single leaf with illustration.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Columbia University.</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 152c: Single leaf with illustration. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 152c: Single leaf with illustration.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Manuscript leaf.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Two unrelated manuscripts previously housed with this item, have been separately cataloged as MS Or 152a and MS Or 152b.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>New York, NY. 10027</settlement>
+            <institution>Columbia University.</institution>
+            <repository>Rare Book and Manuscript Library</repository>
+            <idno type="call-number">MS Or 152c</idno>
+            <altIdentifier type="bibid">
+              <idno>13622997</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1078439024</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0032/html/ms_or_152c.html</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://clio.columbia.edu/catalog/13622997</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript leaf with painting. The recto contains six lines of text in four columns, interrupted by a pastiche painting of six figures, four on the right side in helmets and chains and two on the left side. The verso holds two clippings of unrelated text pasted in different directions.</summary>
+            <textLang mainLang="per">Persian</textLang>
+            <msItem>
+              <title>Single leaf with illustration.</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Smith, David Eugene, 1860-1944</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="Unnumbered recto">
+              <locus>Unnumbered recto</locus>
+              <title>[Single leaf with illustration].</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 leaf : 132 x 135 (132 x 135) mm</extent>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in nasta'līq; pointed.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>The lines of text are border-ruled in red and black. The painting is in gold and opaque watercolors on a dark background.</decoNote>
+              <decoNote n="Unnumbered recto">Pastiche painting in gold and watercolors</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>between 1850 and 1950?</origDate>
+              <origPlace>Iran?</origPlace>
+            </origin>
+            <provenance>Presumed to be a gift of David Eugene Smith, 1931-1934.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Persian poetry</term>
+          <term>Manuscripts, Persian</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Miniatures (paintings)</term>
+          <term>Detached leaves</term>
+          <term>Manuscripts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Unnumbered recto">
+      <graphic height="3460px" url="master/6925_0000.tif" width="3536px"/>
+      <graphic height="185px" url="thumb/6925_0000_thumb.jpg" width="190px"/>
+      <graphic height="1761px" url="web/6925_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Unnumbered verso">
+      <graphic height="3460px" url="master/6925_0001.tif" width="3536px"/>
+      <graphic height="185px" url="thumb/6925_0001_thumb.jpg" width="190px"/>
+      <graphic height="1761px" url="web/6925_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS: RAR MS 82.313.1.4: Psalter fragment</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies CAJS: RAR MS 82.313.1.4: Psalter fragment are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>420 Walnut Street, Philadelphia, Pennsylvania 19106-3703</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS: RAR MS 82.313.1.4</idno>
+            <altIdentifier type="bibid">
+              <idno>9978112510303681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1305323543</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://colenda.library.upenn.edu/catalog/81431-p3jh3dm66</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">In Hebrew</textLang>
+            <msItem>
+              <title>Psalter fragment</title>
+              <title type="vernacular">קטע מתהלים</title>
+              <author>
+                <name type="authority">Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library)</name>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper.</p>
+                </support>
+                <extent>1 leaf :</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>11th century?</origDate>
+            </origin>
+            <provenance>Transferred to the Cairo Genizah Collection (Library at the Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania).</provenance>
+            <provenance>Formerly held in the Cairo Genizah Collection (Dropsie College).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Manuscript fragments--Specimens</term>
+          <term>Jews--Africa, North--11th century--History--Sources</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>fragments (object portions)</term>
+          <term>psalters (books)</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Hebrew--11th century</term>
+          <term>copybooks (instructional materials)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Recto">
+      <graphic height="2820px" url="master/11596_0000.tif" width="2304px"/>
+      <graphic height="190px" url="thumb/11596_0000_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/11596_0000_web.jpg" width="1470px"/>
+    </surface>
+    <surface n="Verso">
+      <graphic height="2784px" url="master/11596_0001.tif" width="2388px"/>
+      <graphic height="190px" url="thumb/11596_0001_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/11596_0001_web.jpg" width="1544px"/>
+    </surface>
+  </facsimile>
+</TEI>

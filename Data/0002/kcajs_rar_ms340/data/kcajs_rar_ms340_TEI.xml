@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS Rar Ms 340: Hymn.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <date type="create-date" when="2023-01-25">2023-01-25</date>
+        <date type="mod-date" when="2023-01-25">2023-01-25</date>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies CAJS Rar Ms 340: Hymn. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2023 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>This is a brief record for a manuscript digitized in 2021. No further metadata is available.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>420 Walnut Street, Philadelphia, Pennsylvania 19106-3703</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS Rar Ms 340</idno>
+            <altIdentifier type="bibid">
+              <idno>9977975241903681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1252541153</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://colenda.library.upenn.edu/catalog/81431-p32b8vq2t</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="sam"/>
+            <msItem>
+              <title>Hymn.</title>
+              <author>
+                <persName type="authority">Abisha ben Pinhas, -1376</persName>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc/>
+          <history>
+            <origin>
+              <origPlace>Undated.</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Samaritans--Prayers and devotions</term>
+          <term ref="http://id.worldcat.org/fast/1104504">Samaritans</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Prayers</term>
+          <term>Prayers and devotions</term>
+          <term>Prayers</term>
+          <term>Devotional literature</term>
+          <term>Devotional literature</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1">
+      <graphic height="3249px" url="master/13374_0000.tif" width="3444px"/>
+      <graphic height="179px" url="thumb/13374_0000_thumb.jpg" width="190px"/>
+      <graphic height="1698px" url="web/13374_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2">
+      <graphic height="3249px" url="master/13374_0001.tif" width="3444px"/>
+      <graphic height="179px" url="thumb/13374_0001_thumb.jpg" width="190px"/>
+      <graphic height="1698px" url="web/13374_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3">
+      <graphic height="3300px" url="master/13374_0002.tif" width="6346px"/>
+      <graphic height="98px" url="thumb/13374_0002_thumb.jpg" width="190px"/>
+      <graphic height="936px" url="web/13374_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4">
+      <graphic height="3300px" url="master/13374_0003.tif" width="6346px"/>
+      <graphic height="98px" url="thumb/13374_0003_thumb.jpg" width="190px"/>
+      <graphic height="936px" url="web/13374_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

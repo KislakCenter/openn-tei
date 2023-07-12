@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 200: Maḥazor for Rosh ha-Shanah</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 200: Maḥazor for Rosh ha-Shanah are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Incipits are in enlarged, squared characters over a space; A fragment from a complete version of the Rosh ha-Shanah services, including the text of regular blessings; The fragment starts at the end of the Morning ʹAmidah, from the sixth blessing מדור לדור נודה to the end, followed by the prayer Avinu Malkenu (18 verses), similar to the version found in Siddur Rav Amram Gaon (Seder Rav Amram Gaʾon. Warsaw, 1865, p. 45) with a few minor variants and four additional verses; Instructions on the Torah reading (first day) and Shofar blowing follow, in 11 lines of Judeo-Arabic, in a smaller, more cursive hand; Under the headline עלות מוסף ראש השנה is the beginning of the Musaf service. The fragment reaches the High Holiday supplements to the third blessing, up to משיחך במרה בימינו.</note>
+        <note>Condition: complete, consecutive.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 200</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418823503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="jrb">Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Maḥazor for Rosh ha-Shanah</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>22.2 X 15.5 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 22-24; ruling method: left rule justified by stretching last character, or aligning exceeding word upwards in margin.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1200" notAfter="1599"/>
+              <p>13th century-16th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Rosh ha-Shanah , Liturgy , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5578px" url="master/4569_0000.tif" width="4032px"/>
+      <graphic height="190px" url="thumb/4569_0000_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4569_0000_web.jpg" width="1301px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5578px" url="master/4569_0001.tif" width="4032px"/>
+      <graphic height="190px" url="thumb/4569_0001_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4569_0001_web.jpg" width="1301px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5578px" url="master/4569_0002.tif" width="4032px"/>
+      <graphic height="190px" url="thumb/4569_0002_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4569_0002_web.jpg" width="1301px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5578px" url="master/4569_0003.tif" width="4032px"/>
+      <graphic height="190px" url="thumb/4569_0003_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4569_0003_web.jpg" width="1301px"/>
+    </surface>
+  </facsimile>
+</TEI>

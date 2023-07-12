@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS Rar Ms 474: Marriage contract</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies CAJS Rar Ms 474: Marriage contract are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2020 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>The wedding took place on the First day [Sun.] of the week, 1st of the month of Elul in the year 5684 [31 Aug. 1924] in the city of Filibeh. The groom is Avraham Laṿih son of Shemuʼel Laṿih. The bride is Ṿiḳṭoryah Danon bat Meʼir Danon. Witnesses: ha-tsaʻir Yitsḥaḳ [?]; Eliyah Ashkenazi.</note>
+        <note>Fold marks. Small hole to the right of tenaʼim with minimal loss of text.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>420 Walnut Street, Philadelphia, Pennsylvania 19106-3703</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS Rar Ms 474</idno>
+            <altIdentifier type="bibid">
+              <idno>9977254851603681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1028640445</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Printed, colored ketubah form with standard ketubah text in square letters and manuscript additions in black ink in Aramaic and Hebrew in Sephardic semi-cursive script. Decorative columns, flowers, fruit, wheat, leaves, wreaths and ribbons, and Star of David adorn the text. Verses from Scripture and words of blessing in Hebrew in square letters above the ketubah text. Text of ketubah on right and text of tenaʼim on left; witness signatures appear under each. Groom and bride signatures in Cyrillic under ketubah and groom in Cyrillic under tena'im. Wedding took place on 1 Elul 5684 (31 Aug. 1924), in Filibeh (Plovdiv), Bulgaria. Shemuʼel Papu also signed next to round stamp of the local Jewish community (Rabenu [?] Yiśreʼelit). Three revenue stamps at top right, one at bottom right.</summary>
+            <textLang mainLang="arc" otherLangs="heb">Aramaic and Hebrew</textLang>
+            <msItem>
+              <title>Marriage contract</title>
+              <respStmt>
+                <resp>witness</resp>
+                <persName type="authority">Ashkenazi, Eliyah</persName>
+              </respStmt>
+              <respStmt>
+                <resp>signer</resp>
+                <persName type="authority">Papu, Shemuʼel</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Einhorn, Yizhak</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Moussaieff, Shlomo</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 leaf : 59.2 X 45.7 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>5684 (1924)</origDate>
+            </origin>
+            <provenance>Formerly owned by Yizhak Einhorn, Tel Aviv (National Library of Israel digital facsimile, einhorn045).</provenance>
+            <provenance>Sold at auction at Sotheby's, from the estate of Shlomo Moussaieff, 20 Dec. 2017, lot 112.</provenance>
+            <!--
+                                  2020-06-04 DE: Adding proveance for LCP 796 fields - -
+
+                                  As far as I can tell, 790 fields are OCLC only. They don't appear in LOC MARC.
+                                  documentation. See: http://www.loc.gov/marc/bibliographic/, which lacks 79x
+                                  fields. See also https://www.oclc.org/bibformats/en/7xx/796.html.
+
+                                  Adding this for LCP for Benjamin Rush. Not handling linkage to 880 fields for non-Latin scripts.
+                              -->
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Laṿih, Avraham--Marriage</term>
+          <term>Danon, Ṿiḳtoryah--Marriage</term>
+          <term>Ketubah--Specimens</term>
+          <term>Prenuptial agreements (Jewish law)--Specimens</term>
+          <term>Marriage (Jewish law)</term>
+          <term>Plovdiv (Bulgaria)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Ketubahs</term>
+          <term>Marriage certificates</term>
+          <term>Blank forms</term>
+          <term>Manuscripts, Hebrew--20th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5688px" url="master/10332_0000.tif" width="4204px"/>
+      <graphic height="190px" url="thumb/10332_0000_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/10332_0000_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5644px" url="master/10332_0001.tif" width="4222px"/>
+      <graphic height="190px" url="thumb/10332_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/10332_0001_web.jpg" width="1346px"/>
+    </surface>
+  </facsimile>
+</TEI>

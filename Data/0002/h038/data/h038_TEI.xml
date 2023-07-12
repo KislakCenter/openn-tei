@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 38: Haftarot for Minḥah of Yom Kippur, First day of Sukkoth, with Masorah magna and parva</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 38: Haftarot for Minḥah of Yom Kippur, First day of Sukkoth, with Masorah magna and parva are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Text breaks marked after end of Jonah, and after Zechariah XIII 9; From a collection of Haftarot with Masoretic annotations, containing end of Jonah (IV 8-11) and a paragraph from Micah (VII 18-20) which comprise the Haftarah for Minḥah Yom Kippur; Followed by, in the middle of the verso, the heading לראשון של סוכה דשור או כשב (alluding to the Torah reading for the first of Sukkoth- Lev. XXII 26- XXIII 44)/ בתרי עשר;the Haftarah for the first of Sukkoth (Zechariah XIII 9-XIV). This fragment contains up to XIV 2 למלחמה.</note>
+        <note>Condition: complete; recto is faded.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 38</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417363503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Haftarot for Minḥah of Yom Kippur, First day of Sukkoth, with Masorah magna and parva</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17.9 X 13.2 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 11.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental square vocalization and cantillation (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1299"/>
+              <p>12th century-13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Yom Kippur , Liturgy , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4213px" url="master/4412_0000.tif" width="3150px"/>
+      <graphic height="190px" url="thumb/4412_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4412_0000_web.jpg" width="1346px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4213px" url="master/4412_0001.tif" width="3150px"/>
+      <graphic height="190px" url="thumb/4412_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4412_0001_web.jpg" width="1346px"/>
+    </surface>
+  </facsimile>
+</TEI>

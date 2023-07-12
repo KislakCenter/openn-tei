@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 280: Part of a collection of liturgical poems</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 280: Part of a collection of liturgical poems are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Fol. 1r opens with A. the complete version of the Seliḥah of Judah ha-Levi that starts נאלם שופך לבו (in the Diṿan published by Heinrich Brody, Berlin, 1910, v. 3, p. 265 under the heading לאשמורת יום כיפורים). The final line differs from the published edition; B. Under the heading : ליהודה, is ha-Levi's Seliḥah יעירוני רעיוני (Davidson, Thesuaurus of medieval Hebrew poetry 3155; Brody ibid. v.3, p. 182); Under the heading : ולה איצא, are the first 2 1/2 strophes of ha-Levi's Seliḥah יה למתי צפנת (TMHP 948; Brody, ibid. v.3, p. 304 under the heading לנעילה). This poem and the one preceding it, appear consecutively in the table of contents of a Diwan found in Cambridge T-S H15. 92. There they are numbered 62 and 61 respectively; After a lacuna, fol. 2 contains an unrhymed teḥinah; text ends on verso after 5 lines.</note>
+        <note>Condition: non-consecutive, complete; stained.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 280</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419613503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="jrb">Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Part of a collection of liturgical poems</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>16.4 X 13 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 23 (1r,v), 15 (2r), 5 (2v); ruling method: (fol. 1 cramped?).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1200" notAfter="1299"/>
+              <p>13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Libraries).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Piyutim</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4135px" url="master/4647_0000.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4647_0000_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/4647_0000_web.jpg" width="1476px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4135px" url="master/4647_0001.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4647_0001_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/4647_0001_web.jpg" width="1476px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4135px" url="master/4647_0002.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4647_0002_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/4647_0002_web.jpg" width="1476px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4135px" url="master/4647_0003.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4647_0003_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/4647_0003_web.jpg" width="1476px"/>
+    </surface>
+  </facsimile>
+</TEI>

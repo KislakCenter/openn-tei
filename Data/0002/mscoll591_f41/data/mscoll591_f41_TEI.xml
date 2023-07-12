@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 591 Folder 41 Folder 41: Fragment from Aphorisms with commentary</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 591 Folder 41 Folder 41: Fragment from Aphorisms with commentary are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania, 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 591 Folder 41 Folder 41</idno>
+            <altIdentifier type="bibid">
+              <idno>9968866473503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/940971217</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://colenda.library.upenn.edu/catalog/81431-p3599z76p</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Lower part of a leaf from a large manuscript of the Hippocratic Aphorisms, probably written in Italy in the second half of the 13th century, later used for a binding. The parent manuscript was written in 2 columns, with the aphorisms written in a large Gothic hand separated by paragraphs of commentary in a smaller Gothic hand. The aphorisms on this fragment are from Book 5 (Aphorisms 55 and 58 on the more damaged recto and Aphorisms 60 and 62 on the verso) and concern disease and pregnancy. Two readers have annotated the leaf, one adding interlinear and brief marginal notes in a tiny cursive hand, the other writing extensive notes in the lower margins in a somewhat larger cursive hand. The notes in the lower margin on the verso are a quotation from Aristotle's Problemata referring to delectabilia. The recto was the outside of the binding and has the numeral V on what was the spine and a note in ink, Supplice essortationi, in Italian by a later hand.</summary>
+            <textLang mainLang="lat">In Latin</textLang>
+            <msItem>
+              <title>Fragment from Aphorisms with commentary</title>
+              <author>
+                <persName type="authority" ref="http://id.loc.gov/authorities/names/n79005643">Hippocrates</persName>
+              </author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority" ref="http://id.loc.gov/authorities/names/n50035335">Albert, Daniel M</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority" ref="http://id.loc.gov/authorities/names/n88258293">Albert, Eleanor</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 item (1 leaf) : 180 x 270 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>between 1250 and 1299?</origDate>
+            </origin>
+            <provenance>Gift of Daniel and Eleanor Albert, in the Dr. Daniel and Eleanor Albert Medical Ephemera Collection, 2014.</provenance>
+            <provenance>Sold by Maggs Bros. (London), 2004.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term ref="http://id.worldcat.org/fast/1015277">Medicine, Medieval</term>
+          <term ref="http://id.loc.gov/authorities/subjects/sh2008118505">Gynecology--Early works to 1800</term>
+          <term ref="http://id.worldcat.org/fast/949684">Gynecology</term>
+          <term ref="http://id.loc.gov/authorities/subjects/sh85083152">Medicine, Medieval</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments (object portions)</term>
+          <term>Commentaries</term>
+          <term>Annotations</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Latin</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Recto">
+      <graphic height="5506px" url="master/11588_0000.tif" width="8025px"/>
+      <graphic height="130px" url="thumb/11588_0000_thumb.jpg" width="190px"/>
+      <graphic height="1234px" url="web/11588_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Verso">
+      <graphic height="5506px" url="master/11588_0001.tif" width="8025px"/>
+      <graphic height="130px" url="thumb/11588_0001_thumb.jpg" width="190px"/>
+      <graphic height="1234px" url="web/11588_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

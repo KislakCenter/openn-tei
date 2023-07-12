@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 789: Rasendracūḍāmaṇi.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 789: Rasendracūḍāmaṇi. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 4v).</note>
+        <note>Written in 10-11 lines per leaf.</note>
+        <note>4 leaves foliated 1-4, upper left and lower right verso.</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins; significant syllables, words, or phrases highlighted in red throughout.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 789</idno>
+            <altIdentifier type="bibid">
+              <idno>9962217443503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/881287219</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6221744</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>This manuscript is a section of the work named Crown jewel (cūḍāmaṇi) of the king of fluids (rasendra), and is used for consultation and reference about various medicinal elixirs, their composition and application. This section concerns the characteristics of divine herbs and medicines.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Rasendracūḍāmaṇi.</title>
+              <title type="vernacular">रसेन्द्रचूडामणि</title>
+              <author>
+                <persName type="authority">Somadeva</persName>
+              </author>
+              <colophon>Colophon: iti somadevaviracito raseṃdracūḍāmaṇau divyauṣadhīlakṣaṇādhyāyaḥ samāptaḥ // (f. 4v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (4 leaves) : 13 x 27 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Medicine, Ayurvedic--Formulae, receipts, prescriptions</term>
+          <term>Mercury--India</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuals (instructional materials)</term>
+          <term>Prescriptions</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3029px" url="master/6052_0000.tif" width="6057px"/>
+      <graphic height="95px" url="thumb/6052_0000_thumb.jpg" width="190px"/>
+      <graphic height="900px" url="web/6052_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="5820px" url="master/6052_0001.tif" width="5922px"/>
+      <graphic height="186px" url="thumb/6052_0001_thumb.jpg" width="190px"/>
+      <graphic height="1768px" url="web/6052_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v-3r">
+      <graphic height="5854px" url="master/6052_0002.tif" width="6001px"/>
+      <graphic height="185px" url="thumb/6052_0002_thumb.jpg" width="190px"/>
+      <graphic height="1755px" url="web/6052_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v-4r">
+      <graphic height="5842px" url="master/6052_0003.tif" width="5922px"/>
+      <graphic height="187px" url="thumb/6052_0003_thumb.jpg" width="190px"/>
+      <graphic height="1775px" url="web/6052_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="2972px" url="master/6052_0004.tif" width="5933px"/>
+      <graphic height="95px" url="thumb/6052_0004_thumb.jpg" width="190px"/>
+      <graphic height="901px" url="web/6052_0004_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

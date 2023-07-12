@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 312: Ethical poem, Ashre adam, matsa ḥokhmah</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 312: Ethical poem, Ashre adam, matsa ḥokhmah are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Recto had 39 lines (Halper); the poem ends in the middle of the verso, the remainder is blank. Each verse starts a new line, verse endings are signified by a period; some words vocalized; A complete copy of Elḥanan ben Shemaryahu's Ethical poem אשרי אדם מצא חכמה (Davidson, Thesaurus of Medieval Hebrew poetry, v.1 n. 8358). Sixty verses that rhyme רים-. The acrostic signature of the first fifteen verses reads אלחנן בירבי שמריה; On the author, see E. Bareqet, Shafrir Mitsraim, 1995, p. 153-164 (Fustat on the Nile, Leiden, 1999, p. 220).</note>
+        <note>Condition: complete, folded widthwise at center.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 312</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419923503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Ethical poem, Ashre adam, matsa ḥokhmah</title>
+              <author>Elhanan ben Shemariah,d. 1026</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>29.4 X 11.4 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: [39] (recto); 21 (verso); ruling method: left rule is justified by stretching [r] of rhyme.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental square hand vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>11th century-12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Adler.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7076px" url="master/4679_0000.tif" width="2912px"/>
+      <graphic height="190px" url="thumb/4679_0000_thumb.jpg" width="78px"/>
+      <graphic height="1800px" url="web/4679_0000_web.jpg" width="740px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7076px" url="master/4679_0001.tif" width="2912px"/>
+      <graphic height="190px" url="thumb/4679_0001_thumb.jpg" width="78px"/>
+      <graphic height="1800px" url="web/4679_0001_web.jpg" width="740px"/>
+    </surface>
+  </facsimile>
+</TEI>

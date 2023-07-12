@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 661: Yoginīdaśāntardaśaphala</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 661: Yoginīdaśāntardaśaphala are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2v).</note>
+        <note>Written in 17-18 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Dated saṃvat 1892 (1835) (f. 2v).</note>
+        <note>Mistakes blacked out; some corrections and additions in margins; significant syllables, words, or phrases highlighted in red throughout.</note>
+        <note>Scribe is Viṣṇudaṭṭa (f. 2v).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 661</idno>
+            <altIdentifier type="bibid">
+              <idno>9960448083503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/861360140</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6044808</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is a kind of manual or treatise used for astrological predictions and contains tables and number graphs for the purposes of divination and considers the lunar alignment of a person's birth.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Yoginīdaśāntardaśaphala</title>
+              <title type="vernacular">योगिनीदशान्तर्दशफल</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName type="authority">Viṣṇudaṭṭa</persName>
+              </respStmt>
+              <colophon>Colophon: iti yoginīdaśāṃtardaśāphalaṃ samāptam śubham samvat 1892 mitibhādrapade site pakṣe lohanīviṣṇudattena svārthaṃ likhitam lekhakapāṭhakayoḥ śubham // (f. 2v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 11 x 24 cm</extent>
+              </supportDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote n="1r">Table, f. 1r</decoNote>
+              <decoNote n="1v-2r">Tables, f. 1v-2r</decoNote>
+              <decoNote n="2v">Tables, f. 2v</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Divination--India</term>
+          <term>Hindu astrology</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Treatises</term>
+          <term>Manuals (instructional materials)</term>
+          <term>Tables (documents)</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2622px" url="master/5933_0000.tif" width="5481px"/>
+      <graphic height="90px" url="thumb/5933_0000_thumb.jpg" width="190px"/>
+      <graphic height="861px" url="web/5933_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="5198px" url="master/5933_0001.tif" width="5470px"/>
+      <graphic height="180px" url="thumb/5933_0001_thumb.jpg" width="190px"/>
+      <graphic height="1710px" url="web/5933_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="2577px" url="master/5933_0002.tif" width="5447px"/>
+      <graphic height="89px" url="thumb/5933_0002_thumb.jpg" width="190px"/>
+      <graphic height="851px" url="web/5933_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

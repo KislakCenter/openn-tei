@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2004: Oṃ gaṃ</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2004: Oṃ gaṃ are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from center of diagram.</note>
+        <note>Mistakes covered over in yellow or blacked out.</note>
+        <note>Written on European paper with watermark (Russo?).</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2004</idno>
+            <altIdentifier type="bibid">
+              <idno>9951891593503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/760288677</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Stylized lotus diagram (yantra) for prosperity and used in ritual and prayer; likely to the Hindu god Gaṇeśa typically associated with the mantra Oṃ gaṃ found at its center; mantras dedicated to related deities such as Umā and Maheśa as well as mantras to Vedic deities such as Indra and Soma are placed throughout the diagram; contains an entire Sanskrit syllabary circling the lotus flower.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Oṃ gaṃ</title>
+              <title type="vernacular">ओं गं</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (1 leaf) : 22 x 22 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Yantras</term>
+          <term>Hindu mantras</term>
+          <term>Gaṇeśa (Hindu deity)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Diagrams</term>
+          <term>Prayers</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-2004-1">
+      <graphic height="4753px" url="master/5216_0000.tif" width="4990px"/>
+      <graphic height="180px" url="thumb/5216_0000_thumb.jpg" width="190px"/>
+      <graphic height="1714px" url="web/5216_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ms-coll-390-item-2004-2">
+      <graphic height="4753px" url="master/5216_0001.tif" width="4990px"/>
+      <graphic height="180px" url="thumb/5216_0001_thumb.jpg" width="190px"/>
+      <graphic height="1714px" url="web/5216_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

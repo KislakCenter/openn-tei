@@ -1,0 +1,126 @@
+<collection xmlns='http://www.loc.gov/MARC21/slim' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd'>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000ctm a2200000Ia 4500</leader>
+    <controlfield tag="001">on1135062153</controlfield>
+    <controlfield tag="008">200107q18001899xx       d    000 0 syc d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">BMC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="e">amremm</subfield>
+      <subfield code="c">BMC</subfield>
+      <subfield code="d">BMC</subfield>
+    </datafield>
+    <datafield tag="041" ind1="1" ind2=" ">
+      <subfield code="a">syc</subfield>
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="099" ind1=" " ind2=" ">
+      <subfield code="a">BV 67</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">BMCC</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Syriac-English dictionary].</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="0">
+      <subfield code="c">[18--?]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">ii, 216, i leaves:</subfield>
+      <subfield code="b">paper ;</subfield>
+      <subfield code="c">225 x 185 (215 x 165) mm bound to 235 x 200 mm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="340" ind1=" " ind2=" ">
+      <subfield code="d">manuscript</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Manuscript codex.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Syriac-English dictionary arranged according to the order of the Syriac alphabet.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">Syriac and English.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Title supplied by cataloger.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Foliation: Modern foliation added in pencil every tenth folio, lower left recto (one uncounted page before leaf 1 and 40); headwords in black ink, upper outer corners.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Layout: Written in 21 lines in two columns of pairs of words; frame ruled with a misṭarah.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Origin: The item is undated with no record of who compiled it; probably made in the 19th century.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Binding: Bound in black leather over pasteboard (Type III) with blind tooled frame and central diamond shape.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">A note signed Stephen C. Gates, Wakeville, N.Y. laid in: "This dictionary was in a collection from a family named Brown in New York -- a member of this family was said to have been 'a missionary in Persia' although not exactly identified who or where".</subfield>
+    </datafield>
+    <datafield tag="524" ind1=" " ind2=" ">
+      <subfield code="a">Bryn Mawr College Libraries BV 67</subfield>
+    </datafield>
+    <datafield tag="541" ind1="1" ind2=" ">
+      <subfield code="a">Acquired with set of volumes from the Berkeley Divinity School.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Syriac language</subfield>
+      <subfield code="v">Dictionaries</subfield>
+      <subfield code="x">English.</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="0">
+      <subfield code="a">Manuscripts, Arabic.</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="0">
+      <subfield code="a">Manuscripts, 19th century.</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Codices (bound manuscripts)</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Manuscripts (documents)</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Dictionaries.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Blind-tooled (decoration)</subfield>
+      <subfield code="2">lobt</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Berkeley Divinity School,</subfield>
+      <subfield code="e">donor.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="z">Digital facsimile in OPenn</subfield>
+      <subfield code="u">http://openn.library.upenn.edu/Data/0003/html/bv_067.html</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+      <subfield code="b">Special Collections</subfield>
+      <subfield code="a">Bryn Mawr College Libraries</subfield>
+      <subfield code="e">Bryn Mawr, PA</subfield>
+      <subfield code="u">https://tricolib.primo.exlibrisgroup.com/discovery/search?vid=01TRI_INST:BMC</subfield>
+    </datafield>
+  </record></collection>

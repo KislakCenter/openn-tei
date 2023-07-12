@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS: RAR MS 82.313.42: Kinot :</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies CAJS: RAR MS 82.313.42: Kinot : are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>420 Walnut Street, Philadelphia, Pennsylvania 19106-3703</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS: RAR MS 82.313.42</idno>
+            <altIdentifier type="bibid">
+              <idno>9978127917203681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1309092788</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://colenda.library.upenn.edu/catalog/81431-p30g3hg9s</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">In Hebrew</textLang>
+            <msItem>
+              <title>Kinot :</title>
+              <title type="vernacular">קינות</title>
+              <author>
+                <name type="authority">Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library)</name>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 leaf +</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>1000s?-1100s?</origDate>
+            </origin>
+            <provenance>Formerly held in the Cairo Genizah Collection (Dropsie College).</provenance>
+            <provenance>Transferred to the Cairo Genizah Collection (Library at the Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Ninth of Av--Liturgy--Texts--Manuscripts</term>
+          <term ref="http://id.worldcat.org/fast/1938802">Manuscript fragments</term>
+          <term ref="http://id.worldcat.org/fast/1037857">Ninth of Av--Liturgy</term>
+          <term ref="http://id.worldcat.org/fast/1008230">Manuscripts</term>
+          <term>Manuscript fragments--Specimens</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Acrostics (Poetry)</term>
+          <term>Specimens</term>
+          <term>Texts</term>
+          <term>Acrostics (Poetry)</term>
+          <term>Fragments (object portions)</term>
+          <term>Dirges</term>
+          <term>Manuscripts, European</term>
+          <term>Manuscripts, Hebrew--11th century</term>
+          <term>Manuscripts, Hebrew--12th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1 recto">
+      <graphic height="3939px" url="master/11607_0000.tif" width="3192px"/>
+      <graphic height="190px" url="thumb/11607_0000_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/11607_0000_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="1 verso">
+      <graphic height="3987px" url="master/11607_0001.tif" width="3176px"/>
+      <graphic height="190px" url="thumb/11607_0001_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/11607_0001_web.jpg" width="1434px"/>
+    </surface>
+    <surface n="2 recto">
+      <graphic height="4035px" url="master/11607_0002.tif" width="1144px"/>
+      <graphic height="190px" url="thumb/11607_0002_thumb.jpg" width="53px"/>
+      <graphic height="1800px" url="web/11607_0002_web.jpg" width="510px"/>
+    </surface>
+    <surface n="2 verso">
+      <graphic height="4307px" url="master/11607_0003.tif" width="1080px"/>
+      <graphic height="190px" url="thumb/11607_0003_thumb.jpg" width="47px"/>
+      <graphic height="1800px" url="web/11607_0003_web.jpg" width="451px"/>
+    </surface>
+  </facsimile>
+</TEI>

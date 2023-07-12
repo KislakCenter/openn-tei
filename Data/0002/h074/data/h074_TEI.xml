@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 74: Part of David Kimḥi's treatise on Hebrew grammar, Mikhlol</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Laura Eckstein</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 74: Part of David Kimḥi's treatise on Hebrew grammar, Mikhlol are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Vocalized as necessary; title (שער השמות) appears mid-line, in enlarged squared characters above a space; Contains last words of chapter on verbs (שער הפעלים) and the beginning of the chapter on proper nouns (שער השמות); Parallel, in the published edition (Fürth 1793), to p. 151a l. 7 – p. 154a l. 17 חידתי שהטעם.</note>
+        <note>Condition: exterior half only; last two lines erased.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 74</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417713503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Part of David Kimḥi's treatise on Hebrew grammar, Mikhlol</title>
+              <author>Kimhi, David, approximately 1160-approximately 1235 Ḳimḥi, Daṿid 1160-1235 קמחי, דוד בן יוסף, 1160-1235 Кимхи, Давид, 1160-1235 Kimḥi, David, ca 1160-ca 1235 Dawid ben Yosef ben Yiẕḥaq ibn Qimḥi (David ben Joseph), ca1160-ca1235 David Qimhi c. 1160-c. 1235 rabbi Kimhi, David, rabbi, c. 1160-c. 1235 Kimḥi, David דוד קמחי Kimhi, David ben Joseph 1160-1235 Qimḥi, David Kimchi, David ben Josef, asi 1160-asi 1235 David ben Joseph Kimhi, rabbi, c. 1160-c. 1235 David Qimhi, rabbi, c. 1160-c. 1235 Maistre Petit, rabbi, c. 1160-c. 1235 Redak, rabbi, c. 1160-c. 1235</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>26 X 11.4 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 28; ruling method: left rule justified by stretching last character.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Sephardic semi-cursive vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1200" notAfter="1399"/>
+              <p>13th century-14th century?</p>
+              <origPlace>Provence?</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Bible. , O.T. Grammar , Early works to 1800</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6260px" url="master/4858_0000.tif" width="2769px"/>
+      <graphic height="190px" url="thumb/4858_0000_thumb.jpg" width="84px"/>
+      <graphic height="1800px" url="web/4858_0000_web.jpg" width="796px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6260px" url="master/4858_0001.tif" width="2769px"/>
+      <graphic height="190px" url="thumb/4858_0001_thumb.jpg" width="84px"/>
+      <graphic height="1800px" url="web/4858_0001_web.jpg" width="796px"/>
+    </surface>
+  </facsimile>
+</TEI>

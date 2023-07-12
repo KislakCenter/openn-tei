@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:records xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:record>
+    <marc:leader>00965ntm a22002417a 4500</marc:leader>
+    <marc:controlfield tag="001">9977975444003681</marc:controlfield>
+    <marc:controlfield tag="005">20230113160521.0</marc:controlfield>
+    <marc:controlfield tag="008">210517s1906    xx            000 0 sam d</marc:controlfield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(OCoLC)on1252541385</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(OCoLC)1252541385</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="9" tag="099">
+  <marc:subfield code="a">CAJS Rar Ms 93</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2=" " tag="100">
+  <marc:subfield code="a">Munaja ibn Ṣadaqah.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="1" ind2="0" tag="245">
+  <marc:subfield code="a">Radd 'ala al-Yahud.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="3" ind2=" " tag="246">
+  <marc:subfield code="a">Samaritan manuscript</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2="1" tag="264">
+  <marc:subfield code="a">1906.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="336">
+  <marc:subfield code="a">text</marc:subfield>
+  <marc:subfield code="b">txt</marc:subfield>
+  <marc:subfield code="2">rdacontent</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="337">
+  <marc:subfield code="a">unmediated</marc:subfield>
+  <marc:subfield code="b">n</marc:subfield>
+  <marc:subfield code="2">rdamedia</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="338">
+  <marc:subfield code="a">unspecified</marc:subfield>
+  <marc:subfield code="b">zu</marc:subfield>
+  <marc:subfield code="2">rdacarrier</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="500">
+  <marc:subfield code="a">This is a brief record for a manuscript digitized in 2021. No further metadata is available.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="546">
+  <marc:subfield code="a">Samaritan.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="852">
+  <marc:subfield code="b">Library at the Herbert D. Katz Center for Advanced Judaic Studies</marc:subfield>
+  <marc:subfield code="a">University of Pennsylvania</marc:subfield>
+  <marc:subfield code="e">420 Walnut Street, Philadelphia, Pennsylvania 19106-3703.</marc:subfield>
+  <marc:subfield code="j">CAJS Rar Ms 93</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="4" ind2="1" tag="856">
+  <marc:subfield code="z">Digital facsimile for browsing (Colenda)</marc:subfield>
+  <marc:subfield code="u">https://colenda.library.upenn.edu/catalog/81431-p3np1wz6c</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="902">
+  <marc:subfield code="a">MARCIVE 2022</marc:subfield>
+</marc:datafield>
+    <marc:holdings>
+      <marc:holding>
+        <marc:holding_id>22671055480003681</marc:holding_id>
+        <marc:call_number>CAJS Rar Ms 93</marc:call_number>
+        <marc:library>KatzLib</marc:library>
+        <marc:location>cjsrarms</marc:location>
+      </marc:holding>
+    </marc:holdings>
+  </marc:record>
+</marc:records>

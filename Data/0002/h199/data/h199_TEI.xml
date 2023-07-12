@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 199: Maḥazor for Passover, ʹAmidah</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 199: Maḥazor for Passover, ʹAmidah are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Text breaks denoted by a punctus, plus a space; left rule is justified by one or two characters of the anticipated word, or a graphic filler; A fragment from a complete version of the Festival ʹAmidah, including the text of regular blessings. No. 199 contains from the middle of the special, fourth blessing י'י אלהינו מועדים לשמחה, where it is specified that this is the ʹAmidah of Passover, and continues to the end of the ʹAmidah, followed by the additional meditation אלהי נצור until תרדף נפשי כל; No. 198 is from a different ʹAmidah, for which specific festival can not be discerned as starts at the end of the special, fourth blessing לבנו לעבדך באמת. This too continues into אלהי נצור; The end of this prayer differs from the common version, and from the version found in the Gaonic Siddurim. It adds a sentence that startsמלכנו אלהינו יחד שמך בעולמך, which may be an expanded version, or a vestige, of the optional sentenced described in the Maḥzor Vitry (Maḥazor Viṭry / Simḥah ben Samuel, of Vitry. Nurenberg : Y. Bulḳa, 1923, p. 67) placed at the beginning of אלהי נצור.</note>
+        <note>Condition: complete, non-consecutive; Halper 199 is cut diagonally at the bottom.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 199</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418813503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Maḥazor for Passover, ʹAmidah</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>16 X 13.7 cm (Halper 198); 15.6 X 13.1 cm (Halper 199) </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 14.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1399"/>
+              <p>12th century-14th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+            <provenance>Y.M.H.A.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Passover , Liturgy , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4007px" url="master/4568_0000.tif" width="3488px"/>
+      <graphic height="190px" url="thumb/4568_0000_thumb.jpg" width="165px"/>
+      <graphic height="1800px" url="web/4568_0000_web.jpg" width="1567px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4007px" url="master/4568_0001.tif" width="3488px"/>
+      <graphic height="190px" url="thumb/4568_0001_thumb.jpg" width="165px"/>
+      <graphic height="1800px" url="web/4568_0001_web.jpg" width="1567px"/>
+    </surface>
+  </facsimile>
+</TEI>

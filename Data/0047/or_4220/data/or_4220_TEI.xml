@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 4220: The Book of Ruth.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 4220: The Book of Ruth. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 4220: The Book of Ruth.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A few minor stains, and darkening in spine area.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 4220</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_4220</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Book of Ruth.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Book of Ruth.</title>
+            </msItem>
+            <msItem n="1r">
+              <locus target="#surface-or-4220-">1r</locus>
+              <title>Services for the first day of Rosh
+          								ha-Shanah</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="leather">
+                <support>
+                  <p>Leather</p>
+                </support>
+                <extent>2 membranes, 7 columns.; 2 membranes, 7 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 7; ruled lines: 21; written lines: 21 ; Uniform layout. Ruling by hard point, membrane by membrane. Visible pricking. No tagin, but the letter ḥet occasionally arched. No majuscular and minuscular letters, apart from two occurences in the last two verses. Breaks found at ii:1, iii:1, iv:1.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Yemenite square script of the 15th to 16th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Boxed.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1400" notAfter="1599"/>
+              <p>Between 1400 and 1599</p>
+              <origPlace>Yemen</origPlace>
+            </origin>
+            <provenance>Acquisition: C.D. Ginsburg: acquired from him by the British Museum on 17 February 1891.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="4852px" url="master/13285_0000.jpg" width="1680px"/>
+      <graphic height="190px" url="thumb/13285_0000_thumb.jpg" width="65px"/>
+      <graphic height="1800px" url="web/13285_0000_web.jpg" width="623px"/>
+    </surface>
+    <surface n="front-i">
+      <graphic height="4918px" url="master/13285_0001.jpg" width="1565px"/>
+      <graphic height="190px" url="thumb/13285_0001_thumb.jpg" width="60px"/>
+      <graphic height="1800px" url="web/13285_0001_web.jpg" width="572px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="2662px" url="master/13285_0002.jpg" width="10732px"/>
+      <graphic height="47px" url="thumb/13285_0002_thumb.jpg" width="190px"/>
+      <graphic height="446px" url="web/13285_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="back">
+      <graphic height="5182px" url="master/13285_0003.jpg" width="1931px"/>
+      <graphic height="190px" url="thumb/13285_0003_thumb.jpg" width="70px"/>
+      <graphic height="1800px" url="web/13285_0003_web.jpg" width="670px"/>
+    </surface>
+  </facsimile>
+</TEI>

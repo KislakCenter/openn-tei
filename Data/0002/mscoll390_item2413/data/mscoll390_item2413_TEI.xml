@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2413: Rudrāṣṭakastotra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2413: Rudrāṣṭakastotra are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 1r).</note>
+        <note>Written in 8-9 lines per leaf.</note>
+        <note>1 leaf.</note>
+        <note>Dated śana 1282 (1875) (f. 1v); reference to śana year may indicate that work is from the Bengal area.</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2413</idno>
+            <altIdentifier type="bibid">
+              <idno>9972536253503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/965828230</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/7253625</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Text celebrating the deity Rudra, a form of Śiva.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Rudrāṣṭakastotra</title>
+              <title type="vernacular">रुद्राष्टकस्तोत्र</title>
+              <colophon>Colophon: iti rudrāṣṭaka[?]stotrasamāptasubhamaḥ // (f. 1r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (1 leaf) : 10 x 22 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Rudra (Hindu deity)</term>
+          <term>Siva (Hindu deity)</term>
+          <term>Devotional literature, Sanskrit</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Prayers (documents)</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-2413-1">
+      <graphic height="2570px" url="master/3851_0000.tif" width="5163px"/>
+      <graphic height="94px" url="thumb/3851_0000_thumb.jpg" width="190px"/>
+      <graphic height="895px" url="web/3851_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ms-coll-390-item-2413-2">
+      <graphic height="2570px" url="master/3851_0001.tif" width="5163px"/>
+      <graphic height="94px" url="thumb/3851_0001_thumb.jpg" width="190px"/>
+      <graphic height="895px" url="web/3851_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

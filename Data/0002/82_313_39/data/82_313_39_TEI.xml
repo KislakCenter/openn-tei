@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS: RAR MS 82.313.39: Tafsīr to Exodus III:16-IV:7</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies CAJS: RAR MS 82.313.39: Tafsīr to Exodus III:16-IV:7 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>420 Walnut Street, Philadelphia, Pennsylvania 19106-3703</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS: RAR MS 82.313.39</idno>
+            <altIdentifier type="bibid">
+              <idno>9978125621603681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1308956181</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://colenda.library.upenn.edu/catalog/81431-p3cr5nx2t</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb">In Judeo-Arabic</textLang>
+            <msItem>
+              <title>Tafsīr to Exodus III:16-IV:7</title>
+              <title type="vernacular">תפסיר לשמות ג:ט"ז-ד:ז</title>
+              <author>
+                <persName type="authority" ref="http://id.loc.gov/authorities/names/n82156974">Saʻadia ben Joseph, 882-942</persName>
+                <persName type="vernacular">סעדיה</persName>
+              </author>
+              <author>
+                <name type="authority">Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library)</name>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 leaf :</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>1200s? 1300s?</origDate>
+            </origin>
+            <provenance>Transferred to the Cairo Genizah Collection (Library at the Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania).</provenance>
+            <provenance>Formerly held in the Cairo Genizah Collection (Dropsie College).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Manuscript fragments--Specimens</term>
+          <term ref="http://id.worldcat.org/fast/1938802">Manuscript fragments</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Judeo-Arabic--14th century</term>
+          <term>Manuscripts, Judeo-Arabic--13th century</term>
+          <term>Texts</term>
+          <term>Fragments (object portions)</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Specimens</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1 recto">
+      <graphic height="5274px" url="master/11605_0000.tif" width="3973px"/>
+      <graphic height="190px" url="thumb/11605_0000_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/11605_0000_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="1 verso">
+      <graphic height="5214px" url="master/11605_0001.tif" width="3673px"/>
+      <graphic height="190px" url="thumb/11605_0001_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/11605_0001_web.jpg" width="1268px"/>
+    </surface>
+  </facsimile>
+</TEI>

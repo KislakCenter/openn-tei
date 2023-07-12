@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 354: Court document (draft)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 354: Court document (draft) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>The hand of the scribe who wrote this document is recognized as that of Ephraim ben Shemaryah, who presided as a court judge in 'Azza and Fustat. A list of his documents was assembled by E. Bareket, Shafrir Mitsrayim, 1995, p. 257-259; See also, above no. 337. He served as the head of the Erets Israeli community of Fustat, in documents between 1020-1047 (see Bareket, ibid., pp. 100-121); Two sons of the deceased Naḥman the Doctor (הרופה sic!) from Aleppo declare to the court that they have received from Ephraim the Ḥaver ben [Shemarya], what their father deposited with him; In the left margin is a title זכרון עדות, apparently added to the document for the purpose of indexing or filing among court documents. The correction, uneven rule, shorthand abbreviations, and relatively cursive hand, indicate that this is a draft copy; On the verso is a different inscription, in Arabic characters, which was also written before the destruction of the folio. This document, probably also a draft, is a charter designating the authority and functions of the court of the Gaonate (here "Rais al-Metivta") of the Erets Israeli Jewish community; Comparable to a charter drawn by Ephraim ben Shemarya upon his reappointment in 1028, found in Cambridge T-S 13J 7 fol. 25 (published by Goitein, ibid. pp. 84-86). This may have been the primary inscription.</note>
+        <note>Condition: fragment, upper portion of fol., left edge lacking; titular inscription in left margin recto.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 354</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420323503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="jrb ara">Hebrew; Judeo-Arabic; Arabic</textLang>
+            <msItem>
+              <title>Court document (draft)</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Efraim ben Shemarya 0980?-1060? Efraim ben Shemarya, approximately 980-approximately 1060</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>18.1 X 13.2 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 18 (recto), ? (verso).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Arabic Oriental semi-square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1020" notAfter="1047"/>
+              <p>1020-1047?</p>
+              <origPlace>Fustat</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Witnesses (Jewish law)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4712px" url="master/4719_0000.tif" width="3456px"/>
+      <graphic height="190px" url="thumb/4719_0000_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/4719_0000_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4712px" url="master/4719_0001.tif" width="3456px"/>
+      <graphic height="190px" url="thumb/4719_0001_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/4719_0001_web.jpg" width="1320px"/>
+    </surface>
+  </facsimile>
+</TEI>

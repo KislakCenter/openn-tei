@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 342: Court document (draft)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 342: Court document (draft) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Written on both sides; diagonal scratch marks, signifying invalidation of the document; A Judeo-Arabic draft from the record book of the Court of Matsliaḥ ha-Kohen Gaʾon, (l. 1: בית דין הגדול של אדוננו מצליח הכהן ראש [...]ע) who served in this capacity between 1127-1138; The hand is recognized as that of the court scribe Ḥalfon ha-Levi ben Menashe. Over 250 such documents have been collected by Gershon Weiss, Legal documents written by the court clerk Halfon Ben Manasse, dated 1100-1138, a study in the diplomatics of the Cairo Geniza (Thesis (Ph.D.) in Oriental Studies--Graduate School of Arts and Sciences), University of Pennsylvania, 1970; The draft records in Judeo-Arabic, a litigation settlement between Shabetai ha-Ḥazzan ben Joseph and his wife, Turfa daughter of ʹAmram. The object of the litigation includes clothes, house wares and a slave girl named Na'im.</note>
+        <note>Condition: connected to edge of another folio, as if bifolium from court codex; damaged, faded, losses at bottom, torn.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 342</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420203503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb">Judeo-Arabic</textLang>
+            <msItem>
+              <title>Court document (draft)</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Halfon ben Menasse, fl. 1100-1138.</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>19 X 12.9 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 25 extant.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1127" notAfter="1138"/>
+              <p>1127-1138?</p>
+              <origPlace>Fustat</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Adler.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Court records</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4739px" url="master/4708_0000.tif" width="3856px"/>
+      <graphic height="190px" url="thumb/4708_0000_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/4708_0000_web.jpg" width="1464px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4739px" url="master/4708_0001.tif" width="3856px"/>
+      <graphic height="190px" url="thumb/4708_0001_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/4708_0001_web.jpg" width="1464px"/>
+    </surface>
+  </facsimile>
+</TEI>

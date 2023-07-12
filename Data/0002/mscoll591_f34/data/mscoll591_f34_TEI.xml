@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 591 Folder 34 Folder 34: Collectar leaf</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 591 Folder 34 Folder 34: Collectar leaf are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 591 Folder 34 Folder 34</idno>
+            <altIdentifier type="bibid">
+              <idno>9949493533503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/122543414</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4949353 http://hdl.library.upenn.edu/1017.12/366316 http://hdl.library.upenn.edu/1017.12/366201 https://colenda.library.upenn.edu/catalog/81431-p3ng4h623</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Leaf from a collectar, also called a collectarium or capitulary, a liturgical book containing short prayers, written in southeastern France. The leaf is from early in the manuscript and briefly demonstrates, with texts and square musical notation, how to begin the Divine Office (Modus inchoandi horas); how to chant the chapters (Modus dicendi capitula); and how to chant the prayers for Vespers and Lauds (Modus dicendi orationes in vesperis et in laudibus). The leaf is written in 2 columns of 9 or 10 4-line staves in red ink, with rubrics in red, chant text in black below each staff and marginal notes to the left of the staves in red. Decorated with one large puzzle initial in red and blue, flourished in purple and red; the remaining initials are either red with purple flourishing or blue with red flourishing. An ornamental border in red and blue decorates the left edge of 3 out of 4 columns on the leaf.</summary>
+            <textLang mainLang="lat">In Latin</textLang>
+            <msItem>
+              <title>Collectar leaf</title>
+              <author>
+                <name type="authority">Catholic Church</name>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 item (1 leaf) : 244 x 173 (177 x 128) mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>ca. 1325</origDate>
+            </origin>
+            <provenance>Sold by King Alfred's Notebook (Cayce, S.C.), cat. 4 (2011), no. 26.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Collectars--Specimens</term>
+          <term>Gregorian chants--Manuscripts</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Gregorian chant</term>
+          <term>Manuals (instructional materials)</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6122px" url="master/11430_0000.tif" width="4412px"/>
+      <graphic height="190px" url="thumb/11430_0000_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/11430_0000_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6176px" url="master/11430_0001.tif" width="4412px"/>
+      <graphic height="190px" url="thumb/11430_0001_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/11430_0001_web.jpg" width="1286px"/>
+    </surface>
+  </facsimile>
+</TEI>

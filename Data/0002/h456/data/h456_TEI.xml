@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 456: Treatise on amulets</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 456: Treatise on amulets are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Fol. 1r, under the heading פזמון, is Abraham ben Samuel Abulafia's kabbalic poem for Shavuotאשתעשע במש(א)ל קדמון, which ends in praise for Maimonides. See Steinschneider, Koṿets ʹal yad, sidrah 1, kerehh 1 (1885), p. 4, 15. Followed by Hebrew instructions for preparing a prescription for sorts of leprosy. Together they are 17 lines, the remainder of the page is empty; Fol. 1v contains various remedies in Judeo-Arabic; Fol. 2v contains a potion in Hebrew for a thin man or woman who wishes to be fat; remainder of the page is empty.</note>
+        <note>Condition: complete, fading ; fol. 2r is empty.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 456</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421323503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="jrb">Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Treatise on amulets</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>15.5 X 11.2 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns:1; lines: 18 (1r), 19 (1v), 2 (2v).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Byzantine(?) Italian(?) semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1300" notAfter="1399"/>
+              <p>14th century?</p>
+              <origPlace>Byzantium or Italy</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Shavuot , Liturgy, Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4039px" url="master/4819_0000.tif" width="3104px"/>
+      <graphic height="190px" url="thumb/4819_0000_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/4819_0000_web.jpg" width="1383px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4039px" url="master/4819_0001.tif" width="3104px"/>
+      <graphic height="190px" url="thumb/4819_0001_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/4819_0001_web.jpg" width="1383px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4039px" url="master/4819_0002.tif" width="3104px"/>
+      <graphic height="190px" url="thumb/4819_0002_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/4819_0002_web.jpg" width="1383px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4039px" url="master/4819_0003.tif" width="3104px"/>
+      <graphic height="190px" url="thumb/4819_0003_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/4819_0003_web.jpg" width="1383px"/>
+    </surface>
+  </facsimile>
+</TEI>

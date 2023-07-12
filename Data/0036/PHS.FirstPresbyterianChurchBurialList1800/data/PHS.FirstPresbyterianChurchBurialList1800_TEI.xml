@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Presbyterian Historical Society, PHS.FirstPresbyterianChurchBurialList1800: Burial list, 1800</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Carly Sewell</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Michelle Belden</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Presbyterian Historical Society</publisher>
+        <date type="create-date" when="2019-08-21">2019-08-21</date>
+        <date type="mod-date" when="2019-08-21">2019-08-21</date>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Presbyterian Historical Society PHS.FirstPresbyterianChurchBurialList1800: Burial list, 1800 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Presbyterian Historical Society has waived all copyright and related or neighboring rights to this metadata about Presbyterian Historical Society PHS.FirstPresbyterianChurchBurialList1800: Burial list, 1800. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="relatedResource" target="https://philadelphiacongregations.org">Philadelphia Congregations Early Records Project</note>
+        <note type="relatedResource" target="https://dl.atla.com/collections/philadelphia-congregations-early-records-project">ATLA Digital Library</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Presbyterian Historical Society</repository>
+            <idno type="call-number">PHS.FirstPresbyterianChurchBurialList1800</idno>
+            <altIdentifier type="resource">
+              <idno>https://philadelphiacongregations.org/records/item/PHS.FirstPresbyterianChurchBurialList1800</idno>
+            </altIdentifier>
+            <altIdentifier type="local-identifier">
+              <idno>MS P477(5)</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>List of persons buried at First Presbyterian Church from May 1, 1799 to May 1, 1800. Listings include the date of burial, name of deceased, relatives' names, age at time of death, and the amount paid to First Presbyterian for their burial.</summary>
+            <textLang mainLang="eng">English</textLang>
+            <msItem>
+              <title>Burial list, 1800</title>
+              <author ref="https://viaf.org/viaf/139528580">First Presbyterian Church (Philadelphia, Pa.)</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>1 leaf; </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="1800"/>
+              <p>1800</p>
+              <origPlace>United States</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>18th century</term>
+          <term>Register</term>
+        </keywords>
+        <keywords n="subjects">
+          <term target="http://id.worldcat.org/fast/1738123">Burial records</term>
+          <term target="http://id.worldcat.org/fast/1075567">Presbyterians</term>
+          <term target="http://id.worldcat.org/fast/850521">Cemeteries</term>
+          <term target="http://id.worldcat.org/fast/1075515">Presbyterian Church</term>
+          <term target="http://id.worldcat.org/fast/1204170">Pennsylvania--Philadelphia</term>
+          <term target="http://id.worldcat.org/fast/521556">First Presbyterian Church (Philadelphia, Pa.)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term target="http://id.worldcat.org/fast/1919964">Registers (Lists)</term>
+          <term target="http://id.worldcat.org/fast/1424060">Manuscripts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="fol. 1r" xml:id="surface-phs-firstpresbyterianchurchburiallist1800-1">
+      <graphic height="10792px" url="master/9325_0000.tif" width="6917px"/>
+      <graphic height="190px" url="thumb/9325_0000_thumb.jpg" width="121px"/>
+      <graphic height="1800px" url="web/9325_0000_web.jpg" width="1153px"/>
+    </surface>
+    <surface n="fol. 1v" xml:id="surface-phs-firstpresbyterianchurchburiallist1800-2">
+      <graphic height="10728px" url="master/9325_0001.tif" width="6994px"/>
+      <graphic height="190px" url="thumb/9325_0001_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/9325_0001_web.jpg" width="1173px"/>
+    </surface>
+  </facsimile>
+</TEI>

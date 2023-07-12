@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of St. Peter's Episcopal Church, StPeter.OriginalDeedOfLand1757: Deed for St. Peter's Church, 1757</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Carly Sewell</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Michelle Belden</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>St. Peter's Episcopal Church</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of St. Peter's Episcopal Church StPeter.OriginalDeedOfLand1757: Deed for St. Peter's Church, 1757 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, St. Peter's Church of Philadelphia has waived all copyright and related or neighboring rights to this metadata about St. Peter's Episcopal Church StPeter.OriginalDeedOfLand1757: Deed for St. Peter's Church, 1757. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="relatedResource" target="https://philadelphiacongregations.org">Philadelphia Congregations Early Records Project</note>
+        <note type="relatedResource" target="https://dl.atla.com/collections/philadelphia-congregations-early-records-project">ATLA Digital Library</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>St. Peter's Episcopal Church</repository>
+            <idno type="call-number">StPeter.OriginalDeedOfLand1757</idno>
+            <altIdentifier type="resource">
+              <idno>https://philadelphiacongregations.org/records/item/StPeter.OriginalDeedOfLand1757</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Deed from Thomas Penn and Richard Penn for the land for St. Peter's church and graveyard.</summary>
+            <textLang mainLang="eng">English</textLang>
+            <msItem>
+              <title>Deed for St. Peter's Church, 1757</title>
+              <author ref="https://viaf.org/viaf/134975115">St. Peter's Church (Philadelphia, Pa.)</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>1 leaf; </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>18th century</term>
+        </keywords>
+        <keywords n="subjects">
+          <term target="http://id.worldcat.org/fast/889460">Deeds</term>
+          <term target="http://id.worldcat.org/fast/914304">Episcopalians</term>
+          <term target="http://id.worldcat.org/fast/860740">Church history</term>
+          <term target="http://id.worldcat.org/fast/1204170">Pennsylvania--Philadelphia</term>
+          <term target="http://id.worldcat.org/fast/636040">St. Peter's Church (Philadelphia, Pa.)</term>
+          <term target="http://id.worldcat.org/fast/533119">Episcopal Church</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term target="http://id.worldcat.org/fast/1774263">Deeds</term>
+          <term target="http://id.worldcat.org/fast/1424060">Manuscripts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Recto" xml:id="surface-stpeter-originaldeedofland1757-1">
+      <graphic height="13264px" url="master/11780_0000.tif" width="17374px"/>
+      <graphic height="145px" url="thumb/11780_0000_thumb.jpg" width="190px"/>
+      <graphic height="1374px" url="web/11780_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Verso" xml:id="surface-stpeter-originaldeedofland1757-2">
+      <graphic height="13216px" url="master/11780_0001.tif" width="17398px"/>
+      <graphic height="144px" url="thumb/11780_0001_thumb.jpg" width="190px"/>
+      <graphic height="1367px" url="web/11780_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

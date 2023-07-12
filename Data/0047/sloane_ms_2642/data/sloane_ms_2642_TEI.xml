@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Sloane MS 2642: The Book of Esther.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <date type="create-date" when="2023-02-14">2023-02-14</date>
+        <date type="mod-date" when="2023-02-14">2023-02-14</date>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Sloane MS 2642: The Book of Esther. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Sloane MS 2642: The Book of Esther.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Excision at outermost end, and a sewn repair suggesting strap attached at some time and pulled away.</note>
+        <note>Damp darkening along edges, plus a few tidemarks. Few usage stains.</note>
+        <note>Trimming has cut into edge. One small edge loss, and excessive trim in places.</note>
+        <note>A mezuzah, or door-phylactery, attached to the roll at the end (an extra membrane of 70 x 95mm attached at the inner end).</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Sloane MS 2642</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_2642</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Book of Esther.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Book of Esther.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>11 membranes, 39 columns.; 11 membranes, 39 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 39; ruled lines: 11; written lines: 11; Uniform layout. Ruling by hard point, membrane by membrane. Visible pricking. No tagin on שעטנזגץ, and one on the letter ח of חור, 1:6. Minuscular letters entirely absent. The names of the sons of Haman arranged in 11 lines, in accordance with the rule. Sections 6:1 and 7:5 open. Some erasures.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Sefardi square script of the 17th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Boxed.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1600" notAfter="1699"/>
+              <p>Between 1600 and 1699</p>
+            </origin>
+            <provenance>Acquisition: Sir Hans Sloane: baronet, physician and collector (b. 1660, d. 1753): in his collection; acquired by the British Museum in 1753.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="2983px" url="master/13512_0000.jpg" width="6198px"/>
+      <graphic height="91px" url="thumb/13512_0000_thumb.jpg" width="190px"/>
+      <graphic height="866px" url="web/13512_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="2218px" url="master/13512_0001.jpg" width="29586px"/>
+      <graphic height="14px" url="thumb/13512_0001_thumb.jpg" width="190px"/>
+      <graphic height="134px" url="web/13512_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="1966px" url="master/13512_0002.jpg" width="22720px"/>
+      <graphic height="16px" url="thumb/13512_0002_thumb.jpg" width="190px"/>
+      <graphic height="155px" url="web/13512_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="2316px" url="master/13512_0003.jpg" width="4000px"/>
+      <graphic height="110px" url="thumb/13512_0003_thumb.jpg" width="190px"/>
+      <graphic height="1042px" url="web/13512_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="2316px" url="master/13512_0004.jpg" width="4775px"/>
+      <graphic height="92px" url="thumb/13512_0004_thumb.jpg" width="190px"/>
+      <graphic height="873px" url="web/13512_0004_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

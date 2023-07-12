@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2755: Śiśupālavadha</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2755: Śiśupālavadha are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 6v); alternate title Māghakāvya from abbreviations in margins.</note>
+        <note>Written in 7 lines per leaf.</note>
+        <note>3 leaves foliated 4-6, upper left and lower right verso.</note>
+        <note>Mistakes blacked out; minor correction in margins; some folios treated with yellow turmeric powder to protect the manuscript from insects.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2755</idno>
+            <altIdentifier type="bibid">
+              <idno>9976091343503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/974796499</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript titled Death of Śiśupāla, used for recitation, contemplation, and study; draws from epic mythology about king Śiśupāla, who opposes the Hindu deity Kṛṣṇa, who cuts off Śiśupāla's head with his discus (cakra). Manuscript is incomplete and comprises only part of the first of 23 books, from verse 44 until the end.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Śiśupālavadha</title>
+              <title type="vernacular">शिशुपालवध</title>
+              <author>
+                <persName type="authority">Māgha</persName>
+              </author>
+              <colophon>Colophon: iti śrīmāghakāvye prathamasargaḥ samāptaḥ (f. 6v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (3 leaves) : 9 x 25 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hindu mythology</term>
+          <term>Death--Poetry</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Poems</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="4r =1r" xml:id="surface-ms-coll-390-item-2755-1">
+      <graphic height="2215px" url="master/4926_0000.tif" width="5739px"/>
+      <graphic height="73px" url="thumb/4926_0000_thumb.jpg" width="190px"/>
+      <graphic height="694px" url="web/4926_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4v =1v-5r =2r" xml:id="surface-ms-coll-390-item-2755-2">
+      <graphic height="4265px" url="master/4926_0001.tif" width="5739px"/>
+      <graphic height="141px" url="thumb/4926_0001_thumb.jpg" width="190px"/>
+      <graphic height="1337px" url="web/4926_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5v =2v-6r =3r" xml:id="surface-ms-coll-390-item-2755-3">
+      <graphic height="4265px" url="master/4926_0002.tif" width="5739px"/>
+      <graphic height="141px" url="thumb/4926_0002_thumb.jpg" width="190px"/>
+      <graphic height="1337px" url="web/4926_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="6v =3v" xml:id="surface-ms-coll-390-item-2755-4">
+      <graphic height="2215px" url="master/4926_0003.tif" width="5739px"/>
+      <graphic height="73px" url="thumb/4926_0003_thumb.jpg" width="190px"/>
+      <graphic height="694px" url="web/4926_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

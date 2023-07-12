@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 22: 2nd Kings 5:8-13</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 22: 2nd Kings 5:8-13 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Wide margins; lines cramped; left rule justified using one or two characters from the following word; II Kings V 8 ואף 13- ישראל.</note>
+        <note>Condition: folded widthwise; 1v left blank (according to Halper, "2 paper leaves" : "originally it seems to have been one sheet, upon one side of which (not folded) was a letter in Arabic character, the lines being written lengthwise ... Some time later the letter was folded int two, and upon 1a was copied part of the burial service [...] in a Yemenite square hand").</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 22</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417203503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb" otherLangs="heb ara">Judeo-Arabic; Hebrew; Arabic</textLang>
+            <msItem>
+              <title>2nd Kings 5:8-13</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>15.5 X 10.3 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 2; lines: 18 (1r right), 10 (1r left, 1v right).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Arabic Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1299"/>
+              <p>12th century-13th century?</p>
+              <origPlace>Sefarad</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Jewish mourning customs</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4094px" url="master/4398_0000.tif" width="3150px"/>
+      <graphic height="190px" url="thumb/4398_0000_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/4398_0000_web.jpg" width="1385px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4094px" url="master/4398_0001.tif" width="3150px"/>
+      <graphic height="190px" url="thumb/4398_0001_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/4398_0001_web.jpg" width="1385px"/>
+    </surface>
+  </facsimile>
+</TEI>

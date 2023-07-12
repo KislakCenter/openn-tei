@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 69: Masoretic lists of unique Biblical vocalizations</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 69: Masoretic lists of unique Biblical vocalizations are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>The function of these lists is similar to that of the Masorah Magna found in the margins of Masoretic codices, to regulate biblical orthography and vocalization, by listing the groups of words with unique characteristics; In this fragment, the lists are presented in two parallel forms, the brief, one-word form, in which the verse is alluded to by a keyword, and in the opposite column, the same verse alluded to be a key phrase; This fragment contains 5 such lists: the 11 verses in Psalms that include the word ממנו as opposed to ממני which is the general rule. 5 verses in which ממנו is expected, yet read ממנה; all 4 verses (excluding Chronicles) where the מ in ויעמד is vocalized with a tsere, and the 7 verses in Chronicles where it is a ḥolam; of מן בני (as opposed to the norm מבני), and conversely the 7 verses in Chronicles that read מבני (as opposed to the norm there מן בני) ; 18 verses with a particular vocalization of כלי (single), compare to the list published by Breuer: ha-Masorah ha-gedolah la-Torah / Mordechai Breuer [ed.]. New York : Keren Menasheh Refaʾel ṿe-Śarah Lehman 1992, pp. 472 and 735; 9 verses with a defective vocalization of ̌̃(̊plural), compare with the list published by Y. Ofer: ha-Masorah ha-Bavlit la-Torah, ʻeḳronoteha u-derakheha / me-et Yosef ʻOfer. Jerusalem : ha-Aḳademyah la-lashon ha-ʻIvrit, Hotsaʾat sefarim ʻa.sh. Y.L. Magnes, 2001, p. 384.</note>
+        <note>Condition: complete; damaged, fading.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 69</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417653503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Masoretic lists of unique Biblical vocalizations</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>20 X 17.8 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 2; lines: 22.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>11th century-12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hebrew language, Biblical , Vocalization , Early works to 1800</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4622px" url="master/4441_0000.tif" width="4200px"/>
+      <graphic height="190px" url="thumb/4441_0000_thumb.jpg" width="172px"/>
+      <graphic height="1800px" url="web/4441_0000_web.jpg" width="1636px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4622px" url="master/4441_0001.tif" width="4200px"/>
+      <graphic height="190px" url="thumb/4441_0001_thumb.jpg" width="172px"/>
+      <graphic height="1800px" url="web/4441_0001_web.jpg" width="1636px"/>
+    </surface>
+  </facsimile>
+</TEI>

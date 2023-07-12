@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Egerton MS 610: The Pentateuch scroll.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Egerton MS 610: The Pentateuch scroll. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Egerton MS 610: The Pentateuch scroll.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Small surface abrasions, especially over folds, and delamination.</note>
+        <note>Some pleats and cockling.</note>
+        <note>Minor water damage; small area of salt accretion and a few stains at edges.</note>
+        <note>Slight worming at one join.</note>
+        <note>Mantle damaged and fragile.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Egerton MS 610</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Egerton_MS_610</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Pentateuch scroll.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Pentateuch scroll.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="leather">
+                <support>
+                  <p>Leather</p>
+                </support>
+                <extent>75 membranes, 262 columns.; 75 membranes, 262 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 262; ruled lines: 42; written lines: 42; Uniform layout. Ruling by hard point. Visible stitching. 262 columns in total, one to five columns per membrane. The second דרש of Lev. 10:16 is not placed at the beginning of the line. Three tagin on שעטנזגץ, and one on בדהיק, the letter ח is occasionally arched. Several instances of majuscular and minuscular letters. Special shapes of the letter נ, פ and broken ו occur. The "puncta extraordinaria" placed on the words fixed by masorah, except Gen. 16:5. Wooden rollers (currently kept in a separate box).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Sefardi square script of the 14th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Boxed.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1300" notAfter="1399"/>
+              <p>Between 1300 and 1399</p>
+              <origPlace>Spain</origPlace>
+            </origin>
+            <provenance>Acquisition: Bought by the British Museum, using the Bridgewater fund (£12,000 bequeathed in 1829 by Francis Henry Egerton, 8th Earl of Bridgewater (b. 1756, d. 1829).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="7320px" url="master/12957_0000.jpg" width="4243px"/>
+      <graphic height="190px" url="thumb/12957_0000_thumb.jpg" width="110px"/>
+      <graphic height="1800px" url="web/12957_0000_web.jpg" width="1043px"/>
+    </surface>
+    <surface n="i-r">
+      <graphic height="8069px" url="master/12957_0001.jpg" width="5684px"/>
+      <graphic height="190px" url="thumb/12957_0001_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/12957_0001_web.jpg" width="1268px"/>
+    </surface>
+    <surface n="ii-r">
+      <graphic height="8069px" url="master/12957_0002.jpg" width="5684px"/>
+      <graphic height="190px" url="thumb/12957_0002_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/12957_0002_web.jpg" width="1268px"/>
+    </surface>
+    <surface n="iii-r">
+      <graphic height="8182px" url="master/12957_0003.jpg" width="5684px"/>
+      <graphic height="190px" url="thumb/12957_0003_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/12957_0003_web.jpg" width="1250px"/>
+    </surface>
+    <surface n="iv-r">
+      <graphic height="8069px" url="master/12957_0004.jpg" width="5684px"/>
+      <graphic height="190px" url="thumb/12957_0004_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/12957_0004_web.jpg" width="1268px"/>
+    </surface>
+    <surface n="v-r">
+      <graphic height="3825px" url="master/12957_0005.jpg" width="3977px"/>
+      <graphic height="182px" url="thumb/12957_0005_thumb.jpg" width="190px"/>
+      <graphic height="1731px" url="web/12957_0005_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="vi-r">
+      <graphic height="3874px" url="master/12957_0006.jpg" width="4072px"/>
+      <graphic height="180px" url="thumb/12957_0006_thumb.jpg" width="190px"/>
+      <graphic height="1712px" url="web/12957_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="vii-r">
+      <graphic height="4749px" url="master/12957_0007.jpg" width="6418px"/>
+      <graphic height="140px" url="thumb/12957_0007_thumb.jpg" width="190px"/>
+      <graphic height="1331px" url="web/12957_0007_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="4800px" url="master/12957_0008.jpg" width="27273px"/>
+      <graphic height="33px" url="thumb/12957_0008_thumb.jpg" width="190px"/>
+      <graphic height="316px" url="web/12957_0008_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4800px" url="master/12957_0009.jpg" width="30000px"/>
+      <graphic height="30px" url="thumb/12957_0009_thumb.jpg" width="190px"/>
+      <graphic height="288px" url="web/12957_0009_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="4800px" url="master/12957_0010.jpg" width="30000px"/>
+      <graphic height="30px" url="thumb/12957_0010_thumb.jpg" width="190px"/>
+      <graphic height="288px" url="web/12957_0010_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="4800px" url="master/12957_0011.jpg" width="29713px"/>
+      <graphic height="30px" url="thumb/12957_0011_thumb.jpg" width="190px"/>
+      <graphic height="290px" url="web/12957_0011_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="4800px" url="master/12957_0012.jpg" width="23667px"/>
+      <graphic height="38px" url="thumb/12957_0012_thumb.jpg" width="190px"/>
+      <graphic height="365px" url="web/12957_0012_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="4800px" url="master/12957_0013.jpg" width="26987px"/>
+      <graphic height="33px" url="thumb/12957_0013_thumb.jpg" width="190px"/>
+      <graphic height="320px" url="web/12957_0013_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="4800px" url="master/12957_0014.jpg" width="28819px"/>
+      <graphic height="31px" url="thumb/12957_0014_thumb.jpg" width="190px"/>
+      <graphic height="299px" url="web/12957_0014_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="4800px" url="master/12957_0015.jpg" width="22353px"/>
+      <graphic height="40px" url="thumb/12957_0015_thumb.jpg" width="190px"/>
+      <graphic height="386px" url="web/12957_0015_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

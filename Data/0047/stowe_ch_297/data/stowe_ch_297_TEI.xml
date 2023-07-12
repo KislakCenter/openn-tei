@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Stowe Ch 297: Charter</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <date type="create-date" when="2023-02-17">2023-02-17</date>
+        <date type="mod-date" when="2023-02-17">2023-02-17</date>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Stowe Ch 297: Charter are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Stowe Ch 297: Charter. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965 and Olszowy-Schlanger, Judith. Hebrew and Hebrew-Latin Documents from Medieval England: a diplomatic and Palaeographical Study. Turnhout: Brill, 2015.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Stowe Ch 297</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Stowe_Ch_297</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="he" otherLangs="fr">Hebrew; French</textLang>
+            <msItem>
+              <title>Charter</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>1 folio; 1 folio </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; ruled lines: 15; written lines: 15; The Hebrew text written beneath the Latin.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Latin and Hebrew Ashkenazi semi-cursive script of the 13th century.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="1266"/>
+              <p>1266</p>
+            </origin>
+            <provenance>Acquisition: Bertram Ashburnham (b. 1840, d. 1913), 5th earl of Ashburnham: purchased by the British Museum from him together with 1084 other Stowe manuscripts in 1883.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4673px" url="master/13566_0000.jpg" width="6073px"/>
+      <graphic height="146px" url="thumb/13566_0000_thumb.jpg" width="190px"/>
+      <graphic height="1385px" url="web/13566_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4597px" url="master/13566_0001.jpg" width="6071px"/>
+      <graphic height="143px" url="thumb/13566_0001_thumb.jpg" width="190px"/>
+      <graphic height="1362px" url="web/13566_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

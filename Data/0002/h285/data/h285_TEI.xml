@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 285: Rahaṭ</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 285: Rahaṭ are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>One word vocalized; each verse starts a new line; in upper and lower margins of recto (title), are secondary inscriptions in Arabic characters; The first folio of a booklet. The recto is the title page ארהאט מלאח followed by a rhymed panegyric dedication to the owner, Sa'id ben Israel (probably not Sa'id ben Israel al-Tustarī, of the early 11th century). The verso is the first page of the content, repeating the above title, followed by the first eight rhymed verses, forming the acrostic signature [יחזקאל הכ[הן. The Rahaṭ starts יונים נדודים החזר לקינם.</note>
+        <note>Condition: nearly complete; marginalia in Arabic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 285</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419673503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="ara">Hebrew; Arabic</textLang>
+            <msItem>
+              <title>Rahaṭ</title>
+              <author>Yeḥezḳel ben ʹAli, 11th cent.</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Abu Saʹad ben Yiśraʾel.</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>16.8 X 12.7 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 11.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Arabic Oriental semi-square vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>11th century-12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+            <provenance>Abu Sa?ad ben Yis?ra?el.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Piyutim</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4424px" url="master/4652_0000.tif" width="3296px"/>
+      <graphic height="190px" url="thumb/4652_0000_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/4652_0000_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4424px" url="master/4652_0001.tif" width="3296px"/>
+      <graphic height="190px" url="thumb/4652_0001_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/4652_0001_web.jpg" width="1341px"/>
+    </surface>
+  </facsimile>
+</TEI>

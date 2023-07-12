@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 764 Item 234: Monte del sale credit record</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 764 Item 234: Monte del sale credit record are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 764 Item 234</idno>
+            <altIdentifier type="bibid">
+              <idno>9949980873503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/728100298</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4998087</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Printed form issued by the Monte del sale of Florence, with manuscript passages, certifying that the Marchioness Costanza da Bagnano Capponi had a credit with the institution and specifying the interest rate and other information. Notarized by Filippo Bagnoli on 24 November 1725.</summary>
+            <textLang mainLang="ita">In Italian</textLang>
+            <msItem>
+              <title>Monte del sale credit record</title>
+              <author>
+                <name type="authority">Monte del sale (Florence, Italy)</name>
+              </author>
+              <author>
+                <persName type="authority">Bagnoli, Filippo</persName>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>1 item (1 leaf) :</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Renzo Rizzi (Milan).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Finance--Italy--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Notarial documents</term>
+          <term>Legal documents</term>
+          <term>Credit records</term>
+          <term>Manuscripts, Italian--18th century</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1" xml:id="surface-ms-coll-764-item-234-1">
+      <graphic height="3284px" url="master/1232_0000.tif" width="4797px"/>
+      <graphic height="130px" url="thumb/1232_0000_thumb.jpg" width="190px"/>
+      <graphic height="1232px" url="web/1232_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 2" xml:id="surface-ms-coll-764-item-234-2">
+      <graphic height="3284px" url="master/1232_0001.tif" width="4797px"/>
+      <graphic height="130px" url="thumb/1232_0001_thumb.jpg" width="190px"/>
+      <graphic height="1232px" url="web/1232_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

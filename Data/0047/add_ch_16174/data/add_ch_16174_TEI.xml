@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Add Ch 16174: Sheṭar (שטר)</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Add Ch 16174: Sheṭar (שטר) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Add Ch 16174: Sheṭar (שטר). This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965 and Olszowy-Schlanger, Judith. Hebrew and Hebrew-Latin Documents from Medieval England: a diplomatic and Palaeographical Study. Turnhout: Brill, 2015.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Add Ch 16174</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_Ch_16174</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Hebrew charter.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>Sheṭar (שטר)</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>2 folios; 2 folios </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; ruled lines: 5; written lines: 5;</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Latin Gothic script and Hebrew Ashkenazi documentary script of 13th century.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="1268"/>
+              <p>1268</p>
+              <origPlace>Unknown</origPlace>
+            </origin>
+            <provenance>Acquisition: Purchased by the British Museum from E. D'Arcey on 17 April 1863: inscibed on the verso.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2560px" url="master/10193_0000.jpg" width="6977px"/>
+      <graphic height="69px" url="thumb/10193_0000_thumb.jpg" width="190px"/>
+      <graphic height="660px" url="web/10193_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4506px" url="master/10193_0001.jpg" width="6803px"/>
+      <graphic height="125px" url="thumb/10193_0001_thumb.jpg" width="190px"/>
+      <graphic height="1192px" url="web/10193_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1*r">
+      <graphic height="4483px" url="master/10193_0002.jpg" width="6784px"/>
+      <graphic height="125px" url="thumb/10193_0002_thumb.jpg" width="190px"/>
+      <graphic height="1189px" url="web/10193_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1*v">
+      <graphic height="1773px" url="master/10193_0003.jpg" width="6584px"/>
+      <graphic height="51px" url="thumb/10193_0003_thumb.jpg" width="190px"/>
+      <graphic height="484px" url="web/10193_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

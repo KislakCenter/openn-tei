@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2855: Ajapāgāyatrīmantra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2855: Ajapāgāyatrīmantra are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from third line of text (f. 1r); alternate title Ajapājapa from marginal note, bottom left (f. 1v)</note>
+        <note>Written in 10-11 lines per leaf.</note>
+        <note>Incipit: (f. 1r): śrīgaṇeśāya namaḥ prāṇāyāmaṁ kṛtvā adya sūryodayād ārabhya śvaḥ sūryodayaparyaṁtaṁ ṣaṭśatādhikam ekaviṁśatisahasrasaṁkhyākaḥ ajapāgāyatrīmantrasya</note>
+        <note>Explicit: (f. 1v): brahmaraṁdhre guruṁ dhyātvā gurave sahasraṁ nivedayāmi evaṁ samarpayet</note>
+        <note>Dated 13 śuklapakṣa of Āśvīna, śaka 1769 (Friday, October 22, 1847, f. 1v).</note>
+        <note>Scribe is Divākara Vajhe (f. 1v).</note>
+        <note>One mistake blotched out with black.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2855</idno>
+            <altIdentifier type="bibid">
+              <idno>9934319913503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/420229768</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/3431991</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Mantra and breath exercise called ajapājapa; starts with the practice of the three common breath exercises (prāṇāyāma) and especially focuses on the mantra haṃsa.</summary>
+            <textLang mainLang="san" otherLangs="">In Sanskrit</textLang>
+            <msItem>
+              <title>Ajapāgāyatrīmantra</title>
+              <title type="vernacular">अजपागायत्रीमन्त्र</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName type="authority">Divākara Vajhe</persName>
+              </respStmt>
+              <colophon>Colophon: śubhaṁ bhavatu vajhe upanāmakadivākareṇa likhitaṁ śake 1769 hemalaṁbīnāmasaṁvatsare āśvīnaśuklatrayodaśyāṁ idaṁ likhitaṁ (f. 1v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (1 leaf) : 11 x 17 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Meditation--Hinduism</term>
+          <term>Hindu mantras</term>
+          <term>Tantrism</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Prayers</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2307px" url="master/6481_0000.tif" width="3759px"/>
+      <graphic height="116px" url="thumb/6481_0000_thumb.jpg" width="190px"/>
+      <graphic height="1104px" url="web/6481_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="2307px" url="master/6481_0001.tif" width="3759px"/>
+      <graphic height="116px" url="thumb/6481_0001_thumb.jpg" width="190px"/>
+      <graphic height="1104px" url="web/6481_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

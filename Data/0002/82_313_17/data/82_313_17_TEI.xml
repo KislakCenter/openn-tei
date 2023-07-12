@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Penn CAJS: RAR MS 82.313.17: List of Jewish names</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Images are  ©2020 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2020 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>The fragment contains names of dignitaries, possibly donors.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Penn CAJS: RAR MS 82.313.17</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>List of Jewish names</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew; Oriental; semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1099"/>
+              <p>late 11th century?</p>
+              <origPlace>Egypt?</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylania. Center for Advanced Judaic Studies. Library). Cairo Genizah Collection (Dropsie College. Library).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Philanthropists</term>
+          <term>Jews</term>
+          <term>Registers</term>
+          <term>Egypt</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2649px" url="master/9731_0000.tif" width="3600px"/>
+      <graphic height="139px" url="thumb/9731_0000_thumb.jpg" width="190px"/>
+      <graphic height="1324px" url="web/9731_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="2625px" url="master/9731_0001.tif" width="3648px"/>
+      <graphic height="136px" url="thumb/9731_0001_thumb.jpg" width="190px"/>
+      <graphic height="1295px" url="web/9731_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

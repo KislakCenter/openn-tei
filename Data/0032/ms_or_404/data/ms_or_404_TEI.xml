@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Columbia University MS Or 404 - GREY BOX: Leaf with ghazal of Ḥāfiẓ.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Columbia University</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 404 - GREY BOX: Leaf with ghazal of Ḥāfiẓ. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 404 - GREY BOX: Leaf with ghazal of Ḥāfiẓ.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Manuscript leaf.</note>
+        <note>Title provided by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>New York, NY. 10027</settlement>
+            <institution>Columbia University</institution>
+            <repository>Rare Book and Manuscript Library</repository>
+            <idno type="call-number">MS Or 404 - GREY BOX</idno>
+            <altIdentifier type="bibid">
+              <idno>14442619</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1135069585</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0032/html/ms_or_404.html</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://clio.columbia.edu/catalog/14442619</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Illuminated leaf with one complete ghazal and two partial poems. Includes the three last lines of ghazal beginning "saḥar bulbul ḥikāyat bā ṣabā kard", all of ghazal beginning "saman būyān ghubār-i gham chū binshīnand binshānand" and the first two lines of ghazal beginning "sāqī ḥadīs̲-i sarv va gul va lālah mīravad".</summary>
+            <textLang mainLang="per">Persian</textLang>
+            <msItem>
+              <title>Leaf with ghazal of Ḥāfiẓ.</title>
+              <author>
+                <persName type="authority">Ḥāfiẓ, active 14th century</persName>
+                <persName type="vernacular">حافظ،</persName>
+              </author>
+            </msItem>
+            <msItem n="1r">
+              <locus>[1r]</locus>
+              <title>[Leaf with ghazal of Ḥāfiẓ]</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper on card</p>
+                </support>
+                <extent>1 page : 370 x 263 (175 x 85) mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in twelve lines in two columns.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in nastaʻlīq in black ink; pointed.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Text on cloudbands with intercolumnar fill of polychrome flowers, the same fill between each poem; several sets of framing devices, from inner to outer: blue with gold leaf and vine motifs, pink with flower and stem motifs, a gold border-rule, gold, floral marginal fill, a gold frame-rule.</decoNote>
+              <decoNote n="1r">Cloudbands</decoNote>
+              <decoNote n="1r">Floral fill</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>The item is undated; possibly copied in the 18th century.</p>
+              <origDate>17--?</origDate>
+              <origPlace>Iran or India?</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Persian poetry--747-1500</term>
+          <term>Manuscripts, Persian</term>
+          <term>Manuscripts, Persian</term>
+          <term>Persian poetry</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts (documents)</term>
+          <term>Illuminations (painting)</term>
+          <term>Detached leaves</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7625px" url="master/9778_0000.tif" width="5447px"/>
+      <graphic height="190px" url="thumb/9778_0000_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/9778_0000_web.jpg" width="1286px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7625px" url="master/9778_0001.tif" width="5485px"/>
+      <graphic height="190px" url="thumb/9778_0001_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/9778_0001_web.jpg" width="1294px"/>
+    </surface>
+  </facsimile>
+</TEI>

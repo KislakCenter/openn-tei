@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 154: Naḥmanides' novellae on the Talmud, Gittin 25b-26a</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 154: Naḥmanides' novellae on the Talmud, Gittin 25b-26a are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Text breaks are denoted by two puncti plus space, of varying width; The folio contains the novellae on Gittin 25b, starting from the lengthy essay on the issue of Bererah, the paragraph from the starts וזה הכלל (in the critical edition, Heshrik, 1995, p. 159 l. 17 ואם לאו] לא תהא גט]) to the beginning of the next article on 26b שאר] שטרות] (ibid. p. 174 l. 3 [אלא [הכי קאמר). There are numerous variant readings, many of them are probably errant copy.</note>
+        <note>Condition: loss in upper interior corner.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 154</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418423503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Naḥmanides' novellae on the Talmud, Gittin 25b-26a</title>
+              <author>Naḥmanides, ca. 1195-ca. 1270.</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>31.1 X 21.6 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 2; lines: 33; ruling method: left rule justified by graphic fillers (semi-aleph, or stretching last character).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Sephardic semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1300" notAfter="1499"/>
+              <p>14th century-15th century?</p>
+              <origPlace>Mediterranean</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Bererah (Jewish law)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7726px" url="master/4524_0000.tif" width="5408px"/>
+      <graphic height="190px" url="thumb/4524_0000_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/4524_0000_web.jpg" width="1260px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7726px" url="master/4524_0001.tif" width="5408px"/>
+      <graphic height="190px" url="thumb/4524_0001_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/4524_0001_web.jpg" width="1260px"/>
+    </surface>
+  </facsimile>
+</TEI>

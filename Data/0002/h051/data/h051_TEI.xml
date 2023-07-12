@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 51: Ibn Ezra's commentary on Genesis 8:5-21; Genesis XI:28-XII-8</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 51: Ibn Ezra's commentary on Genesis 8:5-21; Genesis XI:28-XII-8 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>End of an article signified by space - punctus - space; Halper 51 and 52 together form the complete upper two thirds of a single fol; recto contains commentary on Genesis VIII 5 לבנה - 11 נוסף. The verso starts at ibid. 13 על הארץ to 21 [הני]חוח לש[ון]. marginal correction on Halper 52 verso (missing lower third is likely to have reached to the end of VIII 20); Halper 53 recto contains XI 28 ויתכן שאור - ibid. 31 והעד שאמר; verso contains XII 5 רכושם רב – ibid. 8 [ושניהם פו[עלים(missing lower third is likely to have reached to XII 11).</note>
+        <note>Condition: non-consecutive, incomplete; lacunae [lacking lower third?].</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 51</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417483503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Ibn Ezra's commentary on Genesis 8:5-21; Genesis XI:28-XII-8</title>
+              <author>Ibn Ezra, Abraham ben Meïr, 1089-1164 ابن عزرا، ابراهيم بن مئير، 1089-1164 אבן עזרא, אברהם בן מאיר, 1089-1164 Ибн Эзра, Аврахам бен Меир, 1089-1164 Ibn Ezra, Abraham ben Hayyim Yedidiah</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>12 X 9.5-14.6 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 14 (extant, of [23]); ruling method: left rule is filled by single character from anticipated word.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Sephardic semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1200" notAfter="1399"/>
+              <p>13th century-14th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3000px" url="master/4424_0000.tif" width="2490px"/>
+      <graphic height="190px" url="thumb/4424_0000_thumb.jpg" width="158px"/>
+      <graphic height="1800px" url="web/4424_0000_web.jpg" width="1494px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3000px" url="master/4424_0001.tif" width="2490px"/>
+      <graphic height="190px" url="thumb/4424_0001_thumb.jpg" width="158px"/>
+      <graphic height="1800px" url="web/4424_0001_web.jpg" width="1494px"/>
+    </surface>
+  </facsimile>
+</TEI>

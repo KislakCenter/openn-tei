@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 1214: Śāntyupaniṣad</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 1214: Śāntyupaniṣad are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from title abbreviations in margin.</note>
+        <note>Written in 9 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Mistakes blacked out; some corrections and additions in margins; significant syllables, words, or phrases highlighted in red throughout. Metrical accents indicated in red.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 1214</idno>
+            <altIdentifier type="bibid">
+              <idno>9963597073503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/904024654</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6359707</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is used for contemplation and recitation and is a Hindu quasi-philosophical treatise that praises the Vedas and Vedic gods and connects them with philosophical ideas about the oneness and unity of things with the ultimate principle in the universe, the brahman.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Śāntyupaniṣad</title>
+              <title type="vernacular">शान्त्युपनिषद्</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 11 x 23 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Gods, Vedic</term>
+          <term>Hindu mantras</term>
+          <term>Devotional literature, Sanskrit</term>
+          <term>Hindu philosophy</term>
+          <term>Philosophy, Indic</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Prayers</term>
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-1214-1">
+      <graphic height="3210px" url="master/5412_0000.tif" width="5811px"/>
+      <graphic height="104px" url="thumb/5412_0000_thumb.jpg" width="190px"/>
+      <graphic height="994px" url="web/5412_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-1214-2">
+      <graphic height="5674px" url="master/5412_0001.tif" width="5811px"/>
+      <graphic height="185px" url="thumb/5412_0001_thumb.jpg" width="190px"/>
+      <graphic height="1757px" url="web/5412_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-1214-3">
+      <graphic height="3210px" url="master/5412_0002.tif" width="5811px"/>
+      <graphic height="104px" url="thumb/5412_0002_thumb.jpg" width="190px"/>
+      <graphic height="994px" url="web/5412_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

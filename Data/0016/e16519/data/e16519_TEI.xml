@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Museum of Archaeology and Anthropology, e16519: Liturgical book</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania Museum of Archaeology and Anthropology</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/2.0/legalcode">Images are  ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution ShareAlike License version 4.0 (CC-BY-2.0 https://creativecommons.org/licenses/by/2.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/2.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Fragment of liturgical work / codex (Skoss). Right and left margins intact. Not yet fully catalogued. Metadata based on image and Advanced Papyrological Information System (APIS) data. Title based on Prof. Robert A. Kraft's 1990 survey of University Museum Hebrew Manuscripts.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>University of Pennsylvania Museum of Archaeology and Anthropology</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">e16519</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <msItem>
+              <title>Liturgical book</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>6.8 cm x 7.0 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>1 col.; 8-9 lines (recto), 7-8 lines (verso)</layout>
+              </layoutDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3586px" url="master/11561_0000.tif" width="4816px"/>
+      <graphic height="141px" url="thumb/11561_0000_thumb.jpg" width="190px"/>
+      <graphic height="1340px" url="web/11561_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3586px" url="master/11561_0001.tif" width="4816px"/>
+      <graphic height="141px" url="thumb/11561_0001_thumb.jpg" width="190px"/>
+      <graphic height="1340px" url="web/11561_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

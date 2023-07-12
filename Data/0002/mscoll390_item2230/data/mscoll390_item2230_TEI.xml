@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2230: Śanaiścarastavarājastotra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2230: Śanaiścarastavarājastotra are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2v).</note>
+        <note>Written in 7-10 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left verso.</note>
+        <note>Mistakes covered over in yellow, white, or blacked out; some corrections and additions in margins.</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2230</idno>
+            <altIdentifier type="bibid">
+              <idno>9957836573503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/798257530</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5783657</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Text in praise and honour of the planet Saturn (Śanaiścara) to be employed for recitation, in public or private meditation and prayer. Contains a number of different mantras praising various other planets and Hindu deities (such as Viṣṇu, Śiva, or Gaṇeśa), but especially Saturn.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Śanaiścarastavarājastotra</title>
+              <title type="vernacular">शनैश्चरस्तवराजस्तोत्र</title>
+              <colophon>Colophon: iti śrībhaviṣyapurāṇe śanaiścarastavarājastotraṃ samāptaṃ śubhaṃ bhūvāt (f. 2v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 9 x 17 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hindu mantras</term>
+          <term>Hindu astronomy</term>
+          <term>Devotional literature, Sanskrit</term>
+          <term>Vishnu (Hindu deity)</term>
+          <term>Siva (Hindu deity)</term>
+          <term>Gaṇeśa (Hindu deity)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Poems</term>
+          <term>Prayers</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-2230-1">
+      <graphic height="2357px" url="master/2275_0000.tif" width="4186px"/>
+      <graphic height="106px" url="thumb/2275_0000_thumb.jpg" width="190px"/>
+      <graphic height="1013px" url="web/2275_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-2230-2">
+      <graphic height="4486px" url="master/2275_0001.tif" width="4186px"/>
+      <graphic height="190px" url="thumb/2275_0001_thumb.jpg" width="177px"/>
+      <graphic height="1800px" url="web/2275_0001_web.jpg" width="1679px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-2230-3">
+      <graphic height="2357px" url="master/2275_0002.tif" width="4186px"/>
+      <graphic height="106px" url="thumb/2275_0002_thumb.jpg" width="190px"/>
+      <graphic height="1013px" url="web/2275_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

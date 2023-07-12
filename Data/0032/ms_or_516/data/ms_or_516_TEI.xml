@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Columbia University MS Or 516: Wooden writing tablet for teaching grammar and religion</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Columbia University</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 516: Wooden writing tablet for teaching grammar and religion are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 516: Wooden writing tablet for teaching grammar and religion. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Wooden tablet.</note>
+        <note>"Tablet used in the schools of Tangier, Tangier, June 1906" The name "Buachend bin Hʼameda" is also on the note (note in ink with the item).</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>New York, NY. 10027</settlement>
+            <institution>Columbia University</institution>
+            <repository>Rare Book and Manuscript Library</repository>
+            <idno type="call-number">MS Or 516</idno>
+            <altIdentifier type="bibid">
+              <idno>14442609</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1135066934</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0032/html/ms_or_516.html</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://clio.columbia.edu/catalog/14442609</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A trapezoid shaped writing tablet used for studying the Qurʼān; no handle; hole drilled through the upper center. The recto is mostly flat with water and scratch marks. A few words of Arabic including the name Abī Yasʻad ibn Aḥmad and a faint English description of the item are visible. The back of the tablet is rounded with a geometric drawing.</summary>
+            <textLang mainLang="ara"/>
+            <msItem>
+              <title>Wooden writing tablet for teaching grammar and religion</title>
+              <respStmt>
+                <resp>associated name</resp>
+                <persName type="authority">Abī Yasʻad ibn Aḥmad</persName>
+                <persName type="vernacular">ابي يسعد بن احمد،</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Smith, David Eugene, 1860-1944</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="1r">
+              <locus>[1r]</locus>
+              <title>Wooden writing tablet for teaching grammar and religion</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>wood</p>
+                </support>
+                <extent>1 tablet : 345 x 167 mm (at center) x 5 mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Four lines of Arabic alternating with eight lines of English.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in maghribī.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Geometric drawing on verso.</decoNote>
+              <decoNote n="1r">Diagram</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Item is undated, probably produced in the late 19th century.</p>
+              <origDate>between 1875-1906?</origDate>
+              <origPlace>Tangier</origPlace>
+            </origin>
+            <provenance>Presumed to be a gift of David Eugene Smith, 1931-1934.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Writing materials and instruments</term>
+          <term>Manuscripts, Arabic--New York (State)--New York</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Qur'anic boards</term>
+          <term>Writing tablets (information artifacts)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Insert recto">
+      <graphic height="4447px" url="master/9687_0000.tif" width="2966px"/>
+      <graphic height="190px" url="thumb/9687_0000_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/9687_0000_web.jpg" width="1200px"/>
+    </surface>
+    <surface n="Insert verso">
+      <graphic height="4447px" url="master/9687_0001.tif" width="2966px"/>
+      <graphic height="190px" url="thumb/9687_0001_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/9687_0001_web.jpg" width="1200px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="7022px" url="master/9687_0002.tif" width="3963px"/>
+      <graphic height="190px" url="thumb/9687_0002_thumb.jpg" width="107px"/>
+      <graphic height="1800px" url="web/9687_0002_web.jpg" width="1015px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7022px" url="master/9687_0003.tif" width="3963px"/>
+      <graphic height="190px" url="thumb/9687_0003_thumb.jpg" width="107px"/>
+      <graphic height="1800px" url="web/9687_0003_web.jpg" width="1015px"/>
+    </surface>
+  </facsimile>
+</TEI>

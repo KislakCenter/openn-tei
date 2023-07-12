@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 485: Arabic inscription</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 485: Arabic inscription are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A folio, The inscriptions on both sides are in Arabic characters are divided into rectangular boxes.</note>
+        <note>Condition: damaged, losses in corners and edges.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 485</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421603503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="ara">Arabic</textLang>
+            <msItem>
+              <title>Arabic inscription</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17.8 X 15.2 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 2,; lines: 5-7 per column</layout>
+              </layoutDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1299"/>
+              <p>11th century-13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Inscriptions, Arabic</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4456px" url="master/4846_0000.tif" width="2272px"/>
+      <graphic height="190px" url="thumb/4846_0000_thumb.jpg" width="97px"/>
+      <graphic height="1800px" url="web/4846_0000_web.jpg" width="917px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4456px" url="master/4846_0001.tif" width="2272px"/>
+      <graphic height="190px" url="thumb/4846_0001_thumb.jpg" width="97px"/>
+      <graphic height="1800px" url="web/4846_0001_web.jpg" width="917px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4456px" url="master/4846_0002.tif" width="2272px"/>
+      <graphic height="190px" url="thumb/4846_0002_thumb.jpg" width="97px"/>
+      <graphic height="1800px" url="web/4846_0002_web.jpg" width="917px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4456px" url="master/4846_0003.tif" width="2272px"/>
+      <graphic height="190px" url="thumb/4846_0003_thumb.jpg" width="97px"/>
+      <graphic height="1800px" url="web/4846_0003_web.jpg" width="917px"/>
+    </surface>
+  </facsimile>
+</TEI>

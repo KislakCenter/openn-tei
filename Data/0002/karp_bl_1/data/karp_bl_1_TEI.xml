@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Museum of Archaeology and Anthropology, Karp Bl. 1: Leaf from a codex of Proverbs</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania Museum of Archaeology and Anthropology</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Images are  ©2022 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>This is a fragment surviving from a codex of the Pentateuch. The surviving text begins with the final words in Proverbs XIX:7, לא המה, and the recto finishes with the first word for XIX:22, תאות, and the verso continues אדם חסדו וטוב רש מאיש; verso completes with first word of XX:8, מלך. Item was likely from a Karaite Pentateuch due to the vocalization and the plosive mark above each instance of the Tetragrammaton (Karaite practice was to pronounce the Tetragrammaton while reading the Bible). One instance of Qere in outer margin (recto; this manuscript spells the Ketiv as יומת, Qere is למות; Proverbs XIX:16). Possibly a Cairo Genizah fragment. Title supplied by cataloger. Written likely in Egypt, or possibly Syria or Palestine, during the 11th century.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>University of Pennsylvania Museum of Archaeology and Anthropology</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Karp Bl. 1</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Leaf from a codex of Proverbs</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="http://viaf.org/viaf/34466668">Karp, Abraham J.</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>200 x 161 (158 x 125) mm. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 19 lines (recto) and 20 lines (verso); spaces inside lines serve to break between clauses in verses. Various dot breaks follow verse endings; two line space between chapters (recto).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in an Oriental square script, vocalized and with cantillation (Tiberian).</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1099"/>
+              <p>11th century</p>
+              <origPlace>Egypt?</origPlace>
+            </origin>
+            <provenance>Formerly in the collection of Rabbi Dr. Abraham J. Karp.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Genizah — Specimens</term>
+          <term>Cantillation — Specimens</term>
+          <term>Hebrew language —Vocalization — Specimens</term>
+          <term>Tetragrammaton</term>
+          <term>Manuscript fragments — Specimens</term>
+          <term>Jews — Egypt — History — Sources</term>
+          <term>Karaites — Egypt — History — Sources</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5285px" url="master/11571_0000.tif" width="4225px"/>
+      <graphic height="190px" url="thumb/11571_0000_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/11571_0000_web.jpg" width="1439px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5285px" url="master/11571_0001.tif" width="4225px"/>
+      <graphic height="190px" url="thumb/11571_0001_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/11571_0001_web.jpg" width="1439px"/>
+    </surface>
+  </facsimile>
+</TEI>

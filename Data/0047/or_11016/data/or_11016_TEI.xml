@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 11016: Tehilim (תהילים)</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 11016: Tehilim (תהילים) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 11016: Tehilim (תהילים). This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Recto of folio 46 almost entirely obliterated.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 11016</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_11016</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A fragment of Psalms, with vowel-points and accents.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>Tehilim (תהילים)</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>2 folios; 2 folios </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; ruled lines: 17; written lines: 17; Previously attached to an Italian manuscript of "Trattati dei colori di cavalli", Sloane 2127.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Oriental square script, punctuated, of the 12-13th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>Within another manuscript.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1299"/>
+              <p>Between 1100 and 1299</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6246px" url="master/12996_0000.jpg" width="4367px"/>
+      <graphic height="190px" url="thumb/12996_0000_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/12996_0000_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6246px" url="master/12996_0001.jpg" width="4299px"/>
+      <graphic height="190px" url="thumb/12996_0001_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/12996_0001_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="46r">
+      <graphic height="6067px" url="master/12996_0002.jpg" width="4311px"/>
+      <graphic height="190px" url="thumb/12996_0002_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/12996_0002_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="46v">
+      <graphic height="6111px" url="master/12996_0003.jpg" width="4371px"/>
+      <graphic height="190px" url="thumb/12996_0003_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/12996_0003_web.jpg" width="1287px"/>
+    </surface>
+  </facsimile>
+</TEI>

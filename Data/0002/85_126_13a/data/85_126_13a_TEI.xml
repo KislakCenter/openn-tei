@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Penn CAJS: RAR MS 85.126.13a: Sa'adia Gaon's Translation of the Pentateuch, Leviticus 11:13-20</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Images are  ©2020 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2020 University of Pennsylvania Libraries and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Primary text covers one side; verso is empty, save for a later inscription of two writing exercises in Arabic, one in Arabic characters. A complete representation of the Hebrew version is provided, each verse is followed by its Arabic translation. The Arabic version is almost identical with the version published by Derenbourg, Paris 1893, p. 157. The copy covers this biblical paragraph completely. It is possible that this is not from a codex, rather a single page.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Penn CAJS: RAR MS 85.126.13a</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="ara">Hebrew; Arabic</textLang>
+            <msItem>
+              <title>Sa'adia Gaon's Translation of the Pentateuch, Leviticus 11:13-20</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew; Arabic; Oriental; semi-square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>11th-12th century</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylania. Center for Advanced Judaic Studies. Library). Cairo Genizah Collection (Dropsie College. Library).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5136px" url="master/9737_0000.tif" width="3857px"/>
+      <graphic height="190px" url="thumb/9737_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/9737_0000_web.jpg" width="1352px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5180px" url="master/9737_0001.tif" width="4016px"/>
+      <graphic height="190px" url="thumb/9737_0001_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/9737_0001_web.jpg" width="1395px"/>
+    </surface>
+  </facsimile>
+</TEI>

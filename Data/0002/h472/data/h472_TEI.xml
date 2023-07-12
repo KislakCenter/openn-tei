@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 472: Account note page of an India trader</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 472: Account note page of an India trader are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>The central, primary inscription is in Arabic characters. The secondary inscription is in Hebrew characters, utilizing all the remaining space, including the blank verso, where it is has been folded lengthwise and divided into columns of writing in the opposite direction. The right half of the verso has two columns, the left half has one. Paragraphs on the lower left column and upper right column are crossed twice, indicating erasure; Notes of Abraham ben Peraḥyā ben Yijū, an India trader, upon his return to Fustat from India and Yemen, with his Indian slave Bama; partially described in A Mediterranean Society, vol. IV p. 400 n. 100; p. 439 n. 131.</note>
+        <note>Condition: torn, losses along upper edge and lower right quarter, faded.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 472</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9934790533503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb" otherLangs="ara">Judeo-Arabic; Arabic</textLang>
+            <msItem>
+              <title>Account note page of an India trader</title>
+              <author>Ben Yijû, Abraham, active 12th century</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>21.2 X 20.3 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 2 (recto), 1 (verso); lines:.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew, Arabic, Oriental, cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate/>
+              <p>ca. 1152</p>
+              <origPlace>Fustat</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Account books</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6123px" url="master/4835_0000.tif" width="5664px"/>
+      <graphic height="190px" url="thumb/4835_0000_thumb.jpg" width="176px"/>
+      <graphic height="1800px" url="web/4835_0000_web.jpg" width="1665px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6123px" url="master/4835_0001.tif" width="5664px"/>
+      <graphic height="190px" url="thumb/4835_0001_thumb.jpg" width="176px"/>
+      <graphic height="1800px" url="web/4835_0001_web.jpg" width="1665px"/>
+    </surface>
+  </facsimile>
+</TEI>

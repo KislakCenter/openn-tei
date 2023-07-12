@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 1336: Adbhutaśānti</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 1336: Adbhutaśānti are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2v).</note>
+        <note>Written in 10 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Scribe is Bhāskara Dāḍekara (f. 2v).</note>
+        <note>Dated śaka 1725 (1805) (f. 2v).</note>
+        <note>Mistakes blacked out; some corrections and additions in margins; significant syllables, words, or phrases highlighted in red throughout; vertical margins marked with double red line.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 1336</idno>
+            <altIdentifier type="bibid">
+              <idno>9963979713503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/908392544</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6397971</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is attributed to the Baudhāyanasūtra of Baudhāyana and is a manual including rules, laws, and procedures according to the Atharvaveda tradition that are to be employed at the time of natural disasters such as earthquakes.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Adbhutaśānti</title>
+              <title type="vernacular">अद्भुतशान्ति</title>
+              <author>
+                <persName type="authority">Baudhāyana</persName>
+              </author>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName type="authority">Bhāskara Dāḍekara</persName>
+              </respStmt>
+              <colophon>Colophon: iti baudhāyanasūtre adbhutaśāṃtiḥ // (f. 2v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 10 x 21 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Earthquakes--Religious aspects--Hinduism</term>
+          <term>Hinduism--Rituals--Texts</term>
+          <term>Rites and ceremonies--India</term>
+          <term>Hindu law</term>
+          <term>Dharma</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuals (instructional materials)</term>
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-1336-1">
+      <graphic height="2896px" url="master/2024_0000.tif" width="5492px"/>
+      <graphic height="100px" url="thumb/2024_0000_thumb.jpg" width="190px"/>
+      <graphic height="949px" url="web/2024_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-1336-2">
+      <graphic height="5220px" url="master/2024_0001.tif" width="5492px"/>
+      <graphic height="180px" url="thumb/2024_0001_thumb.jpg" width="190px"/>
+      <graphic height="1710px" url="web/2024_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-1336-3">
+      <graphic height="2896px" url="master/2024_0002.tif" width="5492px"/>
+      <graphic height="100px" url="thumb/2024_0002_thumb.jpg" width="190px"/>
+      <graphic height="949px" url="web/2024_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 1462: The Pentateuch scroll.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 1462: The Pentateuch scroll. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 1462: The Pentateuch scroll.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Surface occasionally dry, dark and crazed.</note>
+        <note>A few delaminations.</note>
+        <note>Old repairs, including linen supports on verso, with glue stains.</note>
+        <note>Edge damage. Water marks in part.</note>
+        <note>Stained, with some degraded leather tearing.</note>
+        <note>Ink offset to verso from damp, flaking in places.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 1462</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1462</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Pentateuch scroll.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Pentateuch scroll.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="leather">
+                <support>
+                  <p>Leather</p>
+                </support>
+                <extent>46 membranes, 188 columns.; 46 membranes, 188 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 188; ruled lines: 48; written lines: 48; Uniform layout. Ruling by hard point, membrane by membrane. Visible pricking and stitching. 188 columns in total, three to six columns per membrane. Three tagin on the letters שעטנזגץ. Special arrangement of lines of the Song of Moses, Ex. 15. The first דרש of Lev. 10:16 is written at the middle of the line. Puncta extraordinaria placed only on most of the words fixed by the masorah. Majuscular and minuscular letters occur. The inverted letter nun is placed before and after Num. 10:35-36. Some of the shaper of the letter ח is arched.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Oriental square script of the 15th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Boxed.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1400" notAfter="1499"/>
+              <p>Between 1400 and 1499</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="3269px" url="master/13018_0000.jpg" width="5741px"/>
+      <graphic height="108px" url="thumb/13018_0000_thumb.jpg" width="190px"/>
+      <graphic height="1024px" url="web/13018_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="2300px" url="master/13018_0001.jpg" width="29209px"/>
+      <graphic height="14px" url="thumb/13018_0001_thumb.jpg" width="190px"/>
+      <graphic height="141px" url="web/13018_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="2300px" url="master/13018_0002.jpg" width="29898px"/>
+      <graphic height="14px" url="thumb/13018_0002_thumb.jpg" width="190px"/>
+      <graphic height="138px" url="web/13018_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="2300px" url="master/13018_0003.jpg" width="27136px"/>
+      <graphic height="16px" url="thumb/13018_0003_thumb.jpg" width="190px"/>
+      <graphic height="152px" url="web/13018_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

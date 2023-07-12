@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Museum of Archaeology and Anthropology, e16516: Letter</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania Museum of Archaeology and Anthropology</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/2.0/legalcode">Images are  ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution ShareAlike License version 4.0 (CC-BY-2.0 https://creativecommons.org/licenses/by/2.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/2.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>This leaf of brown, wooly paper had been rolled/folded horizontally. Irregularly folded, the complete document is inscribed on one side only. The formatting of the text is most unusual: the first 20 lines fill the entire page, the next 7 are written in the middle of the page with wide margins, and a final line, still shorter, concludes the whole (Goitein). Not yet fully catalogued. Metadata based on image and Advanced Papyrological Information System (APIS) data. Title based on Prof. Robert A. Kraft's 1990 survey of University Museum Hebrew Manuscripts. All margins intact, with only slight tears out of the right margin.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>University of Pennsylvania Museum of Archaeology and Anthropology</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">e16516</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <msItem>
+              <title>Letter</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>18.0 cm x 21.0 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>1 col.; 20 lines (plus 8 indented lines at bottom)</layout>
+              </layoutDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1099"/>
+              <p>11th century</p>
+              <origPlace>Damascus</origPlace>
+            </origin>
+            <provenance>University of Pennsylvania Museum, Ellen W. Harrison Collection Purchased from Prof. Moritz of Cairo through W.M. Muller, 1910.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6700px" url="master/11558_0000.tif" width="4864px"/>
+      <graphic height="190px" url="thumb/11558_0000_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/11558_0000_web.jpg" width="1306px"/>
+    </surface>
+  </facsimile>
+</TEI>

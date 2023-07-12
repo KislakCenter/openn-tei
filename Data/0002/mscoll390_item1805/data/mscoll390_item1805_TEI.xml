@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 1805: Keśvapaddhati udāharaṇa</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 1805: Keśvapaddhati udāharaṇa are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from title abbreviations in margins.</note>
+        <note>Written in 9 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Dated saṃvat 1643 and śaka 1508 (1586) (f. 1v); manuscript may have been written later than the date given in the opening lines, especially given that the author of the work this text is commenting on could have been alive during the composition of this manuscript.</note>
+        <note>Mistakes blacked out; some corrections and additions in margins.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 1805</idno>
+            <altIdentifier type="bibid">
+              <idno>9968967223503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/944199526</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6896722</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is a commentary on the Jātakapaddhati, an astrological treatise and manual by Keśava Daivajña dealing with previous births. The manuscript contains a table with letters and numbers associated with the planets (f. 2v); manuscript is incomplete.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Keśvapaddhati udāharaṇa</title>
+              <title type="vernacular">केशवपद्धति उदाहरण</title>
+              <author>
+                <persName type="authority">Viśvanātha</persName>
+              </author>
+            </msItem>
+            <msItem n="2v">
+              <locus>2v</locus>
+              <title>Table, f. 2v</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 11 x 26 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hindu astrology--Early works to 1800</term>
+          <term>Hindu astronomy--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Commentaries</term>
+          <term>Tables (documents)</term>
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--16th century</term>
+          <term>Manuscripts--India--16th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-1805-1">
+      <graphic height="2633px" url="master/2695_0000.tif" width="5439px"/>
+      <graphic height="91px" url="thumb/2695_0000_thumb.jpg" width="190px"/>
+      <graphic height="871px" url="web/2695_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-1805-2">
+      <graphic height="4722px" url="master/2695_0001.tif" width="5439px"/>
+      <graphic height="164px" url="thumb/2695_0001_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/2695_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-1805-3">
+      <graphic height="2633px" url="master/2695_0002.tif" width="5439px"/>
+      <graphic height="91px" url="thumb/2695_0002_thumb.jpg" width="190px"/>
+      <graphic height="871px" url="web/2695_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

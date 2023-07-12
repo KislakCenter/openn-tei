@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis M 75: Painting of a Honey Buzzard; Persian Calligraphy</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis M 75: Painting of a Honey Buzzard; Persian Calligraphy are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis M 75: Painting of a Honey Buzzard; Persian Calligraphy. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Previously attributed to the painter Mansur in the Mughal court of Jahangir.</note>
+        <note>Signed by Muhammad Husayn.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis collection of Oriental Manuscripts</collection>
+            <idno type="call-number">Lewis M 75</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="per">Persian</textLang>
+            <msItem>
+              <title>Painting of a Honey Buzzard; Persian Calligraphy</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="https://viaf.org/viaf/63874811">Lewis, John Frederick, 1860-1932</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>20.5 x 33 cm </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis M 75 front">
+      <graphic height="9300px" url="master/10989_0000.tif" width="5400px"/>
+      <graphic height="190px" url="thumb/10989_0000_thumb.jpg" width="110px"/>
+      <graphic height="1800px" url="web/10989_0000_web.jpg" width="1045px"/>
+    </surface>
+    <surface n="Lewis M 75 reverse">
+      <graphic height="9300px" url="master/10989_0001.tif" width="5400px"/>
+      <graphic height="190px" url="thumb/10989_0001_thumb.jpg" width="110px"/>
+      <graphic height="1800px" url="web/10989_0001_web.jpg" width="1045px"/>
+    </surface>
+  </facsimile>
+</TEI>

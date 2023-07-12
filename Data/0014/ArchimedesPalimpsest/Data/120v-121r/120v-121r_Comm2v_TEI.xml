@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="archie-tei.rng" type="xml"?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcription of folios 120v-121r of the Archimedes Palimpsest. (= Archimedes folio Comm2v,
+					Commentary on Aristotle's Categories)</title>
+				<author>Anonymous</author>
+				<respStmt>
+					<resp>Sponsor</resp>
+					<name>The Owner of the Archimedes Palimpsest</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>Marwan Rashed</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>Natalie Tchernetska</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>David Sedley</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>Nigel Wilson</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>Robert Sharples</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Reviel Netz</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Alexander Lee</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Doug Emery</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>William Noel</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Michael Toth</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<idno>5616</idno>
+				<publisher>Owner of the Archimedes Palimpsest</publisher>
+				<date>2010</date>
+				<availability>
+					<p>Licensed for use under Creative Commons Attribution 3.0 Unported, license
+						http://creativecommons.org/licenses/by/3.0/legalcode.</p>
+					<p>It is requested that copies of any published articles based on the information in this data set
+						be sent to The Curator of Manuscripts, The Walters Art Museum, 600 North Charles Street,
+						Baltimore MD 21201.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<listBibl>
+					<bibl>Privately owned parchment codex: "The Archimedes Palimpsest".</bibl>
+					<bibl>Multispectral Digital Image Product of the Archimedes Palimpsest (The Owner of the Archimedes
+						Palimpsest, 2008).</bibl>
+					<bibl>Christie’s New York, 29th October 1998 Sale, no. 9058, The Archimedes Palimpsest. </bibl>
+					<bibl>A. Papadopoulos-Kerameus, Hierosolymitike Bibliotheke, vol. 4 (St Petersburg, 1899), 329–331,
+						MS 355.</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy xml:id="keywords">
+					<category xml:id="keyword_1">
+						<catDesc>10th Century Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_2">
+						<catDesc>13th Century Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_3">
+						<catDesc>Archimedes Palimpsest</catDesc>
+					</category>
+					<category xml:id="keyword_4">
+						<catDesc>Byzantine Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_5">
+						<catDesc>Content: Against Diondas</catDesc>
+					</category>
+					<category xml:id="keyword_6">
+						<catDesc>Content: Against Timandros</catDesc>
+					</category>
+					<category xml:id="keyword_7">
+						<catDesc>Content: Archimedes</catDesc>
+					</category>
+					<category xml:id="keyword_8">
+						<catDesc>Content: Aristotle</catDesc>
+					</category>
+					<category xml:id="keyword_9">
+						<catDesc>Content: Categories</catDesc>
+					</category>
+					<category xml:id="keyword_10">
+						<catDesc>Content: Hyperides</catDesc>
+					</category>
+					<category xml:id="keyword_11">
+						<catDesc>Content: J. L. Heiberg</catDesc>
+					</category>
+					<category xml:id="keyword_12">
+						<catDesc>Content: Method</catDesc>
+					</category>
+					<category xml:id="keyword_13">
+						<catDesc>Content: On Floating Bodies</catDesc>
+					</category>
+					<category xml:id="keyword_14">
+						<catDesc>Content: On Spiral Lines</catDesc>
+					</category>
+					<category xml:id="keyword_15">
+						<catDesc>Content: On the Equilibrium of Planes</catDesc>
+					</category>
+					<category xml:id="keyword_16">
+						<catDesc>Content: On the Measurement of the Circle</catDesc>
+					</category>
+					<category xml:id="keyword_17">
+						<catDesc>Content: On the Sphere and Cylinder</catDesc>
+					</category>
+					<category xml:id="keyword_18">
+						<catDesc>Content: Stomachion</catDesc>
+					</category>
+					<category xml:id="keyword_19">
+						<catDesc>Foliation scheme: Undertext foliation, ordered by sequence of undertext</catDesc>
+					</category>
+					<category xml:id="keyword_20">
+						<catDesc>Foliation scheme: Undertext foliation, ordered by sequence of columnar
+							undertext</catDesc>
+					</category>
+					<category xml:id="keyword_21">
+						<catDesc>Greek Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_22">
+						<catDesc>J. L. Heiberg</catDesc>
+					</category>
+					<category xml:id="keyword_23">
+						<catDesc>Parchment Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_24">
+						<catDesc>Private Collection</catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc-c">accented ancient Greek in Unicode-C Greek characters</language>
+				<language ident="eng">English</language>
+				<language ident="lat">Latin</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="#keywords">
+					<list>
+						<item>Content: Aristotle</item>
+						<item>Content: Categories</item>
+						<item>Archimedes Palimpsest</item>
+						<item>Greek Manuscript</item>
+						<item>Byzantine Manuscript</item>
+						<item>Parchment Manuscript</item>
+						<item>13th Century Manuscript</item>
+						<item>10th Century Manuscript</item>
+						<item>Private Collection</item>
+						<item>Foliation scheme: Undertext foliation, ordered by sequence of undertext</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<!--
+            utFolio is Comm2v-->
+	<facsimile>
+		<surface ulx="0" uly="0" lrx="8160" lry="10880">
+			<graphic url="120v-121r_Alex02v_Sinar_LED365_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_LED445_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_LED470_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_LED505_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_LED530_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_LED570_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_LED617_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_LED625_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_LED700_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_LED735_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_LED870_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_RAKBLL_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_RAKBLR_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_RAKIRL_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_RAKIRR_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_TNGSTN_01_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_pseudo_no-veil.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_pseudo_sharpie.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_true_pack8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_ultraviolet_norm8.tif"/>
+			<graphic url="120v-121r_Alex02v_Sinar_uvblue_norm8.tif"/>
+			<graphic url="120v-121r_Alex02v_XRF_CaBack_registered.tif"/>
+			<graphic url="120v-121r_Alex02v_XRF_CaFront_registered.tif"/>
+			<graphic url="120v-121r_Alex02v_XRF_CuBack_registered.tif"/>
+			<graphic url="120v-121r_Alex02v_XRF_CuFront_registered.tif"/>
+			<graphic url="120v-121r_Alex02v_XRF_FeBack_registered.tif"/>
+			<graphic url="120v-121r_Alex02v_XRF_FeFront_registered.tif"/>
+			<graphic url="120v-121r_Alex02v_XRF_KBack_registered.tif"/>
+			<zone lrx="6198" lry="1318" ulx="1674" uly="1118" xml:id="zComm2v_120v-121r1_01"/>
+			<zone lrx="6198" lry="1574" ulx="1674" uly="1374" xml:id="zComm2v_120v-121r1_02"/>
+			<zone lrx="6198" lry="1814" ulx="1674" uly="1614" xml:id="zComm2v_120v-121r1_03"/>
+			<zone lrx="6198" lry="2038" ulx="1674" uly="1838" xml:id="zComm2v_120v-121r1_04"/>
+			<zone lrx="6198" lry="2294" ulx="1674" uly="2094" xml:id="zComm2v_120v-121r1_05"/>
+			<zone lrx="6206" lry="8170" ulx="1674" uly="7930" xml:id="zComm2v_120v-121r1_06"/>
+			<zone lrx="6198" lry="2742" ulx="1674" uly="2542" xml:id="zComm2v_120v-121r1_07"/>
+			<zone lrx="6198" lry="2982" ulx="1674" uly="2782" xml:id="zComm2v_120v-121r1_08"/>
+			<zone lrx="6198" lry="3190" ulx="1674" uly="2990" xml:id="zComm2v_120v-121r1_09"/>
+			<zone lrx="6198" lry="3446" ulx="1674" uly="3246" xml:id="zComm2v_120v-121r1_10"/>
+			<zone lrx="6198" lry="3654" ulx="1674" uly="3454" xml:id="zComm2v_120v-121r1_11"/>
+			<zone lrx="6198" lry="3878" ulx="1674" uly="3678" xml:id="zComm2v_120v-121r1_12"/>
+			<zone lrx="6198" lry="4150" ulx="1674" uly="3950" xml:id="zComm2v_120v-121r1_13"/>
+			<zone lrx="6198" lry="4374" ulx="1674" uly="4174" xml:id="zComm2v_120v-121r1_14"/>
+			<zone lrx="6198" lry="4598" ulx="1674" uly="4398" xml:id="zComm2v_120v-121r1_15"/>
+			<zone lrx="6198" lry="4822" ulx="1674" uly="4622" xml:id="zComm2v_120v-121r1_16"/>
+			<zone lrx="6198" lry="5062" ulx="1674" uly="4862" xml:id="zComm2v_120v-121r1_17"/>
+			<zone lrx="6198" lry="5270" ulx="1674" uly="5070" xml:id="zComm2v_120v-121r1_18"/>
+			<zone lrx="6198" lry="5510" ulx="1674" uly="5310" xml:id="zComm2v_120v-121r1_19"/>
+			<zone lrx="6206" lry="5770" ulx="1674" uly="5530" xml:id="zComm2v_120v-121r1_20"/>
+			<zone lrx="6206" lry="6010" ulx="1674" uly="5770" xml:id="zComm2v_120v-121r1_21"/>
+			<zone lrx="6206" lry="6250" ulx="1674" uly="6010" xml:id="zComm2v_120v-121r1_22"/>
+			<zone lrx="6206" lry="6490" ulx="1674" uly="6250" xml:id="zComm2v_120v-121r1_23"/>
+			<zone lrx="6206" lry="6730" ulx="1674" uly="6490" xml:id="zComm2v_120v-121r1_24"/>
+			<zone lrx="6206" lry="6970" ulx="1674" uly="6730" xml:id="zComm2v_120v-121r1_25"/>
+			<zone lrx="6206" lry="7210" ulx="1674" uly="6970" xml:id="zComm2v_120v-121r1_26"/>
+			<zone lrx="6206" lry="7450" ulx="1674" uly="7210" xml:id="zComm2v_120v-121r1_27"/>
+			<zone lrx="6206" lry="7690" ulx="1674" uly="7450" xml:id="zComm2v_120v-121r1_28"/>
+			<zone lrx="6206" lry="7930" ulx="1674" uly="7690" xml:id="zComm2v_120v-121r1_29"/>
+			<zone lrx="6206" lry="8170" ulx="1674" uly="7930" xml:id="zComm2v_120v-121r1_30"/>
+		</surface>
+	</facsimile>
+	<text xml:lang="grc-c">
+		<body>
+			<div>
+				<ab><milestone n="120v+121r" unit="folio"/>
+					<lb n="1" facs="#zComm2v_120v-121r1_01"/>ζῷον<pc>.</pc> ἡ δὲ “πᾶς ἄνθρωπος εἶδος” καὶ ἡ “πᾶν ζῷον <w
+						part="I">γέ</w>
+					<lb n="2" facs="#zComm2v_120v-121r1_02"/><w part="F">νος</w>” ψευδεῖς<pc>.</pc> διὸ <hi
+						rend="superscript"><supplied reason="lost">ἀληθεῖς</supplied></hi> οὐδ’ ἀόριστοι προτάσεις ἡ “τὸ
+					ζῷον <lb n="3" facs="#zComm2v_120v-121r1_03"/>γένος ἐστί” καὶ “ὁ ἄνθρωπος εἶδος”<pc>.</pc> ἐχρῆν γὰρ
+					οὕτω γε <lb n="4" facs="#zComm2v_120v-121r1_04"/>τὴν ἑτέραν τῶν διωρισμένων εἶναι ἀληθῆ<pc>.</pc>
+					τοῦτο <lb n="5" facs="#zComm2v_120v-121r1_05"/>γὰρ αἴτιον καὶ τοῦ <w>τὴ<unclear>ν</unclear></w>
+					ἀδιόριστον εἶναι ἀληθῆ<pc>.</pc> ψευδὴς <lb n="6" facs="#zComm2v_120v-121r1_06"/>γὰρ καὶ ἡ “πᾶν ζῷον
+					γένος” ἐστίν<pc>,</pc> ὁ γὰρ τὶς ἄνθρωπος <lb n="7" facs="#zComm2v_120v-121r1_07"/>ζῷον
+						μέν<pc>,</pc> οὐ μὴν γένος<pc>,</pc> καὶ ἡ “τὶ ζῷον γένος ἐστὶ” διὰ <lb n="8"
+						facs="#zComm2v_120v-121r1_08"/>τὸ αὐτό<pc>·</pc> τὶ γὰρ ζῷόν ἐστιν ὁ τὶς ἄνθρωπος<pc>.</pc>
+					ὁμοίως <lb n="9" facs="#zComm2v_120v-121r1_09"/>δὲ ψευδὴς καὶ ἡ “πᾶς ἄνθρωπος εἶδος” καὶ ἡ “τὶς <w
+						part="I">ἄν</w>
+					<lb n="10" facs="#zComm2v_120v-121r1_10"/><w part="F">θρωπος</w> εἶδος”<pc>.</pc> οὐ γὰρ εἶδος ὁ τὶς
+						ἄνθρωπος<pc>,</pc>
+					<w part="I">ἄνθρ</w>
+					<lb n="11" facs="#zComm2v_120v-121r1_11"/><w part="F">ωπος</w> ὤν<pc>.</pc> λέγεται δ’ ἐν τοῖς Περὶ
+					ἑρμηνείας τίνες εἰσὶν <lb n="12" facs="#zComm2v_120v-121r1_12"/>τοιαῦται προτάσεις<pc>.</pc> ἀνάγκη
+						οὖν<pc>,</pc> τῆς πρώτης <w part="I">κατη</w>
+					<lb n="13" facs="#zComm2v_120v-121r1_13"/><w part="F">γορίας</w> καθ’ ὑποκειμένου λεγομένης παντὸς
+					τοῦ <lb n="14" facs="#zComm2v_120v-121r1_14"/>κατηγορουμένου <surplus reason="editorial"
+						>κατηγορουμένου</surplus><pc>,</pc> κατὰ παντὸς <lb n="15" facs="#zComm2v_120v-121r1_15"/>καὶ
+					τοῦ ὑποκειμένου κατηγορεῖσθαι<pc>.</pc> ὅσα γὰρ ἂν <lb n="16" facs="#zComm2v_120v-121r1_16"/>κατὰ
+					τοῦ κατηγορουμένου παντὸς λέγηται<pc>,</pc>
+					<w part="I"><unclear>ταῦ</unclear></w>
+					<lb n="17" facs="#zComm2v_120v-121r1_17"/><w part="F"><unclear>τα</unclear></w>
+					<w>κ<unclear>αὶ</unclear></w>
+					<w>κ<unclear>ατὰ</unclear></w>
+					<w>τ<unclear>οῦ</unclear></w> ὑποκειμένου ῥηθήσεται<pc>.</pc>
+					<w><supplied reason="lost">ἀλλὰ</supplied></w>
+					<w><unclear>π</unclear><supplied reason="lost">ῶς</supplied></w>
+					<lb n="18" facs="#zComm2v_120v-121r1_18"/>κατὰ μὲν παντὸς <w>ἀνθρώ<unclear>που</unclear></w>
+					<supplied reason="editorial">οὐ</supplied> λέγεται τὸ εἶδος<pc>,</pc>
+					<w part="I">κα</w>
+					<lb n="19" facs="#zComm2v_120v-121r1_19"/><w part="F">τὰ</w> δὲ τοῦ ἀνθρώπου λέγεται<pc>;</pc> οὐχὶ
+					κατὰ παντὸς λέγεται <lb n="20" facs="#zComm2v_120v-121r1_20"/>ὁ ἄνθρωπος τῶν κατὰ μέρος<pc>;</pc>
+					ἀλλ’ ᾗ κοινότης ἦν<pc>.</pc>
+					<lb n="21" facs="#zComm2v_120v-121r1_21"/>καθὸ γὰρ κοινότης ἐστὶν ἄνθρωπος εἶδος λέγεται<pc>.</pc>
+					ἀλλὰ <lb n="22" facs="#zComm2v_120v-121r1_22"/>κατὰ τοῦ ζῴου κατηγορεῖται τὸ ἔνυγρον καὶ τὸ <w
+						part="I">πτε</w>
+					<lb n="23" facs="#zComm2v_120v-121r1_23"/><w part="F">ρόπορον</w> καὶ τὸ τετράπουν<pc>,</pc>
+						φασίν<pc>,</pc> οὐκέτι δὲ <w>τού<unclear>των</unclear></w>
+					<lb n="24" facs="#zComm2v_120v-121r1_24"/>τι κατηγορεῖται καὶ κατὰ τοῦ ἀνθρώπου<pc>.</pc> οὐδὲ <w
+						part="I">ταῦ</w>
+					<lb n="25" facs="#zComm2v_120v-121r1_25"/><w part="F">τα</w> ἀποροῦντες ἐοίκασιν
+							<w><unclear>ἀ</unclear>γ<supplied reason="lost">νο</supplied><unclear>εῖν</unclear></w>
+					<w><unclear>ὅ</unclear></w> τι ποτέ ἐστι <lb n="26" facs="#zComm2v_120v-121r1_26"/>τὸ καθ’
+						ὑποκειμένου<pc>.</pc> τὸ γὰρ τετράπουν καὶ τὰ <w part="I">εἰρη</w>
+					<lb n="27" facs="#zComm2v_120v-121r1_27"/><w part="F">μένα</w> κατηγορεῖται τοῦ ζῴου οὐχ ὡς καθ’ <w
+						part="I">ὑποκει</w>
+					<lb n="28" facs="#zComm2v_120v-121r1_28"/><w part="F">μένου</w> ἀλλ’ ὡς περιεχόμενα ὑπ’
+						αὐτοῦ<pc>,</pc> καὶ <w><unclear>εἰδ</unclear><supplied reason="lost">οποιά</supplied></w>
+					<lb n="29" facs="#zComm2v_120v-121r1_29"/>ἐστιν τοῦ ζῴου<pc>.</pc> δεῖ δὲ <w><supplied reason="lost"
+							>ἐπ</supplied><unclear>ὶ</unclear></w> πλέον τὰ <w><unclear>κα</unclear>θ’</w> ὑποκειμένου
+						<lb n="30" facs="#zComm2v_120v-121r1_30"/>κατηγορούμενα εἶναι τοῦ ὑποκειμένου<pc>,</pc> εἰ
+					γενικώτερα </ab>
+			</div>
+		</body>
+	</text>
+</TEI>

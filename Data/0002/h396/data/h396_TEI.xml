@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 396: Letter</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 396: Letter are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>First line of recto bears standard بسملله ("Bismallah") salutation, in Arabic characters; There is no address or signature, nor are there folds, possibly indicating that this is not an original piece of mail, but a copy. In the last line there is mention of Abu al-Bishr, possibly referring to Joseph ibn Awkal; Elḥanan (b. Shemarya)[...]ראש ה (lacuna: "Rosh ha[-Seder?]")is mentioned (l. 16). He served as the head of the Babylonian Community in Fustat between 994-1026. See Mann: The Jews in Egypt and in Palestine under the Fātimids / Jacob Mann. London : Oxford University Press, 1920, v. 1, p. 34-39; Elinoar Bareḳet: Shafrir Mitsraim / Elinoar Bareqet. Tel-Aviv : ha- Makhon le-ḥeḳer ha-tefutsot, Universiṭat Tel-Aviv, 1995. pp. 153-164 (Fustat on the Nile, Leiden, 1999, pp. 205-222).</note>
+        <note>Condition: damaged, torn, faded; verso is blank.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 396</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420743503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb">Judeo-Arabic</textLang>
+            <msItem>
+              <title>Letter</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>27.9 X 18.5 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 22.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Arabic Oriental semi-square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="0994" notAfter="1026"/>
+              <p>ca. 994-1026</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6925px" url="master/4761_0000.tif" width="4768px"/>
+      <graphic height="190px" url="thumb/4761_0000_thumb.jpg" width="131px"/>
+      <graphic height="1800px" url="web/4761_0000_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6925px" url="master/4761_0001.tif" width="4768px"/>
+      <graphic height="190px" url="thumb/4761_0001_thumb.jpg" width="131px"/>
+      <graphic height="1800px" url="web/4761_0001_web.jpg" width="1239px"/>
+    </surface>
+  </facsimile>
+</TEI>

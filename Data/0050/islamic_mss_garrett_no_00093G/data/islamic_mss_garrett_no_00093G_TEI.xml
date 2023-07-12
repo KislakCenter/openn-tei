@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Princeton University Islamic Manuscripts, Garrett no. 93G: Manāfiʻ-i kalāgh ...</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Princeton University</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Princeton University Library Islamic Manuscripts, Garrett no. 93G: Manāfiʻ-i kalāgh ... are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Princeton University Library has waived all copyright and related or neighboring rights to this metadata about Princeton University Library Islamic Manuscripts, Garrett no. 93G: Manāfiʻ-i kalāgh .... This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. leaf.</note>
+        <note>Title from heading.</note>
+        <note>Physical description: 13 lines per page; written in medium naskh in black on tan Arabic paper. Text framed in double red lines. Rubrication and catchwords. Heading in large, dark blue Kufic script. Lower outer corner repaired. On verso is a miniature measuring 110 x 96 mm.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Princeton</settlement>
+            <institution>Princeton University</institution>
+            <repository>Princeton University Library</repository>
+            <idno type="call-number">Islamic Manuscripts, Garrett no. 93G</idno>
+            <altIdentifier type="bibid">
+              <idno>6953859</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/773292244</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://arks.princeton.edu/ark:/88435/5138jj208</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Leaf from the Manāfiʻ al-ḥayawān, with a miniature depicting two crows, one of which stands on a rock, and a fruiting tree in the background.</summary>
+            <textLang mainLang="per">Persian</textLang>
+            <msItem>
+              <title>Manāfiʻ-i kalāgh ...</title>
+              <title type="vernacular">منافع کلاغ</title>
+              <author>
+                <persName type="authority">Ibn Bakhtīshūʻ, ʻUbayd Allāh ibn Jibrāʾīl</persName>
+                <persName type="vernacular">ابن بختىشوع، عبىد الله بن جبرائيل</persName>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 leaf : 263 x 203 (227 x 167) mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>According to Moghadam, the leaf is from the late 13th century; likely from Iran.</p>
+              <origDate>between 1275 and 1299</origDate>
+            </origin>
+            <provenance>Robert Garrett (Class of 1897),</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Materia medica, Animal--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Persian--Iran--13th century</term>
+          <term>Miniatures (Illuminations)--Iran--13th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1">
+      <graphic height="7200px" url="master/11281_0000.tif" width="5394px"/>
+      <graphic height="190px" url="thumb/11281_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/11281_0000_web.jpg" width="1348px"/>
+    </surface>
+    <surface n="2">
+      <graphic height="7200px" url="master/11281_0001.tif" width="5395px"/>
+      <graphic height="190px" url="thumb/11281_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/11281_0001_web.jpg" width="1348px"/>
+    </surface>
+  </facsimile>
+</TEI>

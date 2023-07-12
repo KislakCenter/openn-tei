@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 96: Part of the ʹArukh by Natan ben Jeḥiʾel of Rome</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 96: Part of the ʹArukh by Natan ben Jeḥiʾel of Rome are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Headwords marked with superlinear decoration, and placed between 2 spaces; one vocalized word; Contains definitions of words אוב (starting with ידיו וידעוני, parallel to, in the published edition of Kohut: ʹArukh ha-shalem / Alexander Kohut [ed.]. Vienna, 1878-1892, vol. 1. p. 3 column I l. 30); אובא טמיא; אבא; אבוב ; אביב; אב בית; אבוב רואה; אבד; אב דומה; אב דן; אבזקת; אבזר; אבט; אבטליא; אבטינס; אביי (to טעמא מקצת, ibid. p. 6 column II l. 15), including the comments cited in the name of R. Hananel on Talmud Berakhot 59a, and the beginning of the condensed version of the Responsum of Sherirah Gaon on the titles of the Amoraim.</note>
+        <note>Condition: consecutive, losses from center interior edge of fol. 1 (Halper 95), mostly detached from fol. 2 (Halper 96) except at foot; line lacking from lower exterior corner of fol. 2 (r? v?).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 96</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417903503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="arc">Hebrew; Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textLang>
+            <msItem>
+              <title>Part of the ʹArukh by Natan ben Jeḥiʾel of Rome</title>
+              <author>Nathan ben Jehiel, 1035-ca. 1110.</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>21.6 X 15.5 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 23; ruling method: lines "poorly ruled"; left rule unjustified.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1299"/>
+              <p>12th century-13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+            <provenance>Lederer.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hebrew language, Talmudic , Dictionaries Early works to 1800</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4518px" url="master/4468_0000.tif" width="3600px"/>
+      <graphic height="190px" url="thumb/4468_0000_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/4468_0000_web.jpg" width="1434px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4518px" url="master/4468_0001.tif" width="3600px"/>
+      <graphic height="190px" url="thumb/4468_0001_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/4468_0001_web.jpg" width="1434px"/>
+    </surface>
+  </facsimile>
+</TEI>

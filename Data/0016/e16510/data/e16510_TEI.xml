@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Museum of Archaeology and Anthropology, e16510: Hebrew prayer with phrases from Psalms and Legal Document</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania Museum of Archaeology and Anthropology</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/2.0/legalcode">Images are  ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution ShareAlike License version 4.0 (CC-BY-2.0 https://creativecommons.org/licenses/by/2.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/2.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Recto contains Hebrew prayer; verso, a legal document. Lower part of recto contains signatures unevenly cut away. Not yet fully catalogued. Metadata based on image and Advanced Papyrological Information System (APIS) data. Title based on Prof. Robert A. Kraft's 1990 survey of University Museum Hebrew Manuscripts.Damaged by holes. Most of left margin torn away. Upper and lower thirds mostly missing.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>University of Pennsylvania Museum of Archaeology and Anthropology</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">e16510</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Hebrew prayer with phrases from Psalms and Legal Document</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>22.0 cm. x 26.0 cm. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>1 col.: 30 lines (recto), 21 (verso)</layout>
+              </layoutDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>Fustat or Old Cairo</origPlace>
+            </origin>
+            <provenance>University of Pennsylvania Museum, Ellen W. Harrison Collection. Purchased from Prof. Moritz of Cairo through W.M. Muller, 1910.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="8015px" url="master/11552_0000.tif" width="5536px"/>
+      <graphic height="190px" url="thumb/11552_0000_thumb.jpg" width="131px"/>
+      <graphic height="1800px" url="web/11552_0000_web.jpg" width="1243px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="8015px" url="master/11552_0001.tif" width="5536px"/>
+      <graphic height="190px" url="thumb/11552_0001_thumb.jpg" width="131px"/>
+      <graphic height="1800px" url="web/11552_0001_web.jpg" width="1243px"/>
+    </surface>
+  </facsimile>
+</TEI>

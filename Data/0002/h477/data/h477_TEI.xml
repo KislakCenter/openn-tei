@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 477: Calendar of significant days and New Moons, (Hebrew) 4924</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 477: Calendar of significant days and New Moons, (Hebrew) 4924 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Fol. 1 is the first folio of this booklet. Its recto bore only the title referring to the year by its cyclical title "the third year of cycle 260". The remaining empty space has a secondary inscription, a writing exercise in a rough square hand with many mistakes, probably that of a child. The content starts on the verso, by introducing the year by its number according to the count to Creation, Seleucid, and to the Destruction of the Temple; fol. 2 covers the months of Nissan-Av, the rest is obliterated. The calendar lists the day of the week of each New Moon sighting (molad), holidays and fasts. The time of the equinox is also provided.</note>
+        <note>Condition: non-consecutive; fol. 1 nearly complete; fol. 2 torn in lower corners, erasures on verso.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 477</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421543503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb">Judeo-Arabic</textLang>
+            <msItem>
+              <title>Calendar of significant days and New Moons, (Hebrew) 4924</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>14.1 X 9.9 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 11-12.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1163" notAfter="1164"/>
+              <p>1163 or 1164</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Religious calendars , Judaism</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3506px" url="master/4840_0000.tif" width="2560px"/>
+      <graphic height="190px" url="thumb/4840_0000_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/4840_0000_web.jpg" width="1314px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3506px" url="master/4840_0001.tif" width="2560px"/>
+      <graphic height="190px" url="thumb/4840_0001_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/4840_0001_web.jpg" width="1314px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3506px" url="master/4840_0002.tif" width="2560px"/>
+      <graphic height="190px" url="thumb/4840_0002_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/4840_0002_web.jpg" width="1314px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3506px" url="master/4840_0003.tif" width="2560px"/>
+      <graphic height="190px" url="thumb/4840_0003_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/4840_0003_web.jpg" width="1314px"/>
+    </surface>
+  </facsimile>
+</TEI>

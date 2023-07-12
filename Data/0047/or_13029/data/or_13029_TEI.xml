@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 13029: The Book of Esther.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <date type="create-date" when="2023-02-08">2023-02-08</date>
+        <date type="mod-date" when="2023-02-08">2023-02-08</date>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 13029: The Book of Esther. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 13029: The Book of Esther.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Slight mottling on verso. A few usage stains.</note>
+        <note>Some creases, especially at inner end from tight rolling.</note>
+        <note>A tan silk closure ribbon mostly missing.</note>
+        <note>Pomegranate finial appears to have lost central element.</note>
+        <note>Roller handle loose, lower ivory end missing.</note>
+        <note type="relatedResource">Lists of Oriental manuscripts, Asian and African Studies reading room</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 13029</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_13029</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Book of Esther.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Book of Esther.</title>
+            </msItem>
+            <msItem n="1r">
+              <locus target="#surface-or-13029-">1r</locus>
+              <title>Ruth</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>3 membranes, 22 columns.; 3 membranes, 22 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 22; ruled lines: 14; written lines: 14; Uniform layout. Ruling by hard point, membrane by membrane. Visible stitching of membranes. Blue silk sewn to verso of opening. Three tagin on שעטנזגץ, and on בדהחק. A few majuscular or minuscular letters. The names of the sons of Haman arranged in 11 lines, in accordance with the rule. Wooden roller with ivory elements (155mm high).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Square script of the 18th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Boxed.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1700" notAfter="1799"/>
+              <p>Between 1700 and 1799</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="5094px" url="master/13467_0000.jpg" width="1910px"/>
+      <graphic height="190px" url="thumb/13467_0000_thumb.jpg" width="71px"/>
+      <graphic height="1800px" url="web/13467_0000_web.jpg" width="675px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="2124px" url="master/13467_0001.jpg" width="22399px"/>
+      <graphic height="18px" url="thumb/13467_0001_thumb.jpg" width="190px"/>
+      <graphic height="170px" url="web/13467_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

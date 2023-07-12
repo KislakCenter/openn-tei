@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 13030: The Book of Esther.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 13030: The Book of Esther. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 13030: The Book of Esther.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A few minor abrasions on leather surface.</note>
+        <note>Roller handle and finial removed, one ivory finial kept separate in box.</note>
+        <note>Accretions and staining on verso.</note>
+        <note>Silk lining split at short end of parchment. Silk ties have long partial splits.</note>
+        <note type="relatedResource">Lists of Oriental manuscripts, Asian and African Studies reading room; recorded in 1966</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 13030</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_13030</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Book of Esther.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Book of Esther.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="leather">
+                <support>
+                  <p>Leather</p>
+                </support>
+                <extent>6 membranes, 22 columns.; 6 membranes, 22 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 22; ruled lines: 19; written lines: 19; Uniform layout. Ruling by hard point, membrane by membrane. Blue silk lining for outer end, with long silk ties (more recent addition). Three tagin on שעטנזגץ, and one on בדהיחק. A few majuscular or minuscular letters. The names of the sons of Haman arranged in 11 lines, in accordance with the rule. Ivory roller, carved (380mm high).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Square script of the 19th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house (boxed).</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1800" notAfter="1899"/>
+              <p>Between 1800 and 1899</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="6993px" url="master/13148_0000.jpg" width="3407px"/>
+      <graphic height="190px" url="thumb/13148_0000_thumb.jpg" width="92px"/>
+      <graphic height="1800px" url="web/13148_0000_web.jpg" width="877px"/>
+    </surface>
+    <surface n="front-i">
+      <graphic height="4503px" url="master/13148_0001.jpg" width="6936px"/>
+      <graphic height="123px" url="thumb/13148_0001_thumb.jpg" width="190px"/>
+      <graphic height="1168px" url="web/13148_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="2294px" url="master/13148_0002.jpg" width="30000px"/>
+      <graphic height="14px" url="thumb/13148_0002_thumb.jpg" width="190px"/>
+      <graphic height="137px" url="web/13148_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="back-i">
+      <graphic height="5610px" url="master/13148_0003.jpg" width="3754px"/>
+      <graphic height="190px" url="thumb/13148_0003_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/13148_0003_web.jpg" width="1204px"/>
+    </surface>
+  </facsimile>
+</TEI>

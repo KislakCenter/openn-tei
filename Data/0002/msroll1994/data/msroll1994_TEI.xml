@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Roll 1994: Short scroll in Ottoman Turkish.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Roll 1994: Short scroll in Ottoman Turkish. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Roll 1994: Short scroll in Ottoman Turkish.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. roll.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Roll 1994</idno>
+            <altIdentifier type="bibid">
+              <idno>9977941249903681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1241709292</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://openn.library.upenn.edu/Data/0002/html/msroll1994.html</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A short scroll in Ottoman Turkish, possibly of a devotional nature.</summary>
+            <textLang mainLang="ota">Ottoman Turkish</textLang>
+            <msItem>
+              <title>Short scroll in Ottoman Turkish.</title>
+            </msItem>
+            <msItem n="Recto">
+              <locus>Recto</locus>
+              <title>[Short scroll in Ottoman Turkish].</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>5 leaves : 950 mm x 170 mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 25 lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in nastaʻlīq and naskh in black ink; pointed.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>No cover or container.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Item is undated; probably 19th century.</p>
+              <origDate>between 1800 and 1899?</origDate>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Islam--Prayers and devotions</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Turkish</term>
+          <term>Manuscripts, 19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Recto">
+      <graphic height="24019px" url="master/10937_0000.tif" width="5051px"/>
+      <graphic height="190px" url="thumb/10937_0000_thumb.jpg" width="39px"/>
+      <graphic height="1800px" url="web/10937_0000_web.jpg" width="378px"/>
+    </surface>
+    <surface n="Verso">
+      <graphic height="24019px" url="master/10937_0001.tif" width="5051px"/>
+      <graphic height="190px" url="thumb/10937_0001_thumb.jpg" width="39px"/>
+      <graphic height="1800px" url="web/10937_0001_web.jpg" width="378px"/>
+    </surface>
+  </facsimile>
+</TEI>

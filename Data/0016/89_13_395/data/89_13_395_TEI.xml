@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Penn Museum 89-13-395 89-13-395: Illumination from Thai manuscript</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of University of Pennsylvania Museum of Archaeology and Anthropology Penn Museum 89-13-395 89-13-395: Illumination from Thai manuscript are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title supplied by cataloger (viewed on September 17, 2015)</note>
+        <note>Written in 5 lines per leaf.</note>
+        <note>Written on khoi paper; manuscript originally folded concertina- or accordion-style, but this fragment of one folio is stored flat.</note>
+        <note>Written and painted in Thailand in the late 19th century (Justin McDaniel).</note>
+        <note>Dimensions of original manuscript: 28.3 x 24 cm.</note>
+        <note>Reproduced from the original with permission of the University of Pennsylvania Museum of Archaeology and Anthropology under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) license.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement/>
+            <institution>University of Pennsylvania</institution>
+            <repository>University of Pennsylvania Museum of Archaeology and Anthropology</repository>
+            <idno type="call-number">Penn Museum 89-13-395 89-13-395</idno>
+            <altIdentifier type="bibid">
+              <idno>9962729613503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6272961</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Illumination cut from a folio of a Thai manuscript, showing farmers working and children playing by a river. The scene also includes water buffalo, fish, birds, two buildings, and a forest background. On the verso is text from the Phra Malai.</summary>
+            <textLang mainLang="tha">In Thai</textLang>
+            <msItem>
+              <title>Illumination from Thai manuscript</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>color illustration.</p>
+                </support>
+                <extent>1 online resource (1 folio) :</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Gift of the Estate of Elizabeth Lyons, Keeper of the Asian Collections, University Museum, 1989.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Illumination of books and manuscripts, Thai--Specimens</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Facsimiles</term>
+          <term>Fragments (object portions)</term>
+          <term>Folded books</term>
+          <term>Illuminations (visual works)</term>
+          <term>Manuscripts, Thai--19th century</term>
+          <term>Manuscripts--Thailand--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Unlabeled" xml:id="surface-penn-museum-89-13-395-89-13-395-1">
+      <graphic height="7760px" url="master/2382_0000.tif" width="10328px"/>
+      <graphic height="142px" url="thumb/2382_0000_thumb.jpg" width="190px"/>
+      <graphic height="1352px" url="web/2382_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 1" xml:id="surface-penn-museum-89-13-395-89-13-395-2">
+      <graphic height="6874px" url="master/2382_0001.tif" width="5728px"/>
+      <graphic height="190px" url="thumb/2382_0001_thumb.jpg" width="158px"/>
+      <graphic height="1800px" url="web/2382_0001_web.jpg" width="1500px"/>
+    </surface>
+    <surface n="Side 2" xml:id="surface-penn-museum-89-13-395-89-13-395-3">
+      <graphic height="6874px" url="master/2382_0002.tif" width="5728px"/>
+      <graphic height="190px" url="thumb/2382_0002_thumb.jpg" width="158px"/>
+      <graphic height="1800px" url="web/2382_0002_web.jpg" width="1500px"/>
+    </surface>
+  </facsimile>
+</TEI>

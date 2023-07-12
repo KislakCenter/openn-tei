@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 81: Sifra, Tsaṿ (Leviticus 8-13); Sheratsim (Pereḳ 3 - Paarshah 5)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 81: Sifra, Tsaṿ (Leviticus 8-13); Sheratsim (Pereḳ 3 - Paarshah 5) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A nearly complete, non-consecutive parchment. 31 lines per page; Fol. 1 contains from Tsaṿ, early in Parsha 8 הרי זה בלא ירצה - towards the end of Perek 13 (9) הציבור האוכלת; fol. 2 contains Sheratsim, Perek 3 (6) ופסוקת הגרגרת to early in Parsha 5 ופרה ורבה אף אין; Parallel to, in ms. Vatican Ebr. 66 p. 160 l. 19 'p. 164. l. 20 / p. 206 l. 11 'p. 210 l. 6; text is divided into chapters and subdivided into numbered halakhot.</note>
+        <note>Condition: non-consecutive, complete; unevenly cut; losses in edges, stained.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 81</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417783503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Sifra, Tsaṿ (Leviticus 8-13); Sheratsim (Pereḳ 3 - Paarshah 5)</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>28.6 X 22.8 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 31; ruling method: text-block of fol. 2 shaped to accommodate uneven cut of parchment.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>11th century-12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hebrew language, Talmudic</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6900px" url="master/4453_0000.tif" width="10989px"/>
+      <graphic height="119px" url="thumb/4453_0000_thumb.jpg" width="190px"/>
+      <graphic height="1130px" url="web/4453_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6900px" url="master/4453_0001.tif" width="10989px"/>
+      <graphic height="119px" url="thumb/4453_0001_thumb.jpg" width="190px"/>
+      <graphic height="1130px" url="web/4453_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

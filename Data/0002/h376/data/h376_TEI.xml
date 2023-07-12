@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 376: Formulary of bills</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 376: Formulary of bills are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Recto, the 29 lines of writing fill the length of the folio left of the fold; verso, 33 lines of writing fill the right side of the fold, and continue in six and one half vertical lines on the left side; remainder is blank; Sporadic vocalization. Recto: under the heading שכיב מרע, the text of a Bill of Partial Gift in Contemplation of Death. This version is practically identical to the one prescribed by Isaac ben Abba Mari in Sefer ha-ʹiṭur (Warsaw 1801 p. 86d; recorded by A. Gulak, Otsar ha-sheṭarot / Asher Gulak. Jerusalem : Defus ha-po'alim, 1926, p. 115 no. 127). Followed by שטר צוואה, the text of a Bill of Will in Contemplation of Death, also as in 'Itur (ibid. no. 126); Verso: Under the heading שטר מחילה, Bill of release from obligations.</note>
+        <note>Condition: folded vertically into columns; damaged, losses along creases.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 376</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420543503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Formulary of bills</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>21.9 X 15.2 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 2; lines: 29, 6 (recto), 33, 7; ruling method: folded lengthwise and widthwise into four equal quarters.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Oriental semi-square vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1299"/>
+              <p>11th century-13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Forms (Jewish law)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5578px" url="master/4741_0000.tif" width="2035px"/>
+      <graphic height="190px" url="thumb/4741_0000_thumb.jpg" width="69px"/>
+      <graphic height="1800px" url="web/4741_0000_web.jpg" width="656px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5728px" url="master/4741_0001.tif" width="2363px"/>
+      <graphic height="190px" url="thumb/4741_0001_thumb.jpg" width="78px"/>
+      <graphic height="1800px" url="web/4741_0001_web.jpg" width="742px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5418px" url="master/4741_0002.tif" width="2080px"/>
+      <graphic height="190px" url="thumb/4741_0002_thumb.jpg" width="73px"/>
+      <graphic height="1800px" url="web/4741_0002_web.jpg" width="691px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5418px" url="master/4741_0003.tif" width="2080px"/>
+      <graphic height="190px" url="thumb/4741_0003_thumb.jpg" width="73px"/>
+      <graphic height="1800px" url="web/4741_0003_web.jpg" width="691px"/>
+    </surface>
+  </facsimile>
+</TEI>

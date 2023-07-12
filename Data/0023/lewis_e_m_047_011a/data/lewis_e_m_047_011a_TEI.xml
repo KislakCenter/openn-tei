@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis E M 47:11A: Dogale</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>David Kalish</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Dot Porter</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis E M 47:11A: Dogale are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis E M 47:11A: Dogale. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A dogale (pl. dogali) is a document issued by a doge, the title for the highest elected official in several Italian republics. The Doge of Venice was one of the most powerful among them. Dogali were used to transfer power to certain individuals, granting them various rights, responsibilities, and privileges. Although secular documents, the iconography of illuminated dogale was usually religious in nature to suggest the approval of divine authority. In this miniature, an unidentified recipient kneels in prayer before the Virgin and Child standing beneath a medallion with the dove of the Holy Spirit. Behind the recipient is an unidentified Franciscan saint, possibly St. Francis of Assisi.</note>
+        <note>Leaf from a Dogale</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis Collection of European Manuscripts</collection>
+            <idno type="call-number">Lewis E M 47:11A</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="lat" otherLangs="ita">Latin; Italian</textLang>
+            <msItem>
+              <title>Dogale</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>154 x 217 mm </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1540" notAfter="1560"/>
+              <p>1540-1560</p>
+              <origPlace>Venice, Italy</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>16th century</term>
+          <term>Italy</term>
+          <term>Italian</term>
+          <term>Dogale</term>
+          <term>Illustration</term>
+          <term>Fragment</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis E M 47.11A front≥" xml:id="surface-lewis-e-m-47-11a-1">
+      <graphic height="5424px" url="master/8117_0000.tif" width="4670px"/>
+      <graphic height="190px" url="thumb/8117_0000_thumb.jpg" width="164px"/>
+      <graphic height="1800px" url="web/8117_0000_web.jpg" width="1550px"/>
+    </surface>
+    <surface n="Lewis E M 47.11A reverse" xml:id="surface-lewis-e-m-47-11a-2">
+      <graphic height="5424px" url="master/8117_0001.tif" width="4670px"/>
+      <graphic height="190px" url="thumb/8117_0001_thumb.jpg" width="164px"/>
+      <graphic height="1800px" url="web/8117_0001_web.jpg" width="1550px"/>
+    </surface>
+  </facsimile>
+</TEI>

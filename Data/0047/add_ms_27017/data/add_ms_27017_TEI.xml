@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Add MS 27017: Sefer ha-goralot (ספר הגורלות)</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Add MS 27017: Sefer ha-goralot (ספר הגורלות) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Add MS 27017: Sefer ha-goralot (ספר הגורלות). This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Losses at corners and edges infilled.</note>
+        <note>Stained.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Add MS 27017</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27017</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Astrological writings.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>Sefer ha-goralot (ספר הגורלות)</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>18 folios; 18 folios </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1 2; ruled lines: 15 25; written lines: 15 25; Uniform layout. Pen-and-ink representations of Zodiac, folio 2r. Square initial words marking the sections. Catchwords on every verso.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Ashkenazi cursive script of the 16th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Spine: 'Sepher Hag-Goraloth. Hebrew. Brit. Mus. Additional 27,017.'</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1500" notAfter="1599"/>
+              <p>Between 1500 and 1599</p>
+              <origPlace>Unknown</origPlace>
+            </origin>
+            <provenance>Feidl bat Naḥum</provenance>
+            <provenance>Elyaḳim ben Mordekhai Gotschalt</provenance>
+            <provenance>Acquisition: Giuseppe Almanzi(b. 1801, d. 1860), bibliophile; his manuscript no. 8; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum: inscribed, folio [19v] (fse001v).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="5895px" url="master/10232_0000.jpg" width="4750px"/>
+      <graphic height="190px" url="thumb/10232_0000_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/10232_0000_web.jpg" width="1450px"/>
+    </surface>
+    <surface n="front-i">
+      <graphic height="5878px" url="master/10232_0001.jpg" width="4814px"/>
+      <graphic height="190px" url="thumb/10232_0001_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0001_web.jpg" width="1474px"/>
+    </surface>
+    <surface n="i-r">
+      <graphic height="5833px" url="master/10232_0002.jpg" width="4808px"/>
+      <graphic height="190px" url="thumb/10232_0002_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0002_web.jpg" width="1484px"/>
+    </surface>
+    <surface n="i-v">
+      <graphic height="5878px" url="master/10232_0003.jpg" width="4814px"/>
+      <graphic height="190px" url="thumb/10232_0003_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0003_web.jpg" width="1474px"/>
+    </surface>
+    <surface n="ii-r">
+      <graphic height="5833px" url="master/10232_0004.jpg" width="4808px"/>
+      <graphic height="190px" url="thumb/10232_0004_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0004_web.jpg" width="1484px"/>
+    </surface>
+    <surface n="ii-v">
+      <graphic height="5878px" url="master/10232_0005.jpg" width="4814px"/>
+      <graphic height="190px" url="thumb/10232_0005_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0005_web.jpg" width="1474px"/>
+    </surface>
+    <surface n="iii-r">
+      <graphic height="5833px" url="master/10232_0006.jpg" width="4808px"/>
+      <graphic height="190px" url="thumb/10232_0006_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0006_web.jpg" width="1484px"/>
+    </surface>
+    <surface n="iii-v">
+      <graphic height="5878px" url="master/10232_0007.jpg" width="4814px"/>
+      <graphic height="190px" url="thumb/10232_0007_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0007_web.jpg" width="1474px"/>
+    </surface>
+    <surface n="iv-v">
+      <graphic height="5878px" url="master/10232_0008.jpg" width="4814px"/>
+      <graphic height="190px" url="thumb/10232_0008_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0008_web.jpg" width="1474px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5833px" url="master/10232_0009.jpg" width="4808px"/>
+      <graphic height="190px" url="thumb/10232_0009_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0009_web.jpg" width="1484px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5878px" url="master/10232_0010.jpg" width="4814px"/>
+      <graphic height="190px" url="thumb/10232_0010_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0010_web.jpg" width="1474px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5833px" url="master/10232_0011.jpg" width="4808px"/>
+      <graphic height="190px" url="thumb/10232_0011_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0011_web.jpg" width="1484px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5878px" url="master/10232_0012.jpg" width="4814px"/>
+      <graphic height="190px" url="thumb/10232_0012_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0012_web.jpg" width="1474px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5854px" url="master/10232_0013.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0013_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0013_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5878px" url="master/10232_0014.jpg" width="4814px"/>
+      <graphic height="190px" url="thumb/10232_0014_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0014_web.jpg" width="1474px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5854px" url="master/10232_0015.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0015_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0015_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5878px" url="master/10232_0016.jpg" width="4814px"/>
+      <graphic height="190px" url="thumb/10232_0016_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0016_web.jpg" width="1474px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5854px" url="master/10232_0017.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0017_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0017_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5878px" url="master/10232_0018.jpg" width="4814px"/>
+      <graphic height="190px" url="thumb/10232_0018_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0018_web.jpg" width="1474px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5854px" url="master/10232_0019.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0019_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0019_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5878px" url="master/10232_0020.jpg" width="4814px"/>
+      <graphic height="190px" url="thumb/10232_0020_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0020_web.jpg" width="1474px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5854px" url="master/10232_0021.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0021_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0021_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5878px" url="master/10232_0022.jpg" width="4814px"/>
+      <graphic height="190px" url="thumb/10232_0022_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0022_web.jpg" width="1474px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5854px" url="master/10232_0023.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0023_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0023_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5840px" url="master/10232_0024.jpg" width="4846px"/>
+      <graphic height="190px" url="thumb/10232_0024_thumb.jpg" width="158px"/>
+      <graphic height="1800px" url="web/10232_0024_web.jpg" width="1493px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5854px" url="master/10232_0025.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0025_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0025_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5854px" url="master/10232_0026.jpg" width="4784px"/>
+      <graphic height="190px" url="thumb/10232_0026_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/10232_0026_web.jpg" width="1471px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5854px" url="master/10232_0027.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0027_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0027_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5854px" url="master/10232_0028.jpg" width="4784px"/>
+      <graphic height="190px" url="thumb/10232_0028_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/10232_0028_web.jpg" width="1471px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5854px" url="master/10232_0029.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0029_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0029_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5854px" url="master/10232_0030.jpg" width="4784px"/>
+      <graphic height="190px" url="thumb/10232_0030_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/10232_0030_web.jpg" width="1471px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5854px" url="master/10232_0031.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0031_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0031_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5854px" url="master/10232_0032.jpg" width="4784px"/>
+      <graphic height="190px" url="thumb/10232_0032_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/10232_0032_web.jpg" width="1471px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="5854px" url="master/10232_0033.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0033_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0033_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="5837px" url="master/10232_0034.jpg" width="4723px"/>
+      <graphic height="190px" url="thumb/10232_0034_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0034_web.jpg" width="1456px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="5854px" url="master/10232_0035.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0035_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0035_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="5792px" url="master/10232_0036.jpg" width="4723px"/>
+      <graphic height="190px" url="thumb/10232_0036_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0036_web.jpg" width="1468px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="5854px" url="master/10232_0037.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0037_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0037_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="5792px" url="master/10232_0038.jpg" width="4723px"/>
+      <graphic height="190px" url="thumb/10232_0038_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0038_web.jpg" width="1468px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="5854px" url="master/10232_0039.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0039_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0039_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="5792px" url="master/10232_0040.jpg" width="4723px"/>
+      <graphic height="190px" url="thumb/10232_0040_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0040_web.jpg" width="1468px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="5854px" url="master/10232_0041.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0041_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0041_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="5792px" url="master/10232_0042.jpg" width="4723px"/>
+      <graphic height="190px" url="thumb/10232_0042_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0042_web.jpg" width="1468px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="5854px" url="master/10232_0043.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0043_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0043_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="5792px" url="master/10232_0044.jpg" width="4723px"/>
+      <graphic height="190px" url="thumb/10232_0044_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0044_web.jpg" width="1468px"/>
+    </surface>
+    <surface n="iv-r">
+      <graphic height="5854px" url="master/10232_0045.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0045_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0045_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="iv-v">
+      <graphic height="5792px" url="master/10232_0046.jpg" width="4723px"/>
+      <graphic height="190px" url="thumb/10232_0046_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0046_web.jpg" width="1468px"/>
+    </surface>
+    <surface n="v-r">
+      <graphic height="5854px" url="master/10232_0047.jpg" width="4743px"/>
+      <graphic height="190px" url="thumb/10232_0047_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0047_web.jpg" width="1458px"/>
+    </surface>
+    <surface n="v-v">
+      <graphic height="5792px" url="master/10232_0048.jpg" width="4723px"/>
+      <graphic height="190px" url="thumb/10232_0048_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0048_web.jpg" width="1468px"/>
+    </surface>
+    <surface n="vi-r">
+      <graphic height="5833px" url="master/10232_0049.jpg" width="4772px"/>
+      <graphic height="190px" url="thumb/10232_0049_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/10232_0049_web.jpg" width="1472px"/>
+    </surface>
+    <surface n="vi-v">
+      <graphic height="5792px" url="master/10232_0050.jpg" width="4723px"/>
+      <graphic height="190px" url="thumb/10232_0050_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/10232_0050_web.jpg" width="1468px"/>
+    </surface>
+    <surface n="back-i">
+      <graphic height="5853px" url="master/10232_0051.jpg" width="4804px"/>
+      <graphic height="190px" url="thumb/10232_0051_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/10232_0051_web.jpg" width="1477px"/>
+    </surface>
+    <surface n="back">
+      <graphic height="5881px" url="master/10232_0052.jpg" width="4747px"/>
+      <graphic height="190px" url="thumb/10232_0052_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/10232_0052_web.jpg" width="1453px"/>
+    </surface>
+    <surface n="spine">
+      <graphic height="6438px" url="master/10232_0053.jpg" width="721px"/>
+      <graphic height="190px" url="thumb/10232_0053_thumb.jpg" width="21px"/>
+      <graphic height="1800px" url="web/10232_0053_web.jpg" width="201px"/>
+    </surface>
+  </facsimile>
+</TEI>

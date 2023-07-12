@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 49: Judeo-Arabic translation and commentary on Jeremiah 4:20-26; Jeremiah 4:31-5:2</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 49: Judeo-Arabic translation and commentary on Jeremiah 4:20-26; Jeremiah 4:31-5:2 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Hebrew lead phrase is signified by spaces of varying width before and after; left rule is occasionally filled with with a semi-alef; In the style of the Karaites, the author presents a verse of Bible in Arabic (with lead phrase in Hebrew) translates it, and expounds on it at length, mostly philological notes; fol. 1 contains such notes on IV 20-26; Fol. 2 contains notes on IV 31-V 2; text does not match the translation-commentary of the Karaite Yapheth ben Ali, nor that of Judah ibn Bal'am; The format and style are comparable to that of the bifolium in Oxford Bodleian Heb. d. 56 (Cowely 2629, 5) on Jeremiah II-III (in a different hand).</note>
+        <note>Condition: complete.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 49</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417463503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb" otherLangs="heb">Judeo-Arabic; Hebrew</textLang>
+            <msItem>
+              <title>Judeo-Arabic translation and commentary on Jeremiah 4:20-26; Jeremiah 4:31-5:2</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>19.5 X 14 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 19-20.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>11th century-12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Adler.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4500px" url="master/4422_0000.tif" width="6342px"/>
+      <graphic height="134px" url="thumb/4422_0000_thumb.jpg" width="190px"/>
+      <graphic height="1277px" url="web/4422_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4500px" url="master/4422_0001.tif" width="6342px"/>
+      <graphic height="134px" url="thumb/4422_0001_thumb.jpg" width="190px"/>
+      <graphic height="1277px" url="web/4422_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

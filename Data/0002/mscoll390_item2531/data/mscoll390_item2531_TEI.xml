@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2531: Śivatāṇḍava</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2531: Śivatāṇḍava are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from marginal abbreviations; alternate title Śivatāṇḍavastotra supplied by cataloger.</note>
+        <note>Written in 6-9 lines per leaf.</note>
+        <note>4 leaves foliated 1-4, upper left and lower right verso.</note>
+        <note>Mistakes blacked out; some corrections and additions in margins; vertical margins marked with quadruple red line.</note>
+        <note>Dated śaka 174[0] (1818) (f. 4r), written in second scribal hand.</note>
+        <note>Scribe is Sadāśiva Sahasrabudhi, son of Vināyaka (f. 4r).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2531</idno>
+            <altIdentifier type="bibid">
+              <idno>9973916603503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/969356808</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/7391660</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript employed in private or public recitation and prayer dedicated to the praise of the Hindu deity Śiva, especially in his dancing aspect.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Śivatāṇḍava</title>
+              <title type="vernacular">शिवताण्डव</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName type="authority">Sahasrabudhi, Sadāśiva</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (4 leaves) : 11 x 21 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Siva (Hindu deity)</term>
+          <term>Śaivism</term>
+          <term>Hindu hymns, Sanskrit</term>
+          <term>Devotional literature, Sanskrit</term>
+          <term>Dance--Religious aspects--Hinduism</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Hymns (documents)</term>
+          <term>Prayers (documents)</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-2531-1">
+      <graphic height="2688px" url="master/5390_0000.tif" width="5069px"/>
+      <graphic height="100px" url="thumb/5390_0000_thumb.jpg" width="190px"/>
+      <graphic height="954px" url="web/5390_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-2531-2">
+      <graphic height="5132px" url="master/5390_0001.tif" width="5069px"/>
+      <graphic height="190px" url="thumb/5390_0001_thumb.jpg" width="188px"/>
+      <graphic height="1800px" url="web/5390_0001_web.jpg" width="1778px"/>
+    </surface>
+    <surface n="2v-3r" xml:id="surface-ms-coll-390-item-2531-3">
+      <graphic height="5132px" url="master/5390_0002.tif" width="5069px"/>
+      <graphic height="190px" url="thumb/5390_0002_thumb.jpg" width="188px"/>
+      <graphic height="1800px" url="web/5390_0002_web.jpg" width="1778px"/>
+    </surface>
+    <surface n="3v-4r" xml:id="surface-ms-coll-390-item-2531-4">
+      <graphic height="5132px" url="master/5390_0003.tif" width="5069px"/>
+      <graphic height="190px" url="thumb/5390_0003_thumb.jpg" width="188px"/>
+      <graphic height="1800px" url="web/5390_0003_web.jpg" width="1778px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-ms-coll-390-item-2531-5">
+      <graphic height="2688px" url="master/5390_0004.tif" width="5069px"/>
+      <graphic height="100px" url="thumb/5390_0004_thumb.jpg" width="190px"/>
+      <graphic height="954px" url="web/5390_0004_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

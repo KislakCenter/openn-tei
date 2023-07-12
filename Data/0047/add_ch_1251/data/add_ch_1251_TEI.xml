@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Add Ch 1251: Latin deed with Hebrew acknowledgment</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Add Ch 1251: Latin deed with Hebrew acknowledgment are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Add Ch 1251: Latin deed with Hebrew acknowledgment. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Two slashes meant to accommodate the parchment strip of Add MS Ch.1250.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965 and Olszowy-Schlanger, Judith. Hebrew and Hebrew-Latin Documents from Medieval England: a diplomatic and Palaeographical Study. Turnhout: Brill, 2015.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Add Ch 1251</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_Ch_1251</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Latin deed with Hebrew acknowledgment</summary>
+            <textLang mainLang="la" otherLangs="he">Latin; Hebrew</textLang>
+            <msItem>
+              <title>Latin deed with Hebrew acknowledgment</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>1 folio; 1 folio </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; ruled lines: 4 5; written lines: 4 5; A small piece of parchment. The Hebrew text written on the verso of a Latin charter.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Ashkenazi documentary script of the 12th century.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="1182"/>
+              <p>1182</p>
+              <origPlace>Unknown</origPlace>
+            </origin>
+            <provenance>Acquisition: Presented to the British Museum by C.P. Cooper, Esq. in 1835.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4096px" url="master/10192_0000.jpg" width="6668px"/>
+      <graphic height="116px" url="thumb/10192_0000_thumb.jpg" width="190px"/>
+      <graphic height="1105px" url="web/10192_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4096px" url="master/10192_0001.jpg" width="6716px"/>
+      <graphic height="115px" url="thumb/10192_0001_thumb.jpg" width="190px"/>
+      <graphic height="1097px" url="web/10192_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

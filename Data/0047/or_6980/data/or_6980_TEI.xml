@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 6980: The Scroll of Joshua the High Priest.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <date type="create-date" when="2023-01-31">2023-01-31</date>
+        <date type="mod-date" when="2023-01-31">2023-01-31</date>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 6980: The Scroll of Joshua the High Priest. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 6980: The Scroll of Joshua the High Priest.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A little dirt and wear at outer end.</note>
+        <note>Slight ink abrasion.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 6980</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_6980</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The Scroll of Joshua the High Priest.</summary>
+            <textLang mainLang="he">Hebrew</textLang>
+            <msItem>
+              <title>The Scroll of Joshua the High Priest.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="leather">
+                <support>
+                  <p>Leather</p>
+                </support>
+                <extent>3 membranes, 7 columns.; 3 membranes, 7 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 7; ruled lines: 17; written lines: 17; Uniform layout. Ruling by hard point, membrane by membrane. Visible pricking. Graphic filler at the end of a line.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Oriental square script of the 17th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>Tin canister. BM in-house (boxed).</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1600" notAfter="1699"/>
+              <p>Between 1600 and 1699</p>
+              <origPlace>IraqBaghdad</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="3782px" url="master/13392_0000.jpg" width="1304px"/>
+      <graphic height="190px" url="thumb/13392_0000_thumb.jpg" width="65px"/>
+      <graphic height="1800px" url="web/13392_0000_web.jpg" width="620px"/>
+    </surface>
+    <surface n="i-r">
+      <graphic height="2923px" url="master/13392_0001.jpg" width="2945px"/>
+      <graphic height="188px" url="thumb/13392_0001_thumb.jpg" width="190px"/>
+      <graphic height="1786px" url="web/13392_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="ii-r">
+      <graphic height="2911px" url="master/13392_0002.jpg" width="2945px"/>
+      <graphic height="187px" url="thumb/13392_0002_thumb.jpg" width="190px"/>
+      <graphic height="1779px" url="web/13392_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="iii-r">
+      <graphic height="4268px" url="master/13392_0003.jpg" width="5501px"/>
+      <graphic height="147px" url="thumb/13392_0003_thumb.jpg" width="190px"/>
+      <graphic height="1396px" url="web/13392_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="2078px" url="master/13392_0004.jpg" width="16904px"/>
+      <graphic height="23px" url="thumb/13392_0004_thumb.jpg" width="190px"/>
+      <graphic height="221px" url="web/13392_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="spine">
+      <graphic height="5895px" url="master/13392_0005.jpg" width="1918px"/>
+      <graphic height="190px" url="thumb/13392_0005_thumb.jpg" width="61px"/>
+      <graphic height="1800px" url="web/13392_0005_web.jpg" width="585px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Museum of Archaeology and Anthropology, e16527: Unidentified Manuscript</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania Museum of Archaeology and Anthropology</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/2.0/legalcode">Images are  ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution ShareAlike License version 4.0 (CC-BY-2.0 https://creativecommons.org/licenses/by/2.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/2.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Hebrew traces on both sides. Hair side carries 3 faint lines of Hebrew. Flesh side carries 7 lines of artificial forgery writing over start of 2-3 lines of Hebrew (with rulings visible). Museum catalog notes that M. Noel Aime-Giron, French Consul at Port-Said, to whom S.L. Skoss(?) sent a photograph of this document, replied in May 1933; "In my opinion, this is a forgery. I know this handwriting very well, as I have seen it often on similar documents. I believe it comes from a forger who wanted to imitate Greek." Not yet fully catalogued. Metadata based on image and Advanced Papyrological Information System (APIS) data. Title based on Prof. Robert A. Kraft's 1990 survey of University Museum Hebrew Manuscripts. Top, left and right margins intact.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>University of Pennsylvania Museum of Archaeology and Anthropology</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">e16527</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Unidentified Manuscript</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>10.2cm x 6.3 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>1 col.: 3 (recto), 7 lines (verso)</layout>
+              </layoutDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <provenance>University of Pennsylvania Museum, Ellen W. Harrison Collection. Purchased from Prof. Moritz of Cairo through W.M. Muller, 1910.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3520px" url="master/11570_0000.tif" width="5129px"/>
+      <graphic height="130px" url="thumb/11570_0000_thumb.jpg" width="190px"/>
+      <graphic height="1235px" url="web/11570_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3520px" url="master/11570_0001.tif" width="5129px"/>
+      <graphic height="130px" url="thumb/11570_0001_thumb.jpg" width="190px"/>
+      <graphic height="1235px" url="web/11570_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 402: Invenvtory list</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 402: Invenvtory list are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A list of clothes and house wares returned by a divorced woman to her ex-husband Naḥman, after she had initially taken (or pilfered) them to the home of her brother, Yeshua (also referred to here as Abu'l-Faraj). Among the items, a pair of mats (l. 6), a ḥamil, or meal carrier (l. 7), a rug (l. 8), a table (l. 9), a mill (l. 12), water cups, a kneading trough and a boy's muzarra (l. 11-13); Recto, left col. l. 11-12, and verso in Arabic characters.</note>
+        <note>Condition: lower left corner torn; folded lengthwise, columns separated (repaired).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 402</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420813503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="ara">Hebrew; Arabic</textLang>
+            <msItem>
+              <title>Invenvtory list</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>25.7 X 18.6 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 2; lines: 17 (recto, right col.), 12 (recto, left col.).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Arabic Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1299"/>
+              <p>11th century-13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Divorce (Jewish law)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3943px" url="master/4767_0000.tif" width="2400px"/>
+      <graphic height="190px" url="thumb/4767_0000_thumb.jpg" width="115px"/>
+      <graphic height="1800px" url="web/4767_0000_web.jpg" width="1095px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3943px" url="master/4767_0001.tif" width="2400px"/>
+      <graphic height="190px" url="thumb/4767_0001_thumb.jpg" width="115px"/>
+      <graphic height="1800px" url="web/4767_0001_web.jpg" width="1095px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6380px" url="master/4767_0002.tif" width="2624px"/>
+      <graphic height="190px" url="thumb/4767_0002_thumb.jpg" width="78px"/>
+      <graphic height="1800px" url="web/4767_0002_web.jpg" width="740px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6380px" url="master/4767_0003.tif" width="2624px"/>
+      <graphic height="190px" url="thumb/4767_0003_thumb.jpg" width="78px"/>
+      <graphic height="1800px" url="web/4767_0003_web.jpg" width="740px"/>
+    </surface>
+  </facsimile>
+</TEI>

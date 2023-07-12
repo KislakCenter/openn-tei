@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Columbia University. MS Or 152b: Painted manuscript leaves.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Columbia University.</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 152b: Painted manuscript leaves. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 152b: Painted manuscript leaves.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Manuscript leaves.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Decoration : Two simple paintings in opaque watercolor. Each painting is of a person in pink garb on a green, hilly background with blue sky. One person is bald, standing, wearing sandals, a green cloak and a rope belt with two objects hanging from it holding a staff. The other is wearing a brown cloak and shoes and a white turban with a feather in it, holding a finger bowl and is seated next to a flask.</note>
+        <note>Two unrelated manuscripts previously housed with this item have been separately cataloged as MS Or 152a and MS Or 152c.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>New York, NY. 10027</settlement>
+            <institution>Columbia University.</institution>
+            <repository>Rare Book and Manuscript Library</repository>
+            <idno type="call-number">MS Or 152b</idno>
+            <altIdentifier type="bibid">
+              <idno>13622992</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1078438698</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0032/html/ms_or_152b.html</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://clio.columbia.edu/catalog/13622992</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two manuscript leaves which have been pasted onto card and painted on the reverse, likely for sale as miniatures to tourists.</summary>
+            <textLang mainLang="per">Persian</textLang>
+            <msItem>
+              <title>Painted manuscript leaves.</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Smith, David Eugene, 1860-1944</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="10r">
+              <locus>10r</locus>
+              <title>[Painted manuscript leaves].</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper reinforced by card</p>
+                </support>
+                <extent>2 leaves : 218 x 140 (62 x 88) mm</extent>
+                <foliation>Modern foliation added, beginning with 10 (f. 10-11).</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>15 lines in two columns.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in nasta'līq in black ink; pointed.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote n="10r">Painting</decoNote>
+              <decoNote n="11r">Painting</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Items are undated, but likely created in the late 19th or early 20th century.</p>
+              <origDate>between 1850 and 1950?</origDate>
+              <origPlace>Iran?</origPlace>
+            </origin>
+            <provenance>Presumed to be a gift of David Eugene Smith, 1931-1934.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Persian poetry</term>
+          <term>Manuscripts, Persian</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Miniatures (paintings)</term>
+          <term>Poems</term>
+          <term>Detached leaves</term>
+          <term>Manuscripts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="10r">
+      <graphic height="5459px" url="master/6924_0000.tif" width="3622px"/>
+      <graphic height="190px" url="thumb/6924_0000_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/6924_0000_web.jpg" width="1194px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5459px" url="master/6924_0001.tif" width="3622px"/>
+      <graphic height="190px" url="thumb/6924_0001_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/6924_0001_web.jpg" width="1194px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5461px" url="master/6924_0002.tif" width="3612px"/>
+      <graphic height="190px" url="thumb/6924_0002_thumb.jpg" width="125px"/>
+      <graphic height="1800px" url="web/6924_0002_web.jpg" width="1190px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5461px" url="master/6924_0003.tif" width="3612px"/>
+      <graphic height="190px" url="thumb/6924_0003_thumb.jpg" width="125px"/>
+      <graphic height="1800px" url="web/6924_0003_web.jpg" width="1190px"/>
+    </surface>
+  </facsimile>
+</TEI>

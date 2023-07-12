@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Columbia University MS Or 455: Framed lacquer painting.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Columbia University</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 455: Framed lacquer painting. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 455: Framed lacquer painting.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Painting.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Prior cataloging suggested that the poem is from the Rubāʻiyāt of Omar Khayyām, though only one hemistich could be verified as such.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>New York, NY. 10027</settlement>
+            <institution>Columbia University</institution>
+            <repository>Rare Book and Manuscript Library</repository>
+            <idno type="call-number">MS Or 455</idno>
+            <altIdentifier type="bibid">
+              <idno>14345928</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1123205469</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0032/html/ms_or_455.html</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://clio.columbia.edu/catalog/14345928</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Red and orange painting of three figures mounted in a wooden frame painted red with decorated corners and attached to a folding metal stand. The image depicts a man, seated on the right in an enclosed garden setting, gesturing toward a kneeling, beardless youth holding a large basin; behind the youth, a standing woman holds a vine; a rubāʻī is written in the lower section of the painting. On the back, an orange mandorla with two pendants on the vertical axis surrounded by flowers in shades of orange and red.</summary>
+            <textLang mainLang="per">Persian</textLang>
+            <msItem>
+              <title>Framed lacquer painting.</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Smith, David Eugene, 1860-1944</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="Front">
+              <locus>Front</locus>
+              <title>[Framed lacquer painting]</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>Lacquered color painting framed in wood mounted on metal stand</p>
+                </support>
+                <extent>1 painting : 145 x 85 mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Oblong painting followed by two lines in two columns.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in nastaʻlīq in black ink; pointed.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Painting and reverse mostly in shades of orange, red and beige; frame in red with blue corners with pink vine designs; same design along long edge of frame.</decoNote>
+              <decoNote n="Front">Scene with three people</decoNote>
+              <decoNote n="Back">Mandorla with floral surround</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Item is undated, probably produced in the late 19th or 20th century.</p>
+              <origDate>18--?-1950?</origDate>
+              <origPlace>Iran?</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Persian poetry</term>
+          <term>Manuscripts, Persian</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Paintings (visual works)</term>
+          <term>Miniatures (paintings)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front">
+      <graphic height="3409px" url="master/9528_0000.tif" width="2038px"/>
+      <graphic height="190px" url="thumb/9528_0000_thumb.jpg" width="113px"/>
+      <graphic height="1800px" url="web/9528_0000_web.jpg" width="1076px"/>
+    </surface>
+    <surface n="Back">
+      <graphic height="3391px" url="master/9528_0001.tif" width="2017px"/>
+      <graphic height="190px" url="thumb/9528_0001_thumb.jpg" width="113px"/>
+      <graphic height="1800px" url="web/9528_0001_web.jpg" width="1070px"/>
+    </surface>
+  </facsimile>
+</TEI>

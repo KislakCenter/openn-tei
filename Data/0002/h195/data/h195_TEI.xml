@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 195: Prayer book, incipit ; eighteen benedictions for the New Moon</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 195: Prayer book, incipit ; eighteen benedictions for the New Moon are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>The folio includes the end of the text of the special, fourth blessing of the Mussaf 'Amidah for New Moon. The fragment starts at יין כניסוכו. After the end of this, three lines into the verso, the remainder is blank; The text is similar to that found in Sidur Rav Seʹadyah Gaʾon / Israel Davidson [ed.], Jerusalem, 1963, p. 129, and in Siddur of Solomon of Sujulmassa (in the published edition, Sidur Rabenu Shelomoh be-Rabi Natan, zatsal, av bet din min ha-ʻir Sig'ilmasah / Shemuel Yerushalmi [ed.]. Jerusalem, 1995, from ms. Oxford Bodleian 899), pp. 37-38, the phrase here לששון ולשמחה לפרנסה ולכלכה instead of the more common לחיים ולשלום, as in the latter.</note>
+        <note>Condition: some losses.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 195</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418783503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Prayer book, incipit ; eighteen benedictions for the New Moon</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>19.2 X 13.8 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 14 (recto), 3 (verso).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1399"/>
+              <p>12th century-14th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Rosh Hodesh , Liturgy , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4777px" url="master/4565_0000.tif" width="3584px"/>
+      <graphic height="190px" url="thumb/4565_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4565_0000_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4777px" url="master/4565_0001.tif" width="3584px"/>
+      <graphic height="190px" url="thumb/4565_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4565_0001_web.jpg" width="1350px"/>
+    </surface>
+  </facsimile>
+</TEI>

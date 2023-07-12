@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 1204: Bilvopaniṣad</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 1204: Bilvopaniṣad are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from marginal notes (f. 2r).</note>
+        <note>Written in 10-11 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins; vertical margins marked with single black line. Some folios are written upside down.</note>
+        <note>Scribe is Harirāma Kottapalli (f. 2r).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 1204</idno>
+            <altIdentifier type="bibid">
+              <idno>9963624493503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/904282209</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6362449</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is used for contemplation, study, and recitation and is a Hindu philosophical treatise that expounds upon the nature of the Hindu god Śiva, especially through his manifestation as the bilva tree. Work includes many mantras (words of phrases of power) dedicated to Śiva. Though named a upaniṣad it forms part of a group of medieval works and was often embedded into much larger, purāṇic texts. A textual fragment, verses in praise of Śiva, are on the back of the manuscript in a second scribal hand.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Bilvopaniṣad</title>
+              <title type="vernacular">बिल्वोपनिषद्</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName type="authority">Harirāma Kottapalli</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 11 x 24 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Tree worship--India</term>
+          <term>Śaivism</term>
+          <term>Siva (Hindu deity)</term>
+          <term>Hindu mantras</term>
+          <term>Devotional literature, Sanskrit</term>
+          <term>Hindu philosophy</term>
+          <term>Philosophy, Indic</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Prayers</term>
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-1204-1">
+      <graphic height="2956px" url="master/5430_0000.tif" width="5921px"/>
+      <graphic height="94px" url="thumb/5430_0000_thumb.jpg" width="190px"/>
+      <graphic height="898px" url="web/5430_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-1204-2">
+      <graphic height="5552px" url="master/5430_0001.tif" width="5921px"/>
+      <graphic height="178px" url="thumb/5430_0001_thumb.jpg" width="190px"/>
+      <graphic height="1687px" url="web/5430_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-1204-3">
+      <graphic height="2956px" url="master/5430_0002.tif" width="5921px"/>
+      <graphic height="94px" url="thumb/5430_0002_thumb.jpg" width="190px"/>
+      <graphic height="898px" url="web/5430_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

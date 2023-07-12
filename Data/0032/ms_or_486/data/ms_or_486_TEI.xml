@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Columbia University MS Or 486: Leaf from Makhzan al-asrār</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Columbia University</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 486: Leaf from Makhzan al-asrār are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 486: Leaf from Makhzan al-asrār. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Manuscript leaf.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>New York, NY. 10027</settlement>
+            <institution>Columbia University</institution>
+            <repository>Rare Book and Manuscript Library</repository>
+            <idno type="call-number">MS Or 486</idno>
+            <altIdentifier type="bibid">
+              <idno>14634626</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1145027576</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0032/html/ms_or_486.html</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://clio.columbia.edu/catalog/14634626</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>One leaf from Makhzan al-asrār with two headers set in gold.</summary>
+            <textLang mainLang="ara">Persian</textLang>
+            <msItem>
+              <title>Leaf from Makhzan al-asrār</title>
+              <author>
+                <persName type="authority">Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203</persName>
+                <persName type="vernacular">نظامى گنجوى،</persName>
+              </author>
+              <author>
+                <persName type="authority">Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203</persName>
+                <persName type="vernacular">نظامى گنجوى،</persName>
+              </author>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>[Leaf from Makhzan al-asrār]</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 leaf : 246 x 169 (162 x 105) mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>21 lines per page in four columns ; catchwords on verso, lower left.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in nastaʻlīq in black ink with headers in thuluth in gold.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Gold and blue border rules; gold column rules; two headers in gold with stems and polychrome and gold leaves.</decoNote>
+              <decoNote n="1v">Illuminated text dividers</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>The item is undated.</p>
+              <origDate>16--?-18--?</origDate>
+              <origPlace>Iran?</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Persian poetry--747-1500</term>
+          <term>Manuscripts, Persian--New York (State)--New York</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts (documents)</term>
+          <term>Detached leaves</term>
+          <term>Illuminations (painting)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6301px" url="master/9827_0000.tif" width="4442px"/>
+      <graphic height="190px" url="thumb/9827_0000_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/9827_0000_web.jpg" width="1269px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6299px" url="master/9827_0001.tif" width="4441px"/>
+      <graphic height="190px" url="thumb/9827_0001_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/9827_0001_web.jpg" width="1269px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 351: Court document</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 351: Court document are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A legal declaration in Judeo-Arabic. Signed in autograph by the court of Mevasser ha-kohen ben Abraham, Abraham ben Moses, who appears to be the scribe of this document, Abraham ben Nathan ("Av ha-Yeshiva", see the list of judges assembled by S. D. Goitein, A Mediterranean Society vol. II Appendix D, no. 14) whose signature appears on documents dated 1098-1114; A young man, Khatsab ben Abu Natsr, claims goods that he gave as a pledge on a loan from Moses Sharaji, who had died. The tax farmers of the market protested, as Khatsab owed them taxes. In this declaration, Khatsab agrees to pay them 2 dinar in cash and 5 and five sixth dinar in installments; These payment orders were transferred to al-Ḥakīm (אלחכים), the representative of the merchants, who would pay the taxes when he payed the orphans of Moses, enabling the delivery of the goods to Khatsab.</note>
+        <note>Condition: damaged, losses along all edges, folded widthwise into at least five equal parts; verso is blank.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 351</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420293503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb">Judeo-Arabic</textLang>
+            <msItem>
+              <title>Court document</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Avraham ben Mosheh, Melamed.</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>28 X 26 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 16 extant (13 text, 2 signature, 1 postscript[?]) (recto); ruling method: left rule justified by stretching last character.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1098" notAfter="1141"/>
+              <p>1098-1114?</p>
+              <origPlace>Fustat</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Court records</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5161px" url="master/4716_0000.tif" width="4608px"/>
+      <graphic height="190px" url="thumb/4716_0000_thumb.jpg" width="170px"/>
+      <graphic height="1800px" url="web/4716_0000_web.jpg" width="1607px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5161px" url="master/4716_0001.tif" width="4608px"/>
+      <graphic height="190px" url="thumb/4716_0001_thumb.jpg" width="170px"/>
+      <graphic height="1800px" url="web/4716_0001_web.jpg" width="1607px"/>
+    </surface>
+  </facsimile>
+</TEI>

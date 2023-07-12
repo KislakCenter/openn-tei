@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 55: Judeo-Arabic commentary on 1st Samuel, 25:30-27:10; 2nd Samuel 12:14-13:6</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 55: Judeo-Arabic commentary on 1st Samuel, 25:30-27:10; 2nd Samuel 12:14-13:6 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Hebrew lead-phrase is vocalized and in relatively squared characters; the end of an article is signified by a sof pasuḳ and spaces of various width; The author provides Arabic translation of the verses upon which he comments, but, unlike the translation-commentary of Japheth ben 'Ali, this commentary is more cursory, and does not cover the entire text; Fol. 1 contains articles on I Sam. XXV 30,33, 39, 44, XXVI 7,8,10, 14,15,19,20 and XVII 10. Fol. 2 contains articles on II Sam. XII 14, 15, 17, 19, 22, 30, 31, XIII 2,4,6. Much of the notes are philological; It is not likely to be 'Ali ben Israel (ms. Petersburg RNL Evr.- Arab I 3361, missing I Sam. XXIII-XXVIII) whose articles are more intensive. Comparable to the commentary on Samuel found in Oxford Bodleian Heb. e.76 fols. 41/42 (Cowely 2861, 14); In three instances here, the end of a sidra is signified in the margins with a ס, one between I Sam. XXV 30/33, one before XXVII 10 and one before II Sam.XII 14; There is no graphic demarcation in the commentary itself at any of these junctures, which indicates that the ס's are probably from a secondary hand; Beneath the latter two, this hand also records the beginning of verse after the precise sidra break. These match all the sidra breaks signified in the Aleppo Codex; The divine name is presented: יוָי as is common in Karaite works.</note>
+        <note>Condition: complete; some places faded and stained.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 55</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417503503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb" otherLangs="heb">Judeo-Arabic; Hebrew</textLang>
+            <msItem>
+              <title>Judeo-Arabic commentary on 1st Samuel, 25:30-27:10; 2nd Samuel 12:14-13:6</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>15.2 X 17.8 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 21.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive partial vocalization (Tiberian)</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>11th century-12th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Cobern.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Karaitic literature</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4350px" url="master/4428_0000.tif" width="6433px"/>
+      <graphic height="128px" url="thumb/4428_0000_thumb.jpg" width="190px"/>
+      <graphic height="1217px" url="web/4428_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4350px" url="master/4428_0001.tif" width="6433px"/>
+      <graphic height="128px" url="thumb/4428_0001_thumb.jpg" width="190px"/>
+      <graphic height="1217px" url="web/4428_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

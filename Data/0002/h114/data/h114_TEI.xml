@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 114: Early midrash on Genesis 40:18-41:3; 46:28-47:1</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 114: Early midrash on Genesis 40:18-41:3; 46:28-47:1 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Fol. 1 contains Midrash on the end of Ṿa-yeshev to the beginning of Miḳets, Genesis XL 18- XLI 3. Fol. 2 is from Ṿa-yigash ibid. XLVI 28- XLVII 14. Much of the material is unique, but some parallels can be drawn to other midrashic texts, such as Midrash Rabah Bereshit 88 (fol. 2a); The hand may be identical to that of the ancient palimpsest copy of compendium of Midrash Rabbah Genesis, Cambridge T-S 12.208 and 189, whose 8 extant fols. (=2 bifolia) were published by M. Sokoloff in Ḳiṭʻe Bereshit rabah min ha-Genizah [Genizah Fragments of Bereshit Rabba], Jerusalem 1982, description and bibliographic details in p. 22 (manuscript 10), a facsimile on pl. 10, the list of remnants on p. 209 (the Halper fragment is not listed; see also M. Sokoloff and Y. Yahalom, Revue d'Histoire des Textes VIII (1978), pp. 109-132); the Cambridge fragments contain 28-29 lines per side [if from same codex, fol. 2 likely precedes Cambridge T-S 12.189, fol. 2]; See: Hebrew-Greek Cairo Genizah palimpsests from the Taylor-Schechter collection : including a fragment of the twenty-second Psalm according to Origen's Hexapla, ed. Charles Taylor, Cambridge [Eng.] : University Press, 1900. Appendix II n. 2 : The Acts (p. 93-95 , pl. XI).</note>
+        <note>Condition: non-consecutive; losses from upper exterior, along center crease, holes (rodent damage?); faded, especially flesh side; staining from inactive mold; moisture damage along lower corner of fol. 2.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 114</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9934790473503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="grc">Hebrew; Greek, Ancient (to 1453)</textLang>
+            <msItem>
+              <title>Early midrash on Genesis 40:18-41:3; 46:28-47:1</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>16.1  X 12 cm (bifolium 24.4 X 19.5 cm). </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 31 (1r), 30 (1v), 31 (2r), 32 (2v).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-square Greek Biblical majuscule</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="0900" notAfter="0999"/>
+              <p>10th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Aggada</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4662px" url="master/4486_0000.tif" width="5700px"/>
+      <graphic height="155px" url="thumb/4486_0000_thumb.jpg" width="190px"/>
+      <graphic height="1472px" url="web/4486_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4662px" url="master/4486_0001.tif" width="5700px"/>
+      <graphic height="155px" url="thumb/4486_0001_thumb.jpg" width="190px"/>
+      <graphic height="1472px" url="web/4486_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 1984: Pārthivapūjāvidhi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 1984: Pārthivapūjāvidhi are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title supplied by cataloger; alternate title Pārthivaliṅgapūjā from text (f. 1r, line 12).</note>
+        <note>Written in 21-23 lines per leaf.</note>
+        <note>2 leaves.</note>
+        <note>Dated after 1876 based on watermark.</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins.</note>
+        <note>Manuscript and text are oriented in a portrait rather than landscape format, with text parallel to the narrow edge of the leaf.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 1984</idno>
+            <altIdentifier type="bibid">
+              <idno>9970169103503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/952122749</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/7016910</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manual and collection of mantras to be used during the worship (pūjā) of an earthen (pārthiva) liṅga, a special emblem of the Hindu deity Śiva. Manuscript is incomplete.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Pārthivapūjāvidhi</title>
+              <title type="vernacular">पार्थिवपूजाविधि</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 21 x 11 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Siva (Hindu deity)</term>
+          <term>Lingas (Śaivism)</term>
+          <term>Puja (Hinduism)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Prayers</term>
+          <term>Manuals (instructional materials)</term>
+          <term>Watermarks</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-1984-1">
+      <graphic height="5060px" url="master/3213_0000.tif" width="2925px"/>
+      <graphic height="190px" url="thumb/3213_0000_thumb.jpg" width="110px"/>
+      <graphic height="1800px" url="web/3213_0000_web.jpg" width="1040px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-1984-2">
+      <graphic height="5060px" url="master/3213_0001.tif" width="2925px"/>
+      <graphic height="190px" url="thumb/3213_0001_thumb.jpg" width="110px"/>
+      <graphic height="1800px" url="web/3213_0001_web.jpg" width="1040px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-1984-3">
+      <graphic height="5060px" url="master/3213_0002.tif" width="2925px"/>
+      <graphic height="190px" url="thumb/3213_0002_thumb.jpg" width="110px"/>
+      <graphic height="1800px" url="web/3213_0002_web.jpg" width="1040px"/>
+    </surface>
+    <surface n="Unlabeled" xml:id="surface-ms-coll-390-item-1984-4">
+      <graphic height="5060px" url="master/3213_0003.tif" width="2925px"/>
+      <graphic height="190px" url="thumb/3213_0003_thumb.jpg" width="110px"/>
+      <graphic height="1800px" url="web/3213_0003_web.jpg" width="1040px"/>
+    </surface>
+  </facsimile>
+</TEI>

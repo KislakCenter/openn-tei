@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 355: Court memo</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 355: Court memo are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>The cut of memo, informal cursive hand, and lack of mail folds, indicate that this is either a draft copy, or an internal memo; The writer addresses an honorable, probably a judge, agreeing to his decision to proceed discreetly, without the presence of witnesses; The hand is recognized as that of the court scribe Ḥalfon ha-Leṿi ben Menasheh. Over 250 such documents have been collected by Gershon Weiss: Legal documents written by the court clerk Halfon ben Menasse, dated 1100-1138, a study in the diplomatics of the Cairo Geniza (Thesis (Ph.D.) in Oriental Studies--Graduate School of Arts and Sciences, University of Pennsylvania, 1970; Assuming Ḥalfon is the author of this memo, it is likely that it is written to Matsliaḥ ha-kohen Gaon, his mentor for whom Ḥalfon served under for most of his career.</note>
+        <note>Condition: parchment unevenly cut, torn; verso is blank, save few scribbled words.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 355</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420333503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb">Judeo-Arabic</textLang>
+            <msItem>
+              <title>Court memo</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Halfon ben Manasse, active 1100-1138</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>14.3 X 8.2 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 13 (recto); ruling method: narrow lines fitting unevenly cut parchment.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1138"/>
+              <p>1100-1138?</p>
+              <origPlace>Fustat</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Court records</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4712px" url="master/4720_0000.tif" width="2432px"/>
+      <graphic height="190px" url="thumb/4720_0000_thumb.jpg" width="98px"/>
+      <graphic height="1800px" url="web/4720_0000_web.jpg" width="929px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4712px" url="master/4720_0001.tif" width="2432px"/>
+      <graphic height="190px" url="thumb/4720_0001_thumb.jpg" width="98px"/>
+      <graphic height="1800px" url="web/4720_0001_web.jpg" width="929px"/>
+    </surface>
+  </facsimile>
+</TEI>

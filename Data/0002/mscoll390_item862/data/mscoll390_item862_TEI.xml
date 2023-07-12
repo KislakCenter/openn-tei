@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 862: Nādabindūpaniṣad</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 862: Nādabindūpaniṣad are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2v).</note>
+        <note>Written in 11 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins; verse dividers in red throughout; vertical margins marked with double red line.</note>
+        <note>Sanskrit verses written on particle board supporting manuscript from around the time of purchase.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 862</idno>
+            <altIdentifier type="bibid">
+              <idno>9962429573503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/884916959</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6242957</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is used for contemplation, study, and recitation and is likely part of a group of five upaniṣads known as the Bindu upaniṣads, which form part of a medieval set of 108 Yoga upaniṣads, in as much as both are influenced by Saṃkhya-yoga philosophy. Manuscript contains mantras (words or phrases of power) intended to convey knowledge of the Vedas through recitation and sound (nāda).</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Nādabindūpaniṣad</title>
+              <title type="vernacular">नादबिन्दूपनिषद्</title>
+              <colophon>Colophon: iti nādabiṃdūpaniṣatsamāptaṃ // (f. 2v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 12 x 24 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Yoga</term>
+          <term>Hindu mantras</term>
+          <term>Sound--Religious aspects--Hinduism</term>
+          <term>Self (Philosophy)</term>
+          <term>Ātman</term>
+          <term>Hindu philosophy</term>
+          <term>Philosophy, Indic</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-862-1">
+      <graphic height="3002px" url="master/3442_0000.tif" width="5616px"/>
+      <graphic height="101px" url="thumb/3442_0000_thumb.jpg" width="190px"/>
+      <graphic height="962px" url="web/3442_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-862-2">
+      <graphic height="5424px" url="master/3442_0001.tif" width="5616px"/>
+      <graphic height="183px" url="thumb/3442_0001_thumb.jpg" width="190px"/>
+      <graphic height="1738px" url="web/3442_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-862-3">
+      <graphic height="3002px" url="master/3442_0002.tif" width="5616px"/>
+      <graphic height="101px" url="thumb/3442_0002_thumb.jpg" width="190px"/>
+      <graphic height="962px" url="web/3442_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

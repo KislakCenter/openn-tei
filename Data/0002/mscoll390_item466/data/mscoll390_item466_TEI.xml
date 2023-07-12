@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 466: Mahāgaṇapataye namaḥ</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 466: Mahāgaṇapataye namaḥ are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from incipit (f. 1r); alternate title Gaṇapatistotra supplied by cataloger.</note>
+        <note>Written in 10 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins; significant syllables, words, or phrases highlighted in red throughout; vertical margins marked with double red line.</note>
+        <note>Formerly housed with Item 465, Item 467, Item 468, Item 469, and Item 470. These items likely shared a former owner.</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 466</idno>
+            <altIdentifier type="bibid">
+              <idno>9954526553503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/781297063</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5452655</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Proclaims the benefits of reciting this stotra dedicated to the elephant-headed, Hindu deity Gaṇeśa; gives this god agency for the defeat of a number of well known demons such as Hiraṇyakaśipu, Tāra, and Mahiṣa, typically related to the mythology of other deities. Merits of worship (pūjā) of Gaṇeśa also discussed.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Mahāgaṇapataye namaḥ</title>
+              <title type="vernacular">महागणपतये नमः</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 9 x 16 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Gaṇeśa (Hindu deity)</term>
+          <term>Hindu mythology</term>
+          <term>Puja (Hinduism)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Prayers</term>
+          <term>Hymns</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-466-1">
+      <graphic height="2652px" url="master/3539_0000.tif" width="4067px"/>
+      <graphic height="123px" url="thumb/3539_0000_thumb.jpg" width="190px"/>
+      <graphic height="1173px" url="web/3539_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-466-2">
+      <graphic height="4655px" url="master/3539_0001.tif" width="4067px"/>
+      <graphic height="190px" url="thumb/3539_0001_thumb.jpg" width="166px"/>
+      <graphic height="1800px" url="web/3539_0001_web.jpg" width="1572px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-466-3">
+      <graphic height="2652px" url="master/3539_0002.tif" width="4067px"/>
+      <graphic height="123px" url="thumb/3539_0002_thumb.jpg" width="190px"/>
+      <graphic height="1173px" url="web/3539_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

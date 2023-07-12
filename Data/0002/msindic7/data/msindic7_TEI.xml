@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Indic 7: Pratiṣṭhādevatāvisarjanamantra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (1r).</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins; significant syllables, words, or phrases highlighted in red throughout; borders drawn in heavy red line.</note>
+        <note>Cloth scroll.</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Indic 7</idno>
+            <altIdentifier type="bibid">
+              <idno>5866136</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5866136</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is a series of various instructional texts to be consulted by a Jain monk or other figure installing images for use in Jaina rites of image worship (pūjā). Has an image towards the end of the roll depicting a multi-leveled maṇḍala (circle) with numerous mantras dedicated to Jaina deities.</summary>
+            <textLang>In Sanskrit</textLang>
+            <msItem>
+              <title>Pratiṣṭhādevatāvisarjanamantra</title>
+              <colophon>Colophon: iti pratiṣṭhādevatāvisarjanamantraḥ // ba // śrī // (1r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>cloth</p>
+                </support>
+                <extent>1 21 x 350 cm</extent>
+              </supportDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote n="6">Large mandala diagram, f. [6]</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Gift of Brian Zahn.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Idols and images--India</term>
+          <term>Jainism</term>
+          <term>Worship (Jainism)</term>
+          <term>Jaina mantras</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuals (instructional materials)</term>
+          <term>Treatises</term>
+          <term>Prayers</term>
+          <term>Diagrams</term>
+          <term>Scrolls (information artifacts)</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1">
+      <graphic height="8511px" url="master/2851_0000.tif" width="4986px"/>
+      <graphic height="190px" url="thumb/2851_0000_thumb.jpg" width="111px"/>
+      <graphic height="1800px" url="web/2851_0000_web.jpg" width="1054px"/>
+    </surface>
+    <surface n="2">
+      <graphic height="7612px" url="master/2851_0001.tif" width="4986px"/>
+      <graphic height="190px" url="thumb/2851_0001_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/2851_0001_web.jpg" width="1179px"/>
+    </surface>
+    <surface n="3">
+      <graphic height="8199px" url="master/2851_0002.tif" width="4986px"/>
+      <graphic height="190px" url="thumb/2851_0002_thumb.jpg" width="115px"/>
+      <graphic height="1800px" url="web/2851_0002_web.jpg" width="1094px"/>
+    </surface>
+    <surface n="4">
+      <graphic height="14763px" url="master/2851_0003.tif" width="4985px"/>
+      <graphic height="190px" url="thumb/2851_0003_thumb.jpg" width="64px"/>
+      <graphic height="1800px" url="web/2851_0003_web.jpg" width="607px"/>
+    </surface>
+    <surface n="5">
+      <graphic height="14217px" url="master/2851_0004.tif" width="4985px"/>
+      <graphic height="190px" url="thumb/2851_0004_thumb.jpg" width="66px"/>
+      <graphic height="1800px" url="web/2851_0004_web.jpg" width="631px"/>
+    </surface>
+    <surface n="6">
+      <graphic height="19891px" url="master/2851_0005.tif" width="4985px"/>
+      <graphic height="190px" url="thumb/2851_0005_thumb.jpg" width="47px"/>
+      <graphic height="1800px" url="web/2851_0005_web.jpg" width="451px"/>
+    </surface>
+  </facsimile>
+</TEI>

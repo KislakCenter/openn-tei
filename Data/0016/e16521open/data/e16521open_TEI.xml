@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Museum of Archaeology and Anthropology, e16521open: Hebrew with Arabic colophon</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania Museum of Archaeology and Anthropology</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/2.0/legalcode">Images are  ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution ShareAlike License version 4.0 (CC-BY-2.0 https://creativecommons.org/licenses/by/2.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/2.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2022 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A collection of prayers for the 9th day of Ab. Not yet fully catalogued. Metadata based on image and Advanced Papyrological Information System (APIS) data. Title based on Prof. Robert A. Kraft's 1990 survey of University Museum Hebrew Manuscripts. Pages largely intact: some frayed edges.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>University of Pennsylvania Museum of Archaeology and Anthropology</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">e16521open</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="ara">Hebrew; Arabic</textLang>
+            <msItem>
+              <title>Hebrew with Arabic colophon</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>7.0 cm. x 8.8 cm. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>1 col.: 9-12 lines</layout>
+              </layoutDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <provenance>University of Pennsylvania Museum, Ellen W. Harrison Collection. Purchased from Prof. Moritz of Cairo through W.M. Muller, 1910.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4328px" url="master/11564_0000.tif" width="4992px"/>
+      <graphic height="164px" url="thumb/11564_0000_thumb.jpg" width="190px"/>
+      <graphic height="1560px" url="web/11564_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4328px" url="master/11564_0001.tif" width="4992px"/>
+      <graphic height="164px" url="thumb/11564_0001_thumb.jpg" width="190px"/>
+      <graphic height="1560px" url="web/11564_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4328px" url="master/11564_0002.tif" width="4992px"/>
+      <graphic height="164px" url="thumb/11564_0002_thumb.jpg" width="190px"/>
+      <graphic height="1560px" url="web/11564_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4328px" url="master/11564_0003.tif" width="4992px"/>
+      <graphic height="164px" url="thumb/11564_0003_thumb.jpg" width="190px"/>
+      <graphic height="1560px" url="web/11564_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="4328px" url="master/11564_0004.tif" width="4992px"/>
+      <graphic height="164px" url="thumb/11564_0004_thumb.jpg" width="190px"/>
+      <graphic height="1560px" url="web/11564_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="4328px" url="master/11564_0005.tif" width="4992px"/>
+      <graphic height="164px" url="thumb/11564_0005_thumb.jpg" width="190px"/>
+      <graphic height="1560px" url="web/11564_0005_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

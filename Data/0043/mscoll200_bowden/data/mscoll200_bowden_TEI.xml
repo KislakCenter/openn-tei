@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of American Philosophical Society, Misc. Ms. Collection Temple Bowdon: Short account about the status of Dhimmīs</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Kelly Tuttle</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>American Philosophical Society</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of American Philosophical Society Misc. Ms. Collection Temple Bowdon: Short account about the status of Dhimmīs are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, American Philosophical Society has waived all copyright and related or neighboring rights to this metadata about American Philosophical Society Misc. Ms. Collection Temple Bowdon: Short account about the status of Dhimmīs. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>American Philosophical Society</repository>
+            <idno type="call-number">Misc. Ms. Collection Temple Bowdon</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Copy of a portion of what purports to be al-ʿUhdah al-ʿUmarīyah, attributed to ʿUmar ibn al-Khaṭṭab, about the status of non-Muslims (dhimmīs) in Jerusalem.</summary>
+            <textLang mainLang="ara">Arabic</textLang>
+            <msItem>
+              <title>Short account about the status of Dhimmīs</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Temple Bowdon</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="Recto">
+              <locus target="#surface-misc-ms-collection-temple-bowdon-1">Recto</locus>
+              <title>[Short account about the status of Dhimmīs]</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>1; 425 x 279 mm </extent>
+                <foliation>Unfoliated</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 17 long lines</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in naskh in black ink; pointed.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="1822"/>
+              <p>Item is undated and place of copy is unknown; a note on the back says "given me at Paris 1822 by Sir Sidney Smith". Probably produced in the later 18th or early 19th century; probably produced in the later 18th or early 19th century</p>
+              <origPlace>Acquired in Paris</origPlace>
+            </origin>
+            <provenance>"Given me at Paris 1822 by Sir Sidney Smith" (verso)</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>Legal</term>
+          <term>Islamic</term>
+          <term>Arabic</term>
+        </keywords>
+        <keywords n="subjects">
+          <term target="http://id.loc.gov/authorities/subjects/sh85037446">Dhimmis (Islamic law)</term>
+          <term target="http://viaf.org/viaf/27868234">ʻUmar ibn al-Khaṭṭāb, Caliph, -644, attributed name</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term target="http://id.loc.gov/authorities/subjects/sh85080687">Manuscripts, Arabic</term>
+          <term>Manuscripts, 18th century</term>
+          <term>Manuscripts, 19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Recto" xml:id="surface-misc-ms-collection-temple-bowdon-1">
+      <graphic height="14816px" url="master/9673_0000.tif" width="10165px"/>
+      <graphic height="190px" url="thumb/9673_0000_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/9673_0000_web.jpg" width="1235px"/>
+    </surface>
+  </facsimile>
+</TEI>

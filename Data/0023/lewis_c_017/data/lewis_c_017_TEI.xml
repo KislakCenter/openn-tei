@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis C 17: Leaf from the Qasidat al-Burda</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis C 17: Leaf from the Qasidat al-Burda are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis C 17: Leaf from the Qasidat al-Burda. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis collection of Oriental Manuscripts</collection>
+            <idno type="call-number">Lewis C 17</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="ara">Arabic</textLang>
+            <msItem>
+              <title>Leaf from the Qasidat al-Burda</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="https://viaf.org/viaf/63874811">Lewis, John Frederick, 1860-1932</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>14 x 23 cm </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis C 17 front">
+      <graphic height="6543px" url="master/10951_0000.tif" width="4802px"/>
+      <graphic height="190px" url="thumb/10951_0000_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/10951_0000_web.jpg" width="1321px"/>
+    </surface>
+    <surface n="Lewis C 17 reverse">
+      <graphic height="6543px" url="master/10951_0001.tif" width="4802px"/>
+      <graphic height="190px" url="thumb/10951_0001_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/10951_0001_web.jpg" width="1321px"/>
+    </surface>
+  </facsimile>
+</TEI>

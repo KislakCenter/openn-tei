@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 378: Letter to Ephraim he-Ḥaver ben Shemarya</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 378: Letter to Ephraim he-Ḥaver ben Shemarya are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>In mail format; recto has 42 lines of text, plus one of signature, almost filling the page; Verso contains the names of the addressee and sender, in two columns of two lines. In the poetic segment (ll. 2-11), verse endings denoted by a punctus; The author, whose name indicates that he originated in Constantinople, was a captive, redeemed by the Fustat Jewish Community. He has taken a loan from the non-Jews. He now asks for the aid of the head of the Community, in the wake of an unspecified tragedy; His Hebrew is florid, his script is that of an expert. The letter opens with a panegyric poem of six strophes. Regards are sent to Ephraim's scribe Yephet (b. David);Ephraim ben Shemaryah served as the head of the Erets Israeli community of Fustat, (in whose synagogue the Genizah was housed) in documents between 1020-1047 (see E. Bareqet, Shafrir Mitsraim, 1995, pp. 100-121, = Fustat on the Nile, Leiden, 1999, pp. 129-160). He earned the title "he-Ḥaver", as in this letter, in 1025 (Bareqet, ibid. p. 104, idem. 135).</note>
+        <note>Condition: complete; faded, erasures.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 378</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420563503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Letter to Ephraim he-Ḥaver ben Shemarya</title>
+              <author>Eliyah ben Shelomoh, 11th cent.</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>24.8 X 17.8 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1 (recto), 2 (verso); lines: 42 (recto), 2 (verso).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Byzantine square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1025" notAfter="1047"/>
+              <p>ca. 1025-1047?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Laudatory poetry, Hebrew</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6380px" url="master/4743_0000.tif" width="4512px"/>
+      <graphic height="190px" url="thumb/4743_0000_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/4743_0000_web.jpg" width="1273px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6380px" url="master/4743_0001.tif" width="4512px"/>
+      <graphic height="190px" url="thumb/4743_0001_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/4743_0001_web.jpg" width="1273px"/>
+    </surface>
+  </facsimile>
+</TEI>

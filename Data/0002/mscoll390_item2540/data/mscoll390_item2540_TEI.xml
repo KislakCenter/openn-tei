@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2540: Lakṣmyāṣṭakastotra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2540: Lakṣmyāṣṭakastotra are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2r).</note>
+        <note>Written in 7 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Mistakes blacked out; some corrections and additions in margins; significant syllables, words, or phrases highlighted in red throughout.</note>
+        <note>Watermark with the date 1880 and word fragments SUPER and ING.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2540</idno>
+            <altIdentifier type="bibid">
+              <idno>9973909103503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/968936432</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/7390910</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Small manuscript for private or public use, recitation, and prayer in honor of the Hindu goddess Lakṣmī. Text employed to ask forgiveness for sins among other requests.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Lakṣmyāṣṭakastotra</title>
+              <title type="vernacular">लक्ष्म्याष्टकस्तोत्र</title>
+              <colophon>Colophon: iti śrīparamahaiṃsaparīvrājīkācāryalakṣmī aṣṭakastotraṃ saṃpurṇa // śrīsadāsivārpaṇam astu // (f. 2r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 10 x 17 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Lakshmi (Hindu deity)</term>
+          <term>Hindu goddesses</term>
+          <term>Hindu hymns, Sanskrit</term>
+          <term>Devotional literature, Sanskrit</term>
+          <term>Forgiveness of sin--Hinduism</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Hymns (documents)</term>
+          <term>Prayers (documents)</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-2540-1">
+      <graphic height="2680px" url="master/5121_0000.tif" width="4083px"/>
+      <graphic height="124px" url="thumb/5121_0000_thumb.jpg" width="190px"/>
+      <graphic height="1181px" url="web/5121_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-2540-2">
+      <graphic height="5101px" url="master/5121_0001.tif" width="4083px"/>
+      <graphic height="190px" url="thumb/5121_0001_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/5121_0001_web.jpg" width="1441px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ms-coll-390-item-2540-3">
+      <graphic height="2680px" url="master/5121_0002.tif" width="4083px"/>
+      <graphic height="124px" url="thumb/5121_0002_thumb.jpg" width="190px"/>
+      <graphic height="1181px" url="web/5121_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

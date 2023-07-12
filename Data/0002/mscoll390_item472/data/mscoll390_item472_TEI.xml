@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 472: Ekākṣaramahāgaṇapatimantravidhi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 472: Ekākṣaramahāgaṇapatimantravidhi are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2r).</note>
+        <note>Written 11-12 lines per leaf.</note>
+        <note>Diagram on f. 2v: oval formed by double lines with "Devadatta" written repeatedly in center, and the akṣara "va" written around the perimeter.</note>
+        <note>Good condition. Left and right margins formed by double red lines. Mistakes crossed through or blotched out with black. Marginal corrections.</note>
+        <note>Incipit: śrīgaṇeśāya namaḥ om̐ asya śrīgaṇapati ekākṣaramahāmaṁtravidhiḥ // (f. 1r).</note>
+        <note>Colophon (f. 2r): iti ekākṣarama[hā]gaṇapatimaṁtravidhiḥ // samāptaḥ // (f. 2r).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 472</idno>
+            <altIdentifier type="bibid">
+              <idno>9934320043503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/413614206</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/3432004</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Text of praise and recitation dedicated to the elephant headed Hindu deity Gaṇeśa to be used in private or public meditation and prayer (pūjā). Includes reference to hand gestures (mudrās) such as the śuṇdamudrā and the liṅganiryāṇamurdā and prescribes various formulas (mantras) to be recited by the devotee in honor of various deities, primarily Gaṇeśa, but also Hanumān the monkey god.</summary>
+            <textLang mainLang="san">In Sanskrit (Devanāgarī)</textLang>
+            <msItem>
+              <title>Ekākṣaramahāgaṇapatimantravidhi</title>
+              <title type="vernacular">एकाक्षरमहागणपतिमन्त्रविधि</title>
+              <colophon>Colophon (f. 2r): iti ekākṣarama[hā]gaṇapatimaṁtravidhiḥ // samāptaḥ // (f. 2r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 10 x 17 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Tantrism</term>
+          <term>Gaṇeśa (Hindu deity)</term>
+          <term>Hanumān (Hindu deity)</term>
+          <term>Hindu mantras</term>
+          <term>Puja (Hinduism)</term>
+          <term>Rites and ceremonies--India</term>
+          <term>Gesture--India</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Prayers</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2078px" url="master/6386_0000.tif" width="3262px"/>
+      <graphic height="121px" url="thumb/6386_0000_thumb.jpg" width="190px"/>
+      <graphic height="1146px" url="web/6386_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="3684px" url="master/6386_0001.tif" width="3260px"/>
+      <graphic height="190px" url="thumb/6386_0001_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/6386_0001_web.jpg" width="1592px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="2078px" url="master/6386_0002.tif" width="3262px"/>
+      <graphic height="121px" url="thumb/6386_0002_thumb.jpg" width="190px"/>
+      <graphic height="1146px" url="web/6386_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

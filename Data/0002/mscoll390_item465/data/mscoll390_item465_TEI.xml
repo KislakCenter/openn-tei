@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 465: Lakṣmīstotra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 465: Lakṣmīstotra are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 4v).</note>
+        <note>Written in 7 lines per leaf.</note>
+        <note>4 leaves foliated 1-4, upper left and lower right verso.</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins.</note>
+        <note>Formerly housed with item 466, item 467, item 468, item 469, and item 470. These items likely shared a former owner.</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 465</idno>
+            <altIdentifier type="bibid">
+              <idno>9954526453503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/781297404</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5452645</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Praise of the Hindu goddess Lakṣmī as taught by the legendary Hindu sage Agastya who is named in the text as the author. References the category of śakti or feminine energy.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Lakṣmīstotra</title>
+              <title type="vernacular">लक्ष्मीस्तोत्र</title>
+              <colophon>Colophon: iti śrīkā [-] agastyapro[ktaṃ] lakṃīstotraṃ saṃpūrṇa // (f. 4v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (4 leaves) : 10 x 16 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Lakshmi (Hindu deity)</term>
+          <term>Shaktism</term>
+          <term>Worship (Hinduism)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Prayers</term>
+          <term>Hymns</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-465-1">
+      <graphic height="3122px" url="master/3538_0000.tif" width="4314px"/>
+      <graphic height="137px" url="thumb/3538_0000_thumb.jpg" width="190px"/>
+      <graphic height="1302px" url="web/3538_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r" xml:id="surface-ms-coll-390-item-465-2">
+      <graphic height="5419px" url="master/3538_0001.tif" width="4314px"/>
+      <graphic height="190px" url="thumb/3538_0001_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/3538_0001_web.jpg" width="1432px"/>
+    </surface>
+    <surface n="2v-3r" xml:id="surface-ms-coll-390-item-465-3">
+      <graphic height="5419px" url="master/3538_0002.tif" width="4314px"/>
+      <graphic height="190px" url="thumb/3538_0002_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/3538_0002_web.jpg" width="1432px"/>
+    </surface>
+    <surface n="3v-4r" xml:id="surface-ms-coll-390-item-465-4">
+      <graphic height="5419px" url="master/3538_0003.tif" width="4314px"/>
+      <graphic height="190px" url="thumb/3538_0003_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/3538_0003_web.jpg" width="1432px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-ms-coll-390-item-465-5">
+      <graphic height="3122px" url="master/3538_0004.tif" width="4314px"/>
+      <graphic height="137px" url="thumb/3538_0004_thumb.jpg" width="190px"/>
+      <graphic height="1302px" url="web/3538_0004_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

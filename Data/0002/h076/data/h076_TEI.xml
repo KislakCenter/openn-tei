@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 76: Mishnah, Nedarim 9:10-Nazir 3:2</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 76: Mishnah, Nedarim 9:10-Nazir 3:2 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Recto includes Nedarim XI, starting with Mishnah 10 "נערה שלא בגרה" to the end of tractate; the beginning of Nazir, under the heading "[..] פירקא קדמאה". Ends at the end of Nazir I 7; Verso missing the beginning of Nazir II 1, starts "בית שמ]י אומרים]" to ibid. III 2 "[הראשונים יו[ם"; A complete fol. from this codex measures 28.8 X 22.5 cm; Divided into numbered text units ('Halakhot'); lists the sum of Halakhot at the end of the chapters, and the sum of chapters at the end of the tractate; The variant readings from this fragment where incorporated in the critical edition of Nazir (Israel Hershler, ed.): Yerushalyaim : Mekhon ha-Talmud ha-Yiśreeli ha-shalem, 1985 (description on p. 42.); Remnants of at least 33 folios from this codex have been gleaned from the Genizah, almost all are from Seder Nashim and Seder Taharot; The most complete listing of the fragments of this codex was assembled by Israel Yeivin: Masoret ha-lashon ha-ʻIvrit ha-mishtaḳefet ba-niḳud ha-Bavli / Israel Yeivin. Yerushalayim : ha-Aḳademyah la-lashon ha-ʻIvrit, 1985, p. 194; Descriptions and portions of the text have been published. C.B Freidman, Zur Geshichte der alsten Mischna-Uberlieferung, JJLG XVIII, 1927, pp. 265-288; P. Kahle-J. Weinberg, Hebrew Union College Annual, v. 10 (1935), pp. 185-222, and Hebrew Union College Annual, v. 12-13 (1937-1938), p. 275-325.</note>
+        <note>Condition: damaged; loss of one line at top; loss of third to half of interior edge; blurred.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 76</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417733503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Mishnah, Nedarim 9:10-Nazir 3:2</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>26.6 X 14.6 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 28 (partially extant).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="0800" notAfter="0899"/>
+              <p>9th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hebrew language, Talmudic , Particles</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6260px" url="master/4448_0000.tif" width="3515px"/>
+      <graphic height="190px" url="thumb/4448_0000_thumb.jpg" width="106px"/>
+      <graphic height="1800px" url="web/4448_0000_web.jpg" width="1010px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6260px" url="master/4448_0001.tif" width="3515px"/>
+      <graphic height="190px" url="thumb/4448_0001_thumb.jpg" width="106px"/>
+      <graphic height="1800px" url="web/4448_0001_web.jpg" width="1010px"/>
+    </surface>
+  </facsimile>
+</TEI>

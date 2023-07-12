@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 277: Collected liturgical poems for mourners</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 277: Collected liturgical poems for mourners are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Verse endings denoted by a punctus, strophe endings by a semi-alef; Three poems of the Tsiduḳ ha-din type, sporadically vocalized, probably all are by Joseph ben Abitur; A. (fol. 1) 22 strophes (ז-ר), four verses each, the last of which is from the biblical theme, Ecclesiastes XII 1-7. The refrain starts with סוף; listed among Tsiduḳe ha-din of Abitur, by E. Fleischer, (Yetsirato shel Yosef ben Abitur / Ezra Fleischer (Doctoral dissertation). Jeruslaem : Hebrew University, 1968, p. 546) with a parallel ms. source, Cambridge T-S K8.17, which reached the end of the poem סוער לרגעים וישכח רבה; B. (fol. 2) another poem of this type, in same scheme. The acrostic signature in the final two strophes reads יושף; C. (fol. 2v) On line 22, first line of a third poem of this type, אנוש אני פתע ישבר.</note>
+        <note>Condition: non-consecutive; losses, lacking [9] lines from upper edge.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 277</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419573503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Collected liturgical poems for mourners</title>
+              <author>Ibn Avitor, Joseph ben Isaac ben Shtnash, active 10th century-11th century אביתור, יוסף בן יצחק אבן שטנש אבן יוסף אבן אביתור רב ומשורר באל-אנדלוס ובסוריה</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>20 X 14 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 20 (extant?).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-square</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1299"/>
+              <p>12th century-13th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Jewish religious poetry, Hebrew</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5129px" url="master/4644_0000.tif" width="3712px"/>
+      <graphic height="190px" url="thumb/4644_0000_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4644_0000_web.jpg" width="1302px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5129px" url="master/4644_0001.tif" width="3712px"/>
+      <graphic height="190px" url="thumb/4644_0001_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4644_0001_web.jpg" width="1302px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5129px" url="master/4644_0002.tif" width="3712px"/>
+      <graphic height="190px" url="thumb/4644_0002_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4644_0002_web.jpg" width="1302px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5129px" url="master/4644_0003.tif" width="3712px"/>
+      <graphic height="190px" url="thumb/4644_0003_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4644_0003_web.jpg" width="1302px"/>
+    </surface>
+  </facsimile>
+</TEI>

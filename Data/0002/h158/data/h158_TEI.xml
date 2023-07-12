@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 158: Sheʾelot u-teshuvot Min ha-shamayim</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 158: Sheʾelot u-teshuvot Min ha-shamayim are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Incipits in enlarged characters over a space; each responsum with corresponding number in margin, and ending with 2hyphens plus 2 spaces; Halper 157 1r contains the end of responsum no. 50 in the critical edition of Ben Meʾir (Sheʾelot u-teshuvot Min ha-shamayim /Yaʾaḳov, mi-Merṿish ; Yaʹaḳov Ben Meʾir [ed.] ; Jerusalem : s.n., 1972) starting נישנית אלא; followed by the beginning of responsum no. 2 (numbered here, in the margin: 361); Halper 157 1v starts with the end of no. 52 and the beginning of 39 (here: 365); Halper 157 2r resumes with nos. 82-85 (here: 403-406); Halper 158 1r (fol. 3) resumes with nos. 64 (starts וצריך להוציא) then 62, 21, 19, 23, 25, up to חנוכה שמדליקין בבית הכנסת (here: 414-419); The order of the responsa differs from the other copies of this collection, and is closer to a topical arrangement. The high correspondent numbers allotted to the responsa probably indicate that it is presented here as an appendage to another collection; On the different editions of this collection, see: Israel M. Ta-Shma, Tarbits 57 (1988), p. 51-66; Neil (Naḥman) Danzig, Tarbits 58 (1989), p 26-48.</note>
+        <note>Condition: non-consecutive; damaged, stained ; Halper 157 fol. 1 lacking lower half.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 158</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418453503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Sheʾelot u-teshuvot Min ha-shamayim</title>
+              <author>Jacob, of Marvège, active 12th century-13th century</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>27.4 X 20 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: Halper 157 fol.1, 10 (extant); fol. 2, 23; Halper 158, 22.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Sephardic semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1300" notAfter="1499"/>
+              <p>14th century-15th century?</p>
+              <origPlace>Spain</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Adler.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Responsa , 1040-1600</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6829px" url="master/4528_0000.tif" width="5056px"/>
+      <graphic height="190px" url="thumb/4528_0000_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/4528_0000_web.jpg" width="1332px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6829px" url="master/4528_0001.tif" width="5056px"/>
+      <graphic height="190px" url="thumb/4528_0001_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/4528_0001_web.jpg" width="1332px"/>
+    </surface>
+  </facsimile>
+</TEI>

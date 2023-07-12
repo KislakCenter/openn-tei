@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 2391: Catuḥślokībhārata</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 2391: Catuḥślokībhārata are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from incipit (f. 1r).</note>
+        <note>Written in 7 lines per leaf.</note>
+        <note>1 leaf foliated 1, lower right verso.</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins; significant syllables, words, or phrases highlighted in red throughout; vertical margins marked with double red line.</note>
+        <note>Two fragments of a book cover with colored marbling and inset artificial flowers used as covers for the manuscript.</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 2391</idno>
+            <altIdentifier type="bibid">
+              <idno>9954196763503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/774532355</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>4 verses (śloka) purporting to be the essence of the Mahābārata; proclaims the importance of practicing dharma over lust, greed, etc.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Catuḥślokībhārata</title>
+              <title type="vernacular">चतुःश्लोकीभारत</title>
+              <colophon>Colophon: catuḥślokībhārataṃ sa[ṃ]pūrṇaṃ // śrīkṛṣṇārpaṇam astu // śrīrāmajayarāmajayajayarāma // (f. 1r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (1 leaf) : 9 x 18 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Dharma</term>
+          <term>Hindu mythology</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Commentaries</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Outside front cover =1r" xml:id="surface-ms-coll-390-item-2391-1">
+      <graphic height="2633px" url="master/5136_0000.tif" width="4454px"/>
+      <graphic height="112px" url="thumb/5136_0000_thumb.jpg" width="190px"/>
+      <graphic height="1064px" url="web/5136_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Inside front cover =1v-1r =2r" xml:id="surface-ms-coll-390-item-2391-2">
+      <graphic height="4723px" url="master/5136_0001.tif" width="4454px"/>
+      <graphic height="190px" url="thumb/5136_0001_thumb.jpg" width="179px"/>
+      <graphic height="1800px" url="web/5136_0001_web.jpg" width="1698px"/>
+    </surface>
+    <surface n="1v =2v-Inside back cover =3r" xml:id="surface-ms-coll-390-item-2391-3">
+      <graphic height="4723px" url="master/5136_0002.tif" width="4454px"/>
+      <graphic height="190px" url="thumb/5136_0002_thumb.jpg" width="179px"/>
+      <graphic height="1800px" url="web/5136_0002_web.jpg" width="1698px"/>
+    </surface>
+    <surface n="Outside back cover =3v" xml:id="surface-ms-coll-390-item-2391-4">
+      <graphic height="2633px" url="master/5136_0003.tif" width="4454px"/>
+      <graphic height="112px" url="thumb/5136_0003_thumb.jpg" width="190px"/>
+      <graphic height="1064px" url="web/5136_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

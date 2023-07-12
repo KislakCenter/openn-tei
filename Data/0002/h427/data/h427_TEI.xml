@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 427: Book of letters</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 427: Book of letters are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>The ends of the letters are in written in graphic form, using inverted triangles; The bottom of two folios from a book of letters, apparently composed for literary value. Florid Hebrew prose, heavily decorated with biblical phrases, and some Talmudic ones. The letters are copied successively into a codex; One of the letters is signed על הכתב[...] צבי ה״ה בן לביא probably a pen name; Within the paragraphs there are few text breaks, hardly discernable, denoted only by a space.</note>
+        <note>Condition: 2 fragments, torn in identical shape, from lower end of fols; orn. dev.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 427</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421063503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb">Hebrew</textLang>
+            <msItem>
+              <title>Book of letters</title>
+              <author>Tsevi ben Lavi.</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>19 X 20.9 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Ruling method: left rule justified by downward slanting of exceeding words.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Sephardic semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1200" notAfter="1599"/>
+              <p>13th century-16th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hebrew letters</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4873px" url="master/4792_0000.tif" width="5376px"/>
+      <graphic height="172px" url="thumb/4792_0000_thumb.jpg" width="190px"/>
+      <graphic height="1631px" url="web/4792_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4873px" url="master/4792_0001.tif" width="5376px"/>
+      <graphic height="172px" url="thumb/4792_0001_thumb.jpg" width="190px"/>
+      <graphic height="1631px" url="web/4792_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4873px" url="master/4792_0002.tif" width="5376px"/>
+      <graphic height="172px" url="thumb/4792_0002_thumb.jpg" width="190px"/>
+      <graphic height="1631px" url="web/4792_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4873px" url="master/4792_0003.tif" width="5376px"/>
+      <graphic height="172px" url="thumb/4792_0003_thumb.jpg" width="190px"/>
+      <graphic height="1631px" url="web/4792_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 333: Job 2:4-3:26; Job 7:8-8:21</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 333: Job 2:4-3:26; Job 7:8-8:21 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>In prose segment (chapter II) columns are internally consecutive; in the poetic segment each verse is split between the columns; Fol. 1 contains Job II 4 יתן בעד - III 26 שלותי ולא; in missing part of fol. were III 4-7 and the latter phrases of III 24, to end of chapter; fol. 2 contains ibid., VII 8 לא תשורני - VIII 22 ר]שע]ים]; in missing part of fol. were VII 20-VIII 7 and approximately IX 1-11; only text break signified graphically follows III 1.</note>
+        <note>Condition: damage, lacking right edge; losses along left edge; occasional Arabic words on verso in blank area.losses: fol. 1 lacking bottom [3-4] lines; fol. 2 lacking bottom [8-10] lines.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 333</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420113503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="arc" otherLangs="jrb">Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE); Judeo-Arabic</textLang>
+            <msItem>
+              <title>Job 2:4-3:26; Job 7:8-8:21</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>37.7 X 29.2 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Lines: 21 (1 benedictional heading; 20 text)(recto), 6 (verso).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Arabic Oriental semi-square semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1199"/>
+              <p>Between 1000 and 1199</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Ketubah</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="9201px" url="master/4700_0000.tif" width="7840px"/>
+      <graphic height="190px" url="thumb/4700_0000_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/4700_0000_web.jpg" width="1534px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="9201px" url="master/4700_0001.tif" width="7840px"/>
+      <graphic height="190px" url="thumb/4700_0001_thumb.jpg" width="162px"/>
+      <graphic height="1800px" url="web/4700_0001_web.jpg" width="1534px"/>
+    </surface>
+  </facsimile>
+</TEI>

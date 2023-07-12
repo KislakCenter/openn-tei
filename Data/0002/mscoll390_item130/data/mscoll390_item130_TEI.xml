@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 130: Adhomukhajananaśānti</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 130: Adhomukhajananaśānti are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 1r).</note>
+        <note>Written in 14 lines per leaf.</note>
+        <note>Scribe is Jekyā Cipolākara (f. 1r).</note>
+        <note>Dated saṃvat 1935 śaka 1799 (1878 A.D.) (f. 1r).</note>
+        <note>Mistakes blacked out.</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 130</idno>
+            <altIdentifier type="bibid">
+              <idno>9958496193503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/816093486</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5849619</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript outlines rites and ceremonies dedicated to averting bad omens. It refers to mantras such as a mantra dedicated to Tryaṃbaka (the Three-eyed One), a form of the Hindu deity Śiva.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Adhomukhajananaśānti</title>
+              <title type="vernacular">अधोमुखजननशान्ति</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName type="authority">Cipolākara, Jekyā</persName>
+              </respStmt>
+              <colophon>Colophon: iti adhomukhajananaśāṃtiḥ saṃ[vat] 1935 śa[ke] 1799 cai[tra] va - 3 gurau jekyācipo[lā]kareṇa likhitaṃ śubhaṃ bhavat (f. 1r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (1 leaf) : 14 x 26 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Omens--India</term>
+          <term>Good and evil--Religious aspects--Hinduism</term>
+          <term>Siva (Hindu deity)</term>
+          <term>Hindu mantras</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuals (instructional materials)</term>
+          <term>Prayers</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ms-coll-390-item-130-1">
+      <graphic height="3336px" url="master/3566_0000.tif" width="5977px"/>
+      <graphic height="106px" url="thumb/3566_0000_thumb.jpg" width="190px"/>
+      <graphic height="1004px" url="web/3566_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ms-coll-390-item-130-2">
+      <graphic height="3336px" url="master/3566_0001.tif" width="5977px"/>
+      <graphic height="106px" url="thumb/3566_0001_thumb.jpg" width="190px"/>
+      <graphic height="1004px" url="web/3566_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis P 10: Kalila wa-Dimna Leaf, the Story of the Crow and the Fox</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis P 10: Kalila wa-Dimna Leaf, the Story of the Crow and the Fox are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis P 10: Kalila wa-Dimna Leaf, the Story of the Crow and the Fox. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Kalila wa-Dimna</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis collection of Oriental Manuscripts</collection>
+            <idno type="call-number">Lewis P 10</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="per">Persian</textLang>
+            <msItem>
+              <title>Kalila wa-Dimna Leaf, the Story of the Crow and the Fox</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="https://viaf.org/viaf/63874811">Lewis, John Frederick, 1860-1932</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>12.5 x 19 cm </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis P 10 front">
+      <graphic height="5564px" url="master/11120_0000.tif" width="3393px"/>
+      <graphic height="190px" url="thumb/11120_0000_thumb.jpg" width="116px"/>
+      <graphic height="1800px" url="web/11120_0000_web.jpg" width="1097px"/>
+    </surface>
+    <surface n="Lewis P 10 reverse">
+      <graphic height="5591px" url="master/11120_0001.tif" width="3406px"/>
+      <graphic height="190px" url="thumb/11120_0001_thumb.jpg" width="116px"/>
+      <graphic height="1800px" url="web/11120_0001_web.jpg" width="1096px"/>
+    </surface>
+  </facsimile>
+</TEI>

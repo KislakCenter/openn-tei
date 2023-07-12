@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 379: Copy of a letter to Samuel ha-Nagid</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 379: Copy of a letter to Samuel ha-Nagid are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A woman whose husband is in prison because he was unable to pay the poll tax, asks Samuel ha-Nagid to pay a part of the sum due, to guarantee the rest, and to provide herself and her family "with bread", including for her husband the prisoner; Documents referring to Samuel b. Ḥananyah as the Nagid date between 1141-1159; The hand of this copy is recognized to that of Mevorakh ben Nathan he-Ḥaver, a clerk, judge and scribe in the court of Fustat, between 1150, serving under his father, until 1181, when he served under Maimonides. He appears in the list of judges assembled by S.D. Goitein, A Mediterranean Society vol. II Appendix D, no. 22.</note>
+        <note>Condition: damaged, faded; verso is blank.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 379</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420573503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb">Judeo-Arabic</textLang>
+            <msItem>
+              <title>Copy of a letter to Samuel ha-Nagid</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Mevorakh ben Natan.</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>22.5 X 17.4 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 17 (recto).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1150" notAfter="1159"/>
+              <p>ca. 1150-1159</p>
+              <origPlace>Fustat</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Tax collection , History , To 1500 , Egypt</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6155px" url="master/4744_0000.tif" width="4384px"/>
+      <graphic height="190px" url="thumb/4744_0000_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4744_0000_web.jpg" width="1282px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6155px" url="master/4744_0001.tif" width="4384px"/>
+      <graphic height="190px" url="thumb/4744_0001_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4744_0001_web.jpg" width="1282px"/>
+    </surface>
+  </facsimile>
+</TEI>

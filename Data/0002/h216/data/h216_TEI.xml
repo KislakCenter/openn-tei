@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 216: Haggadah for Passover, with directions in Judeo-Arabic</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 216: Haggadah for Passover, with directions in Judeo-Arabic are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Bifolium contains a fragment from the end of the Maggid segment, including the end of the first Hallel (the fragment starts Psalms CXIII 7 מעפר דל) to the blessing at the end of this section, up to דמים על קיר; Before the blessing is an instruction in Judeo-Arabic תם יקול.</note>
+        <note>Condition: consecutive, complete; top and bottom lines, and beginning of Psalm CXIV, in enlarged, hollow characters filled in with red ink.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 216</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418963503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb" otherLangs="arc">Judeo-Arabic; Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textLang>
+            <msItem>
+              <title>Haggadah for Passover, with directions in Judeo-Arabic</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>12.4 X 8.2 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 11; ruling method: left rule justified by stretching last character.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black and red inks</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1399"/>
+              <p>12th century-14th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Haggadot , Texts</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3077px" url="master/4584_0000.tif" width="2208px"/>
+      <graphic height="190px" url="thumb/4584_0000_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/4584_0000_web.jpg" width="1291px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3077px" url="master/4584_0001.tif" width="2208px"/>
+      <graphic height="190px" url="thumb/4584_0001_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/4584_0001_web.jpg" width="1291px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3077px" url="master/4584_0002.tif" width="2208px"/>
+      <graphic height="190px" url="thumb/4584_0002_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/4584_0002_web.jpg" width="1291px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3077px" url="master/4584_0003.tif" width="2208px"/>
+      <graphic height="190px" url="thumb/4584_0003_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/4584_0003_web.jpg" width="1291px"/>
+    </surface>
+  </facsimile>
+</TEI>

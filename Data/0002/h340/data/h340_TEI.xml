@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 340: Court document</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 340: Court document are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>One interlinear addendum on recto; The document is issued under the auspices of 'David the Nasi'(ben Daniel) (ll. 4-5 including many laudatory titles). See M. Cohen, Jewish Self-Government in Medieval Egypt, Princeton, 1980, pp. 178-212; A document in legal Aramaic and Judeo-Arabic, recording testimony submitted by Sa'adia ben El'azar, accusing his brother Shelaḥ of having removed shared goods from the secret store room, including books in Arabic on medicine, mercury, money and clothes; This is signed by 'Ali ha-kohen ben Yaḥiya, and by Abraham ben Shema'ya, who appears to be the scribe of the document. An index of documents with his signature can be found in Gershon Weiss, Legal documents written by the court clerk Halfon Ben Manasse, dated 1100-1138, a study in the diplomatics of the Cairo Geniza (Thesis (Ph.D.) in Oriental Studies--Graduate School of Arts and Sciences), University of Pennsylvania, 1970, p. iii; Described by Goitein, A Mediterranean Society vol. IV p. 75; The verso is written in a different hand, includes eight well-spaced lines with additional testimony of Sa'adia against Shelaḥ. Signed by R. Peraḥyah ben Joseph, Isaac ha-kohen and the same 'Ali ha-Kohen signed on the recto.</note>
+        <note>Condition: nearly complete; losses from left edge; different hands.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 340</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420183503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="jrb" otherLangs="arc">Judeo-Arabic; Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textLang>
+            <msItem>
+              <title>Court document</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Avraham ben Shemaʻyah, he-Ḥaver.</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>18.4 X 13.7 cm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 1; lines: 34 (recto), 11 (verso)</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-cursive</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Material applied: black ink</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate/>
+              <p>Sept. 1093</p>
+              <origPlace>Fustat</origPlace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Court records</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5001px" url="master/4706_0000.tif" width="3488px"/>
+      <graphic height="190px" url="thumb/4706_0000_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/4706_0000_web.jpg" width="1255px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5001px" url="master/4706_0001.tif" width="3488px"/>
+      <graphic height="190px" url="thumb/4706_0001_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/4706_0001_web.jpg" width="1255px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss Box 24 Folder 4 Box 24 Folder 4: Qurʼān leaves.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Misc Mss Box 24 Folder 4 Box 24 Folder 4: Qurʼān leaves. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Misc Mss Box 24 Folder 4 Box 24 Folder 4: Qurʼān leaves.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. leaf.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Misc Mss Box 24 Folder 4 Box 24 Folder 4</idno>
+            <altIdentifier type="bibid">
+              <idno>9977459937003681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1083529071</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two leaves from the same Qurʼān, though not continuous. Leaf 1 contains the last two words of verse 5 of al-Takāthur (102) through the first two words of verse 6 of al-Humazah (104) . Leaf 2 contains all of al-Kāfirūn (190) except the bismillāh, to the penultimate word of verse 4 of al-Masad (111), called Tabbat yadā here.</summary>
+            <textLang mainLang="ara">Arabic</textLang>
+            <msItem>
+              <title>Qurʼān leaves.</title>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>[Qurʼān leaves].</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>2 leaves : 230 x 160 (190 x 120) mm</extent>
+                <foliation>Western numeral foliation in pencil added, upper left recto.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>7 long lines, border-ruled.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in naskh in black ink, pointed, vocalized. Headers in thuluth.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Probably copied in the 16th or 17th century, place unknown.</p>
+              <origDate>between 1550 and 1699?</origDate>
+            </origin>
+            <provenance>Acquired between 2012 and 2016; accessioned 2018.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Detached leaves</term>
+          <term>Excerpts</term>
+          <term>Manuscripts, Arabic--16th century</term>
+          <term>Manuscripts, Arabic--17th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5995px" url="master/7099_0000.tif" width="4231px"/>
+      <graphic height="190px" url="thumb/7099_0000_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/7099_0000_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5995px" url="master/7099_0001.tif" width="4231px"/>
+      <graphic height="190px" url="thumb/7099_0001_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/7099_0001_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5995px" url="master/7099_0002.tif" width="4231px"/>
+      <graphic height="190px" url="thumb/7099_0002_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/7099_0002_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5995px" url="master/7099_0003.tif" width="4231px"/>
+      <graphic height="190px" url="thumb/7099_0003_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/7099_0003_web.jpg" width="1270px"/>
+    </surface>
+  </facsimile>
+</TEI>

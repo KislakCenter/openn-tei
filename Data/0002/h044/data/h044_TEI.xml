@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 44: Judeo-Arabic translation of Genesis 24:58-25:17</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Laura Eckstein</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 44: Judeo-Arabic translation of Genesis 24:58-25:17 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>From a Judeo-Arabic Translation of Genesis, neither that of Saʻadia Gaon nor that of Japheth ben ʻAli; Hebrew lead-words provided at beginning of each verse. Fragment ends at what may be end of parchment, in the middle of XXV 17 (חיוה (=חיי; the only text break, the open parashah after XXIV 67, is represented here by 3 open spaces.</note>
+        <note>Black ink ruling method: writing accommodates uneven cut of parchment columns</note>
+        <note type="relatedResource" target="http://openn.library.upenn.edu/Data/0002/html/h002.html">OPenn</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 44</idno>
+            <altIdentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417413503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="heb" otherLangs="jrb">Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Judeo-Arabic translation of Genesis 24:58-25:17</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>48.1 X up to 8.8 cm </extent>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Hebrew Oriental semi-square</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="0900" notAfter="1099"/>
+              <p>10th century-11th century?</p>
+              <origPlace>Orient</origPlace>
+            </origin>
+            <provenance>University of Pennsylvania. Center for Advanced Judaic Studies. Library; Dropsie College. Library; Amram.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="11457px" url="master/4848_0000.tif" width="2169px"/>
+      <graphic height="190px" url="thumb/4848_0000_thumb.jpg" width="35px"/>
+      <graphic height="1800px" url="web/4848_0000_web.jpg" width="340px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="11457px" url="master/4848_0001.tif" width="2169px"/>
+      <graphic height="190px" url="thumb/4848_0001_thumb.jpg" width="35px"/>
+      <graphic height="1800px" url="web/4848_0001_web.jpg" width="340px"/>
+    </surface>
+  </facsimile>
+</TEI>

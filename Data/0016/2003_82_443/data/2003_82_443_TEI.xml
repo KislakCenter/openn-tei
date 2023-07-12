@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Penn Museum 2003-82-443: Leaf from the Maqāmāt of al-Ḥarīrī</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/2.0/legalcode">Images are  ©2019 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution ShareAlike License version 4.0 (CC-BY-2.0 https://creativecommons.org/licenses/by/2.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/2.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2019 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title supplied by cataloger.</note>
+        <note>Dimensions of original manuscript: 260 x 200 (200 x 160) mm.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>University of Pennsylvania Museum of Archaeology and Anthropology</repository>
+            <idno type="call-number">Penn Museum 2003-82-443</idno>
+            <altIdentifier type="bibid">
+              <idno>9977571453703681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1112608243</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0016/html/2003_82_443.html</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Loose leaf from a copy of the sixth maqāmah; incomplete.</summary>
+            <textLang mainLang="ara">Arabic</textLang>
+            <msItem>
+              <title>Leaf from the Maqāmāt of al-Ḥarīrī</title>
+              <author>
+                <persName type="authority">Ḥarīrī, 1054-1122</persName>
+                <persName type="vernacular">حريري،</persName>
+              </author>
+              <respStmt>
+                <resp>former owner</resp>
+                <name type="authority">Commercial Museum (Philadelphia, Pa.)</name>
+              </respStmt>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>[Leaf from the Maqāmāt of al-Ḥarīrī]</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1 online resource (1 leaf)</extent>
+                <foliation>Leaf is unfoliated; catchword on verso, lower left.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 12 long lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a maghribī influenced West African naskh in black ink; pointed and vocalized.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>Unbound; single leaf.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Item is undated, probably produced in the 19th or 20th century; machine-made paper.</p>
+              <origDate>between 1850? and 1999?</origDate>
+              <origPlace>Senegal?</origPlace>
+            </origin>
+            <provenance>Gift of the Philadelphia Commercial Museum (also known as the Philadelphia Civic Center Museum), Philadelphia, Pennsylvania, 2003.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Arabic prose literature--11th century</term>
+          <term>Arabic prose literature--12th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fascimiles</term>
+          <term>Detached leaves</term>
+          <term>Manuscripts, Arabic</term>
+          <term>Manuscripts, 19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6694px" url="master/9350_0000.tif" width="5373px"/>
+      <graphic height="190px" url="thumb/9350_0000_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/9350_0000_web.jpg" width="1445px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6694px" url="master/9350_0001.tif" width="5373px"/>
+      <graphic height="190px" url="thumb/9350_0001_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/9350_0001_web.jpg" width="1445px"/>
+    </surface>
+  </facsimile>
+</TEI>

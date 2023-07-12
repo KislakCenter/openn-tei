@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Columbia University MS Or 406 - GREY BOX: Leaf from the Qurʼān</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Columbia University</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 406 - GREY BOX: Leaf from the Qurʼān are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 406 - GREY BOX: Leaf from the Qurʼān. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Manuscript leaf.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>New York, NY. 10027</settlement>
+            <institution>Columbia University</institution>
+            <repository>Rare Book and Manuscript Library</repository>
+            <idno type="call-number">MS Or 406 - GREY BOX</idno>
+            <altIdentifier type="bibid">
+              <idno>14634251</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1144941440</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0032/html/ms_or_406.html</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://clio.columbia.edu/catalog/14634251</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Part of verse 78 from Sūrat al-Ghāfir (40).</summary>
+            <textLang mainLang="ara">Arabic</textLang>
+            <msItem>
+              <title>Leaf from the Qurʼān</title>
+            </msItem>
+            <msItem n="1r">
+              <locus>[1]r</locus>
+              <title>[Leaf from the Qurʼān].</title>
+            </msItem>
+            <msItem n="1r">
+              <locus>[1]r</locus>
+              <title>Sūrat al-Ghāfir, verse 78</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 leaf : 150 x 230 (110 x 150) mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 5 long lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in Early Abbasid (Kufic) in black ink.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>The item is undated; perhaps produced in the 10th century.</p>
+              <origDate>9--?</origDate>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Manuscripts, Arabic--New York (State)--New York</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Qurʼans</term>
+          <term>Manuscripts (documents)</term>
+          <term>Detached leaves</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Loose leaf recto">
+      <graphic height="3198px" url="master/9813_0000.tif" width="4750px"/>
+      <graphic height="127px" url="thumb/9813_0000_thumb.jpg" width="190px"/>
+      <graphic height="1211px" url="web/9813_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Loose leaf verso">
+      <graphic height="3198px" url="master/9813_0001.tif" width="4750px"/>
+      <graphic height="127px" url="thumb/9813_0001_thumb.jpg" width="190px"/>
+      <graphic height="1211px" url="web/9813_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="3216px" url="master/9813_0002.tif" width="4757px"/>
+      <graphic height="128px" url="thumb/9813_0002_thumb.jpg" width="190px"/>
+      <graphic height="1216px" url="web/9813_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3216px" url="master/9813_0003.tif" width="4757px"/>
+      <graphic height="128px" url="thumb/9813_0003_thumb.jpg" width="190px"/>
+      <graphic height="1216px" url="web/9813_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

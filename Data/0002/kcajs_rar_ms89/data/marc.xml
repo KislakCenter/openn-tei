@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:records xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:record>
+    <marc:leader>01155cam a2200301Ia 4500</marc:leader>
+    <marc:controlfield tag="001">9924360383503681</marc:controlfield>
+    <marc:controlfield tag="005">20230113152044.0</marc:controlfield>
+    <marc:controlfield tag="008">921016s1907    xx            000 0 sam d</marc:controlfield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">0075478</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">PAAH92-A81</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="035">
+  <marc:subfield code="a">(PU)2436038-penndb-Voyager</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="0" ind2="0" tag="245">
+  <marc:subfield code="a">Sirr al-Kulub /</marc:subfield>
+  <marc:subfield code="c">by Ibrahim al-Kabasi.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="3" ind2=" " tag="246">
+  <marc:subfield code="a">Samaritan Manuscript</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="336">
+  <marc:subfield code="a">text</marc:subfield>
+  <marc:subfield code="b">txt</marc:subfield>
+  <marc:subfield code="2">rdacontent</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="337">
+  <marc:subfield code="a">unspecified</marc:subfield>
+  <marc:subfield code="b">z</marc:subfield>
+  <marc:subfield code="2">rdamedia</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="338">
+  <marc:subfield code="a">unspecified</marc:subfield>
+  <marc:subfield code="b">zu</marc:subfield>
+  <marc:subfield code="2">rdacarrier</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="340">
+  <marc:subfield code="a">Paper.</marc:subfield>
+  <marc:subfield code="b">9 1/2 x 7 inches.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="541">
+  <marc:subfield code="e">Rare Ms. 89</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="546">
+  <marc:subfield code="a">Samaritan.</marc:subfield>
+  <marc:subfield code="b">Written in Neskhi hand, in black ink.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="583">
+  <marc:subfield code="c">0583</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="2" ind2=" " tag="710">
+  <marc:subfield code="a">Annenberg Research Institute.</marc:subfield>
+  <marc:subfield code="k">Manuscript.</marc:subfield>
+  <marc:subfield code="n">Rare ms. 89.</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="852">
+  <marc:subfield code="b">Library at the Herbert D. Katz Center for Advanced Judaic Studies</marc:subfield>
+  <marc:subfield code="a">University of Pennsylvania</marc:subfield>
+  <marc:subfield code="e">420 Walnut Street, Philadelphia, Pennsylvania 19106-3703.</marc:subfield>
+  <marc:subfield code="j">CAJS Rar Ms 89</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1="4" ind2="1" tag="856">
+  <marc:subfield code="z">Digital facsimile for browsing (Colenda)</marc:subfield>
+  <marc:subfield code="u">https://colenda.library.upenn.edu/catalog/81431-p3474721f</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="902">
+  <marc:subfield code="a">MARCIVE 2022</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="949">
+  <marc:subfield code="l">cjs</marc:subfield>
+  <marc:subfield code="7">ARA</marc:subfield>
+  <marc:subfield code="8">RLIN</marc:subfield>
+  <marc:subfield code="9">1907</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="950">
+  <marc:subfield code="l">PAAH</marc:subfield>
+  <marc:subfield code="i">10/16/92 C</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="992">
+  <marc:subfield code="a">tRLIN</marc:subfield>
+</marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="998">
+  <marc:subfield code="a">10/16/92</marc:subfield>
+  <marc:subfield code="t">d</marc:subfield>
+  <marc:subfield code="s">9554</marc:subfield>
+  <marc:subfield code="l">PAAH</marc:subfield>
+  <marc:subfield code="n">PPAnR</marc:subfield>
+  <marc:subfield code="d">10/16/92</marc:subfield>
+</marc:datafield>
+    <marc:holdings>
+      <marc:holding>
+        <marc:holding_id>22335582850003681</marc:holding_id>
+        <marc:call_number>CAJS Rar Ms 89</marc:call_number>
+        <marc:library>KatzLib</marc:library>
+        <marc:location>cjs</marc:location>
+      </marc:holding>
+    </marc:holdings>
+  </marc:record>
+</marc:records>

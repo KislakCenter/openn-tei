@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390 Item 1110: Nārāyaṇātharvaśira</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Coll. 390 Item 1110: Nārāyaṇātharvaśira are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2v); alternate titles Atharvaṇaśikhānārāyaṇopāniṣad and Mahānārāyaṇopaniṣad, supplied by cataloger.</note>
+        <note>Written in 7 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, lower right verso.</note>
+        <note>Mistakes blacked out; some corrections and additions in margins; vertical margins marked with double red line.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Coll. 390 Item 1110</idno>
+            <altIdentifier type="bibid">
+              <idno>9963334973503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/900197426</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6333497</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is used for contemplation, study, and recitation, and is dedicated to philosophy, rites, praise, and sociological aspects associated with the Hindu deity Nārāyaṇa.</summary>
+            <textLang mainLang="san">In Sanskrit</textLang>
+            <msItem>
+              <title>Nārāyaṇātharvaśira</title>
+              <title type="vernacular">नारायणाथर्वशिर</title>
+              <colophon>Colophon: ity upāniṣat // nārāyaṇātharvaśiraṃ // (f. 2v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 item (2 leaves) : 9 x 21 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Nārāyaṇa (Hindu deity)</term>
+          <term>Devotional literature, Sanskrit</term>
+          <term>Hindu philosophy</term>
+          <term>Philosophy, Indic</term>
+          <term>Rites and ceremonies--India</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2905px" url="master/6260_0000.tif" width="5904px"/>
+      <graphic height="93px" url="thumb/6260_0000_thumb.jpg" width="190px"/>
+      <graphic height="885px" url="web/6260_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="5035px" url="master/6260_0001.tif" width="5904px"/>
+      <graphic height="162px" url="thumb/6260_0001_thumb.jpg" width="190px"/>
+      <graphic height="1535px" url="web/6260_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="2905px" url="master/6260_0002.tif" width="5904px"/>
+      <graphic height="93px" url="thumb/6260_0002_thumb.jpg" width="190px"/>
+      <graphic height="885px" url="web/6260_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

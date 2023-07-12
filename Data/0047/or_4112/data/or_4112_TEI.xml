@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of British Library, Or 4112: Liturgical pieces.</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Ilana Tahan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Agata Paluch</persName>
+        </respStmt>
+        <funder>The Polonsky Foundation</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of British Library Or 4112: Liturgical pieces. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, British Library has waived all copyright and related or neighboring rights to this metadata about British Library Or 4112: Liturgical pieces.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Slight delamination of surface at inner end.</note>
+        <note>Dark mottling (from damp).</note>
+        <note>Usage stains.</note>
+        <note>Small patches of salt accretion.</note>
+        <note>Ink offset on recto.</note>
+        <note>Paper fragments adhered to verso.</note>
+        <note type="relatedResource">Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno type="call-number">Or 4112</idno>
+            <altIdentifier type="resource">
+              <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_4112</idno>
+            </altIdentifier>
+            <altIdentifier type="bl_website">
+              <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Liturgical pieces.</summary>
+            <textLang mainLang="he" otherLangs="jrb">Hebrew; Judeo-Arabic</textLang>
+            <msItem>
+              <title>Liturgical pieces.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="leather">
+                <support>
+                  <p>Leather</p>
+                </support>
+                <extent>8 membranes, 34 columns.; 8 membranes, 34 columns. </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Columns: 34; ruled lines: 20; written lines: 20; Uniform layout. Ruling by hard point. Visible pricking and stiching. The letter ח is often arched. Larger headings and two initial words.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Yemenite square script of the 15th to 16th century.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>BM in-house. Boxed.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1400" notAfter="1599"/>
+              <p>Between 1400 and 1599</p>
+              <origPlace>Yemen</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass/>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="front">
+      <graphic height="2724px" url="master/13283_0000.jpg" width="6063px"/>
+      <graphic height="85px" url="thumb/13283_0000_thumb.jpg" width="190px"/>
+      <graphic height="808px" url="web/13283_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="2049px" url="master/13283_0001.jpg" width="30000px"/>
+      <graphic height="12px" url="thumb/13283_0001_thumb.jpg" width="190px"/>
+      <graphic height="122px" url="web/13283_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>
