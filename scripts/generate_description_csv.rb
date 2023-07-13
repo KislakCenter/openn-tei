@@ -3,6 +3,33 @@
 require 'csv'
 require 'nokogiri'
 
+##
+# Generate a CSV for all input OPenn TEI files.
+#
+# USAGE
+#
+# There are two ways to pass a list of files to the script.
+#
+# 1. As an argument list:
+#
+#   ruby script/generate_description_csv.rb TEI_XML [TEI_XML ...] > output.csv
+#
+# Example, generate a CSV for all LJS Manuscripts:
+#
+#  ruby script/generate_description_csv.rb $(find Data/0001 -name "*_TEI.xml") > ljs_mss.csv
+#
+# 2. As a piped list of files:
+#
+#   cat list_of_tei_files.txt | ruby script/generate_description_csv.rb > output.csv
+#
+# Example, as before generate a CSV for all LJS Manuscripts:
+#
+#   find Data/0001 -name "*_TEI.xml" | ruby script/generate_description_csv.rb > ljs_mss.csv
+#
+# NOTE: If you want to generate a CSV for all the OPenn MSS, you may have to use
+# method two. Bash and other shells have an argument list limit and the list of
+# ~13,000 OPenn TEI files may exceed this limit.
+
 SHELFMARK_XPATH         = '//msIdentifier/idno[@type="call-number"]/text()'
 TITLE_XPATH             = '/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msContents/msItem[1]/title/text()'
 ADDITIONAL_TITLES_XPATH = '/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msContents/msItem[position() > 1]/title/text()'
@@ -27,11 +54,13 @@ headers = %w{
   language_codes
   date
   place
+  source_file
 }
 CSV headers: true do |csv|
   csv << headers
   tei_files.each do |file|
-    xml = File.open (file.chomp) { |f| Nokogiri::XML f }
+    file.chomp!
+    xml = File.open (file) { |f| Nokogiri::XML f }
     xml.remove_namespaces!
 
     row = {}
@@ -44,6 +73,7 @@ CSV headers: true do |csv|
     language_codes    = get_values(xml, LANGUAGE_CODES_XPATH).gsub(' ', '|')
     date              = get_values(xml, DATE_XPATH)
     place             = get_values(xml, PLACE_XPATH)
+    source_file       = file.sub(%r{^.*/Data}, 'Data')
 
     row['shelfmark']         = shelfmark
     row['title']             = title
@@ -53,6 +83,7 @@ CSV headers: true do |csv|
     row['language_codes']    = language_codes
     row['date']              = date
     row['place']             = place
+    row['source_file']       = source_file
 
     csv << row
   end
