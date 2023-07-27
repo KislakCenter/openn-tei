@@ -58,8 +58,8 @@ headers = %w{
 }
 CSV headers: true do |csv|
   csv << headers
-  tei_files.each do |file|
-    file.chomp!
+  tei_files.each do |tei_file|
+    file = tei_file.chomp
     xml = File.open (file) { |f| Nokogiri::XML f }
     xml.remove_namespaces!
 
